@@ -20,4 +20,4 @@ It is very easy to start using Dogecoin.
 <ul><li>Step 1: Get A Dogecoin Wallet.</li>
 <li>Step 2: Get Some Dogecoin at the <a href="https://www.kraken.com/">best Dogecoin exchange</a>.</li>
 <li>Step 3: Use Your Dogecoin.</li>
-<li>Step 4: Stay Up-to-Date.</li>/ul>
+<li>Step 4: Stay Up-to-Date.</li></ul>
