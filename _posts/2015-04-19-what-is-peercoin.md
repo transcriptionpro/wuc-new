@@ -7,11 +7,10 @@ published: true
 ---
 
 <img src="/images/peercoin.png" alt="what is peercoin" align="right">
-<p>
-Peercoin seeks to be the most secure cryptocoin at the lowest cost, by rewarding all users for strengthening the network.
+<p>Peercoin seeks to be the most secure cryptocoin at the lowest cost, by rewarding all users for strengthening the network.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/7tra0vmparI" frameborder="0" allowfullscreen></iframe>
-<p>﻿Peercoin was launched in 2012, making it one of the oldest and most reliable cryptocoin networks in existence. ﻿Peercoin’s annual inflation rate has averaged below 5% during the year 2014, and continues to fall. See peerchain.net for detailed historic data. ﻿Peercoin is the first proof-of-stake coin, which means it doesn’t require massive computing power to secure the network. Get into the nitty-gritty with the Peercoin whitepaper. ﻿After Peercoins are held for 30 days, they are eligible to earn a 1% annualized reward. 
+<p>﻿Peercoin was launched in 2012, making it one of the oldest and most reliable cryptocoin networks in existence. ﻿Peercoin’s annual inflation rate has averaged below 5% during the year 2014, and continues to fall. See peerchain.net for detailed historic data. ﻿Peercoin is the first proof-of-stake coin, which means it doesn’t require massive computing power to secure the network. Get into the nitty-gritty with the Peercoin whitepaper. ﻿After Peercoins are held for 30 days, they are eligible to earn a 1% annualized reward.
 <p>Proof of Work mining is used to spread the distribution of new coins, while the security of the network is maintained entirely by Proof of Stake minting. This means that Bitcoin mining vulnerabilities such as Selfish Mining do not impact Peercoin security. ﻿Peercoin uses the same mining algorithm as Bitcoin, known as SHA-256. Any hardware that works on the Bitcoin network can also be used to mine Peercoins. ﻿The reward for mining a block gradually declines as the computing power of the network grows. Over time, mining will have an ever-decreasing impact on the growth of the money supply.
 <p>
 <h2>What is Peercoin Mining?</h2>
