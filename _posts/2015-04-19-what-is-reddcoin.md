@@ -25,4 +25,4 @@ It is very easy to start using Reddcoin.
 <ul><li>Step 1: Get A Reddcoin Wallet.</li>
 <li>Step 2: Get Some Reddcoin at the <a href="https://www.kraken.com/">best Reddcoin exchange</a>.</li>
 <li>Step 3: Use Your Reddcoin.</li>
-<li>Step 4: Stay Up-to-Date.</li>/ul>
+<li>Step 4: Stay Up-to-Date.</li></ul>
