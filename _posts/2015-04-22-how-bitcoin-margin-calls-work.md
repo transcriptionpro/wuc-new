@@ -2,7 +2,7 @@
 layout: post
 title: How Bitcoin Margin Calls Work
 author: Arthur Hayes
-authorurl: http://www.weusecoins.com
+authorurl: http://www.weusecoins.com/arthur-hayes
 published: true
 ---
 
