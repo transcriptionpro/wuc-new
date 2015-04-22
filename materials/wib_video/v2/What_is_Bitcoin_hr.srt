@@ -84,8 +84,8 @@ Bitcoinima za provjeru transakcija.
 
 19
 00:00:55,300 --> 00:01:00,400
-Nakon što se transakcije provjere
-snimljene su u transparentnu javnu knjigu.
+Nakon što se transakcije provjere,
+snimaju se u transparentnu javnu knjigu.
 
 20
 00:01:00,900 --> 00:01:04,200
