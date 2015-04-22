@@ -33,11 +33,11 @@ To znači da su naknade znatno niže,
 
 8
 00:00:19,600 --> 00:00:21,120
-možete ga koristiti u svakoj zemlji,
+može se koristiti u svim zemljama,
 
 9
 00:00:21,200 --> 00:00:22,900
-Vaš se račun ne može zamrznuti
+račun Vam se ne može zamrznuti
 
 10
 00:00:23,000 --> 00:00:25,500
@@ -46,7 +46,7 @@ ili arbitrarne granice.
 
 11
 00:00:26,300 --> 00:00:28,000
-Pogledajmo kako se to radi.
+Pogledajmo kako to funkcionira.
 
 12
 00:00:28,250 --> 00:00:31,400
@@ -65,11 +65,11 @@ novčaniku na vašem računalu ili mobilnom uređaju.
 15
 00:00:39,100 --> 00:00:42,100
 Slanje Bitcoina jednostavno
-je kao i slanje e-pošte
+je kao i slanje e-pošte,
 
 16
 00:00:42,200 --> 00:00:45,100
-a sa Bitcoinom možete kupiti
+a za Bitcoin možete kupiti
 bilo što.
 
 17
@@ -79,7 +79,7 @@ preko pojedinaca koje nazivamo rudari.
 
 18
 00:00:49,800 --> 00:00:55,120
-Rudari su nagrađeni novo novostvorenim
+Rudari su nagrađeni novostvorenim
 Bitcoinima za provjeru transakcija.
 
 19
@@ -119,7 +119,7 @@ Bitcoina besplatno.
 
 26
 00:01:24,600 --> 00:01:28,900
-Bitcoin se ne vraća, a uz to ćete dobiti
+Bitcoin se ne vraća, a uz to dobivate
 dodatne poslove od Bitcoin ekonomije.
 
 27
