@@ -2,7 +2,7 @@
 layout: post
 title: Reggie Middleton | Bitcoin and Ultra-Coin
 author: Reggie Middleton
-authorurl: http://www.weusecoins.com/arthur-hayes
+authorurl: http://www.weusecoins.com/reggie-middleton-bitcoin-expert/
 published: true
 ---
 
