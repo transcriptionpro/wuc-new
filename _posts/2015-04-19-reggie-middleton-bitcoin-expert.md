@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Arthur Hayes
-author: Arthur Hayes
+title: Reggie Middleton | Bitcoin and Ultra-Coin
+author: Reggie Middleton
 authorurl: http://www.weusecoins.com/arthur-hayes
 published: true
 ---
