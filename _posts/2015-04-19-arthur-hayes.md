@@ -20,5 +20,7 @@ Once the exchange is up and running, Arthur’s primary responsibility will be t
 <li><a href="/bitcoin-and-interest-rates/">Bitcoin and Interest Rates</a></li>
 <li><a href="/bitcoin-arbitrage-made-easy-lesson-one/">Bitcoin Arbitrage Made Easy | Lesson One</a></li>
 <li><a href="/bitcoin-arbitrage-made-easy-lesson-two/">Bitcoin Arbitrage Made Easy | Lesson Two</a></li>
+<li><a href="/counterparty-risk-socialized-losses-vs-central-clearing/">Counterparty Risk and Socialized Losses vs Central Clearing</a></li>
+<li><a href="/bitcoin-volatility-as-an-asset-class/">Bitcoin Volatility As An Asset Class</a></li>
 <li><a href="/how-bitcoin-margin-calls-work/">How Bitcoin Margin Calls Work</a></li>
 </ul>
