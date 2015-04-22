@@ -27,6 +27,7 @@ What can Namecoin be used for?
 <li>Human readable Tor .onion names/domains.</li>
 <li>File signatures, Voting, bonds/stocks,/shares, web of trust, escrow and notary services (to be implemented).</li></ul>
 <p>
+<h2>Getting started with Namecoin</h2>
 It is very easy to start using Namecoin.
 <p>
 <ul><li>Step 1: Get A Namecoin Wallet.</li>
