@@ -8,7 +8,9 @@ published: true
 
 The Arbitrage Made Easy lessons will present simple yet profitable arbitrage strategies that can be employed by traders using a combination of spot Bitcoin trading and BitMEX derivatives contracts. The Bitcoin/USD exchange rate will be referred to using the symbol XBTUSD.
 <p>
-Lesson 1 will focus on the arbitrage of price differentials between spot XBT exchanges.
+Lesson One will focus on the arbitrage of price differentials between spot XBT exchanges.
+<p>
+<a href="/bitcoin-arbitrage-made-easy-lesson-two/">Lesson Two</a> will focus on the arbitrage of futures contracts trading at a premium or discount to spot XBT.
 <p>
 After spending some time trading XBT, traders will notice that sometimes there are large differences between exchanges. Savvy traders can capture these price differentials in a riskless manner. This lesson will assume that the trader’s home currency is USD. Therefore, the trader wants zero risk in USD terms. Traders will use a portfolio of USD and XBT to capture arbitrage opportunities risklessly.
 <p>
@@ -78,6 +80,6 @@ Instead of withdrawing USD from exchange B and transferring again back to exchan
 <li>Simultaneously sell 7 XBT on exchange A and receive $3,500</li>
 <li>Exchange A now contains $5,140</li>
 <li>Exchange B now contains 7 XBT</li>
-<li>Wait for the spread between A and B to widen again and repeat</li>
+<li>Wait for the spread between A and B to widen again and repeat</li></ol>
 <p>
 The above trade has generated $140 in gross profit. USD deposit and exchange trading fees must be deducted. The result will be the net profit from this arbitrage trade. Spread trading does not require the withdrawal of USD from exchange B and subsequent deposit onto exchange A which reduces fees paid. However, traders must wait for the spread to collapse before the portfolio can be rebalanced.
