@@ -1,6 +1,6 @@
 # Contribute Articles to We Use Coins (WUC)
 
-WUC is one of the highest profile websites in Bitcoin and is to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage WUC to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
+WUC is one of the highest profile and visited websites in Bitcoin. Our video What Is Bitcoin? has had over 7.5 million views. We want WUC to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage WUC to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
 <img src="/images/optimized.png" align="center" alt="optimized"/>
 <p>
 WUC uses Github to manage version control with a fork and pull method. Watch this [video by Clay Shirky](https://www.youtube.com/watch?v=CEN4XNth61o) to understand why. <b>This means your articles and contributions should be submitted as a pull request.</b> Consequently,  If you are unfamiliar then you may need to learn how to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and how to [use pull requests](https://help.github.com/articles/using-pull-requests/) plus this [short video may be helpful](https://www.youtube.com/watch?v=YTbRzhQju4c).<p>
