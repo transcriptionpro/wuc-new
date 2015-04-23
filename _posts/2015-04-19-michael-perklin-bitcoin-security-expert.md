@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Michael Perklin
+title: Michael Perklin | Bitcoin Security Expert
 author: Michael Perklin
 authorurl: http://www.weusecoins.com/michael-perklin-bitcoin-security-expert
 published: true
