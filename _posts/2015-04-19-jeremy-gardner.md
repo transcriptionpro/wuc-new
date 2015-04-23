@@ -8,7 +8,7 @@ published: true
 
 
 
-<img src="/images/jeremy-gardner-1.png" alt="Jeremy Gardner" align="right">I have seemingly dedicated my life to cryptocurrencies and block chain technology over the course of the past year. I am the co-founder and executive director of the College Cryptocurrency Network (CCN), Director of Operations/Business Development at Augur, and serve as an official advisor to Bitcoin Shop.
+<img src="/images/jeremy-gardner.png" alt="Jeremy Gardner" align="right">I have seemingly dedicated my life to cryptocurrencies and block chain technology over the course of the past year. I am the co-founder and executive director of the College Cryptocurrency Network (CCN), Director of Operations/Business Development at Augur, and serve as an official advisor to Bitcoin Shop.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/o2SfJvCrcR4" frameborder="0" allowfullscreen></iframe>
 <p>
