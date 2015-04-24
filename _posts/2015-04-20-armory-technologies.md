@@ -20,6 +20,13 @@ published: true
 <p>His expertise spans cryptography, digital currencies, risk management, threat and vulnerability assessment, security protocols, governance, solution architecture and implementation. He spent eleven years as a Senior Principal in Accenture’s technology consulting practice and led the security strategy and risk services practice across Europe, Africa and Latin America. He also led security for Financial Services in UK and Ireland. Prior to Accenture he spent six years as a Senior Manager in PwC’s Security Consulting Practice.</p>
 <p>At Armory he leads the Bitcoin security consulting services.</p>
 <p>John holds a degree in computer science and graduate degree in cryptography and information security. John is a founding member of the Institute of Information Security Professionals, IISP, and regular speaker at security conferences.</p>
+<img src="/images/vince-mele.png" alt="Vince Mele" align="right"><strong>VINCE MEALE</strong>, GENERAL COUNSEL</p>
+<p>His expertise is in environmental, utility, cooperative and blockchain law.
+<p>At Armory he handles administrative, operational and legal duties.
+<p>He holds degrees from the University of Illinois and Michigan State University College of Law and previously worked at the United States Department of Justice and Wheeler, Van Sickle & Anderson, S.C.
+<img src="/images/jimmy-song.png" alt="Jimmy Song" align="right"><strong>JIMMY SONG</strong>, TECHNICAL LEAD</p>
+<p>A hacker on computers since fourth grade who contributes to open source and is a big-time believer in Bitcoin. Previous work has included Monetas, RetailMeNot, Elysium Digital, Gramify and many others.
+<p>At Armory he is working on developing enterprise solutions and interfacing with corporate and institutional customers.
 <p><strong>ANDY OFIESH</strong>, LEAD DEVELOPER, <a title="CircusPeanut" href="https://bitcointalk.org/index.php?action=profile;u=117383" target="_blank">CircusPeanut</a></p>
 <p><span style="line-height: 1.5;">Andy was the second developer to join Alan working on developing advanced Armory Bitcoin wallet features. He is a senior software developer with over 20 years of experience developing enterprise level software for companies such as Juniper Networks, Intel and Nortel.</span></p>
 <p>Andy holds a degree in systems engineering and graduate degrees in computer science and computer systems engineering.</p>
@@ -42,7 +49,7 @@ published: true
 <p>He holds a Ph.D. in distributed systems and computer science from the University of Exeter.</p>
 <strong>KEVIN BOMBINO</strong>, TECHNOLOGY</p>
 <p><img src="/images/kevin-bombino.png" alt="Kevin Bombino" align="right"><a title="Kevin Bombino" href="http://bombino.org/" target="_blank">Kevin Bombino</a> holds a Harvard computer science degree and was as a Bridgewater developer before becoming an entrepreneur and investor in core Bitcoin infrastructure like Armory and Kraken.</span></p>
-<p>Kevin brings a tremendous amount of entrepreneurial experience, technological prowess and practical understanding of how to apply blockchain technology in business settings.
+<p>Kevin brings a tremendous amount of entrepreneurial experience, technological prowess and practical understanding of how to apply blockchain technology in business settings.</p>
 <strong>TRACE MAYER, J.D.</strong>, STRATEGY
 <p><img src="/images/trace-mayer.png" alt="Trace Mayer" align="right"><a title="Trace Mayer" href="http://www.tracemayer.net" target="_blank">Trace Mayer</a> hosts the <a title="Bitcoin Knowledge Podcast" href="http://www.bitcoin.kn" target="_blank">Bitcoin Knowledge Podcast</a>, is an early Bitcoin thought leader, maintainer of <a title="We Use Coins" href="https://www.weusecoins.com" target="_blank">We Use Coins</a>, entrepreneur, monetary scientist and investor with companies such as <a title="bitpay" href="http://www.bitpay.com" target="_blank">BitPay</a> and <a title="Kraken" href="http://www.kraken.com" target="_blank">Kraken</a>.</p>
 <p>He led the Armory seed round and holds accounting and law degrees and has studied Austrian economics.
