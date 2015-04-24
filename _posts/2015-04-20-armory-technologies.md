@@ -6,6 +6,7 @@ authorurl: https://www.weusecoins.com/armory-technologies
 published: true
 ---
 
+<img src="/images/armory-technologies.png" alt="Armory Technologies, Inc." align="center">
 <p><a title="Armory Technologies, Inc." href="http://www.bitcoinarmory.com" target="_blank">Armory Technologies Inc.</a> builds enterprise grade Bitcoin security software solutions and Armory Enterprise Security LLC provides Bitcoin security consulting services to institutions for deploying a Bitcoin security plan.</p>
 <p>In early 2011 Alan Reiner started building the best Bitcoin wallet which pioneered the cold storage Bitcoin wallet concept. This innovation created a new best practice standard for Bitcoin security by splitting the core client functionality between network security and wallet security. He was also instrumental in the innovation of <a title="hierarchical deterministic wallets" href="https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki" target="_blank">hierarchical deterministic wallets</a>. Armory is an extremely advanced and completely trust-less solution where users are in complete control of generating and storing the private keys.</p>
 <p>Knowing how many bitcoins are secured in Armory Bitcoin wallets is impossible because of privacy and security measures built into the software. But we know that the number is at least hundreds of thousands and most likely in the millions. When it comes to seriously and professionally securing bitcoins then the private keys must be adequately respected and Armory must be strongly considered.</p>
