@@ -11,11 +11,11 @@ published: true
 <p>Knowing how many bitcoins are secured in Armory Bitcoin wallets is impossible because of privacy and security measures built into the software. But we know that the number is at least hundreds of thousands and most likely in the millions. When it comes to seriously and professionally securing bitcoins then the private keys must be adequately respected and Armory must be strongly considered.</p>
 <p>At a Bitcoin conference Farhod was asked why one should store their bitcoins using Armory Bitcoin Wallet. He quickly responded, 'Because whoever steals your bitcoins will.'</p>
 ## THE BITCOIN SECURITY TEAM
-### ALAN REINER, CEO and FOUNDER, <a title="etotheipi" href="https://bitcointalk.org/index.php?action=profile;u=31239" target="_blank">etotheipi</a></p>
+<strong>ALAN REINER</strong>, CEO and FOUNDER, <a title="etotheipi" href="https://bitcointalk.org/index.php?action=profile;u=31239" target="_blank">etotheipi</a></p>
 <p><img src="/images/alan-reiner.png" alt="Alan Reiner" align="right">Alan Reiner is a cryptocurrency security pioneer and widely recognized as a world leading Bitcoin security expert and as a trusted source for security best practices. Under his leadership Armory has innovated new Bitcoin security features and enterprise-grade functionality. Alan spent seven years at John Hopkins Applied Physics Laboratory developing sophisticated real-time image and video processing algorithms for missile defense.</p>
 <p>He holds graduate degrees in engineering mechanics and applied mathematics with additional background in statistics, data mining and cryptography.</p>
 <p>
-<img src="/images/john-velissarios.png" alt="John Velissarios" align="right">JOHN VELISSARIOS</strong>, CISO</p>
+<img src="/images/john-velissarios.png" alt="John Velissarios" align="right"><strong>JOHN VELISSARIOS</strong>, CISO</p>
 <p>John joined Armory as co-founder of Armory Enterprise Security LLC and spearheads the professional global services division. He brings two decades of IT security expertise earned in the world’s most trusted consulting organizations and was entrusted with protecting the world's most important and valuable private keys. He served a global customer base of tier 1 financial institutions and payment processors.</p>
 <p>His expertise spans cryptography, digital currencies, risk management, threat and vulnerability assessment, security protocols, governance, solution architecture and implementation. He spent eleven years as a Senior Principal in Accenture’s technology consulting practice and led the security strategy and risk services practice across Europe, Africa and Latin America. He also led security for Financial Services in UK and Ireland. Prior to Accenture he spent six years as a Senior Manager in PwC’s Security Consulting Practice.</p>
 <p>At Armory he leads the Bitcoin security consulting services.</p>
@@ -36,13 +36,13 @@ published: true
 <p>Doug holds a graduate degree in computer engineering and graduate certificates in information assurance and technology management.</p>
 ## ADVISORS
 <p>
-### DR. ADAM BACK, CRYPTOGRAPHY
+<strong>DR. ADAM BACK</strong>, CRYPTOGRAPHY
 <p><img src="/images/adam-back.png" alt="Adam Back" align="right">Adam Back currently serves as the Founder and President of Blockstream and is pioneering the sidechains project for the core Bitcoin protocol.</p>
 <p>He has worked on e-cash protocols since 1995 as an applied cryptographer and is cited by Satoshi Nakamoto in the Bitcoin whitepaper as the inventor of the hashcash proof-of-work and decentralized mining used in Bitcoin security. He was an architect and cryptographer at Zero-Knowledge Systems working on its Freedom network, a precursor to Tor. Most recently, Adam co-founded Picorp which was acquired by EMC.</p>
 <p>He holds a Ph.D. in distributed systems and computer science from the University of Exeter.</p>
-### KEVIN BOMBINO, TECHNOLOGY</p>
+<strong>KEVIN BOMBINO</strong>, TECHNOLOGY</p>
 <p><img src="/images/kevin-bombino.png" alt="Kevin Bombino" align="right"><a title="Kevin Bombino" href="http://bombino.org/" target="_blank">Kevin Bombino</a> holds a Harvard computer science degree and was as a Bridgewater developer before becoming an entrepreneur and investor in core Bitcoin infrastructure like Armory and Kraken.</span></p>
 <p>Kevin brings a tremendous amount of entrepreneurial experience, technological prowess and practical understanding of how to apply blockchain technology in business settings.
-### TRACE MAYER, J.D., STRATEGY</p>
+<strong>TRACE MAYER, J.D.</strong>, STRATEGY
 <p><img src="/images/trace-mayer.png" alt="Trace Mayer" align="right"><a title="Trace Mayer" href="http://www.tracemayer.net" target="_blank">Trace Mayer</a> hosts the <a title="Bitcoin Knowledge Podcast" href="http://www.bitcoin.kn" target="_blank">Bitcoin Knowledge Podcast</a>, is an early Bitcoin thought leader, maintainer of <a title="We Use Coins" href="https://www.weusecoins.com" target="_blank">We Use Coins</a>, entrepreneur, monetary scientist and investor with companies such as <a title="bitpay" href="http://www.bitpay.com" target="_blank">BitPay</a> and <a title="Kraken" href="http://www.kraken.com" target="_blank">Kraken</a>.</p>
 <p>He led the Armory seed round and holds accounting and law degrees and has studied Austrian economics.
