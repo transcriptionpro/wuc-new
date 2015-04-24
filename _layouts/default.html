@@ -3,6 +3,12 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+{% if page.description %}
+<meta name="description" content="{{ page.description }}">
+{% else %}
+<meta name="description" content= "Anything" >
+{% endif %}
+
     {% include meta.html %}
 
     <!--[if lt IE 9]>
