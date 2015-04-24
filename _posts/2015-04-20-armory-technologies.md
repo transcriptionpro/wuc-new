@@ -23,7 +23,7 @@ published: true
 <img src="/images/vince-mele.png" alt="Vince Mele" align="right"><strong>VINCE MEALE</strong>, GENERAL COUNSEL</p>
 <p>His expertise is in environmental, utility, cooperative and blockchain law.
 <p>At Armory he handles administrative, operational and legal duties.
-<p>He holds degrees from the University of Illinois and Michigan State University College of Law and previously worked at the United States Department of Justice and Wheeler, Van Sickle & Anderson, S.C.
+<p>He holds degrees from the University of Illinois and Michigan State University College of Law and previously worked at the United States Department of Justice and Wheeler, Van Sickle & Anderson, S.C.<p>
 <img src="/images/jimmy-song.png" alt="Jimmy Song" align="right"><strong>JIMMY SONG</strong>, TECHNICAL LEAD</p>
 <p>A hacker on computers since fourth grade who contributes to open source and is a big-time believer in Bitcoin. Previous work has included Monetas, RetailMeNot, Elysium Digital, Gramify and many others.
 <p>At Armory he is working on developing enterprise solutions and interfacing with corporate and institutional customers.
