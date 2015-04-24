@@ -36,12 +36,13 @@ published: true
 <p>Doug holds a graduate degree in computer engineering and graduate certificates in information assurance and technology management.</p>
 ## ADVISORS
 <p>
-### DR. ADAM BACK, CRYPTOGRAPHY</p>
+### DR. ADAM BACK, CRYPTOGRAPHY
 <p><img src="/images/adam-back.png" alt="Adam Back" align="right">Adam Back currently serves as the Founder and President of Blockstream and is pioneering the sidechains project for the core Bitcoin protocol.</p>
 <p>He has worked on e-cash protocols since 1995 as an applied cryptographer and is cited by Satoshi Nakamoto in the Bitcoin whitepaper as the inventor of the hashcash proof-of-work and decentralized mining used in Bitcoin security. He was an architect and cryptographer at Zero-Knowledge Systems working on its Freedom network, a precursor to Tor. Most recently, Adam co-founded Picorp which was acquired by EMC.</p>
 <p>He holds a Ph.D. in distributed systems and computer science from the University of Exeter.</p>
 ### KEVIN BOMBINO, TECHNOLOGY</p>
 <p><img src="/images/kevin-bombino.png" alt="Kevin Bombino" align="right"><a title="Kevin Bombino" href="http://bombino.org/" target="_blank">Kevin Bombino</a> holds a Harvard computer science degree and was as a Bridgewater developer before becoming an entrepreneur and investor in core Bitcoin infrastructure like Armory and Kraken.</span></p>
+<p>Kevin brings a tremendous amount of entrepreneurial experience, technological prowess and practical understanding of how to apply blockchain technology in business settings.
 ### TRACE MAYER, J.D., STRATEGY</p>
 <p><img src="/images/trace-mayer.png" alt="Trace Mayer" align="right"><a title="Trace Mayer" href="http://www.tracemayer.net" target="_blank">Trace Mayer</a> hosts the <a title="Bitcoin Knowledge Podcast" href="http://www.bitcoin.kn" target="_blank">Bitcoin Knowledge Podcast</a>, is an early Bitcoin thought leader, maintainer of <a title="We Use Coins" href="https://www.weusecoins.com" target="_blank">We Use Coins</a>, entrepreneur, monetary scientist and investor with companies such as <a title="bitpay" href="http://www.bitpay.com" target="_blank">BitPay</a> and <a title="Kraken" href="http://www.kraken.com" target="_blank">Kraken</a>.</p>
 <p>He led the Armory seed round and holds accounting and law degrees and has studied Austrian economics.
