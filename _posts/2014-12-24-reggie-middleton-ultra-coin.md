@@ -14,6 +14,6 @@ published: true
 <iframe width="700" height="394" src="https://www.youtube.com/embed/AkaESsPOFYU" frameborder="0" allowfullscreen></iframe>
 <p>
 ### PODCAST INTERVIEW TRANSCRIPT
-<p>Trace Mayer: Welcome
-<p>Reggie Middleton: Thank you.
+<p><b>Trace Mayer</b>: Welcome
+<p><b>Reggie Middleton</b>: Thank you.
 <p>
