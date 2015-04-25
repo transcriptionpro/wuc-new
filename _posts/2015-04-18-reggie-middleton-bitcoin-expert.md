@@ -12,7 +12,9 @@ published: true
 <p>
 In 2014, he founded Veritaseum, the progenitor of Ultra-Coin technology. Veritaseum was formed to exploit modern cryptography in the fields of finance, economics and value transfer transactions. According to Mr. Middleton, UltraCoin exploits modern cryptography in the fields of finance, economics and value transfer to disintermediate legacy financial institutions such as Wall Street banks.
 <p>
-<iframe width="700" height="394" src="https://www.youtube.com/embed/AkaESsPOFYU" frameborder="0" allowfullscreen></iframe>
+### Articles by Reggie Middleton
+<a href="/reggie-middleton-ultra-coin/">Bitcoin Knowledge Podcast Interview</a>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/4FBFnfsv0A8" frameborder="0" allowfullscreen></iframe>
 <p>
 Since the inception of his BoomBustBlog, he has established an outstanding track record, including but not limited to, the call of....
 <p>
