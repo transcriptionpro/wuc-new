@@ -14,7 +14,7 @@ Andy holds a degree in systems engineering and graduate degrees in computer scie
 <p>
 ## Bitcoin articles by Andy Ofiesh
 <ul>
-<li>Bitcoin Knowledge Podcast Interview # 100 - <a href="">Bitcoin public and private keys & entropy</a></li>
-<li>Bitcoin Knowledge Podcast Interview # 101 - <a href="">Bitcoin cold storage</a></li>
-<li>Bitcoin Knowledge Podcast Interview # 105 - <a href="">Bitcoin multi-signature & fragmented backups</a></li>
+<li>Bitcoin Knowledge Podcast Interview # 100 - <a href="/bitcoin-private-keys-entropy/">Bitcoin public and private keys & entropy</a></li>
+<li>Bitcoin Knowledge Podcast Interview # 101 - <a href="/bitcoin-cold-storage/">Bitcoin cold storage</a></li>
+<li>Bitcoin Knowledge Podcast Interview # 105 - <a href="/bitcoin-multi-signature-fragmented-backups/">Bitcoin multi-signature & fragmented backups</a></li>
 </ul>
