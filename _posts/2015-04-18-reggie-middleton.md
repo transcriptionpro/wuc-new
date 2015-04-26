@@ -25,7 +25,7 @@ In 2014, he founded Veritaseum, the progenitor of Ultra-Coin technology. Veritas
 <li>The fall of commercial real estate in general (September of 2007) and the collapse of General Growth Properties [nation's 2nd largest mall owner] in particular (November 2007):</li>
 <li>Will the commercial real estate market fall? Of course it will.</li>
 <li>Do you remember when I said Commercial Real Estate was sure to fall?</li>
-<li>The Commercial Real Estate Crash Cometh, and I know who is leading the way!</li>
+<li>The Commercial Real Estate Crash Cometh and I know who is leading the way!</li>
 <li>Generally Negative Growth in General Growth Properties - GGP Part II</li>
 <li>General Growth Properties; the Commercial Real Estate Crash, pt III - The Story Gets Worse</li>
 <li>BoomBustBlog.com’s answer to GGP’s latest press release and Another GGP update coming… (among over 700 pages of analysis, review the January 2008 archives or search for “GGP” for more research).</li>
