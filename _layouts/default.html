@@ -20,6 +20,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now -->
+    {% include dfp-script.html %}
   </head>
 
   <body>
@@ -53,6 +54,7 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
+          {% include dfp.html %}
           {% include email-form.html %}
           <p>
         | <a href="{{ site.baseurl }}/de/">Deutsch</a> | 

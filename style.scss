@@ -283,6 +283,13 @@ footer {
   text-align: center;
 }
 
+.dfp {
+  margin-bottom: 20px;
+  @media screen and (min-width: 748px) {
+    margin-left: -4px;
+  }
+}
+
 .widget-wrapper {
   margin: 20px;
   text-align: center;
