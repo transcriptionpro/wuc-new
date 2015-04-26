@@ -15,7 +15,8 @@ In 2014, he founded Veritaseum, the progenitor of Ultra-Coin technology. Veritas
 ### Articles by Reggie Middleton
 <a href="/reggie-middleton-ultra-coin/">Bitcoin Knowledge Podcast Interview</a>
 <p>
-Since the inception of his BoomBustBlog, he has established an outstanding track record, including but not limited to, the call of....
+### Record of Reggie Middleton
+<p>Since the inception of his BoomBustBlog, he has established an outstanding track record, including but not limited to, the call of....
 <p>
 <ol><li>The housing market crash in the spring of 2006 and publicly in September of 2007: Correction, and further thoughts on the topic and How Far Will US Home Prices Drop?</li>
 <li>Home builders falling and their grossly misleading use of off balance sheet structures to conceal excessive debt in November of 2007 (not a single sell side analyst that we know of made mention of this very material point in the industry): Lennar, Voodoo Accounting & Other Things of Mystery and Myth!
