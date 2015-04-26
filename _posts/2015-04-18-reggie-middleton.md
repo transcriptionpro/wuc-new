@@ -14,7 +14,6 @@ In 2014, he founded Veritaseum, the progenitor of Ultra-Coin technology. Veritas
 <p>
 ### Articles by Reggie Middleton
 <a href="/reggie-middleton-ultra-coin/">Bitcoin Knowledge Podcast Interview</a>
-<iframe width="700" height="394" src="https://www.youtube.com/embed/4FBFnfsv0A8" frameborder="0" allowfullscreen></iframe>
 <p>
 Since the inception of his BoomBustBlog, he has established an outstanding track record, including but not limited to, the call of....
 <p>
