@@ -37,7 +37,7 @@ Now, with that point made, I hope, I will add that you can use bitcoin anonymous
 <p><b>3</b>: Encrypt!
 <p>If you send your bitcoin address over email, all the worst people in the world will connect it to you. Let's get real about this: If you don't encrypt, you're a minnow among sharks. You can rationalize this however you like, claim ignorance, wallow in denial, or whatever, but if you're not using encryption, you're an open target. 
 <p>Text encryption is free fer goodness sake. Get it! Use it! 
-<p><b>4<b>: Get Anonymous!
+<p><b>4</b>: Get Anonymous!
 <p>See below. 
 <p><b>5</b>: Use a Mixing Service
 <p>It is not always possible to separate your name from your Bitcoin address, particularly if you use a purchase method that requires ID or trading partners who won't use encryption. In that case, you can use a mixing service. In simple terms, a mixing service breaks the chain between your name and the coins held in your wallet.
