@@ -1,28 +1,23 @@
 ---
 layout: post
-title: Using Bitcoin Securely
+title: Using Bitcoin Anonymously
 author: Paul Rosenberg
 authorurl: http://www.weusecoins.com/paul-rosenberg/
 published: true
 ---
 
 Let's begin with the two facts that underlie this discussion: 
-<p>
-<b>1</b>. We live in surveillance states. Everything on the Internet (unless you take action to shield it) is recorded and saved, for future use against you.
-<p>
-<b>2</b>. The powers that be do not like Bitcoin. If Bitcoin succeeds and spreads, central banks will be greatly weakened... and with them the governments that thrive on their print-em-up currencies. 
-<p>
-Put together, these two points are tell us that we need to use Bitcoin securely. So, we face a choice: Either we can accept these facts (which I see as unassailable) or we push ourselves into denial.
-<p>
-So, presuming that you, dear reader, are not in denial, I shall continue. 
+<p><b>1</b>. We live in surveillance states. Everything on the Internet (unless you take action to shield it) is recorded and saved, for future use against you.
+<p><b>2</b>. The powers that be do not like Bitcoin. If Bitcoin succeeds and spreads, central banks will be greatly weakened... and with them the governments that thrive on their print-em-up currencies. 
+<p>Put together, these two points are tell us that we need to use Bitcoin securely. So, we face a choice: Either we can accept these facts (which I see as unassailable) or we push ourselves into denial.
+<p>So, presuming that you, dear reader, are not in denial, I shall continue. 
 
 ### Bitcoin Is NOT Anonymous
 
-Bitcoin has often been called an anonymous digital currency, but that is false. Bitcoin, in fact, is the most transparent currency ever created – far more traceable than dollars, Euros or Yen have ever been.
-<p>
-Every bitcoin ever mined and used, has a 100% traceable history... and an easy-to-trace history. All you have to do is look at the blockchain, which exists in thousands of copies, freely available world-wide. 
+<p>Bitcoin has often been called an anonymous digital currency, but that is false. Bitcoin, in fact, is the most transparent currency ever created – far more traceable than dollars, Euros or Yen have ever been.
+<p>Every bitcoin ever mined and used, has a 100% traceable history... and an easy-to-trace history. All you have to do is look at the blockchain, which exists in thousands of copies, freely available world-wide. 
 
-### How You Can Be Anonymous
+### How You Can Use Bitcoin Anonymously
 
 Now, with that point made, I hope, I will add that you can use bitcoin anonymously. But only if you do certain things:
 <p><b>1</b>: Use Multiple Addresses.
@@ -39,7 +34,7 @@ Now, with that point made, I hope, I will add that you can use bitcoin anonymous
 <p>Text encryption is free fer goodness sake. Get it! Use it! 
 <p><b>4</b>: Get Anonymous!
 <p>See below. 
-<p><b>5</b>: Use a Mixing Service
+<p><b>5</b>: Use a Bitcoin Mixing Service
 <p>It is not always possible to separate your name from your Bitcoin address, particularly if you use a purchase method that requires ID or trading partners who won't use encryption. In that case, you can use a mixing service. In simple terms, a mixing service breaks the chain between your name and the coins held in your wallet.
 <p>This is how they work:
 <ol><li>You generate a new Bitcoin address - one that is not associated with your name.</li>
@@ -64,8 +59,8 @@ Various mixing services operate in various ways. Check them out if you're intere
 ### In Conclusion
 
 There are two points that you need to understand from this article: 
-<p><b>1</b>. If you want to use Bitcoin securely, you'll have to work for it. It isn't hard, but you have to do it. 
-<p><b>2</b>. If you don't act to protect yourself, every bitcoin transaction you ever make will be permanently and transparently recorded... and the worst of people will have all that information. 
+<p><b>1</b>. If you want to use Bitcoin anonymously then you'll have to work for it. It isn't hard, but you have to do it. 
+<p><b>2</b>. If you don't act to protect your privacy with every bitcoin transaction you ever make with the particular wallet will be permanently, publicly and transparently recorded... and the worst of people will have all that information. 
 <p>The choice is yours. 
 <p>Paul's company, Cryptohippie,  has offered all We Use Coins readers a <a href="https://secure.cryptohippie.com/weusecoins.php
 ">free trial</a> of their privacy service.
