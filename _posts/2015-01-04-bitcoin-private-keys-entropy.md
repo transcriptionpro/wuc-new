@@ -16,7 +16,7 @@ Andy holds a degree in systems engineering and graduate degrees in computer scie
 
 ### PODCAST INTERVIEW TRANSCRIPT
 
-<b>Trace Mayer:  </b> This is your host, Trace Mayer, and we have with us Andy O'Fiesh.  He is a senior developer with Armory Technologies that develops the Bitcoin Armory wallet.  Welcome to the podcast, Andy Ofiesh.
+<b>Trace Mayer:  </b> This is your host, Trace Mayer, and we have with us Andy O'Fiesh.  He is a senior developer with Armory that develops the Bitcoin Armory wallet.  Welcome to the podcast, Andy Ofiesh.
 
 <b>Andy Ofiesh:  </b> Thanks, Trace.  Good to talk to you.
 
