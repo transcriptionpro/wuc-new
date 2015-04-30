@@ -8,7 +8,7 @@ published: true
 
 
 
-<img src="/images/alan-reiner.png" alt="Alan Reiner" align="right">Alan Reiner is the CEO and Founder of <a href="/armory-technologies/">Armory Technologies, Inc.</a>. He is a cryptocurrency security pioneer and widely recognized as a world leading Bitcoin security expert and as a trusted source for security best practices. Under his leadership Armory has innovated new Bitcoin security features and enterprise-grade functionality. Alan spent seven years at John Hopkins Applied Physics Laboratory developing sophisticated real-time image and video processing algorithms for missile defense.
+<img src="/images/alan-reiner.png" alt="Alan Reiner" align="right">Alan Reiner is the CEO and Founder of <a href="/armory/">Armory</a>. He is a cryptocurrency security pioneer and widely recognized as a world leading Bitcoin security expert and as a trusted source for security best practices. Under his leadership Armory has innovated new Bitcoin security features and enterprise-grade functionality. Alan spent seven years at John Hopkins Applied Physics Laboratory developing sophisticated real-time image and video processing algorithms for missile defense.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/d5qiyqym29U" frameborder="0" allowfullscreen></iframe>
 <p>
