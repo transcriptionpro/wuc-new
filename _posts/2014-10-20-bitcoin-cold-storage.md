@@ -17,7 +17,7 @@ Andy holds a degree in systems engineering and graduate degrees in computer scie
 ### PODCAST INTERVIEW TRANSCRIPT
 
 <h2>Interview with Andy O'Fiesh on Bitcoin cold storage</h2>
-Trace Mayer: BTCK, Episode 101. This is all about wallets, Class 201. We have with us Andy O'Fiesh. He is senior developer at Armory Technologies which is the developer of the Bitcoin Armory wallet. Welcome to the show, Andy.
+Trace Mayer: BTCK, Episode 101. This is all about wallets, Class 201. We have with us Andy O'Fiesh. He is senior developer at Armory which is the developer of the Bitcoin Armory wallet. Welcome to the show, Andy.
 
 <b>Andy O'Fiesh</b>: Thanks, Trace. Glad to talk to you.
 
