@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jesse Powell
-author: Jesse Powell
+title: Jesse Powell - CEO of Kraken Bitcoin Exchange
+author: Jesse Powell - CEO of Kraken Bitcoin Exchange
 authorurl: http://www.weusecoins.com/jesse-powell/
 published: true
 ---
