@@ -1,26 +1,60 @@
 ---
 layout: post
 title: What Is Factom?
-author: Trace Mayer, J.D.
-authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
+author: Nicola Minichiello
+authorurl: http://www.weusecoins.com/nicola-minichiello
 published: true
 ---
 
-<img src="/images/factom.png" alt="what is factom" align="right">
+## What is Factom?
+<img src="http://i.imgur.com/Z0z95bp.png" alt="Factom Logo">
 <p>
-Factom is a way to record entries in a way that makes the list unique (everyone gets the same copy) and allows anyone to add to the list, but does not allow anyone to change entries once they are in the list.
+<a href="http://factom.org/">Factom</a> is the first usable blockchain technology to solve real-world business problems by providing an unalterable record-keeping system. By creating a data layer on top of the Bitcoin blockchain, Factom’s distributed ledger technology secures millions of real-time records in the blockchain with a single hash using cryptographic isolation. Businesses and governments alike can use Factom to document their information so that it cannot be modified, deleted or backdated. Factom’s technology decentralizes record keeping by ensuring that the integrity of stored data remains intact, providing complete transparency, while at the same time maintaining user privacy in an increasingly digital world.
+<p>
+Factom is a distributed, decentralized protocol running on top of Bitcoin. That means nobody controls it, that it is software that people all over the world run to make the protocol work. The software is open source, and anyone is free to use it for any purpose. Factom gives developers the tools to build a new generation of applications that use blockchain technology. The blockchain stores all the transactions in the Bitcoin network.
+<p>
+If your application needs a central server to coordinate processes, you might be able to eliminate the central server in favor of using Factom. Unlike most databases, the blockchain is distributed across the Internet, making it practically impossible to shut down. Whereas the Bitcoin blockchain is a record of financial transactions, Factom is designed to store any type of data. This makes Factom an ideal platform for a wide range of applications, including financial systems, medical records, supply chain management, voting systems, property titles, legal applications, and much more.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/YBXNLW-YvoA" frameborder="0" allowfullscreen></iframe>
 <p>
-Factom is a method of creating an immutable audit trail. It is also a mechanism to communicate changes in a system. If your application needs a central server to coordinate processes, you might be able to eliminate the central server in favor of using Factom.
+## What Are Factoids?
+<img src="http://i.imgur.com/ssg5XiE.png" alt="Factoid Logo">
 <p>
-You can use Factoids (the Factom currency) to purchase Entry Credits with a simple transaction. The protocol does the conversion, so you effectively purchase the Entry Credits from the protocol. You assign those Entry Credits to a public key.
+The Factoid is the underlying token that allows you to hash something into the Factom network. The intial supply will be determined by the amount of Factoids sold during the software sale. Factoids are used as an anti-spam technique, as you purchase entry credits with your tokens allowing you to perform an action with Factom.
 <p>
-Factom is a distributed, decentralized protocol running on top of Bitcoin. That means nobody controls it, but that it is software that people all over the world run to make the protocol work. But the software is open source, and anyone is free to use it for any purpose.
+<iframe width="700" height="394" src="https://www.youtube.com/embed/MlzyI1bfyD4" frameborder="0" allowfullscreen></iframe>
 <p>
-It is very easy to start trading Factoids.
+**Token Issuance**
+<p>
+<img src="http://i.imgur.com/Lzqv5Fq.png" alt="Factoid Token Issuance">
+<p>
+You can use Factoids to purchase Entry Credits with a simple transaction. The protocol does the conversion, so you effectively purchase the Entry Credits from the protocol. You assign those Entry Credits to a public key and are then not transferrable.
+<p>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/X3rM2TQJt7o" frameborder="0" allowfullscreen></iframe>
+<p>
+**Future Issuance**
+<p>
+The Factoid is the underlying token that allows you to hash something into the Factom network. The inital amount of Factoids issued will depend upon the amount sold in during the software sale. Factoids are used as an anti-spam technique, as you purchase entry credits with your tokens allowing you to perform an action with Factom.
+<p>
+*Supply In 2020*
+<p>
+<img src="http://i.imgur.com/MqvrwZU.png" alt="Factoid Supply 2020">
+<p>
+*Supply In 2025*
+<p>
+<img src="http://i.imgur.com/5jnC2Xm.png" alt="Factoid Supply 2025">
+<p>
+*Supply In 2030*
+<p>
+<img src="http://i.imgur.com/5PAllEf.png" alt="Factoid Supply 2030">
+<p>
+**Using Factoids**
+<p>
+It will be very easy to start using and exchanging Factoids after they are distributed at the end of the Software Sale.
 <p>
 <ul><li>Step 1: Get A Factoids Wallet.</li>
-<li>Step 2: Get Some Factoids at the <a href="https://www.kraken.com/">best Factoids exchange</a>.</li>
-<li>Step 3: Use Your Factoids.</li>
-<li>Step 4: Stay Up-to-Date.</li></ul>
+<li>Step 2: Get Some Factoids at the best Factoids <a href="https://www.kraken.com/">exchange</a> if you haven’t already during the sale.</li>
+<li>Step 3: Use Your Factoids and convert them to Entry Credits or trade them on an exchange.</li>
+<li>Step 4: Stay Up-to-Date with the latest news by registering to Factom’s Newletter.</li></ul>
+<p>
+<img src="http://i.imgur.com/k6GbyTb.jpg" alt="Factom Banner" align="center">
