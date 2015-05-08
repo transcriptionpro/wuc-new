@@ -10,6 +10,7 @@ published: true
 <p>
 He was fined by the SEC for an unregistered stock offering related to SatoshiDice. He is  the creator and CEO of the instant bitcoin and altcoin exchange <a href="/shapeshift/">ShapeShift.io</a>, having founded and operated it under the alias Beorn Gonthier, until revealing his true involvement with the company, as part of a seed funding announcement, in March 2015.
 <p>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/OYs_OTudg0s" frameborder="0" allowfullscreen></iframe></center>
 <p>
 ## Article by Erik Voorhees
 <ul>
