@@ -15,14 +15,10 @@ He was fined by the SEC for an unregistered stock offering related to SatoshiDic
 <p><h2>Podcast Interview Transcript</h2>
 <p>Erik Voorhees talks how he fell into the rabbit hole of bitcoin and financial collateral.
 
-<p><strong> </strong>
 <h2>Interview with Erik Voohhees on financial collateral</h2>
 <p><strong>Trace Mayer:</strong>  Welcome back to the Bitcoin Knowledge Podcast.  We have with us the legendary, Erik Voorhees.  Welcome to the podcast, Erik.
-
 <p><strong>Erik Voorhees:</strong>  Thank you, Trace.  How are you doing?
-
 <p><strong>Trace Mayer:</strong>  Doing great.  So, I mean, you've been around bitcoin a long time and a thought leader around it.  Can you give us a little bit of your background with bitcoin?
-
 <p><strong>Erik Voorhees:</strong>  Yeah.  Well, it's the typical rabbit hole story.  I found out about it in 2011 from a post on Facebook, was highly skeptical at first and then after a few hours of research, realized that it was going to change the world.  I then fell down the rabbit hole and I've been stuck down there ever since and it feels like it's been a long time, but I guess, it's only about four years.
 
 <p><strong>Trace Mayer:</strong>  You're currently working on a secret project.  So I guess we can't talk about that.  You have a phrase that you've already cashed out.  You know, people ask, like, oh, but when are you going to cash out at bitcoin and you're like I've already cashed out.  What do you mean by that?
