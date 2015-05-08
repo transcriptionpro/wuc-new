@@ -7,7 +7,7 @@ description: Tony Gallippi of BitPay on bitcoin merchant processors.
 published: true
 ---
 
-<img src="/images/tony-gallippi.png" alt="Tony Gallippi" align="right">Tony is from BitPay, Bitcoin Merchant Processor
+<img src="/images/tony-gallippi.png" alt="Tony Gallippi" align="right">Tony Gallippi is the co-founder and executive chairman of <a href="https://www.bitpay.com/">Bitpay</a>. Tony has 20 years of experience in Sales and Marketing in the Robotics and Financial industries. Tony has a Bachelor's degree in Mechanical Engineering from Georgia Tech.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/qWaRBsqLqIk" frameborder="0" allowfullscreen></iframe>
 <p>
