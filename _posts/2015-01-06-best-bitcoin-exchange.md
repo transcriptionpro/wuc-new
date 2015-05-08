@@ -7,7 +7,7 @@ description: Jesse Powell talks about Kraken, the best bitcoin exchange, Mt. Gox
 published: true
 ---
 
-<img src="/images/jesse-powell.png" alt="Jesse Powell" align="right">Jesse is the CEO of <a href="/kraken/">Kraken</a>. 
+<img src="/images/jesse-powell.png" alt="Jesse Powell" align="right">Jesse is the CEO of <a href="/kraken/">Kraken</a>. Kraken is the best Bitcoin exchange for converting to and from US dollars, euros, British pounds and Japanese yen. Founded in 2011, San Francisco based Kraken is consistently rated the top Bitcoin exchange by independent news media and was the first Bitcoin exchange listed on Bloomberg terminals. Kraken is trusted by hundreds of thousands of traders, the Tokyo government and court-appointed trustee, and BaFin regulated Fidor Bank, with an exclusive partnership and full regulatory compliance.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/p4xJOPIOFiM" frameborder="0" allowfullscreen></iframe>
 <p>
