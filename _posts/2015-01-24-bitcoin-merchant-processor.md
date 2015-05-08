@@ -1,20 +1,18 @@
-<p>Tony Gallippi of BitPay.
--<h2>Interview with Tony Gallippi on Bitcoin Merchant Processor</h2>
-+---
-+layout: post
-+title: Tony Gallippi | BitPay
-+author: Tony Gallippi
-+authorurl: http://www.bitcoin.kn/2015/01/btck-128-2015-01-24/
-+description: Tony Gallippi of BitPay on bitcoin merchant processors.
-+published: true
-+---
-+
-+<img src="/images/tony-gallippi.png" alt="Tony Gallippi" align="right">Tony is from BitPay, Bitcoin Merchant Processor
-+<p>
-+<iframe width="700" height="394" src="https://www.youtube.com/embed/qWaRBsqLqIk" frameborder="0" allowfullscreen></iframe>
-+<p>
-+### PODCAST INTERVIEW TRANSCRIPT
-+Tony Gallippi on bitcoin merchant processor
+---
+layout: post
+title: Tony Gallippi | BitPay
+author: Tony Gallippi
+authorurl: http://www.bitcoin.kn/2015/01/btck-128-2015-01-24/
+description: Tony Gallippi of BitPay on bitcoin merchant processors.
+published: true
+---
+
+<img src="/images/tony-gallippi.png" alt="Tony Gallippi" align="right">Tony is from BitPay, Bitcoin Merchant Processor
+<p>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/qWaRBsqLqIk" frameborder="0" allowfullscreen></iframe>
+<p>
+### PODCAST INTERVIEW TRANSCRIPT
+Tony Gallippi on bitcoin merchant processor
 <h2>Interview with Tony Gallippi on Bitcoin Merchant Processor</h2>
 <strong>Trace Mayer:</strong>  Welcome back. We have a legendary interview with the legendary Tony Gallippi from BitPay.  Welcome to the podcast.
 
