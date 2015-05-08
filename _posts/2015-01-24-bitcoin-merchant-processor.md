@@ -12,7 +12,7 @@ published: true
 <iframe width="700" height="394" src="https://www.youtube.com/embed/qWaRBsqLqIk" frameborder="0" allowfullscreen></iframe>
 <p>
 ### PODCAST INTERVIEW TRANSCRIPT
-Tony Gallippi on bitcoin merchant processor
+Tony Gallippi of Bitpay on bitcoin merchant processing for over 60,000 merchant clients including behemoths like Microsoft, Newegg, Dell, TigerDirect and others.
 <h2>Interview with Tony Gallippi on Bitcoin Merchant Processor</h2>
 <strong>Trace Mayer:</strong>  Welcome back. We have a legendary interview with the legendary Tony Gallippi from BitPay.  Welcome to the podcast.
 
