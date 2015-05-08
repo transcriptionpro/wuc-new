@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jesse Powell
+title: Jesse Powell - CEO of Kraken
 author: Jesse Powell
 authorurl: https://www.weusecoins.com/jesse-powell/
 published: true
