@@ -3,10 +3,13 @@
 layout: post
 title: Erik Voorhees on financial collateral
 author: Erik Voorhees
-authorurl: http://www.weusecoins.com/erik-voorhees/
+authorurl: https://www.weusecoins.com/erik-voorhees/
 description: Erik Voorhees discusses financial collateral
 published: true
 ---
+<img src="/images/erik-voorhees.png" alt="Erik Voorhees" align="right">Erik Voorhees is co-founder of the Bitcoin company Coinapult, worked as Director of Marketing at BitInstant, and was founder and partial owner of the Bitcoin gambling website Satoshi Dice which was subsequently sold in July 2013 to an undisclosed buyer for 126,315 bitcoins which were valued at $11.5M.
+<p>
+He was fined by the SEC for an unregistered stock offering related to SatoshiDice. He is  the creator and CEO of the instant bitcoin and altcoin exchange <a href="/shapeshift/">ShapeShift.io</a>, having founded and operated it under the alias Beorn Gonthier, until revealing his true involvement with the company, as part of a seed funding announcement, in March 2015.
 <p><h2>Podcast Interview Transcript</h2>
 <p>Erik Voorhees talks how he fell into the rabbit hole of bitcoin and financial collateral.
 
