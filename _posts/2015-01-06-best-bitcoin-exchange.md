@@ -1,19 +1,18 @@
-Kraken CEO Jesse Powell discusses exchange business, MtGox receivership and best security practices.
-<h2>Interview with <p> <strong>Jesse Powell </strong>on Best Bitcoin Exchange</h2>
-
 ---
 layout:post
-title:Jesse Powell | Kraken, the best bitcoin exchange
-author:Jesse Powell
-authorurl:http://www.bitcoin.kn/2015/01/btck-124-2015-01-06/
-description:Jesse Powell talks about Kraken, best bitcoin exchange, Mt. Gox, Mark Karpeles and bitcoin security.
+title: Jesse Powell | Kraken - the best bitcoin exchange
+author: Jesse Powell
+authorurl: http://www.weusecoins.com/jesse-powell/
+description:Jesse Powell talks about Kraken, the best bitcoin exchange, Mt. Gox, Mark Karpeles and bitcoin security.
 published:true
 ---
 
-<img src="/images/jesse-powell.png" alt="Jesse Powell" align="right">Jesse is the CEO of <a href="/kraken/">Kraken.</a> 
+<img src="/images/jesse-powell.png" alt="Jesse Powell" align="right">Jesse is the CEO of <a href="/kraken/">Kraken</a>. 
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/p4xJOPIOFiM" frameborder="0" allowfullscreen></iframe>
 <p>
+Kraken CEO Jesse Powell discusses exchange business, MtGox receivership and best Bitcoin security practices.
+<h2>Interview with <p> <strong>Jesse Powell </strong>on Best Bitcoin Exchange</h2>
 ### PODCAST INTERVIEW TRANSCRIPT
 <p> <strong>Trace Mayer:</strong>  This is 124th episode of the Bitcoin Knowledge Podcast and we have with us the legendary Jesse Powell, CEO of Kraken (best bitcoin exchange).  It's Europe best bitcoin exchange and welcome to the podcast, Jesse.
 
