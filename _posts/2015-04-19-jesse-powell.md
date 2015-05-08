@@ -13,5 +13,5 @@ published: true
 <p>
 ## Bitcoin articles by Jesse Powell
 <ul>
-<li><a href="">Bitcoin and Interest Rates</a></li>
+<li><a href="/best-bitcoin-exchange/">Best Bitcoin Exchange</a></li>
 </ul>

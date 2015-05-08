@@ -2,7 +2,7 @@
 layout: post
 title: Brian Donegan | Isle of Man Government
 author: Brian Donegan
-authorurl: http://www.weusecoins.com
+authorurl: https://www.weusecoins.com/
 published: true
 ---
 
