@@ -12,7 +12,7 @@ published: true
 <iframe width="700" height="394" src="https://www.youtube.com/embed/p4xJOPIOFiM" frameborder="0" allowfullscreen></iframe>
 <p>
 Kraken CEO Jesse Powell discusses exchange business, MtGox receivership and best Bitcoin security practices.
-<h2>Interview with <p> <strong>Jesse Powell </strong>on Best Bitcoin Exchange</h2>
+<h2>Interview with <strong>Jesse Powell </strong>on Best Bitcoin Exchange</h2>
 ### PODCAST INTERVIEW TRANSCRIPT
 <p> <strong>Trace Mayer:</strong>  This is 124th episode of the Bitcoin Knowledge Podcast and we have with us the legendary Jesse Powell, CEO of Kraken (best bitcoin exchange).  It's Europe best bitcoin exchange and welcome to the podcast, Jesse.
 
