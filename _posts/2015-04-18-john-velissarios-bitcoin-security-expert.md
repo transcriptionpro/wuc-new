@@ -7,7 +7,7 @@ published: true
 ---
 
 
-<img src="/images/john-velissarios.png" alt="John Velissarios" align="right">John joined <a href="/armory-technologies/">Armory Technologies, Inc.</a> as co-founder of Armory Enterprise Security LLC and spearheads the professional global services division. He brings two decades of IT security expertise earned in the world’s most trusted consulting organizations and was entrusted with protecting the world's most important and valuable private keys. He served a global customer base of tier 1 financial institutions and payment processors.<p>
+<img src="/images/john-velissarios.png" alt="John Velissarios" align="right">John joined <a href="/armory-technologies/">Armory Technologies, Inc.</a> as CEO & CISO of Armory and spearheads the professional global services division. He brings two decades of IT security expertise earned in the world’s most trusted consulting organizations and was entrusted with protecting the world's most important and valuable private keys. He served a global customer base of tier 1 financial institutions and payment processors.<p>
 <p>
 His expertise spans cryptography, digital currencies, risk management, threat and vulnerability assessment, security protocols, governance, solution architecture and implementation. He spent eleven years as a Senior Principal in Accenture’s technology consulting practice and led the security strategy and risk services practice across Europe, Africa and Latin America. He also led security for Financial Services in UK and Ireland. Prior to Accenture he spent six years as a Senior Manager in PwC’s Security Consulting Practice.
 <p>
