@@ -7,7 +7,7 @@ description: Phil Champagne is the compiler of the Book of Satoshi.
 published: true
 ---
 
-<img src="/images/phil-champagne.png" alt="Phil Champagne" align="right">Phil Champagne is the compiler of the Book of Satoshi
+<img src="/images/phil-champagne.png" alt="Phil Champagne" align="right">Phil Champagne is the compiler of the <a href="http://www.runtogold.com/bookofsatoshi">Book of Satoshi</a>.
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/GHVLVlkNPMM" frameborder="0" allowfullscreen></iframe>
 
