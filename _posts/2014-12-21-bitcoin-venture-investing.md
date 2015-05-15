@@ -12,9 +12,6 @@ published: true
 <iframe width="700" height="394" src="https://www.youtube.com/watch?v=cwjb6Iov_mc" frameborder="0" allowfullscreen></iframe>
 <p>
 ### PODCAST INTERVIEW TRANSCRIPT
-<p>
-<h2>Brock Pierce on Bitcoin Venture Investing</h2></p>
-
 <p><h2>Interview with Brock Pierce on Bitcoin Venture Investing</h2></p>
 
 <p><strong>Trace Mayer</strong>:  Welcome back to Bitcoin Knowledge Podcast.  We have a tremendous interview with Brock Pierce.  He is co-founder of GoCoin, Managing Partner at Crypto Currency Partners; and also on the board of directors of the Bitcoin Foundation.  Welcome.</p>
