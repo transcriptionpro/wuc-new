@@ -6,16 +6,14 @@ authorurl: http://www.bitcoin.kn/2015/03/btck-146-2015-03-26/
 description: Elizabeth Rossiello, CEO and founder of Bitpesa, talks about bitcoin Africa.
 published: true
 ---
-<img src="/images/elizabeth-Rossiello.png" alt="Elizabeth Rossiello" align="right">Elizabeth Rossiello, CEO and founder of Bitpesa, talks about bitcoin Africa.
+<img src="/images/elizabeth-rossiello.png" alt="Elizabeth Rossiello" align="right">Elizabeth Rossiello, CEO and founder of Bitpesa, talks about bitcoin in Africa.
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/NX9bViaViTs" frameborder="0" allowfullscreen></iframe>>
-<p>
-Andy holds a degree in systems engineering and graduate degrees in computer science and computer systems engineering.
 <p>
 
 ### PODCAST INTERVIEW TRANSCRIPT
 
-<h2>Interview with Elizabeth Rossiello on bitcoin Africa</h2>
+<h2>Interview with Elizabeth Rossiello on bitcoin in Africa</h2>
 
 <strong>Trace Mayer:</strong>  Welcome back to the podcast.  We have with us Elizabeth Rossiello.  She is CEO and founder of Bitpesa which is doing some great work over in Africa.  Welcome to the podcast.
 
