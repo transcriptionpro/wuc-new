@@ -7,7 +7,7 @@ description: Nick Sullivan is the CEO and founder of ChangeTip.
 published: true
 ---
 
-<img src="/images/nick-sullivan .png" alt="Nick Sullivan" align="right">Nick Sullivan is the CEO and founder of <a href="/change-tip/">ChangeTip</a>, a love button for the internet.
+<img src="/images/nick-sullivan.png" alt="Nick Sullivan" align="right">Nick Sullivan is the CEO and founder of <a href="/change-tip/">ChangeTip</a>, a love button for the internet.
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/2cDYfBJ8WsQ" frameborder="0" allowfullscreen></iframe>
 <p>
