@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/brock-pierce.png" alt="Brock Pierce" align="right">Brock Pierce</a> is a partner at Crypto-Currency Partners.
 <p>
-<iframe width="700" height="394" src="https://www.youtube.com/watch?v=cwjb6Iov_mc" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/cwjb6Iov_mc" frameborder="0" allowfullscreen></iframe>
 <p>
 ### PODCAST INTERVIEW TRANSCRIPT
 <p><h2>Interview with Brock Pierce on Bitcoin Venture Investing</h2></p>
