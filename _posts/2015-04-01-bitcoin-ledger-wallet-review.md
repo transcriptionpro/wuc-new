@@ -23,6 +23,7 @@ published: true
 <a href="#Cons">Cons</a><br />
 <a href="#Competitors">Competitors</a><br />
 <a href="#Conclusion">Conclusion</a></strong></p>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/5Ss7xnFP9AM" frameborder="0" allowfullscreen></iframe></center>
 <p><a name="Basics"></a></p>
 <h2><strong>Basics</strong></h2>
 <p>The <a href="https://www.ledgerwallet.com/r/4727" rel="nofollow" target="_blank">Bitcoin Ledger Wallet Nano</a> is a new hierarchical deterministic multisig hardware wallet for bitcoin users that aims to eliminate a number of attack vectors through the use of a second security layer. This tech-heavy description does not mean much to the average consumer, though, which is why I am going to explain it in plain language, describing what makes the Bitcoin Ledger Wallet Nano tick. The wallet launched in early December and for more background on the project you can <a href="/ledger-launches-usb-bitcoin-wallet-bank-grade-security/">catch up on our launch coverage</a>.</p>
