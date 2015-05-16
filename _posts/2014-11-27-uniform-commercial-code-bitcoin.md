@@ -7,14 +7,14 @@ description: Miles Cowan is the CEO and founder of Tillit.
 published: true
 ---
 
-<img src="/images/miles-cowan.png" alt="Miles Cowan" align="right">Attorney and CEO Miles Cowen of Tillit discusses Bitcoin and UCC.
+<img src="/images/miles-cowen.png" alt="Miles Cowan" align="right">Attorney and CEO Miles Cowen of Tillit discusses Bitcoin and Uniform Commercial Code (UCC).
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/Pac8BEfqJGM" frameborder="0" allowfullscreen></iframe>
 <p>
 
 ### PODCAST INTERVIEW TRANSCRIPT
 
-<h2><strong>Interview with Miles Cowan on UCC and bitcoin</strong></h2>
+<h2><strong>Interview with Miles Cowan on the Uniform Commercial Code (UCC) and Bitcoin</strong></h2>
 <strong> </strong>
 
 <strong>Trace Mayer:</strong>  Okay.  Welcome back to the Bitcoin Knowledge Podcast.  We have an excellent guest today, Miles Cowan.  He is CEO and Founder of Tillit and also partner at, what is it, Bailey Market?
