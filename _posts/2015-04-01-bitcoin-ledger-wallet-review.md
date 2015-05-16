@@ -52,6 +52,7 @@ published: true
 <p>Ledger is aware of these limitations and is working to develop a mobile companion app that will essentially allow another device to act as a screen for the wallet. The app will be paired to the wallet using the security card, allowing the wallet to display the challenge on the mobile device, along with the target address and amount of BTC. The user will then be able to sign the security challenge and facilitate the transaction. The company plans to release the companion app in January 2015.</p>
 <p><a name="Usability"></a></p>
 <h2>Using the device</h2>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/6_Zdw1f1Los" frameborder="0" allowfullscreen></iframe></center>
 <p><img class="aligncenter" src="/images/bitcoin-ledger-wallet-nano-review-8.png" alt="bitcoin ledger wallet nano review" width="630" height="200" /></p>
 <p>The wallet is designed for use on desktop operating systems on Google's Chrome browser. I used an Asus Windows 8.1 tablet with a keyboard dock as the test bed.</p>
 <h3>Installing the Bitcoin Ledger Wallet Nano</h3>
