@@ -7,8 +7,8 @@ description: Elizabeth Rossiello, CEO and founder of Bitpesa, talks about bitcoi
 published: true
 ---
 <img src="/images/elizabeth-rossiello.png" alt="Elizabeth Rossiello" align="right">Elizabeth Rossiello, CEO and founder of Bitpesa, talks about bitcoin in Africa. You will learn about how she is pioneering the deployment of Bitcoin in Africa.
-<p>
-But before we get to the interview, this short video will help you see what is happening with Bitcoin in Africa. Bitcoin greatly reduces the costs for securing and sending money. This has huge implications for the developing world. Many of these people have no access to financial services that those in the developed world take for granted and when they do the fees are really high. Bitcoin is a powerful tool these people can use to lift themselves out of poverty.
+<p>Bitcoin greatly reduces the costs for securing and sending money. This has huge implications for the developing world. Many of these people have no access to financial services that those in the developed world take for granted and when they do the fees are really high.
+<p>Bitcoin is a powerful tool these people can use to lift themselves out of poverty. But before we get to the interview, this short video will help you see what is happening with Bitcoin in Africa.
 <p>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/BrRXP1tp6Kw" frameborder="0" allowfullscreen></iframe></center>
 ### Interview with Elizabeth Rossiello
