@@ -7,7 +7,7 @@ description: Miles Cowan is the CEO and founder of Tillit.
 published: true
 ---
 
-<img src="/images/miles-cowen.png" alt="Miles Cowan" align="right">Attorney and CEO Miles Cowen of Tillit discusses Bitcoin and Uniform Commercial Code (UCC).
+<img src="/images/miles-cowan.png" alt="Miles Cowan" align="right">Attorney and CEO Miles Cowen of Tillit discusses Bitcoin and Uniform Commercial Code (UCC).
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/Pac8BEfqJGM" frameborder="0" allowfullscreen></iframe>
 <p>
