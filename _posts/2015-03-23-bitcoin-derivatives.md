@@ -7,7 +7,7 @@ description: Paul Chou is the CEO and founder of LedgerX
 published: true
 ---
 
-<img src="/images/paul-chou.jpg" alt="Paul Chou" align="right">LedgerX CEO Paul Chou discusses Bitcoin derivatives and his fully-collateralized and physically-settled bitcoin options for the institutional market.
+<img src="/images/paul-chou.jpg" alt="Paul Chou" align="right">LedgerX CEO Paul Chou discusses Bitcoin derivatives and his fully-collateralized and physically-settled bitcoin options for the institutional market. Paul Chou was a trader on the Quantitative Cash Trading desk within the Securities Division of Goldman Sachs where he was responsible for the development, trading and risk management of algorithmic equity trading strategies for U.S. and Japanese markets. Now he is CEO of LedgerX which is developing sophisticated financial instruments for Wall Street to use in their Bitcoin derivatives.
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/vFWb7PPouv8" frameborder="0" allowfullscreen></iframe>
 <p>
