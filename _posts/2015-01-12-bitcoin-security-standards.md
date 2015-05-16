@@ -7,7 +7,7 @@ description: Crypto Currency Certification Consortium President Michael Perklin 
 published: true
 ---
 
-<img src="/images/michael-perklin.png" alt="Michael Perklin" align="right">Crypto Currency Certification Consortium President Michael Perklin discusses certification of trusted professionals with trustless technologies.
+<img src="/images/michael-perklin.png" alt="Michael Perklin" align="right">Crypto Currency Certification Consortium President Michael Perklin discusses certification of trusted professionals with trustless technologies. He is a cybersecurity expert who has worked for over a decade in the information security space. In the past he has held positions as a cyber investigator, a digital-forensic investigator, a reverse engineer, an application tester, and a computer programmer.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/SZ9newKUw8k" frameborder="0" allowfullscreen></iframe>
 <p>
