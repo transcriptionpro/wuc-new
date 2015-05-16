@@ -3,7 +3,7 @@ layout: post
 title: Jeffrey Tucker | Founder of Liberty.me
 author: Jeffrey Tucker
 authorurl: http://www.bitcoin.kn/2015/01/btck-129-2015-01-27/
-description: Jeffrey Tucker, founder and CEO of Liberty.me.
+description: Jeffrey Tucker, founder and CEO of Liberty.me, discusses monetary theory and monetary history.
 published: true
 ---
 
