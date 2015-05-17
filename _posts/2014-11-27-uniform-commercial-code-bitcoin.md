@@ -7,7 +7,15 @@ description: Miles Cowan is the CEO and founder of Tillit.
 published: true
 ---
 
-<img src="/images/miles-cowan.png" alt="Miles Cowan" align="right">New York Attorney Miles Cowan, a partner at <a href="http://baileyduquette.com/Miles_B.html">Bailey Duquette</a> and CEO of Tillit, discusses Bitcoin and Uniform Commercial Code (UCC). His experience includes representing a private equity fund in connection with the restructuring of one of its portfolio company’s debt structure; representing a private equity fund in acquiring a controlling interest in a privately computer-based certification firm; representing a cloud computing provider in connection with its acquisition by a public company; representing several technology companies in multiple series of debt and equity financings; assisting a large insurance company in financing the acquisition and servicing of multiple portfolios of viatical settlements; representing a privately held regional cellular telephone company in the acquisition of multiple cellular telephone markets from a national carrier; representing a private investment fund in obtaining financing to fund loans to individual franchisees of a national franchise.
+<img src="/images/miles-cowan.png" alt="Miles Cowan" align="right">New York Attorney Miles Cowan, a partner at <a href="http://baileyduquette.com/Miles_B.html">Bailey Duquette</a> and CEO of Tillit, discusses Bitcoin and Uniform Commercial Code (UCC).
+<p>His experience includes:
+<ul><li>a private equity fund in connection with the restructuring of one of its portfolio company’s debt structure</li>
+<li>a private equity fund in acquiring a controlling interest in a privately computer-based certification firm</li>
+<li>a cloud computing provider in connection with its acquisition by a public company</li>
+<li>several technology companies in multiple series of debt and equity financings</li>
+<li>assisting a large insurance company in financing the acquisition and servicing of multiple portfolios of viatical settlements</li>
+<li>a privately held regional cellular telephone company in the acquisition of multiple cellular telephone markets from a national carrier</li>
+<li>a private investment fund in obtaining financing to fund loans to individual franchisees of a national franchise</li></ul>
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/Pac8BEfqJGM" frameborder="0" allowfullscreen></iframe>
 <p>
