@@ -2,12 +2,14 @@
 layout: post
 title: Brian Donegan | Isle of Man Government
 author: Brian Donegan
-authorurl: http://www.bitcoin.kn/2014/11/btck-110-2014-11-24/
+authorurl: /brian-donegan/
 description: Brian Donegan of Isle of Man government on creating Bitcoin Island.
 published: true
 ---
 
-<img src="/images/brian-donegan.png" alt="Brian Donegan" align="right">Brian Donegan, Director of Foreign Direct Investment at Isle of Man Finance on creating Bitcoin Island.
+<img src="/images/brian-donegan.png" alt="Brian Donegan" align="right">Brian Donegan, Director of Foreign Direct Investment at Isle of Man Finance on creating Bitcoin Island. He has been instrumental in bringing Bitcoin and cryptocurrency businesses to the Isle of Man.
+
+April 1st 2015 the Isle of Man's Bitcoin specific legislation, the Proceeds of Crime Act, went into effect which has created a very friendly environment for legitimate businesses on the island and was specifically tailored to (1) protect customer funds and (2) keep crime out.
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/0o1AwvTowiE" frameborder="0" allowfullscreen></iframe>
 
