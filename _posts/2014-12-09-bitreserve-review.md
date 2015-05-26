@@ -7,7 +7,13 @@ description: Halsey Minor on BitReserve review.
 published: true
 ---
 
-<img src="/images/halsey-minor.png" alt="Halsey Minor" align="right">Halsey Minor, CEO BitReserve
+<img src="/images/halsey-minor.png" alt="Halsey Minor" align="right">Halsey Minor, CEO BitReserve, an Internet and tech pioneer, Halsey Minor was a key player in the digital publishing revolution. In 1993, he founded CNET Networks, the first comprehensive consumer-facing technology content publisher and one of the most-visited and trusted technology information resources in the world. Halsey led CNET to become a NASDAQ 100 company. CNET was acquired by CBS Corporation in 2008 for $1.8 billion.
+
+In 1997, Halsey spun off technology developed by CNET to Vignette, a web-publishing software company, acquiring a 33% stake in the company. Vignette was one of the most successful IPOs of the first tech boom, reaching a market capitalization of $10.7 billion in 2000. Halsey also provided the seed funding for trailblazing music service Rhapsody in 1998.
+
+In 1999, Halsey invested $19.5 million in Salesforce.com, foreseeing the emerging cloud-computing industry that Salesforce led with its "No Software" slogan. He was Salesforce’s second-largest shareholder at the company’s 2004 IPO, owning over 10% of the company.
+
+In 2005, Halsey established Minor Ventures, the vehicle through which he founded and funded a string of successful tech startups, including OpenDNS, a web security leader, and Grand Central Communications, one of the world’s first web-based telephony companies. In 2007, Halsey sold Grand Central Communications to Google, where it was rebranded as Google Voice.
 <p>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/U-5Gs-sl3eo" frameborder="0" allowfullscreen></iframe>
 <p>
