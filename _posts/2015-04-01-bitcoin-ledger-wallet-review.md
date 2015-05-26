@@ -7,7 +7,7 @@ description: Bitcoin Ledget Wallet review and how to use the Bitcoin Ledget Wall
 published: true
 ---
 
-<a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a>
+<center><a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a></center>
 ### Review of the Bitcoin Ledger Wallet Nano</p>
 <p><strong>Description:</strong> A USB bitcoin hardware wallet with smartcard security in a very compact package.</p>
 <p><strong>Maker:</strong> Ledger SAS</p>
@@ -93,7 +93,7 @@ published: true
 <li>The security card approach has its own pros and cons. While it helps keep the cost down and allows designers to create a truly pocketable device, it also provides slightly lower levels of security than a device with a dedicated screen. However, this issue could to some extent be addressed by the upcoming companion app.</li>
 <li>Can't be used on mobile devices, support is currently limited to Chrome browser.</li>
 </ul>
-<a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a>
+<center><a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a></center>
 <p><a name="Competitors"></a></p>
 <h2>Alternatives</h2>
 <p>The Trezor wallet features a screen for an added level of immunity, but costs $119.<br />
@@ -104,4 +104,4 @@ published: true
 <p>The device can fit on a keychain and the security card in practically any physical wallet, which makes the Ledger very practical. If you lose either component, you can still recover your wallet using your mnemonic seed. The upcoming companion mobile app should boost security and bring Ledger on a par with more expensive solutions.</p>
 <p><i>This article should not be viewed as an endorsement of any of the companies or products mentioned. Please do your own extensive research before considering investing any funds.</i></p>
 <p><strong>Where to buy:</strong> Direct from <a href="https://www.ledgerwallet.com/r/4727" target="_blank" rel="nofollow">Ledger</a>.
-<a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a>
+<center><a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a></center>
