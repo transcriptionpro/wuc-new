@@ -13,5 +13,5 @@ published: true
 ## Article by Brian Donegan
 <ul>
 <li><a href="/isle-of-man-blockchain-cluster expansion/">Isle of Man Blockchain cluster expansion!</a></li>
-<li><a href="/brian-donegan-isle-of-man/">Bitcoin Knowledge Podcast Interview</a></li>
+<li><a href="/bitcoin-isle-of-man/">Bitcoin in the Isle of Man</a></li>
 </ul>
