@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Dashcoin?
+title: What is Dash?
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
@@ -13,7 +13,7 @@ It allows you to keep your finances private as you make transactions without wai
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/hfQkgaI04Uo" frameborder="0" allowfullscreen></iframe>
 <p>
-<h2>Darkcoin was rebranded into DASHcoin</h2>
+<h2>Darkcoin was rebranded into DASH</h2>
 Keep your payments private so nobody can track you thanks to Darksend. Much lower than banks or credit cards, often even free. Payments are received instantly by the other party thanks to InstantX. Uses a decentralized network, so no centralized third party to trust. Advanced encryption and a 2-tier network for complete security. You can send money anywhere in the world.
 <h2>What is Dash</h2>
 Dash (DASH) is a privacy-centric digital currency with instant transactions. It is based on the Bitcoin software, but it has a two tier network that makes possible to improve upon it. Dash allows you to remain anonymous while you make transactions, similar to cash. With Bitcoin, transactions are published to the blockchain and you can prove who made them or to whom, but with Dash the anonymization technology makes it impossible to trace them.
@@ -35,13 +35,13 @@ In response to unforeseen issues with the rollout of RC3, the Dash development t
 <p>Communication is sent out to users informing them of the change and the need for them to update their clients. Those who update their clients run the new code, but in the event of errors occurring with that new code, the client’s blocks are not rejected by the network and unintended forks are avoided. Data about the error can then be collected and forwarded to the development team. Once the development team is satisfied with the new code’s stability in the mainnet environment – and once acceptable network consensus is attained – enforcement of the updated code can be activated remotely. Should problems arise, the code can be deactivated in the same manner, without the need for a network-wide rollback or client update.
 <p>This innovation allows for far smoother transitions than in the traditional hard fork paradigm, as well as the collection of test data in the live network environment. We set out with the intention of calling this method of updating the “Soft Fork”, but the Dash community quickly dubbed it the “Spork” and the name seems to have stuck.
 <h2>Getting started with Litecoin</h2>
-It is very easy to start using DASHcoin.
+It is very easy to start using DASH.
 <p>
-<ul><li>Step 1: Get A DASHcoin Wallet.</li>
-<li>Step 2: Get Some DASHcoin at the <a href="https://www.kraken.com/">best DASHcoin exchange</a>.</li>
-<li>Step 3: Use Your DASHcoin.</li>
+<ul><li>Step 1: Get A DASH Wallet.</li>
+<li>Step 2: Get Some DASH at the <a href="https://www.kraken.com/">best DASH exchange</a>.</li>
+<li>Step 3: Use Your DASH.</li>
 <li>Step 4: Stay Up-to-Date.</li></ul>
-<h2>What is DASHcoin mining?</h2>
+<h2>What is DASH mining?</h2>
 Dash uses a special algorithm called X11 for the proof of work. X11 is one of the innovations introduced by Dash and has been widely adopted in the cryptocurrency community since its launch.
 <p>Dash can currently be mined both with GPUs and CPUs (mining hardware comparison here). The characteristics of X11 make it very unlikely that ASICs will be developed to mine it, at least in the short term.
 <p>If you are from the DASH community then please consider contributing to this article by submitting a pull request.
