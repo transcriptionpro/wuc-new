@@ -2,7 +2,7 @@
 layout: post
 title: BlockTrail
 author: Boaz Bechar
-authorurl: http://www.weusecoins.com/boaz-bechar/
+authorurl: https://www.weusecoins.com/boaz-bechar/
 published: true
 ---
 
