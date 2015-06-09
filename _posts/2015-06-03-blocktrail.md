@@ -7,6 +7,7 @@ published: true
 ---
 
 <img src="/images/blocktrail.png" alt="BlockTrail" align="right">
+<p>&nbsp;</p>
 <p>BlockTrail provides secure bitcoin infrastructure for developers and enterprises, enabling advanced transaction functionality and access to refined economic data-sets.</p>
 <p>Founded in 2014 and based in Amsterdam, the Netherlands, BlockTrail is dedicated to delivering better tools for the bitcoin economy. To help further this mission we offer three exciting products: BlockTrail Webwallet, Block Explorer and API.</p>
 
@@ -30,14 +31,14 @@ published: true
 #### Jop Hartog, VP Business Development
 <p>Previously co-founded Vircu.me, a platform for bitcoin information (now a part of BlockTrail). Jop has been a part of the Bitcoin community since 2010 and now leads BlockTrail’s community and business development.</p>
 
-#### Alejandro De La Torre, Marketing & Sales
+#### Alejandro De La Torre, Business Development
 <p>Previously founder of SendChat, a digital currency messaging app(acquired by BlockTrail May 2015). Alejandro brings entrepreneurial experience and practical understanding of how to apply blockchain technology in business settings.</p>
 
-#### Sarah Foster, Sales and Marketing
-<p> Sarah has 5 + years of early stage startup experience. Her first startup was Vertica (acquired by HP) where she helped build and grow its ecosystem of partners. In her latest role at Solano Labs she was responsible for sales, marketing & business development strategy and execution.  She now leads expansion efforts at BlockTrail. </p>
+#### Sarah Foster, Expansion
+<p>Sarah has 5 + years of early stage startup experience. Her first startup was Vertica (acquired by HP) where she helped build and grow its ecosystem of partners. In her latest role at Solano Labs she was responsible for sales, marketing & business development strategy and execution.</p>
 
 #### Oisin Akiboye Conolly, Core Developer
-<p> Oisin was a freelance at OAC Designs, specialising in systems development, graphic design, and photography. Prior to that he was the IT Manager and lead software developer fot StG, a global speciality gas mixtures company based in the UK.</p>
+<p>Oisin was a freelance at OAC Designs, specialising in systems development, graphic design, and photography. Prior to that he was the IT Manager and lead software developer fot StG, a global speciality gas mixtures company based in the UK.</p>
 
 #### Geoff Bolton, CFO
 <p>International finance and business development expert, focusing on FX markets, technology-centric hedge funds and asset management.</p>
