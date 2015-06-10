@@ -6,8 +6,7 @@ authorurl: http://www.weusecoins.com/jeremy-rubin
 published: true
 ---
 
-<h1>8 Problems for the Bitcoin Community to Solve Before Block Size:</h1>
-Recently the debate around block size has been getting a huge amount of attention, and it is easy to think this is the most important issue for scaling Bitcoin. For context, currently the Bitcoin network can process only a few transactions per second.
+<p>Recently the debate around block size has been getting a huge amount of attention, and it is easy to think this is the most important issue for scaling Bitcoin. For context, currently the Bitcoin network can process only a few transactions per second.
 <p><a href="https://github.com/gavinandresen/bitcoin-git/commit/5f46da29fd02fd2a8a787286fd6a56f680073770" data-href="https://github.com/gavinandresen/bitcoin-git/commit/5f46da29fd02fd2a8a787286fd6a56f680073770" class="markup--anchor markup--p-anchor" rel="nofollow">A proposal</a> suggests increasing this 20 fold. While Bitcoin should eventually be able to handle increased volume, there is much debate about how and when to make this increase. It’s certainly an important issue, but it’s not as pressing as other issues.
 <p>Here’s a list of 8 problems that are more important to solve than block size, and why I think so. My hope is that this article will provide the Bitcoin community with fresh targets for discourse on issues which are not getting the attention they deserve.
 <p><h2>1: Privacy</h2>
