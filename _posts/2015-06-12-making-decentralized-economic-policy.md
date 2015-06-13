@@ -2,7 +2,7 @@
 layout: post
 title: Making Decentralized Economic Policy
 author: Jeff Garzik
-authorurl: http://garzikrants.blogspot.com/
+authorurl: /jeff-garzik/
 published: true
 ---
 
