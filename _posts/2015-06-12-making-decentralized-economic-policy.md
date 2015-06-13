@@ -18,7 +18,7 @@ Economic policy in the bitcoin system is intentionally hard to change. According
 
 Changing bitcoin’s rules requires a risky operation known as a hard fork, an abrupt global upgrade. There are many policy and engineering risks related to a hard fork. In many ways, it is akin to a Constitutional Convention in the US: Anything about the foundation of the bitcoin system may be changed in a hard fork. Nothing is sacred.
 One of the largest risks is social: If two or more populations of users choose to follow different rules, one of bitcoin’s key axioms is broken: the same bitcoin may be spent twice (one in each user population). Each population has an enormous incentive to seek consensus and end this situation. If such a split occurs, bitcoin payment processors, exchanges and other businesses must either Pick A Side or simply shut down until the confusion is resolved, severely damaging confidence.
-Censorship resistance: an engineering requirement
+### Censorship resistance: an engineering requirement
 Preventing the double­spending of bitcoin tokens requires an underlying engineering system that cannot be altered by any party, ever, once transactions are published to the blockchain. This censorship resistance is required for reliable operation of the system, and enables a core principle also found in the Internet itself: permissionless innovation. Apps are more easily built upon top of open platforms such as bitcoin, or the Internet.
 This is the core security service “backing” bitcoin. This irrevocable security service may be used to secure transfer currency tokens (BTC), physical assets (smart property), stocks, bonds, and more.
 Eroding the censorship resistance of the system erodes bitcoin’s long term value. There can only be trust achieved in the system as a whole when bitcoin is viewed as a neutral actor.
@@ -39,7 +39,7 @@ Conversely, a prevailing view is that this speed limit presents a severe constra
 Higher fees then drive a preference for centralized services which can aggregate those fees across multiple bitcoin users, or strike bulk rate deals. The use of bitcoin becomes a rather exclusive club.
 ### What are the consequences of action?
 Lower fees incentivize use of bitcoin at a key time in its young life. The cost to experiment with new and exciting bitcoin applications remains low. Noname and Big Name developers make plans to build atop bitcoin. Economic activity remains near frictionless. A virtuous cycle is created.
-### All very positive ­ yet there are costs.
+All very positive ­ yet there are costs.
 This change creates some technical, policy, political and social fallout. This action is willfully ­ artificially? ­ keeping bitcoin transaction fees low. Thus, much like the US Federal Reserve’s goal of keeping inflation low, a more actively managed policy is being put into place. While true the consequences of inaction are painful, the parallels between Fed policy and the proposed solution are inescapable.
 Keeping fees low (versus 1MB limit) has additional fallout. The natural economic state of a block is to be 100% full at all times. The only reason why this does not occur today is an anti­spam economic policy in the bitcoin software, which ignores extremely­low­value “dust” transactions which are accompanied by extremely low (or zero) fees. Lowering fees in the bitcoin system thus relies more heavily on the anti­spam system to filter out “junk” The definition of “junk” is subjective and not entirely technical.
 Larger blocks push marginal actors off the network, having centralizing effects on the overall network. Techniques exist to mitigate this to some extent, but it remains true. Large blocks are more sensitive to network latency. Network bottlenecks, delays and cyberattacks, unintentional and malicious, are amplified at larger block sizes. The opportunities for bad actors to “push the system around” increases, as marginal actors leave, and decentralization leaves right along with it. 1MB is too small. How much is too much? Good answers remain elusive.
@@ -53,24 +53,24 @@ On balance, increasing block size limit above 1MB is needed.
 It is clear that the current speed limit, 1,000,000 bytes, is too low and will retard growth and lead to user pain and expense if not increased. What is unclear and under­researched is the opposite side of the equation: How much is too much? Some Chinese pools and exchanges, for example, warn they will be at a disadvantage and ultimately pushed off the network at the originally proposed 20MB size.
 Further, it is important to separate the hard fork risk away from the block size change events as much as possible. It is also important to plan ahead for change... yet not plan too far ahead. Be flexible and build a framework for rapid iteration as informed by field experience.
 Protocol changes proposed:
-1. Hard fork to remove 1MB block size limit.
-2. Simultaneously,​addanewsoftforklimitof2MB.
-3. Schedule the hard fork on testnet for September 1, 2015.
-4. Schedule the hard fork on bitcoin main chain for December 11, 2015.
-5. Default miner block size becomes 1MB (easily changeable by miner at any time, as
-today).
-6. Changing the 2MB limit is accomplished in a manner similar to BIP 34, a one­way
-lock­in upgrade with a 12,000 block (3 month) threshold by 75% of the blocks.
-7. Limit increase may not exceed 2x in any one step.
+<ul><li>1. Hard fork to remove 1MB block size limit.</li>
+<li>2. Simultaneously,​addanewsoftforklimitof2MB.</li>
+<li>3. Schedule the hard fork on testnet for September 1, 2015.</li>
+<li>4. Schedule the hard fork on bitcoin main chain for December 11, 2015.</li>
+<li>5. Default miner block size becomes 1MB (easily changeable by miner at any time, as today).</li>
+<li>6. Changing the 2MB limit is accomplished in a manner similar to BIP 34, a one­way</li>
+lock­in upgrade with a 12,000 block (3 month) threshold by 75% of the blocks.</li>
+<li>7. Limit increase may not exceed 2x in any one step.</li></ul>
 This creates a framework whereby the network may increase the block size by consensus via soft fork, a lower and less politically risky hurdle than hard fork. Sizes beyond 2MB may be chosen without a flag­day network upgrade. A small size increment limits the potential for
 
 ￼unexpected harm to bitcoin network security, and gives the network time to test, prepare and adjust overall behavior.
 Other, more complex solutions such as extension blocks ­ a speed limit workaround ­ are rejected in favor of this one­time, highly simple change that greatly reduces the need for future hard forks in this area.
 This BIP accomplishes several goals:
-G1: Demonstrates change is possible; the bitcoin protocol can be upgraded. G2: Eliminate 1MB limit as impediment to adoption.
-G3: Get hard fork risk out of the way early.
-G4: KISS solution, in terms of code changes.
-G5: Upgrade path, yet constrained until problem & solution better understood.
+<ul><li>G1: Demonstrates change is possible; the bitcoin protocol can be upgraded.</li>
+<li>G2: Eliminate 1MB limit as impediment to adoption.</li>
+<li>G3: Get hard fork risk out of the way early.</li>
+<li>G4: KISS solution, in terms of code changes.</li>
+<li>G5: Upgrade path, yet constrained until problem & solution better understood.</li></ul>
 This introduces friction into the block size increase process ­ making it changeable, yet giving participants in the system sufficient time to observe system behavior and change course. Ultimately moving towards a system where the market decides the best block size.
 Discussion: Low signal, high noise
 Major policy changes in an open source project are messy. What would, in a central bank, be a closed door policy discussion is instead held out in the open, with all parties airing their opinions in an open forum. Transparency wins, even if sometime a painful process.
