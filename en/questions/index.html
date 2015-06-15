@@ -87,6 +87,7 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
   <li><a href="#how-much-will-the-transaction-fee-be">How much will the transaction fee be?</a></li>
   <li><a href="#what-if-i-receive-a-bitcoin-when-my-computer-is-powered-off">What if I receive a bitcoin when my computer is powered off?</a></li>
   <li><a href="#what-does-synchronizing-mean-and-why-does-it-take-so-long">What does "synchronizing" mean and why does it take so long?</a></li>
+  <li><a href="#what-does-increasing-the-block-size-mean">What does increasing the block size mean?</a></li>
 </ul>
 <li><a href="#mining">Mining</a></li>
 <ul>
@@ -125,6 +126,7 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 <h3 id="how-does-bitcoin-work">How does Bitcoin work?</h3>
 <p>From a user perspective, Bitcoin is nothing more than a mobile app or computer program that provides a personal Bitcoin wallet and allows a user to send and receive bitcoins with them. This is how Bitcoin works for most users.</p>
 <p>Behind the scenes, the Bitcoin network is sharing a public ledger called the "block chain". This ledger contains every transaction ever processed, allowing a user's computer to verify the validity of each transaction. The authenticity of each transaction is protected by digital signatures corresponding to the sending addresses, allowing all users to have full control over sending bitcoins from their own Bitcoin addresses. In addition, anyone can process transactions using the computing power of specialized hardware and earn a reward in bitcoins for this service. This is often called "mining". To learn more about Bitcoin, you can consult the <a href="https://www.bitcoin.org/bitcoin.pdf">original whitepaper</a>.</p>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe>
 
 <h3 id="is-bitcoin-really-used-by-people">Is Bitcoin really used by people?</h3>
 <p>Yes. There is a growing number of businesses and individuals using Bitcoin. This includes brick and mortar businesses like restaurants, apartments, law firms, and popular online services such as Namecheap, WordPress, and Reddit. While Bitcoin remains a relatively new phenomenon, it is growing fast. At the end of August 2013, the value of all bitcoins in circulation exceeded US$ 1.5 billion with millions of dollars worth of bitcoins exchanged daily.</p>
@@ -266,10 +268,14 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 <h3 id="what-does-synchronizing-mean-and-why-does-it-take-so-long">What does "synchronizing" mean and why does it take so long?</h3>
 <p>Long synchronization time is only required with full node clients like Bitcoin Core. Technically speaking, synchronizing is the process of downloading and verifying all previous Bitcoin transactions on the network. For some Bitcoin clients to calculate the spendable balance of your Bitcoin wallet and make new transactions, it needs to be aware of all previous transactions. This step can be resource intensive and requires sufficient bandwidth and storage to accommodate the full size of the block chain. For Bitcoin to remain secure, enough people should keep using full node clients because they perform the task of validating and relaying transactions.</p>
 
+<h3 id="what-does-increasing-the-block-size-mean">The blocksize limit is what ensures everyone can participate in the Bitcoin network, and it ensures everyone can participate anonymously should they choose too. Some people want to remove this protection to make Bitcoin scale, but we can have the best of both worlds: high transaction volume and true decentralization with off-chain transactions.
+<iframe width="700" height="394" src="https://www.youtube.com/embed/cZp7UGgBR0I" frameborder="0" allowfullscreen></iframe>
+
 <h2 id="mining">Mining</h2>
 
 <h3 id="what-is-bitcoin-mining">What is Bitcoin mining?</h3>
 <p>Mining is the process of spending computing power to process transactions, secure the network, and keep everyone in the system synchronized together. It can be perceived like the Bitcoin data center except that it has been designed to be fully decentralized with miners operating in all countries and no individual having control over the network. This process is referred to as "mining" as an analogy to gold mining because it is also a temporary mechanism used to issue new bitcoins. Unlike gold mining, however, Bitcoin mining provides a reward in exchange for useful services required to operate a secure payment network. Mining will still be required after the last bitcoin is issued.</p>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
 
 <h3 id="how-does-bitcoin-mining-work">How does Bitcoin mining work?</h3>
 <p>Anybody can become a Bitcoin miner by running software with specialized hardware. Mining software listens for transactions broadcast through the peer-to-peer network and performs appropriate tasks to process and confirm these transactions. Bitcoin miners perform this work because they can earn transaction fees paid by users for faster transaction processing, and newly created bitcoins issued into existence according to a fixed formula.</p>
