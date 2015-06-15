@@ -10,6 +10,10 @@ published: true
 <p><h3>The real value of Bitcoin and crypto currency technology</h3>
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe>
+<h3>SPANISH</h3>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/5qyp2wJqRNM" frameborder="0" allowfullscreen></iframe>
+<h3>JAPANESE</h3>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/cmKQZlL0ZP0" frameborder="0" allowfullscreen></iframe>
 
 <p><h3>About The Video, Bitcoin and the Blockchain</h3>
 <p>In the coming years, the technology behind crypto currencies such as Bitcoin will inevitably and radically change the role of traditional trusted parties such as banks, accountants, notaries, and governments.  The possibilities are endless. We invite you to explore this new technology constructively and critically, and have an open discussion about the potential applications.</p>
