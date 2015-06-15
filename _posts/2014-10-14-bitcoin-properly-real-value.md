@@ -3,7 +3,7 @@ layout: post
 title: Bitcoin Properly
 author: Bitcoin Properly
 authorurl: http://bitcoinproperly.org/
-description: Bitcoin Properly: The real value of Bitcoin and crypto currency technology
+description: Bitcoin Properly - The real value of Bitcoin and crypto currency technology
 published: true
 ---
 
