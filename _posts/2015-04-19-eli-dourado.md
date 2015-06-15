@@ -7,3 +7,8 @@ published: true
 ---
 
 Eli Dourado is a research fellow at the Mercatus Center at George Mason University and director of its Technology Policy Program.
+
+## Article by Eli Dourado
+<ul>
+<li><a href="/bitcoin-as-a-medium-of-settlement/">Bitcoin as a Medium of Settlement</a></li>
+</ul>
