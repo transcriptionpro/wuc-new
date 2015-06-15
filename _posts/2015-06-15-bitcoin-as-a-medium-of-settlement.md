@@ -6,7 +6,6 @@ authorurl: https://www.weusecoins.com/eli-dourado/
 published: true
 ---
 
-<h2>Bitcoin as a medium of settlement</h2>
 <p><h4>Don’t think of it as a way to buy coffee</h4>
 <p>Noah Smith has <a href="http://noahpinionblog.blogspot.com/2015/06/store-of-value.html">some interesting thoughts</a> on Bitcoin as a store of value, both in the long run and the short run. He notes that financial assets face (in equilibrium) a tradeoff between expected return and volatility. In order for markets to be induced to hold a volatile asset, long-term expected returns must be higher. This means that over long time horizons, a relatively volatile asset (such as Bitcoin) may be a better store of value than assets deliberately designed to be non-volatile (such as fiat currency).
 <p>Of course, volatility means that an asset is a poor store of value in the <em>short</em> run. And “short run store of value” is what is needed for Bitcoin to be widely adopted as a medium of exchange. JP Koning <a href="http://jpkoning.blogspot.com/2015/06/the-dollarization-of-bitcoin.html">imagines</a> a world in which neither merchants nor consumers want to be exposed to Bitcoin volatility, and so they rely on payment intermediaries that convert dollars to Bitcoin (and back again). If this is the case, he argues, there is no point in using Bitcoin.
