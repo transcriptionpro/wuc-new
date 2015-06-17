@@ -1,4 +1,4 @@
-a href=---
+---
 layout: post
 title: What is Litecoin?
 author: Trace Mayer, J.D.
