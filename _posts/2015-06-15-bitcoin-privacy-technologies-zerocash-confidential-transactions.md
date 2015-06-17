@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin as a Medium of Settlement
+title: Bitcoin Privacy Technologies - Zerocash and Confidential Transactions
 author: Zooko Wilcox-O'Hearn
 authorurl: https://www.weusecoins.com/zooko-wilcox-ohearn/
 published: true
