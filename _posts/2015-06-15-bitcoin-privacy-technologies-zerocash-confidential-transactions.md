@@ -10,9 +10,6 @@ published: true
 <p>Recently Blockstream announced <a class="reference external" href="http://elementsproject.org/">Sidechains Elements</a>, which includes a privacy protocol named <a class="reference external" href="https://people.xiph.org/~greg/confidential_values.txt">Confidential Transactions</a>. We invited the lead author of Confidential Transactions — Greg Maxwell — and the authors of the Zerocash Protocol to help us explain how Confidential Transactions compares to Zerocash.</p>
 <p>In short, Zerocash offers privacy properties that Confidential Transactions does not. Most notably, Confidential Transactions only protects transaction values, whereas Zerocash also protects sender and receiver addresses – but at the cost of extra cryptographic novelty. In addition, there are other engineering and cryptography tradeoffs between the two.</p>
 <p>—Zooko Wilcox-O'Hearn, Founder and CEO of LeastAuthority</p>
-</div>
-</div>
-<div class="section" id="overview">
 <h2>Overview</h2>
 <p>Zerocash (ZC) and Confidential Transactions (CT) are both ledger protocols: they can be used to improve the privacy of any given ledger system, whether that’s in Bitcoin sidechains, centralized ledgers, or even Bitcoin itself. Zerocash was introduced as a proposed extension to Bitcoin, or a Bitcoin-like system, and Confidential Transactions was introduced as a potential Bitcoin sidechain feature as part of Blockstream Elements.</p>
 <p>At a high level, the goal of Confidential Transactions is to hide the value of transactions, but it does <em>not</em> hide the participants of a transaction. The metadata of who-has-paid-whom is often more sensitive than the balances. It is possible to combine CT with other techniques (such as CoinJoin mixing) to improve participant confidentiality, although care must be taken to ensure the two schemes interact securely, and the degree of privacy depends on how many mixing transactions occur.</p>
@@ -56,9 +53,7 @@ published: true
 <tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td>We list several schemes which strive for sender/receiver confidentiality, but do not make claims about their security.</td></tr>
 </tbody>
 </table>
-</div>
-<div class="section" id="comparison">
-<h2>Comparison</h2>
+<h2 id="comparison">Comparison</h2>
 <p>Here we briefly compare the two approaches, showing their relative strengths and weaknesses, first in a summary <a class="reference internal" href="#table-2">Table 2</a>, followed by more explanation.</p>
 <table border="1" class="docutils">
 <colgroup>
@@ -71,8 +66,7 @@ published: true
 </th>
 </tr>
 <tr><th class="head">&nbsp;</th>
-<th class="head">Confidential
-Transactions</th>
+<th class="head">Confidential Transactions</th>
 <th class="head">Zerocash</th>
 </tr>
 </thead>
@@ -150,8 +144,7 @@ Exponent, <cite>KEA</cite></td>
 <tr><td class="label"><a class="fn-backref" href="#id8">[5]</a></td><td>New research substantially improves this security, see <a class="reference internal" href="#parameter-setup">Parameter Setup</a> below.</td></tr>
 </tbody>
 </table>
-<div class="section" id="explanation">
-<h3>Explanation</h3>
+<h3 id="explanation">Explanation</h3>
 <p id="confidentiality"><strong>Confidentiality.</strong> Confidential Transactions hide transaction <em>values</em> whereas Zerocash hides all transaction information (except for timing).</p>
 <p>Both Zerocash and Confidential Transactions hide the amount of money transferred in transactions. However, CT does not hide the address of the sender and the receiver. So “Transaction Graph Analysis” techniques like <a class="citation-reference" href="#a" id="id13">[a]</a>, <a class="citation-reference" href="#b" id="id14">[b]</a>, <a class="citation-reference" href="#c" id="id15">[c]</a>, <a class="citation-reference" href="#d" id="id16">[d]</a>, and <a class="citation-reference" href="#e" id="id17">[e]</a> may still potentially be used to connect and trace them to endpoints like exchanges.</p>
 <p>Transaction graph analysis can potentially be thwarted by mixing, for example by using CoinJoin. But mixing comes with a variety of other implementation challenges, security hazards, and costs; in particular, mixing adds to blockchain bloat, and mixing is not implemented in Elements.</p>
@@ -205,10 +198,7 @@ at <cite>IEEE Security and Privacy (Oakland) 2015</cite></li>
 <p>The ZC authors intend to release an open source prototype.</p>
 <p id="parameter-setup"><strong>Parameter Setup.</strong> CT has very simple one-time initial parameter selection which is amenable to common “nothing up my sleeve” selection techniques. Zerocash has complex one-time initial parameter setup which is vulnerable to compromise.</p>
 <p>The Zerocash authors have presented new research on a secure multi-party computation to improve the parameter setup security. This new setup distributed protocol provides the guarantee that if even one party involved in the setup follows the protocol correctly, then the setup is secure. (Conversely all participants must be compromised for parameter compromise.)</p>
-</div>
-</div>
-<div class="section" id="conclusion">
-<h2>Conclusion</h2>
+<h2 id="conclusion">Conclusion</h2>
 <p>Confidential Transactions and Zerocash are two protocols for augmenting ledgers with better privacy. Confidential Transactions only protects transaction values, whereas Zerocash also protects sender/receiver addresses.</p>
 <p>In Zerocash, all coins are equal, and values are truly fungible. Users are presented with an all-or-nothing security choice and only a single security level to understand. In Confidential Transactions, users have more flexibility and can tune privacy knobs for their individual needs, and as a result transactions are distinct and have history, and users (or their software) needs to manage fine-grained security levels.</p>
 <p>From a system-wide perspective, Zerocash's all-or-nothing security level means all users have strong privacy, even when it's not critical for them. In Confidential Transactions it may be that only users with strong privacy needs have strong privacy, and if this set of users is small enough it may endanger their privacy.</p>
@@ -216,9 +206,7 @@ at <cite>IEEE Security and Privacy (Oakland) 2015</cite></li>
 <p>The authors agree that both Zerocash and Confidential Transactions should be pursued – as well as other future innovations! –  to have the best chance of providing strong financial privacy and fungibility.</p>
 <p>— Alessandro Chiesa (Zerocash), Andrew Miller (LeastAuthority), Christina Garman (Zerocash), Eli Ben-Sasson (Zerocash), Eran Tromer (Zerocash), Greg Maxwell (Blockstream), Ian Miers (Zerocash), Madars Virza (Zerocash), Matthew D. Green (Zerocash), Nathan Wilcox (LeastAuthority), Zooko Wilcox-O'Hearn (LeastAuthority)</p>
 <p>Thanks to Gordon Mohr for review and comments.</p>
-</div>
-<div class="section" id="references">
-<h2>References</h2>
+<h2 id="references">References</h2>
 <table class="docutils citation" frame="void" id="a" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
