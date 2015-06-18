@@ -6,7 +6,7 @@ authorurl: https://www.weusecoins.com/nik-costodia/
 published: true
 ---
 
-Nik Custodio @nik5ter is a Director at FTI Consulting / UX. Thoughts of the rawer kind onhttp://nikcustodio.tumblr.com/
+Nik Custodio (@nik5ter) is a Director at FTI Consulting / UX.
 
 ## Articles by Nik Costodia
 <ul>
