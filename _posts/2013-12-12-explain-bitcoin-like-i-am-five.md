@@ -32,7 +32,7 @@ published: true
 <p>Until now.
 <p>But let’s try to think of a solution on our own.
 <p><h1>Ledgers</h1>
-<img src="/images/ledger.png" alt="ledger" align="center">
+<img src="/images/ledger.jpg" alt="ledger" align="center">
 <p>Maybe these digital apples need to be tracked in a <strong>ledger.</strong> It’s basically a book where you track all transactions — an accounting book.
 <p>This ledger, since it’s digital, needs to live in its own world and have someone in charge of it.
 <p>Say, just like World of Warcraft. <em>Blizzard,</em> the guys who created the online game, have a “digital ledger” of all the rare flaming fire swords that exist in their system. So, cool, someone like them could keep track of our digital apples. Awesome — we solved it!
