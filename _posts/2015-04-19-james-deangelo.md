@@ -11,6 +11,7 @@ James De'Angelo is rocket ship builder, psephologist, pizza maker, cryptofreak, 
 ## Article by James DeAngelo
 <ul>
 <li><a href="/introduction-bitcoin-paper-wallets-cold-storage/">Introduction to Bitcoin Paper Wallets and Cold Storage</a></li>
+<li><a href="/amazing-math-bitcoin-private-keys/">The Amazing Math of Bitcoin Private Keys</a></li>
 <li><a href="/why-bitcoin-growth-normal/">Why Bitcoin's Growth is Normal and The S-Curves You Could Never See</a></li>
 <li><a href="/modeling-bitcoin-price/">Modeling the Price of Bitcoin - Is $100,000 Possible?</a></li>
 </ul>
