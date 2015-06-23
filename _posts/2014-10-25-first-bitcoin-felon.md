@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Charlie Shrem | First Bitcoin Felon
+title: Charlie Shrem - First Bitcoin Felon
 author: Charlie Shrem
 authorurl: http://www.bitcoin.kn/2014/10/btck-102-2014-10-25/
 description: Charlie Shrem, CEO of BitInstant, the first bitcoin felon

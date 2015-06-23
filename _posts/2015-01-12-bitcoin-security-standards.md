@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Michael Perklin | Bitcoin Security Standards
+title: Michael Perklin - Bitcoin Security Standards
 author: Michael Perklin
 authorurl: https://www.weusecoins.com/michael-perklin-bitcoin-security-expert/
 description: Crypto Currency Certification Consortium President Michael Perklin on bitcoin security standards.

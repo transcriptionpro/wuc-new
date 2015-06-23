@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Halsey Minor | CEO BitReserve
+title: Halsey Minor - CEO BitReserve
 author: Halsey Minor
 authorurl: http://www.bitcoin.kn/2014/12/btck-115-2014-12-09/
 description: Halsey Minor on BitReserve review.

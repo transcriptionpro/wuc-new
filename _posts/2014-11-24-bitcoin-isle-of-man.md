@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brian Donegan | Isle of Man Government
+title: Brian Donegan - Isle of Man Government
 author: Brian Donegan
 authorurl: /brian-donegan/
 description: Brian Donegan of Isle of Man government on creating Bitcoin Island.

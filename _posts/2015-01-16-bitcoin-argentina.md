@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diego Gutierrez | CEO, Koibanx
+title: Diego Gutierrez - CEO, Koibanx
 author: Diego Gutierrez
 authorurl: http://www.bitcoin.kn/2015/01/btck-126-2015-01-16/
 description: Diego Gutierrez is the CEO at Koibanx and President of Bitcoin Argentina NGO.

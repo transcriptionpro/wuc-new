@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brock Pierce | Crypto-Currency Partners Partner
+title: Brock Pierce - Crypto-Currency Partners Partner
 author: Brock Pierce
 authorurl: http://www.bitcoin.kn/2014/12/btck-119-2014-12-21/
 description: Crypto-Currency Partners Partner Brock Pierce ruminates on the state of the Bitcoin industry and bitcoin venture investing.

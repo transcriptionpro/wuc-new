@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rodrigo Batista |CEO Mercado Bitcoin
+title: Rodrigo Batista - CEO Mercado Bitcoin
 author: Rodrigo Batista
 authorurl: http://www.bitcoin.kn/2015/01/btck-123-2015-01-04/
 description: Mercado Bitcoin CEO Rodrigo Batista discusses Bitcoin exchange, bitcoin community in Brazil.

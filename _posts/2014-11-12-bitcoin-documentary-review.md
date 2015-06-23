@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daniel Mross | The Rise and Rise of Bitcoin
+title: Daniel Mross - The Rise and Rise of Bitcoin
 author: Daniel Mross
 authorurl: http://www.bitcoin.kn/2014/11/btck-106-2014-11-12/
 description: Daniel Mross is a bitcoin producer, an entrepreneur, and a founding board member of Mek Entertainment 

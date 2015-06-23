@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marco Santori | Bitcoin Lawyer
+title: Marco Santori - Bitcoin Lawyer
 author: Marco Santori
 authorurl: http://www.bitcoin.kn/2014/10/btck-103-2014-10-30/
 description: Marco Santori is New York bitcoin lawyer and part of the legal committee for the Bitcoin Foundation.
