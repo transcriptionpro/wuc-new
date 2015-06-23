@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Alan Reiner | Bitcoin Security Expert
+title: Alan Reiner - Bitcoin Security Expert
 author: Alan Reiner
-authorurl: http://www.weusecoins.com/alan-reiner-bitcoin-security-expert
+authorurl: https://www.weusecoins.com/alan-reiner-bitcoin-security-expert
 published: true
 ---
 

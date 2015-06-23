@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anthem Blanchard | CEO Anthem Vault
+title: Anthem Blanchard - CEO Anthem Vault
 author: Anthem Blanchard
 authorurl: http://www.bitcoin.kn/2015/03/btck-147-2015-03-30/
 description: Anthem Blanchard is the CEO of AnthemVault.

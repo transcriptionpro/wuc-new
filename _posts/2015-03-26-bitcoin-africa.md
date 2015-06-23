@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elizabeth Rossiello | CEO and founder of Bitpesa
+title: Elizabeth Rossiello - CEO and founder of Bitpesa
 author: Elizabeth Rossiello
 authorurl: http://www.bitcoin.kn/2015/03/btck-146-2015-03-26/
 description: Elizabeth Rossiello, CEO and founder of Bitpesa, talks about bitcoin Africa.

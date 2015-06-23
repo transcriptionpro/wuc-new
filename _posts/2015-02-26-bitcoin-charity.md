@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Connie Gallippi | CEO, BitGive
+title: Connie Gallippi - CEO, BitGive
 author: Connie Gallippi
 authorurl: http://www.bitcoin.kn/2015/02/btck-138-2015-02-26/
 description: Connie Gallippi on Charitable Initiatives using bitcoin.

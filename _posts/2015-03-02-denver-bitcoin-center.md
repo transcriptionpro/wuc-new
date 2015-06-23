@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ben Ullrich | Denver Bitcoin Center
+title: Ben Ullrich - Denver Bitcoin Center
 author: Ben Ullrich
 authorurl: http://www.bitcoin.kn/2015/03/btck-139-2015-03-02/
 description: Ben Ullrich of Denver Bitcoin Center.

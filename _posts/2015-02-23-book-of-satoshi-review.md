@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Champagne | Compiler of the Book of Satoshi
+title: Phil Champagne - Compiler of the Book of Satoshi
 author: Phil Champagne 
 authorurl: http://www.bitcoin.kn/2015/02/btck-137-2015-02-23/
 description: Phil Champagne is the compiler of the Book of Satoshi.

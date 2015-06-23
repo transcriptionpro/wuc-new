@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roger Ver | Bitcoin Expert
+title: Roger Ver - Bitcoin Expert
 author: Roger Ver
 authorurl: http://www.bitcoin.kn/2015/03/btck-140-2015-03-05/
 description: The legendary Roger Ver discusses how Bitcoin is not a Trojan horse but a Trojan Hydra.

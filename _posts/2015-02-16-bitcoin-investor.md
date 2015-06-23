@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jim Robinson | Bitcoin Investor
+title: Jim Robinson - Bitcoin Investor
 author: Jim Robinson
 authorurl: http://www.bitcoin.kn/2015/02/btck-135-2015-02-16/
 description: Jim Robinson is managing partner at RR&E Ventures.

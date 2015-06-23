@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nick Sullivan | Founder of ChangeTip
+title: Nick Sullivan - Founder of ChangeTip
 author: Nick Sullivan 
 authorurl: http://www.bitcoin.kn/2015/03/btck-143-2015-03-16/
 description: Nick Sullivan is the CEO and founder of ChangeTip.

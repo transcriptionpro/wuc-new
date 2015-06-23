@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reeve Collins| Bitcoin Expert
+title: Reeve Collins - Bitcoin Expert
 author: Reeve Collins
 authorurl: http://www.bitcoin.kn/2015/03/btck-141-2015-03-09/
 description: Tether CEO Reeve Collins discusses digitized USD.

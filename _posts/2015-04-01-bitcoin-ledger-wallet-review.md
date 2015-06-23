@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin Ledger Wallet Review | How To Use A Bitcoin Ledger Wallet
+title: Bitcoin Ledger Wallet Review - How To Use A Bitcoin Ledger Wallet
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com
 description: Bitcoin Ledget Wallet review and how to use the Bitcoin Ledget Walletthe.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: John Velissarios | Bitcoin Security Expert
+title: John Velissarios - Bitcoin Security Expert
 author: John Velissarios
-authorurl: http://www.weusecoins.com/john-velissarios-bitcoin-security-expert
+authorurl: https://www.weusecoins.com/john-velissarios-bitcoin-security-expert
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paul Chou | Founder of LedgerX
+title: Paul Chou - Founder of LedgerX
 author: Paul Chou
 authorurl: http://www.bitcoin.kn/2015/03/btck-145-2015-03-23/
 description: Paul Chou is the CEO and founder of LedgerX

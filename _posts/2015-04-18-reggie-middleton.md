@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Reggie Middleton | Bitcoin and Ultra-Coin
+title: Reggie Middleton - Bitcoin and Ultra-Coin
 author: Reggie Middleton
-authorurl: http://www.weusecoins.com/reggie-middleton/
+authorurl: https://www.weusecoins.com/reggie-middleton/
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marshal Long | CEO Final Hash
+title: Marshal Long - CEO Final Hash
 author: Marshal Long
 authorurl: http://www.bitcoin.kn/2015/03/btck-144-2015-03-19/
 description: Final Hash CEO Marshall Long discusses Bitcoin mining in China.

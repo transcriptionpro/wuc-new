@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andrew Ittleman | Criminal Defense Attorney
+title: Andrew Ittleman - Criminal Defense Attorney
 author: Andrew Ittleman
 authorurl: http://www.bitcoin.kn/2015/02/btck-132-2015-02-05/
 description: Andrew Ittleman, partner at Fuerst Ittleman David &amp; Joseph, expert on bitcoin legal issues.
