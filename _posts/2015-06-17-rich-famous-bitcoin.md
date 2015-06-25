@@ -6,6 +6,7 @@ authorurl: /
 published: true
 ---
 
+<p>Bitcoin is one of those topics that evokes great emotion and debate. So it is no surprise that even the richest and most famous people in the world have shared their thoughts and opinions on Bitcoin.
 <p><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"> <img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"> <img src="/images/richard-branson-bitcoin.png" alt="Richard Branson">
 <p><img src="/images/chamath-palihapitiya-bitcoin.png" alt="Chamath Palihapitiya"> <img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"> <img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne">
 
