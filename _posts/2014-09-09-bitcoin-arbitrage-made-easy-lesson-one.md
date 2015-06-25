@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin Arbitrage Made Easy | Lesson One
+title: Bitcoin Arbitrage Made Easy - Lesson One
 author: Arthur Hayes
 authorurl: http://www.weusecoins.com/arthur-hayes
 published: true

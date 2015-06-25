@@ -39,7 +39,7 @@ For obvious reasons, when dealing with translations you should not change the me
 Each localized version of WUC is independent of each other and uses static HTML, CSS or PHP files.
 
 Folders are currently ready for the following languages and labled by [ISO 639 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes):
-<ul><li>Chinese [zh]</li><li>Dutch [nl or nl1]</li></li><li><b>English [en] (This is the default source.)</b></li><li>German [de or de1]</li><li>Finnish [fi]</li><li>French [fr or fr1]</li><li>Greek [el]</li><li>Norwegian [no]</li><li>Polish [pl]</li><li>Japanese [ja or ja1]</li><li>Polish [pl]</li><li>Portugese [pt]</li><li>Russian [ru]</li><li>Spanish [es]</li><li>Swedish [sv]</li><li>Tagalog/Filipino [tl]</li><li>Turkish [tr]</li></ul>
+<ul><li><a href="/zh/">Chinese</a> [zh]</li><li><a href="/nl/">Dutch</a> [nl]</li></li><li><b><a href="/en/">English</a> [en] - This is the default source.</b></li><li><a href="/de/">German</a> [de]</li><li><a href="/fi/>Finnish</a> [fi]</li><li><a href="/fr/">French</a> [fr]</li><li><a href="/el/">Greek</a> [el]</li><li><a href="/no/">Norwegian</a> [no]</li><li><a href="/ja/">Japanese</a> [ja]</li><li><a href="/pl/">Polish</a> [pl]</li><li><a href="/pt/">Portugese</a> [pt]</li><li><a href="/ru/">Russian</a> [ru]</li><li><a href="/es/">Spanish</a> [es]</li><li><a href="/sv/">Swedish</a> [sv]</li><li><a href="/tl/">Tagalog/Filipino</a> [tl]</li><li><a href="/tr/">Turkish</a> [tr]</li></ul>
 
 There are legacy versions of German [de], Dutch [nl], French [fr] and Japanese [ja]. After a sufficient amount has been translated in the new folders [/de1/ /fr1/ /ja1/ and /nl1/] then we will migrate from the legacy versions.
 
@@ -66,7 +66,7 @@ Please keep HTML structure as symetric and perfectly identical as possible betwe
 
 <h2>Video translations</h2>
 
-Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube.
+Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube. This <a href="The videos has been dubbed into a few languages already. Let's refer to this list when making sites for each of the languages: This <a href="https://bitcointalk.org/index.php?topic=109995.0">thread</a> can help us prioritize which languages to work on.
 
 <ul><li>de - <a href="https://www.youtube.com/watch?v=2kPNz0tdlj0">German</a> - v1 full</li>
 <li>el - Greek - Could not find on Youtube</li>

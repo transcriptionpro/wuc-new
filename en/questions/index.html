@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Answers to frequently asked Bitcoin questions
 ---
 <link rel="canonical" href="https://www.weusecoins.com/en/questions/" />
 
@@ -83,10 +84,12 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 </ul>
 <li><a href="#transactions">Transactions</a></li>
 <ul>
+  <li><a href="#is-bitcoin-anonymous">Are transactions anonymous?</a></li>
   <li><a href="#why-do-i-have-to-wait-10-minutes">Why do I have to wait 10 minutes?</a></li>
   <li><a href="#how-much-will-the-transaction-fee-be">How much will the transaction fee be?</a></li>
   <li><a href="#what-if-i-receive-a-bitcoin-when-my-computer-is-powered-off">What if I receive a bitcoin when my computer is powered off?</a></li>
   <li><a href="#what-does-synchronizing-mean-and-why-does-it-take-so-long">What does "synchronizing" mean and why does it take so long?</a></li>
+  <li><a href="#what-does-increasing-the-block-size-limit-mean">What does increasing the block size limit mean?</a></li>
 </ul>
 <li><a href="#mining">Mining</a></li>
 <ul>
@@ -125,6 +128,7 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 <h3 id="how-does-bitcoin-work">How does Bitcoin work?</h3>
 <p>From a user perspective, Bitcoin is nothing more than a mobile app or computer program that provides a personal Bitcoin wallet and allows a user to send and receive bitcoins with them. This is how Bitcoin works for most users.</p>
 <p>Behind the scenes, the Bitcoin network is sharing a public ledger called the "block chain". This ledger contains every transaction ever processed, allowing a user's computer to verify the validity of each transaction. The authenticity of each transaction is protected by digital signatures corresponding to the sending addresses, allowing all users to have full control over sending bitcoins from their own Bitcoin addresses. In addition, anyone can process transactions using the computing power of specialized hardware and earn a reward in bitcoins for this service. This is often called "mining". To learn more about Bitcoin, you can consult the <a href="https://www.bitcoin.org/bitcoin.pdf">original whitepaper</a>.</p>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe>
 
 <h3 id="is-bitcoin-really-used-by-people">Is Bitcoin really used by people?</h3>
 <p>Yes. There is a growing number of businesses and individuals using Bitcoin. This includes brick and mortar businesses like restaurants, apartments, law firms, and popular online services such as Namecheap, WordPress, and Reddit. While Bitcoin remains a relatively new phenomenon, it is growing fast. At the end of August 2013, the value of all bitcoins in circulation exceeded US$ 1.5 billion with millions of dollars worth of bitcoins exchanged daily.</p>
@@ -177,6 +181,7 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 <h3 id="is-bitcoin-anonymous">Is Bitcoin anonymous?</h3>
 <p>Bitcoin is designed to allow its users to send and receive payments with an acceptable level of privacy as well as any other form of money. However, Bitcoin is not anonymous and cannot offer the same level of privacy as cash. The use of Bitcoin leaves extensive public records. Various mechanisms exist to protect users' privacy, and more are in development. However, there is still work to be done before these features are used correctly by most Bitcoin users.</p>
 <p>Some concerns have been raised that private transactions could be used for illegal purposes with Bitcoin. However, it is worth noting that Bitcoin will undoubtedly be subjected to similar regulations that are already in place inside existing financial systems. Bitcoin cannot be more anonymous than cash and it is not likely to prevent criminal investigations from being conducted. Additionally, Bitcoin is also designed to prevent a large range of financial crimes.</p>
+<p>Bitcoin transactions are pseudo-anonymous. The inputs in every transaction can be tracked in the blockchain to every previous transaction's outputs. However, there are <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">Bitcoin privacy technologies</a> being developed.
 
 <h3 id="what-happens-when-bitcoins-are-lost">What happens when bitcoins are lost?</h3>
 <p>When a user loses his wallet, it has the effect of removing money out of circulation. Lost bitcoins still remain in the block chain just like any other bitcoins. However, lost bitcoins remain dormant forever because there is no way for anybody to find the <a href="/en/glossary/#private-key">private key(s)</a> that would allow them to be spent again. Because of the law of supply and demand, when fewer bitcoins are available, the ones that are left will be in higher demand and increase in value to compensate.</p>
@@ -192,7 +197,7 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 
 <h3 id="is-bitcoin-useful-for-illegal-activities">Is Bitcoin useful for illegal activities?</h3>
 <p>Bitcoin is money, and money has always been used both for legal and illegal purposes. Cash, credit cards and current banking systems widely surpass Bitcoin in terms of their use to finance crime. Bitcoin can bring significant innovation in payment systems and the benefits of such innovation are often considered to be far beyond their potential drawbacks.</p>
-<p>Bitcoin is designed to be a huge step forward in making money more secure and could also act as a significant protection against many forms of financial crime. For instance, bitcoins are completely impossible to counterfeit. Users are in full control of their payments and cannot receive unapproved charges such as with credit card fraud. Bitcoin transactions are irreversible and immune to fraudulent chargebacks. Bitcoin allows money to be secured against theft and loss using very strong and useful mechanisms such as backups, encryption, and multiple signatures.</p>
+<p>Bitcoin is designed to be a huge step forward in making money more secure and could also act as a significant protection against many forms of financial crime. For instance, bitcoins are completely impossible to counterfeit. Users are in full control of their payments and cannot receive unapproved charges such as with credit card fraud. Bitcoin transactions are irreversible and immune to fraudulent chargebacks. Bitcoin allows money to be secured against theft and loss using very strong and useful mechanisms such as backups, encryption, and <a href="/bitcoin-multi-signature-fragmented-backups/">multiple signatures</a>.</p>
 <p>Some concerns have been raised that Bitcoin could be more attractive to criminals because it can be used to make private and irreversible payments. However, these features already exist with cash and wire transfer, which are widely used and well-established. The use of Bitcoin will undoubtedly be subjected to similar regulations that are already in place inside existing financial systems, and Bitcoin is not likely to prevent criminal investigations from being conducted. In general, it is common for important breakthroughs to be perceived as being controversial before their benefits are well understood. The Internet is a good example among many others to illustrate this.</p>
 
 <h3 id="can-bitcoin-be-regulated">Can Bitcoin be regulated?</h3>
@@ -266,10 +271,15 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 <h3 id="what-does-synchronizing-mean-and-why-does-it-take-so-long">What does "synchronizing" mean and why does it take so long?</h3>
 <p>Long synchronization time is only required with full node clients like Bitcoin Core. Technically speaking, synchronizing is the process of downloading and verifying all previous Bitcoin transactions on the network. For some Bitcoin clients to calculate the spendable balance of your Bitcoin wallet and make new transactions, it needs to be aware of all previous transactions. This step can be resource intensive and requires sufficient bandwidth and storage to accommodate the full size of the block chain. For Bitcoin to remain secure, enough people should keep using full node clients because they perform the task of validating and relaying transactions.</p>
 
+<h3 id="what-does-increasing-the-block-size-limit-mean">What does increasing the block size limit mean?</h3>
+<p>The <a href="/why-blocksize-limit-keeps-bitcoin-free-decentralized/">blocksize limit</a> is what ensures everyone can participate in the Bitcoin network, and it ensures everyone can participate anonymously should they choose too. Some people want to remove this protection to make Bitcoin scale, but we can have the best of both worlds: high transaction volume and true decentralization with off-chain transactions.
+<iframe width="700" height="394" src="https://www.youtube.com/embed/cZp7UGgBR0I" frameborder="0" allowfullscreen></iframe>
+
 <h2 id="mining">Mining</h2>
 
 <h3 id="what-is-bitcoin-mining">What is Bitcoin mining?</h3>
 <p>Mining is the process of spending computing power to process transactions, secure the network, and keep everyone in the system synchronized together. It can be perceived like the Bitcoin data center except that it has been designed to be fully decentralized with miners operating in all countries and no individual having control over the network. This process is referred to as "mining" as an analogy to gold mining because it is also a temporary mechanism used to issue new bitcoins. Unlike gold mining, however, Bitcoin mining provides a reward in exchange for useful services required to operate a secure payment network. Mining will still be required after the last bitcoin is issued.</p>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
 
 <h3 id="how-does-bitcoin-mining-work">How does Bitcoin mining work?</h3>
 <p>Anybody can become a Bitcoin miner by running software with specialized hardware. Mining software listens for transactions broadcast through the peer-to-peer network and performs appropriate tasks to process and confirm these transactions. Bitcoin miners perform this work because they can earn transaction fees paid by users for faster transaction processing, and newly created bitcoins issued into existence according to a fixed formula.</p>
@@ -290,7 +300,7 @@ Many questions can be answered by understanding some <a href="/en/glossary/">bas
 <h2 id="security">Security</h2>
 
 <h3 id="is-bitcoin-secure">Is Bitcoin secure?</h3>
-<p>The Bitcoin technology - the protocol and the cryptography - has a strong security track record, and the Bitcoin network is probably the biggest distributed computing project in the world. Bitcoin's most common vulnerability is in user error. Bitcoin wallet files that store the necessary private keys can be accidentally deleted, lost or stolen. This is pretty similar to physical cash stored in a digital form. Fortunately, users can employ sound security practices to protect their money or use service providers that offer good levels of security and insurance against theft or loss.</p>
+<p>The Bitcoin technology - the protocol and the cryptography - has a strong security track record, and the Bitcoin network is probably the biggest distributed computing project in the world. Bitcoin's most common vulnerability is in user error. Bitcoin wallet files that store the necessary <a href="/bitcoin-private-keys-entropy/">private keys</a> can be accidentally deleted, lost or stolen. It is highly recommended to secure bitcoins via <a href="/bitcoin-cold-storage/">cold storage</a>. This is pretty similar to physical cash stored in a digital form. Fortunately, users can employ sound security practices to protect their money or use service providers that offer good levels of security and insurance against theft or loss.</p>
 
 <h3 id="hasnt-bitcoin-been-hacked-in-the-past">Hasn't Bitcoin been hacked in the past?</h3>
 <p>The rules of the protocol and the cryptography used for Bitcoin are still working years after its inception, which is a good indication that the concept is well designed. However, security flaws have been found and fixed over time in various software implementations. Like any other form of software, the security of Bitcoin software depends on the speed with which problems are found and fixed. The more such issues are discovered, the more Bitcoin is gaining maturity.</p>

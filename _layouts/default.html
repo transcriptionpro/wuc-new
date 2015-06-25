@@ -29,20 +29,17 @@
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
 
           <nav>
             <a href="{{ site.baseurl }}/en/getting-started/">Start</a>
+            <a href="{{ site.baseurl }}/en/bitcoin-expert-interviews/">Blog</a>
             <a href="{{ site.baseurl }}/en/get-free-bitcoins/">Free Bitcoins</a>
-            <a href="{{ site.baseurl }}/en/bitcoin-expert-interviews/">Interviews</a>
             <a href="{{ site.baseurl }}/en/questions/">FAQ</a>
-            <a href="{{ site.baseurl }}/en/merchant-tools/">Merchant Tools</a>
+            <a href="{{ site.baseurl }}/en/whos-who/">Who's Who</a>
             <a href="{{ site.baseurl }}/en/mining-guide/">Mining</a>
             <a href="{{ site.baseurl }}/en/alt-coins/">Alt-coins</a>
           </nav>
+          {% include social-shares.html %}
         </header>
       </div>
     </div>
@@ -61,6 +58,7 @@
           <a href="{{ site.baseurl }}/es/">Español</a> | 
           <a href="{{ site.baseurl }}/fr/">Français</a> | 
           <a href="{{ site.baseurl }}/nl/">Nederlands</a> | 
+          <a href="{{ site.baseurl }}/pt/">Portugese</a> | 
           <a href="{{ site.baseurl }}/ja/">日本語</a> | 
           <p>
           {% include svg-icons.html %}    

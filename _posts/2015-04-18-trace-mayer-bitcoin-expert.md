@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Trace Mayer | Bitcoin Expert
+title: Trace Mayer - Bitcoin Expert
 author: Trace Mayer, J.D.
-authorurl: http://www.tracemayer.net
+authorurl: https://www.tracemayer.net
 published: true
 ---
 
