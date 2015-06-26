@@ -2,12 +2,12 @@
 layout: post
 title: Bitcoin Volatility As An Asset Class
 author: Arthur Hayes
-authorurl: http://www.weusecoins.com/arthur-hayes
+authorurl: /arthur-hayes/
 published: true
 ---
 
-<center><img alt="Bitcoin volatility" src="/images/historic-bitcoin-volatility.png"></center>
 <p>Volatility is the measurement of a financial instrument’s price variation over time. Volatility as an asset class refers to isolating this variable and trading it as a standalone product. Usually volatility is isolated by the trading of delta hedged call and put options. Currently Bitcoin does not have a liquid options market so this method of isolation does not exist. However this does not preclude the existence of tradable Bitcoin volatility.
+<p><center><img alt="Bitcoin volatility" src="/images/historic-bitcoin-volatility.png"></center>
 <p>BitMEX is leading the market in innovations around the trading of volatility absent an options market. The BitMEX 30 Day Historical Volatility Index futures contract (BVOL) and the XBT vs. XBU pseudo volatility allow investors to trade Bitcoin volatility on BitMEX.
 ### Why Trade Volatility?
 <p>Trading volatility allows investors to profit from the price movements or lack thereof. They need not predict the direction of the Bitcoin price. Event driven traders can profit from price gyrations after major news or market events which increase volatility. Conversely investors anticipating periods of relative inactively can sell volatility and profit from a quiet or sideways market. The addition of Bitcoin volatility adds another weapon to savvy investors’ alpha arsenal.
