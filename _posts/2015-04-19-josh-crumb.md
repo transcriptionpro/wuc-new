@@ -17,5 +17,5 @@ published: true
 
 ## Article by Josh Crumb
 <ul>
-<li><a href=""></a></li>
+<li><a href="https://www.youtube.com/watch?v=onVExQEmVMU"></a></li>
 </ul>

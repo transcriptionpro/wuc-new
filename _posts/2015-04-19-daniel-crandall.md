@@ -16,5 +16,5 @@ published: true
 
 ## Article by Daniel Crandall
 <ul>
-<li><a href=""></a></li>
+<li><a href="http://www.marketwired.com/press-release/malbex-announces-management-changes-tsx-venture-mbg-1981555.htm"></a></li>
 </ul>

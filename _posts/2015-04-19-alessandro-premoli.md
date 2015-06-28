@@ -14,5 +14,5 @@ published: true
 
 ## Article by Alessandro Premoli
 <ul>
-<li><a href=""></a></li>
+<li><a href="http://www.slideshare.net/BitGold/bit-gold-2015-0501-web-version"></a></li>
 </ul>
