@@ -29,7 +29,7 @@ published: true
  src="http://www.tracemayer.net/images/netagio.png"  alt="Netagio"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
  <p>
-## Bitcoin articles by Arthur Hayes
+## Bitcoin articles by Trace Mayer
 <ul>
 <li><a href="/crypsa-future-of-bitcoin/">CRYPSA Event - The Future of Bitcoin</a></li>
 </ul> 
