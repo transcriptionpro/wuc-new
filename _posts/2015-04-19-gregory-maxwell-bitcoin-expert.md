@@ -15,5 +15,5 @@ published: true
 
 ## Articles by Gregory Maxwell
 <ul>
-<li><a href="/bitcoin-as-a-medium-of-settlement/">Bitcoin as a Medium of Settlement</a></li>
+<li><a href="/what-are-sidechains/">What are Sidechains?/a></li>
 </ul>
