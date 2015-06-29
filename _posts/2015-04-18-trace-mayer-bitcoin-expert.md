@@ -29,6 +29,10 @@ published: true
  src="http://www.tracemayer.net/images/netagio.png"  alt="Netagio"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
  <p>
+## Bitcoin articles by Arthur Hayes
+<ul>
+<li><a href="/crypsa-future-of-bitcoin/">CRYPSA Event - The Future of Bitcoin</a></li>
+</ul> 
 ##### Speaker Intro Video
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/mgpDuH17T0Y" frameborder="0" allowfullscreen></iframe>
@@ -55,7 +59,7 @@ published: true
 
 ##### Money 2020 - Las Vegas Nov 2014
 
- <iframe width="640" height="360" src="//www.youtube.com/embed/6W_DNR9Bhus" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/6W_DNR9Bhus" frameborder="0" allowfullscreen></iframe>
  
 ### Contact
 
