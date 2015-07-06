@@ -7,6 +7,7 @@ description: Charlie Shrem, CEO of BitInstant, the first bitcoin felon
 published: true
 ---
 
+<center><img src="/images/court.jpg" alt="court"></center>
 <img src="/images/charlie-shrem.png" alt="Charlie Shrem" align="right">Charlie Shrem, former CEO of <a href="/bitinstant/">BitInstant</a>, tells war stories about buying and selling bitcoins.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/CYZjZh36_fA" frameborder="0" allowfullscreen></iframe>
