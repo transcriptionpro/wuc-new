@@ -14,6 +14,7 @@ published: true
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates">
 <p><h3><b>Bill Gates</b></h3>
 <p>Founder of Microsoft and richest person in the world.
 <p>"Bitcoin is better than currency."
