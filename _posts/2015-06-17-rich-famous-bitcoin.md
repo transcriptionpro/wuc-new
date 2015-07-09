@@ -76,6 +76,7 @@ published: true
 <p><center><img src="/images/peter-thiel-bitcoin.png" alt="Peter Thiel"></center>
 <p>Co-Founder of Paypal and investor in Bitcoin merchant processor <a href="/bitpay/">Bitpay</a>.
 <p>"I do think Bitcoin is the first [encrypted money] that has the potential to do something like change the world."
+<p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/AOrDMumiRa0" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="dan-kaminsky"><b>Dan Kaminsky</b></h3>
 <p><center><img src="/images/dan-kaminsky-bitcoin.png" alt="Dan Kaminsky"></center>
