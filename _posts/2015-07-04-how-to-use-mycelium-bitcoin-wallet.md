@@ -34,7 +34,7 @@ published: true
 <p><em>Protect your wallet in case you lose the phone or PIN code</em></p>
 <ul>
 <li>Now that you have protected your wallet with a pin code you need to back it up</li>
-<li>Click on the three small squares in the top right corner and choose <em>backup<img class="alignnone size-medium wp-image-100" src="http://satoshicounter.com/wp-content/uploads/2015/07/backup-300x273.png" alt="backup" width="300" height="273" /></em></li>
+<li>Click on the three small squares in the top right corner and choose <em>backup<img src="/images/backup-300x273.png" alt="backup" width="300" height="273" /></em></li>
 <li>Enter your pin code to access the recovery phrase</li>
 <li>The wallet will show 12 words, one at a time.</li>
 <li>You will be prompted to write down the 12 words to <strong>make sure you have correctly written them down</strong></li>
