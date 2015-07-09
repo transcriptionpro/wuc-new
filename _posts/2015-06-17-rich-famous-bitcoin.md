@@ -8,47 +8,55 @@ published: true
 
 <p>Bitcoin is one of those topics that evokes great emotion and debate. So it is no surprise that even the richest and most famous people in the world have shared their thoughts and opinions on Bitcoin.
 <p>No banks, no fees and no inflation. These are a few potential perks of this thing called Bitcoin. But is bitcoin really the money of the future? What is all the rage about?
-
-<center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
+<p>Learn what these rich and famous people think about Bitcoin:
+<ul><li><a href="#bill-gates">Bill Gates</a></li>
+<li><a href="#warren-buffett">Warren Buffett</a></li>
+<li><a href="#dr-eric-schmidt">Dr. Eric Schmidt</a></li>
+<li><a href="#richard-branson">Richard Branson</a></li>
+<li><a href="#chamath-palihapitiya">Chamath Palihapitiya</a></li>
+<li><a href="#lawrence-summers">Lawrence Summers</a></li>
+<li><a href="dr-patrick-byrne">Lawrence Summers</a></li>
+</ul>
+<p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"></center>
-<p><h3><b>Bill Gates</b></h3>
+<p><h3 id="bill-gates"><b>Bill Gates</b></h3>
 <p>Founder of Microsoft and richest person in the world.
 <p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/DyAufA2lWn0" frameborder="0" allowfullscreen></iframe></center>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/warren-buffett-bitcoin.png" alt="Warren Buffett"></center>
-<p><h3><b>Warren Buffett</b></h3>
+<p><h3 id="warren-buffett"><b>Warren Buffett</b></h3>
 <p>CEO of Berkshire Hathaway and the second richest person in the world.
 <p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
 <p><center><iframe width="700" height="525" src="https://www.youtube.com/embed/ewMYbX47-IE" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"></center>
-<p><h3><b>Dr. Eric Schmidt</b></h3>
+<p><h3 id="dr-eric-schmidt"><b>Dr. Eric Schmidt</b></h3>
 <p>Holds a PhD in Computer Science, was CEO of Google and is now Executive Chairman. He is also ranked as the 138th-richest person in the world, with an estimated wealth of $8.3 billion.
 <p>"Technical answer in bitcoin is that bitcoin is a remarkable cryptography achievements."
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/jRrEZbKm3mk" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/richard-branson-bitcoin.png" alt="Richard Branson"></center>
-<p><h3><b>Richard Branson</b></h3> is  is an English businessman and investor. He is best known as the founder of Virgin Group, which comprises more than 400 companies. Branson is the seventh richest citizen of the United Kingdom, with an estimated net worth of US$4.9 billion.
+<p><h3 id="richard-branson"><b>Richard Branson</b></h3> is  is an English businessman and investor. He is best known as the founder of Virgin Group, which comprises more than 400 companies. Branson is the seventh richest citizen of the United Kingdom, with an estimated net worth of US$4.9 billion.
 <p>"There's a big industry around and, you know people have made fortune out of bitcoin."
 <p>"If people have lots of bitcoin and they want to go to space, I much rather they spend that money on a spaceship."
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/DzwTXZDSyHo" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/chamath-palihapitiya-bitcoin.png" alt="Chamath Palihapitiya"></center>
-<p><h3><b>Chamath Palihapitiya</b></h3> is a venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
+<p><h3 id="chamath-palihapitiya"><b>Chamath Palihapitiya</b></h3> is a venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
 <p>"It is a huge deal, it's a huge, huge, huge deal."
 <p>"I mean I personally -- I own bitcoin in my hedge fund, I own bitcoin in my fund, I own bitcoin in my private account."
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"></center>
-<p><h3><b>Lawrence Summers</b></h3>
+<p><h3 id="lawrence-summers"><b>Lawrence Summers</b></h3>
 <p>An economist who is President Emeritus and Charles W. Eliot University Professor of Harvard University. He served as 71st Secretary of the Treasury of the United States from July 2, 1999 to January 20, 2001 and the 27th President of Harvard University from July 1, 2001 to June 20, 2006.
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/UVGq0zaZsNg" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"></center>
-<p><h3><b>Dr. Patrick Byrne</b></h3>
+<p><h3 id="dr-patrick-byrne"><b>Dr. Patrick Byrne</b></h3>
 <p>Holds a Masters from Cambridge in Mathematical Logic and a PhD from Stanford in Philosophy. He is an investigative financial journalist, entrepreneur, e-commerce pioneer, CEO and chairman of publicly traded Overstock.
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/IKHvglt89VQ" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
