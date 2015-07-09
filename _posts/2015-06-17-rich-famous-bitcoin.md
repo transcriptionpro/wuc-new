@@ -13,18 +13,18 @@ published: true
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
-<p><b>Bill Gates</b> is the Founder of Microsoft and richest person in the world.
+<p><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"><b>Bill Gates</b> is the Founder of Microsoft and richest person in the world.
 <p>"Bitcoin is better than currency."  -- Bill Gates, Microsoft
-<p><b>Dr. Eric Schmidt</b> holds a PhD in Computer Science, was CEO of Google and is now Executive Chairman. He is also ranked as the 138th-richest person in the world, with an estimated wealth of $8.3 billion.
+<p><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"><b>Dr. Eric Schmidt</b> holds a PhD in Computer Science, was CEO of Google and is now Executive Chairman. He is also ranked as the 138th-richest person in the world, with an estimated wealth of $8.3 billion.
 <p>"Technical answer in bitcoin is that bitcoin is a remarkable cryptography achievements."  -- Eric Schmidt, CEO of Google
-<p><b>Richard Branson</b> is  is an English businessman and investor. He is best known as the founder of Virgin Group, which comprises more than 400 companies. Branson is the seventh richest citizen of the United Kingdom, with an estimated net worth of US$4.9 billion.
+<p><img src="/images/richard-branson-bitcoin.png" alt="Richard Branson"><b>Richard Branson</b> is  is an English businessman and investor. He is best known as the founder of Virgin Group, which comprises more than 400 companies. Branson is the seventh richest citizen of the United Kingdom, with an estimated net worth of US$4.9 billion.
 <p>"There's a big industry around and, you know people have made fortune out of bitcoin."  -- Sir Richard Branson, Virgin
 <p>"If people have lots of bitcoin and they want to go to space, I much rather they spend that money on a spaceship." Richard Branson
-<p><b>Chamath Palihapitiya</b> is a venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
+<p><img src="/images/chamath-palihapitiya-bitcoin.png" alt="Chamath Palihapitiya"><b>Chamath Palihapitiya</b> is a venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
 <p>"It is a huge deal, it's a huge, huge, huge deal." -- Chamath Palihapitiya, Ex-head of AOL IM
 <p>"I mean I personally -- I own bitcoin in my hedge fund, I own bitcoin in my fund, I own bitcoin in my private account." -- Chamath Palihapitiya, Ex-head of AOL IM
-<p><b>Lawrence Summers</b> is an economist who is President Emeritus and Charles W. Eliot University Professor of Harvard University. He served as 71st Secretary of the Treasury of the United States from July 2, 1999 to January 20, 2001 and the 27th President of Harvard University from July 1, 2001 to June 20, 2006.
-<p><b>Dr. Patrick Byrne</b> holds a Masters from Cambridge in Mathematical Logic and a PhD from Stanford in Philosophy. He is an investigative financial journalist, entrepreneur, e-commerce pioneer, CEO and chairman of publicly traded Overstock.
+<p><img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"><b>Lawrence Summers</b> is an economist who is President Emeritus and Charles W. Eliot University Professor of Harvard University. He served as 71st Secretary of the Treasury of the United States from July 2, 1999 to January 20, 2001 and the 27th President of Harvard University from July 1, 2001 to June 20, 2006.
+<p><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"><b>Dr. Patrick Byrne</b> holds a Masters from Cambridge in Mathematical Logic and a PhD from Stanford in Philosophy. He is an investigative financial journalist, entrepreneur, e-commerce pioneer, CEO and chairman of publicly traded Overstock.
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/IKHvglt89VQ" frameborder="0" allowfullscreen></iframe></center>
 
