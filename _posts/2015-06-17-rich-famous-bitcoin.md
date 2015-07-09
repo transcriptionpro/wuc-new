@@ -8,8 +8,6 @@ published: true
 
 <p>Bitcoin is one of those topics that evokes great emotion and debate. So it is no surprise that even the richest and most famous people in the world have shared their thoughts and opinions on Bitcoin.
 <p>No banks, no fees and no inflation. These are a few potential perks of this thing called Bitcoin. But is bitcoin really the money of the future? What is all the rage about?
-<p><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"> <img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"> <img src="/images/richard-branson-bitcoin.png" alt="Richard Branson">
-<p><img src="/images/chamath-palihapitiya-bitcoin.png" alt="Chamath Palihapitiya"> <img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"> <img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne">
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
