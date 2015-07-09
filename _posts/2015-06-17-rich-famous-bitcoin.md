@@ -14,26 +14,31 @@ published: true
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
-<p><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates">
+<p><center><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"></center>
 <p><h3><b>Bill Gates</b></h3>
 <p>Founder of Microsoft and richest person in the world.
 <p>"Bitcoin is better than currency."
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><center><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"></center>
 <p><h3><b>Dr. Eric Schmidt</b></h3>
 <p>Holds a PhD in Computer Science, was CEO of Google and is now Executive Chairman. He is also ranked as the 138th-richest person in the world, with an estimated wealth of $8.3 billion.
 <p>"Technical answer in bitcoin is that bitcoin is a remarkable cryptography achievements."
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><center><img src="/images/richard-branson-bitcoin.png" alt="Richard Branson"></center>
 <p><h3><b>Richard Branson</b></h3> is  is an English businessman and investor. He is best known as the founder of Virgin Group, which comprises more than 400 companies. Branson is the seventh richest citizen of the United Kingdom, with an estimated net worth of US$4.9 billion.
 <p>"There's a big industry around and, you know people have made fortune out of bitcoin."
 <p>"If people have lots of bitcoin and they want to go to space, I much rather they spend that money on a spaceship."
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><center><img src="/images/chamath-palihapitiya-bitcoin.png" alt="Chamath Palihapitiya"></center>
 <p><h3><b>Chamath Palihapitiya</b></h3> is a venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
 <p>"It is a huge deal, it's a huge, huge, huge deal."
 <p>"I mean I personally -- I own bitcoin in my hedge fund, I own bitcoin in my fund, I own bitcoin in my private account."
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><center><img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"></center>
 <p><h3><b>Lawrence Summers</b></h3>
 <p>An economist who is President Emeritus and Charles W. Eliot University Professor of Harvard University. He served as 71st Secretary of the Treasury of the United States from July 2, 1999 to January 20, 2001 and the 27th President of Harvard University from July 1, 2001 to June 20, 2006.
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><center><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"></center>
 <p><h3><b>Dr. Patrick Byrne</b></h3>
 <p>Holds a Masters from Cambridge in Mathematical Logic and a PhD from Stanford in Philosophy. He is an investigative financial journalist, entrepreneur, e-commerce pioneer, CEO and chairman of publicly traded Overstock.
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
