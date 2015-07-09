@@ -23,6 +23,7 @@ published: true
 <p><h3 id="bill-gates"><b>Bill Gates</b></h3>
 <p><center><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"></center>
 <p>Founder of Microsoft and richest person in the world.
+<p>"I think it's a technical tour de force but that it is an area where governments are going to maintain a dominant role."
 <p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/DyAufA2lWn0" frameborder="0" allowfullscreen></iframe></center>
 
