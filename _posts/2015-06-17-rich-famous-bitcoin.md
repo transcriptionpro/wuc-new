@@ -15,54 +15,55 @@ published: true
 <li><a href="#richard-branson">Richard Branson</a></li>
 <li><a href="#chamath-palihapitiya">Chamath Palihapitiya</a></li>
 <li><a href="#lawrence-summers">Lawrence Summers</a></li>
-<li><a href="dr-patrick-byrne">Lawrence Summers</a></li>
+<li><a href="#dr-patrick-byrne">Dr. Patrick Byrne</a></li>
 </ul>
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
-<p><center><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"></center>
 <p><h3 id="bill-gates"><b>Bill Gates</b></h3>
+<p><center><img src="/images/bill-gates-bitcoin.png" alt="Bill Gates"></center>
 <p>Founder of Microsoft and richest person in the world.
 <p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/DyAufA2lWn0" frameborder="0" allowfullscreen></iframe></center>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
-<p><center><img src="/images/warren-buffett-bitcoin.png" alt="Warren Buffett"></center>
 <p><h3 id="warren-buffett"><b>Warren Buffett</b></h3>
+<p><center><img src="/images/warren-buffett-bitcoin.png" alt="Warren Buffett"></center>
 <p>CEO of Berkshire Hathaway and the second richest person in the world.
 <p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
 <p><center><iframe width="700" height="525" src="https://www.youtube.com/embed/ewMYbX47-IE" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
-<p><center><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"></center>
 <p><h3 id="dr-eric-schmidt"><b>Dr. Eric Schmidt</b></h3>
+<p><center><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"></center>
 <p>Holds a PhD in Computer Science, was CEO of Google and is now Executive Chairman. He is also ranked as the 138th-richest person in the world, with an estimated wealth of $8.3 billion.
 <p>"Technical answer in bitcoin is that bitcoin is a remarkable cryptography achievements."
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/jRrEZbKm3mk" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><h3 id="richard-branson"><b>Richard Branson</b></h3>
 <p><center><img src="/images/richard-branson-bitcoin.png" alt="Richard Branson"></center>
-<p><h3 id="richard-branson"><b>Richard Branson</b></h3> is  is an English businessman and investor. He is best known as the founder of Virgin Group, which comprises more than 400 companies. Branson is the seventh richest citizen of the United Kingdom, with an estimated net worth of US$4.9 billion.
+<p>An English businessman and investor who is best known as the founder of Virgin Group comprising more than 400 companies. Branson is the seventh richest citizen of the United Kingdom, with an estimated net worth of US$4.9 billion.
 <p>"There's a big industry around and, you know people have made fortune out of bitcoin."
 <p>"If people have lots of bitcoin and they want to go to space, I much rather they spend that money on a spaceship."
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/DzwTXZDSyHo" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><h3 id="chamath-palihapitiya"><b>Chamath Palihapitiya</b></h3>
 <p><center><img src="/images/chamath-palihapitiya-bitcoin.png" alt="Chamath Palihapitiya"></center>
-<p><h3 id="chamath-palihapitiya"><b>Chamath Palihapitiya</b></h3> is a venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
+<p>Venture capitalist and partial owner of the Golden State Warriors. In March 2013, Palihapitiya confirmed that his venture fund had raised over $275 million in its second round of fundraising.
 <p>"It is a huge deal, it's a huge, huge, huge deal."
 <p>"I mean I personally -- I own bitcoin in my hedge fund, I own bitcoin in my fund, I own bitcoin in my private account."
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
-<p><center><img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"></center>
 <p><h3 id="lawrence-summers"><b>Lawrence Summers</b></h3>
+<p><center><img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"></center>
 <p>An economist who is President Emeritus and Charles W. Eliot University Professor of Harvard University. He served as 71st Secretary of the Treasury of the United States from July 2, 1999 to January 20, 2001 and the 27th President of Harvard University from July 1, 2001 to June 20, 2006.
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/UVGq0zaZsNg" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
-<p><center><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"></center>
 <p><h3 id="dr-patrick-byrne"><b>Dr. Patrick Byrne</b></h3>
+<p><center><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"></center>
 <p>Holds a Masters from Cambridge in Mathematical Logic and a PhD from Stanford in Philosophy. He is an investigative financial journalist, entrepreneur, e-commerce pioneer, CEO and chairman of publicly traded Overstock.
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/IKHvglt89VQ" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 ### TRANSCRIPT OF Patrick Byrne on Bitcoin
 <p>How is digital currency or crypto currency going to change at least here on the United State our -- the system and how we actually managed money?
-
 <p><b>Patrick Byrne</b>:  Well, I start with a premise, I mean, we can talked about if you want, but I'll start with dilemma.  We live in an oligarchy.  This country history can be told as a competition between two power centers, Wall Street and Washington.  About 30 years, Wall Street got Washington under their thumb.
 <p>I've been in the belly of the beast.  I've fought the fight, you may know I've been -- I was a one man occupying from about 2004, actually not one man.  There were about a dozen folks on the internet that we all met each other and we're trying -- belong four occupy Wall Street came along we figure out there is a lot of criminality going on on Wall Street where it was going on and such.
 <p>Well, its center on the settlement system and organized crime has figured it out that there are cracks in the nation settlement system, stock settlement system.  They're taking advantage of it, but what was curious to me was the reaction of the establishment because we had the good, we had the data the evidence.  We had people who took part and we had it all spelled out.
