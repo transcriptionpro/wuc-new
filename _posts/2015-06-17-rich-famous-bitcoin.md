@@ -38,7 +38,6 @@ published: true
 <p><center><img src="/images/lawrence-summers-bitcoin.png" alt="Lawrence Summers"></center>
 <p><h3><b>Lawrence Summers</b></h3>
 <p>An economist who is President Emeritus and Charles W. Eliot University Professor of Harvard University. He served as 71st Secretary of the Treasury of the United States from July 2, 1999 to January 20, 2001 and the 27th President of Harvard University from July 1, 2001 to June 20, 2006.
-### Fireside Chat
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/UVGq0zaZsNg" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"></center>
