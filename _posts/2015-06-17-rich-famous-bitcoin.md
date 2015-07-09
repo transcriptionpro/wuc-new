@@ -12,14 +12,14 @@ published: true
 <ul><li><a href="#bill-gates">Bill Gates</a></li>
 <li><a href="#warren-buffett">Warren Buffett</a></li>
 <li><a href="#dr-eric-schmidt">Dr. Eric Schmidt</a></li>
-<li><a href="#richard-branson">Richard Branson</a></li>
-<li><a href="#chamath-palihapitiya">Chamath Palihapitiya</a></li>
-<li><a href="#lawrence-summers">Lawrence Summers</a></li>
-<li><a href="#dr-patrick-byrne">Dr. Patrick Byrne</a></li>
 <li><a href="#al-gore">Al Gore</a></li>
+<li><a href="#ben-bernanke">Ben Bernanke</a></li>
+<li><a href="#lawrence-summers">Lawrence Summers</a></li>
+<li><a href="#chamath-palihapitiya">Chamath Palihapitiya</a></li>
 <li><a href="#peter-thiel">Peter Thiel</a></li>
 <li><a href="#dan-kaminsky">Dan Kaminsky</a></li>
-<li><a href="#ben-bernanke">Ben Bernanke</a></li>
+<li><a href="#dr-patrick-byrne">Dr. Patrick Byrne</a></li>
+<li><a href="#richard-branson">Richard Branson</a></li>
 <li><a href="#julian-assange">Julian Assange</a></li>
 </ul>
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
