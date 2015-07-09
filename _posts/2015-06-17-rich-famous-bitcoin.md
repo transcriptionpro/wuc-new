@@ -17,6 +17,13 @@ published: true
 <p>Founder of Microsoft and richest person in the world.
 <p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/DyAufA2lWn0" frameborder="0" allowfullscreen></iframe></center>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><center><img src="/images/warren-buffett-bitcoin.png" alt="Warren Buffett"></center>
+<p><h3><b>Warren Buffett</b></h3>
+<p>CEO of Berkshire Hathaway and the second richest person in the world.
+<p>"Bitcoin is exciting because it shows how cheap it can be. Bitcoin is better than currency in that you don’t have to be physically in the same place and, of course, for large transactions, currency can get pretty inconvenient.”
+<p><center><iframe width="700" height="525" src="https://www.youtube.com/embed/ewMYbX47-IE" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><center><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"></center>
 <p><h3><b>Dr. Eric Schmidt</b></h3>
