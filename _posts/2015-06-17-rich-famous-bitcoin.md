@@ -16,6 +16,9 @@ published: true
 <li><a href="#chamath-palihapitiya">Chamath Palihapitiya</a></li>
 <li><a href="#lawrence-summers">Lawrence Summers</a></li>
 <li><a href="#dr-patrick-byrne">Dr. Patrick Byrne</a></li>
+<li><a href="#al-gore">Al Gore</a></li>
+<li><a href="#peter-thiel">Peter Thiel</a></li>
+<li><a href="#dan-kaminsky">Dan Kaminsky</a></li>
 </ul>
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/pWkbXEz9UQU" frameborder="0" allowfullscreen></iframe></center>
 
@@ -38,6 +41,7 @@ published: true
 <p><center><img src="/images/eric-schmidt-bitcoin.png" alt="Eric Schmidt"></center>
 <p>Holds a PhD in Computer Science, was CEO of Google and is now Executive Chairman. He is also ranked as the 138th-richest person in the world, with an estimated wealth of $8.3 billion.
 <p>"Technical answer in bitcoin is that bitcoin is a remarkable cryptography achievements."
+<p>"Bitcoin is a remarkable cryptographic achievement and the ability to create something that is not duplicable in the digital world has enormous value"
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/jRrEZbKm3mk" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="richard-branson"><b>Richard Branson</b></h3>
@@ -62,6 +66,21 @@ published: true
 <p><center><img src="/images/patrick-byrne-bitcoin.png" alt="Patrick Byrne"></center>
 <p>Holds a Masters from Cambridge in Mathematical Logic and a PhD from Stanford in Philosophy. He is an investigative financial journalist, entrepreneur, e-commerce pioneer, CEO and chairman of publicly traded Overstock.
 <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/IKHvglt89VQ" frameborder="0" allowfullscreen></iframe></center>
+<hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><h3 id="al-gore"><b>Former Vice President Al Gore</b></h3>
+<p><center><img src="/images/al-gore-bitcoin.png" alt="Patrick Byrne"></center>
+<p>45th Vice President of the United States
+<p>"I think the fact that within the bitcoin universe an algorithm replaces the functions of [the government] … is actually pretty cool. I am a big fan of Bitcoin."
+<hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><h3 id="peter-thiel"><b>Peter Thiel</b></h3>
+<p><center><img src="/images/peter-thiel-bitcoin.png" alt="Peter Thiel"></center>
+<p>Co-Founder of Paypal and investor in Bitcoin merchant processor <a href="/bitpay/">Bitpay</a>.
+<p>"I do think Bitcoin is the first [encrypted money] that has the potential to do something like change the world."
+<hr style="width: 100%; margin: 20px 0; color: #eee;"/>
+<p><h3 id="dan-kaminsky"><b>Dan Kaminsky</b></h3>
+<p><center><img src="/images/dan-kaminsky-bitcoin.png" alt="Dan Kaminsky"></center>
+<p>An American security researcher. He is the Chief Scientist of White Ops, a firm specializing in detecting malware activity via JavaScript. He has worked for Cisco, Avaya, and IOActive, where he was the Director of Penetration Testing. He is known among computer security experts for his work on DNS cache poisoning, and for showing that the Sony Rootkit had infected at least 568,200 computers and for his talks at the Black Hat Briefings.
+<p>"Entire classes of bugs are missing."
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 ### TRANSCRIPT OF Patrick Byrne on Bitcoin
 <p>How is digital currency or crypto currency going to change at least here on the United State our -- the system and how we actually managed money?
