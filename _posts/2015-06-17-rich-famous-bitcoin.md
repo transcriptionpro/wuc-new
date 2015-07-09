@@ -89,11 +89,13 @@ published: true
 <p><center><img src="/images/ben-bernanke-bitcoin.png" alt="Ben Bernanke"></center>
 <p>Former Chairman of the United States Federal Reserve.
 <p>"[Virtual Currencies] may hold long-term promise, particularly if the innovations promote a faster, more secure and more efficient payment system."
+<p><center><iframe width="700" height="525" src="https://www.youtube.com/embed/R6FVLZH_bTE" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 <p><h3 id="julian-assange"><b>Julian Assange</b></h3>
 <p><center><img src="/images/julian-assange-bitcoin.png" alt="Julian Assange"></center>
 <p>Founder of Wikileaks.
 <p>"Bitcoin actually has the balance and incentives right, and that is why it is starting to take off."
+<p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/MaB3Zw5_p9c" frameborder="0" allowfullscreen></iframe></center>
 <hr style="width: 100%; margin: 20px 0; color: #eee;"/>
 ### TRANSCRIPT OF Patrick Byrne on Bitcoin
 <p>How is digital currency or crypto currency going to change at least here on the United State our -- the system and how we actually managed money?
