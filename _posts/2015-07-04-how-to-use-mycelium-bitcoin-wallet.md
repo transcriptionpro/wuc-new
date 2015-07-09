@@ -6,7 +6,8 @@ authorurl: /
 published: true
 ---
 
-<p><h1><strong>Mycelium User Manual | How to use the Mycelium Bitcoin wallet</strong></h1>
+<p><center><img src="/images/mycelium-logo.png" alt="mycelium 1" width="700" height="144" /></center>
+<p><h1><strong>The Mycelium User Manual</strong></h1>
 <p>This manual will show you how to create and secure a Mycelium Wallet on your android phone/tablet and how to send and receive payments. We reccomend Mycelium to all new and expert Bitcoin users. It is secure, easy to use, and has a lot of interesting functionalities.</p>
 <p><b>Overview: what is a Bitcoin wallet?</b></p>
 <p>A Bitcoin wallet is a software or application which lets you use the Bitcoin payment network and helps you manage your Bitcoin currency. Just like you need an email application (like Gmail, Yahoo or Hotmail to send and receive emails), you need a Bitcoin wallet to send and receive bitcoins.</p>
@@ -16,12 +17,12 @@ published: true
 <ul>
 <li>Go to the Google Play Store and download Mycelium Wallet.</li>
 </ul>
-<p><img src="/images/mycelium-1-278x300.png" alt="mycelium 1" width="278" height="300" /></center>
+<p><center><img src="/images/mycelium-1-278x300.png" alt="mycelium 1" width="278" height="300" /></center>
 <ul>
 <li>When the app is finished downloading go to your home screen and open the app</li>
 <li>Your wallet is ready for use immediately but we strongly recommend you secure it.</li>
 </ul>
-<p><h2><strong>Step 2: set-up and secure your wallet</h2>
+<p><h2><strong>Step 2: set-up and secure your wallet</h2></strong>
 <p><em>Protect your wallet from theft with a PIN code</em></p>
 <ul>
 <li>First go to <em>settings </em>(found in the top right corner by clicking the vertically stacked three small squares)<br /></li>
@@ -30,11 +31,12 @@ published: true
 <li>Set a pin code and make sure not to forget it, without this code, you cannot spend bitcoin and you cannot access your master recovery seed</li>
 </ul>
 <p>The next time you want to make a transaction or change important settings, this screen will appear:</p>
-<p><img src="/images/mycelium-pin-296x300.png" alt="mycelium pin" width="296" height="300" /></a></p>
+<p><center><img src="/images/mycelium-pin-296x300.png" alt="mycelium pin" width="296" height="300" /></center></p>
 <p><em>Protect your wallet in case you lose the phone or PIN code</em></p>
 <ul>
 <li>Now that you have protected your wallet with a pin code you need to back it up</li>
-<li>Click on the three small squares in the top right corner and choose <em>backup<img src="/images/backup-300x273.png" alt="backup" width="300" height="273" /></em></li>
+<li>Click on the three small squares in the top right corner and choose <em>backup</em></li>
+<p><center><img src="/images/backup-300x273.png" alt="backup" width="300" height="273" /></center>
 <li>Enter your pin code to access the recovery phrase</li>
 <li>The wallet will show 12 words, one at a time.</li>
 <li>You will be prompted to write down the 12 words to <strong>make sure you have correctly written them down</strong></li>
