@@ -56,6 +56,7 @@ CBlock(hash=000000000019d6, ver=1, hashPrevBlock=00000000000000, hashMerkleRoot=
 ## Dr. Edwin Vieira, Jr., Ph.D., J.D. - Speech at <a href="https://www.gata.org">GATA</a> Washington Conference April 17-19 2008
 <p>Dr. Vieira holds four degrees from Harvard University including a Ph.D. in Chemistry and a law degree. He is licensed to practice law before the United States Supreme Court.
 <p>Dr. Edwin Vieire's <a title="pieces of eight" href="http://www.runtogold.com/piecesofeightbook" target="_blank">Pieces of Eight</a> is a two volume, 1,700+ page, meticulously footnoted treatment of the monetary powers and disabilities of the United States Constitution. There are no other scholarly works of comparable quality in any topic. <strong>Pieces of Eight is a must have for the library of any serious monetary historian.</strong>
+<p>In this speech, which was given before Bitcoin was released, he helps us explain the nature of money, currency and their relationship with human and civil rights.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/Wj9Aj1RFqBI" frameborder="0" allowfullscreen></iframe></center>
 <p><b>Hyatt Regency Crystal City Hotel, Arlington, Virginia
 <p>Friday, April 18, 2008</b></p>
