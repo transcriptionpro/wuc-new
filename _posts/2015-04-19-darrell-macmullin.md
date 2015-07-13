@@ -6,6 +6,7 @@ authorurl: /josh-crumb/
 published: true
 ---
 
+<img src="/images/darrell-macmullin.png" alt="Darrell MacMullin" align="right">
 <p><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer
 <p>Darrell MacMullin has driven successful new payment and commerce innovations for the past 15 years, including the launch and leadership of PayPal during its first eight years in Canada.
 <p>He has worked closely both as an advisor and investor with entrepreneurs, developers and industry partners to accelerate the growth of new FinTech payments and commerce experiences.
