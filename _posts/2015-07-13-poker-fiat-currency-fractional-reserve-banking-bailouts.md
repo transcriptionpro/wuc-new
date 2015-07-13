@@ -6,12 +6,11 @@ authorurl: /poker-fiat-currency-fractional-reserve-banking-bailouts/
 published: true
 ---
 
-## Satoshi Nakamoto and Monetary Ideology
-
+<h2>Satoshi Nakamoto and Monetary Ideology</h2>
 <p>We have a fun little short story but first we will set the stage for it with a little bit of Bitcoin history.
 <p>Satoshi Nakamoto, a pseudonym, released the Bitcoin on 3 January 2009. The first block in the Bitcoin blockchain is called the Genesis Block.
 
-## The Genesis Block
+<h2>The Genesis Block</h2>
 <p>Here is a representation of the genesis block as it appeared in a comment in an old version of Bitcoin (line 1613). The first section defines exactly all of the variables necessary to recreate the block. The second section is the block in standard printblock format, which contains shortened versions of the data in the first section.
 <pre>GetHash()      = 0x000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
 hashMerkleRoot = 0x4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
@@ -33,8 +32,7 @@ CBlock(hash=000000000019d6, ver=1, hashPrevBlock=00000000000000, hashMerkleRoot=
 <pre>The Times 03/Jan/2009 Chancellor on brink of second bailout for banks</pre>
 <p>This was probably intended as proof that the block was created on or after January 3rd, 2009, as well as a comment on the instability caused by fractional-reserve banking.
 
-## Poker as Fiat Currency, Fractional Reserve Banking and Bailouts
-
+<h2>Poker as Fiat Currency, Fractional Reserve Banking and Bailouts</h2>
 <p>Yes, but more like: we were once playing a fair poker game, and all was well. This changed when every few hands the dealer started reaching into the box of spare chips to give out new ones to his nearby friends.
 <p>And the rest of us are going, "Hey, what the fuck are you doing?"
 <p>The dealer assures us, "Don't worry, this is healthy and normal."
@@ -53,13 +51,13 @@ CBlock(hash=000000000019d6, ver=1, hashPrevBlock=00000000000000, hashMerkleRoot=
 <p>"Well," the dealer said. "This is a bad situation. If we play by the rules the game is gonna be over because we let my friend make that ridiculous bet and lose.... wait, I know what to do."
 <p>So he reached into the box and gave his friend enough free chips to cover the bad bet.
 
-## Dr. Edwin Vieira, Jr., Ph.D., J.D. - Speech at <a href="https://www.gata.org">GATA</a> Washington Conference April 17-19 2008
+<h2>Dr. Edwin Vieira, Jr., Ph.D., J.D. - Speech at <a href="https://www.gata.org">GATA</a> Washington Conference April 17-19 2008</h2>
 <p>Dr. Vieira holds four degrees from Harvard University including a Ph.D. in Chemistry and a law degree. He is licensed to practice law before the United States Supreme Court.
 <p>Dr. Edwin Vieire's <a title="pieces of eight" href="http://www.runtogold.com/piecesofeightbook" target="_blank">Pieces of Eight</a> is a two volume, 1,700+ page, meticulously footnoted treatment of the monetary powers and disabilities of the United States Constitution. There are no other scholarly works of comparable quality in any topic. <strong>Pieces of Eight is a must have for the library of any serious monetary historian.</strong>
 <p>In this speech, which was given before Bitcoin was released, he helps us explain the nature of money, currency and their relationship with human and civil rights.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/Wj9Aj1RFqBI" frameborder="0" allowfullscreen></iframe></center>
 <p><b>Hyatt Regency Crystal City Hotel, Arlington, Virginia
-<p>Friday, April 18, 2008</b></p>
+<h2>Friday, April 18, 2008</b><h2>/h2>
 <p>Silver and gold are not merely valuable commodities, investments, and media of exchange. More importantly, they are key “checks and balances” in America’s legal and political institutions.
 <p>The fight against the use of silver and gold as money that has been waged by bankers and rogue politicians since the 1870s as to silver and the 1930s as to gold — and will intensify as fiat currencies collapse throughout the world — is ultimately directed against America’s national independence, her constitutional government, and every common American’s individual liberty and prosperity.
 <p>The Constitution of the United States adopted a monetary system consisting of silver and gold coin, in which the standard is the “dollar,” containing 371 1/4 grains (troy) of fine silver, with the values of gold coins to be measured in “dollars” according to the free market’s rate of exchange between silver and gold. Neither the general government nor any state is authorized to emit paper currency.
