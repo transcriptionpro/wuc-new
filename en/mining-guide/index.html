@@ -59,5 +59,32 @@ title: How to get started with Bitcoin mining.
 <p>There are two basic ways to mine: On your own or as part of a Bitcoin mining pool or with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/">Bitcoin cloud mining contracts</a>. Almost all miners choose to mine in a pool because it smooths out the luck inherent in the Bitcoin mining process. Before you join a pool, make sure you have a <a href="https://www.weusecoins.com/en/getting-started">bitcoin wallet</a> so you have a place to store your bitcoins. Next you will need to join a mining pool and set your miner(s) to connect to that pool. With pool mining, the profit from each block any pool member generates is divided up among the members of the pool according to the amount of hashes they contributed.
 <p>How much bandwidth does Bitcoin mining take? If you are mining with a pool then the amount should be negligible with about 10MB/day. However, what you do need is exceptional connectivity so that you get any updates on the work as fast as possible.
 <p>This gives the pool members a more frequent, steady payout (this is called reducing your variance), but your payout(s) can be decreased by whatever fee the pool might charge. Solo mining will give you large, infrequent payouts and pooled mining will give you small, frequent payouts, but both add up to the same amount if you're using a zero fee pool in the long-term.</p>
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+<h2>What is Bitcoin Mining?</h2>
+<center><img src="/images/what-is-bitcoin-mining.png">
+<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+<p>Bitcoin mining is the process of adding transaction records to Bitcoin's public ledger of past transactions. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place.
+<p>Bitcoin nodes use the block chain to distinguish legitimate Bitcoin transactions from attempts to re-spend coins that have already been spent elsewhere.
+<p>Bitcoin mining is intentionally designed to be resource-intensive and difficult so that the number of blocks found each day by miners remains steady. Individual blocks must contain a proof of work to be considered valid. This proof of work is verified by other Bitcoin nodes each time they receive a block. Bitcoin uses the <a href="/what-is-hashcash/">hashcash</a> proof-of-work function.
+<p>The primary purpose of mining is to allow Bitcoin nodes to reach a secure, tamper-resistant consensus. Mining is also the mechanism used to introduce Bitcoins into the system: Miners are paid any transaction fees as well as a "subsidy" of newly created coins.
+<p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
+<p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
+<h2>What is Proof of Work?</h2>
+<center><img src="/images/what-is-proof-of-work.png">
+<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center></center>
+<p>A <a href="/what-is-proof-of-work/">proof of work</a> is a piece of data which was difficult (costly, time-consuming) to produce so as to satisfy certain requirements. It must be trivial to check whether data satisfies said requirements.
+<p>Producing a proof of work can be a random process with low probability, so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work.
+<h2>What is Bitcoin Mining Difficulty?</h2>
+<center><img src="/images/what-is-bitcoin-mining-difficulty.png">
+<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+<h3>The Computationally-Difficult Problem</h3>
+<p>Bitcoin mining a block is difficult because the SHA-256 hash of a block's header must be lower than or equal to the target in order for the block to be accepted by the network.
+<p>This problem can be simplified for explanation purposes: The hash of a block must start with a certain number of zeros. The probability of calculating a hash that starts with many zeros is very low, therefore many attempts must be made. In order to generate a new hash each round, a nonce is incremented. See Proof of work for more information.
+<h3>The Bitcoin Network Difficulty Metric</h3>
+<p>The <a href="/what-is-bitcoin-mining-difficulty/">Bitcoin mining network difficulty</a> is the measure of how difficult it is to find a new block compared to the easiest it can ever be. It is recalculated every 2016 blocks to a value such that the previous 2016 blocks would have been generated in exactly two weeks had everyone been mining at this difficulty. This will yield, on average, one block every ten minutes.
+<p>As more miners join, the rate of block creation will go up. As the rate of block generation goes up, the difficulty rises to compensate which will push the rate of block creation back down. Any blocks released by malicious miners that do not meet the required difficulty target will simply be rejected by everyone on the network and thus will be worthless.
+<h3>The Block Reward</h3>
+<p>When a block is discovered, the discoverer may award themselves a certain number of bitcoins, which is agreed-upon by everyone in the network. Currently this bounty is 25 bitcoins; this value will halve every 210,000 blocks. See Controlled Currency Supply.
+<p>Additionally, the miner is awarded the fees paid by users sending transactions. The fee is an incentive for the miner to include the transaction in their block. In the future, as the number of new bitcoins miners are allowed to create in each block dwindles, the fees will make up a much more important percentage of mining income.
 <h2>Thanks</h2>
 <p>Blitzboom and the guys from #bitcoin-dev for their help with writing the guide!
