@@ -7,7 +7,7 @@ published: true
 ---
 
 <img src="/images/josh-crumb.png" alt="Josh Crumb" align="right">
-<p>Josh Crumb is the co-founder and Chief Strategy Officer of BitGold.
+<p>Josh Crumb is the co-founder and Chief Strategy Officer of <a href="/bitgold/">BitGold</a>.
 <p>He is an entrepreneur with a background in early stage global businesses.
 <p>Josh was previously the Senior Metals Strategist at Goldman Sachs in the Global Economics, Commodities and Strategies research division in London.
 <p>He also held various positions within the Lundin group of companies, serving as Director of Corporate Development and Special Project Analyst for group chairman Lukas Lundin.
