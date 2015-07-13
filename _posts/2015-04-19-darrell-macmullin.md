@@ -2,7 +2,7 @@
 layout: post
 title: Darrell MacMullin - COO Bitgold
 author: Darrell MacMullin - COO Bitgold
-authorurl: /josh-crumb/
+authorurl: /darrell-macmullin/
 published: true
 ---
 
@@ -12,7 +12,6 @@ published: true
 <p>He has worked closely both as an advisor and investor with entrepreneurs, developers and industry partners to accelerate the growth of new FinTech payments and commerce experiences.
 <p>Darrell provided thought leadership and innovation expertise for the convergence of online, mobile and offline into one commercial stream with government, banks and new FinTech companies.
 <p>Prior to PayPal Darrell was part of the successful launches and rapid growth of eBay and Chapters Indigo online into leading commerce players.
-
 <center><iframe src="https://player.vimeo.com/video/28200206" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 ## Article by Darrell MacMullin
