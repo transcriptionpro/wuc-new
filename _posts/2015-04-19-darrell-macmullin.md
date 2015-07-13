@@ -16,5 +16,5 @@ published: true
 
 ## Article by Darrell MacMullin
 <ul>
-<li><a href="http://www.techvibes.com/blog/techvibes-tv-paypal-canadas-darrell-macmullin-2011-09-01"Techvibes TV with Paypal Canada></a></li>
+<li><a href="http://www.techvibes.com/blog/techvibes-tv-paypal-canadas-darrell-macmullin-2011-09-01">Techvibes TV with Paypal Canada</a></li>
 </ul>
