@@ -14,7 +14,7 @@ published: true
 
 ## Article by Alessandro Premoli
 <ul>
-<li><a href="http://www.slideshare.net/BitGold/bit-gold-2015-0501-web-version"></a></li>
+<li><a href="http://www.slideshare.net/BitGold/bit-gold-2015-0501-web-version">Bitgold Presentation</a></li>
 </ul>
 
 ## BitGold Executive Management Team Members

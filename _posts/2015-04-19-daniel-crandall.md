@@ -16,5 +16,12 @@ published: true
 
 ## Article by Daniel Crandall
 <ul>
-<li><a href="http://www.marketwired.com/press-release/malbex-announces-management-changes-tsx-venture-mbg-1981555.htm"></a></li>
+<li><a href="http://www.marketwired.com/press-release/malbex-announces-management-changes-tsx-venture-mbg-1981555.htm">Malbex Announces Management Changes</a></li>
 </ul>
+
+## BitGold Executive Management Team Members
+<ul><li><a href="/roy-sebag/">Roy Sebag</a> - Co-Founder and Chief Executive Officer</li>
+<li><a href="/josh-crumb/">Josh Crumb</a> - Co-Founder and Chief Strategy Officer</li>
+<li><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer</li>
+<li><a href="/alessandro-premoli/">Alessandro Premoli</a> - Chief Technology Officer</li>
+<li><a href="/daniel-crandall/">Daniel Crandall</a> - Chief Financial Officer</li></ul>
