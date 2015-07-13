@@ -6,6 +6,7 @@ authorurl: /poker-fiat-currency-fractional-reserve-banking-bailouts/
 published: true
 ---
 
+<center><img src="/images/poker.png"></center>
 <h2>Satoshi Nakamoto and Monetary Ideology</h2>
 <p>We have a fun little <a href="#short-story">short story</a> but first we will set the stage for it with a little bit of Bitcoin history.
 <p>Satoshi Nakamoto, a pseudonym, released the Bitcoin on 3 January 2009. The first block in the Bitcoin blockchain is called the Genesis Block.
