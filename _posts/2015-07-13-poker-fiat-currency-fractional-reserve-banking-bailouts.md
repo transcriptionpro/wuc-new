@@ -33,24 +33,25 @@ CBlock(hash=000000000019d6, ver=1, hashPrevBlock=00000000000000, hashMerkleRoot=
 <p>This was probably intended as proof that the block was created on or after January 3rd, 2009, as well as a comment on the instability caused by fractional-reserve banking.
 
 <h2>Poker as Fiat Currency, Fractional Reserve Banking and Bailouts</h2>
-<p>Yes, but more like: we were once playing a fair poker game, and all was well. This changed when every few hands the dealer started reaching into the box of spare chips to give out new ones to his nearby friends.
-<p>And the rest of us are going, "Hey, what the fuck are you doing?"
-<p>The dealer assures us, "Don't worry, this is healthy and normal."
-<p>Again and again the dealer reaches into the box and pretty soon the 100 chips we built up through hard work are nothing compared to the gargantuan stacks being shoved around by the other players.
-<p>"This is fucking bullshit!" we call. "You're giving all the new chips to those two guys!"
-<p>"Yes, but the important part is that they are being distributed into the game," the dealer assures us. "Just keep playing hands and those chips will trickle into your piles too."
-<p>"No, they won't, because those guys are just using them to bully the rest of us around! I can't even afford to see most flops anymore."
-<p>"Hmmm," the dealer thinks. "Wait, I know how to fix this." He reaches into the box and hands out two more stacks of chips to his friends, the largest yet.
-<p>That's when we get up from the table as the dealer calls, "Hey, where are you guys going?"
-<p>"To make our own game, a fair one."
-<p>It should be noted that the problems began in the first place when one of the friends started going all in on ridiculous bets, and betting amounts of chips way above what he had in front of him.
-<p>"You can't bet that. You don't have that much," one of us tried to say.
+<p>Once a bunch of friends and acquaintances were playing a fair game of poker. Even though different players won each hand they all knew the rules were fair, it was fun and there was peace.
+<p>But then one of the friends started going all in on ridiculous bets and even started betting amounts of chips way <b>above</b> what he had in front of him.
+<p>"You can't bet that. You don't have that much," one of the players tried to say.
 <p>"Aww, I'm good for it," he assured us.
 <p>"Stop holding up the game," the dealer warned. "Let him bet however he wants."
 <p>Then the friend lost, hard.
-<p>"Well," the dealer said. "This is a bad situation. If we play by the rules the game is gonna be over because we let my friend make that ridiculous bet and lose.... wait, I know what to do."
-<p>So he reached into the box and gave his friend enough free chips to cover the bad bet.
+<p>"Well," the dealer said. "This is a bad situation. If we play by the rules the game will be over because we let my friend make that ridiculous bet and lose.... wait, I know what to do."
+<p>So he reached into the box and gave his friend enough chips, for <b>free</b>, to cover the bad bet.
 
+<p>But it did not stop there. Every few hands the dealer started reaching into the box of spare chips to give out new ones to his nearby friends.
+<p>And the rest of us are going, "Hey, what in the world are you doing?"
+<p>The dealer assures us, "Don't worry, this is healthy and normal."
+<p>Again and again the dealer reached into the box and pretty soon the 100 chips we built up through hard work are nothing compared to the gargantuan stacks being shoved around by the other players.
+<p>"This is screwed up!" we call. "You're giving all the new chips to those two guys!"
+<p>"Yes, but the important part is that they are being distributed into the game," the dealer assures us. "Just keep playing hands and those chips will trickle into your piles too."
+<p>"No, they won't, because those guys are just using them to <b>bully</b> the rest of us around! I can't even afford to see most flops anymore."
+<p>"Hmmm," the dealer thinks. "Wait, I know how to fix this." He reaches into the box and hands out two more stacks of chips to his friends, the largest yet.
+<p>That's when we get up from the table as the dealer calls, "Hey, where are you guys going?"
+<p><b>"To make our own game, a fair one."</b>
 <h2>Dr. Edwin Vieira, Jr., Ph.D., J.D. - Speech at <a href="https://www.gata.org">GATA</a> Washington Conference April 17-19 2008</h2>
 <p>Dr. Vieira holds four degrees from Harvard University including a Ph.D. in Chemistry and a law degree. He is licensed to practice law before the United States Supreme Court.
 <p>Dr. Edwin Vieire's <a title="pieces of eight" href="http://www.runtogold.com/piecesofeightbook" target="_blank">Pieces of Eight</a> is a two volume, 1,700+ page, meticulously footnoted treatment of the monetary powers and disabilities of the United States Constitution. There are no other scholarly works of comparable quality in any topic. <strong>Pieces of Eight is a must have for the library of any serious monetary historian.</strong>
