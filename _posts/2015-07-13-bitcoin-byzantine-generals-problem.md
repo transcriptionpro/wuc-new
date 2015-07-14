@@ -11,7 +11,7 @@ published: true
 <a href="/images/bitcoin-byzantine-generals-problem-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 <p>The phrases interactive consistency or source congruency have been used to refer to Byzantine fault tolerance, particularly among the members of some early implementation teams.
 <p>The objective of Byzantine fault tolerance is to be able to defend against Byzantine failures, in which components of a system fail with symptoms that prevent some components of the system from reaching agreement among themselves, where such agreement is needed for the correct operation of the system.
-<p>Correctly functioning components of a Byzantine fault tolerant system will be able to provide the system's service assuming there are not too many faulty components.
+<p>Correctly functioning components of a Byzantine fault tolerant system will be able to <a href="/what-is-immutability/">immutably</a> provide the system's service assuming there are not too many faulty components.
 <p>The following practical, concise definitions are helpful in understanding Byzantine fault tolerance:
 <ul><li><b>Byzantine fault</b> - Any fault presenting different symptoms to different observers</li>
 <li><b>Byzantine failure</b> - The loss of a system service due to a Byzantine fault in systems that require consensus</li></ul>
