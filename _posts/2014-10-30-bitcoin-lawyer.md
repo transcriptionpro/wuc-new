@@ -244,7 +244,7 @@ If you're just a participant, an every day kind of Joe, who wants to buy some bi
 
 </p><p>
 
-<strong>Marco Santori:</strong>  Yes, especially on the < a href="/first-bitcoin-felon/">criminal side</a>.
+<strong>Marco Santori:</strong>  Yes, especially on the <a href="/first-bitcoin-felon/">criminal side</a>.
 
 </p><p>
 
