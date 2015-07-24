@@ -51,7 +51,7 @@ And I decided to put up the money to do that and that's how we started BitInstan
 </p><p>
 
 And we, at one point, we're doing a few million dollars a day and maybe thirty, fourty percent of all <a href="/dollars-to-bitcoin/">bitcoin transactions</a>
- were being brought and sold through us and we were the primary retail method.  You know, what I was always saying was that exchanges should be the average person buying under $10,000 worth of bitcoin should not be going to exchange.  No one should be going to exchanges anymore at all but if someone buy under ten thousand should be buying at retail from <a href="/coinbase/">Coinbase</a>.  There's a new company Celery that is just opening up.
+ were being brought and sold through us and we were the primary retail method.  You know, what I was always saying was that exchanges should be the average person buying under $10,000 worth of bitcoin should not be going to exchange.  No one should be going to exchanges anymore at all but if someone buy under ten thousand should be buying at retail from <a href="/coinbase-review/">Coinbase</a>.  There's a new company Celery that is just opening up.
 
 </p><p>
 
@@ -59,7 +59,7 @@ And we, at one point, we're doing a few million dollars a day and maybe thirty, 
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  Circle, of course.  <a href="/circle/">Circle</a> has a bunch of problems.  I've have been having trouble of buying it --on it.
+<strong>Charlie Shrem:</strong>  Circle, of course.  <a href="/circle-review/">Circle</a> has a bunch of problems.  I've have been having trouble of buying it --on it.
 
 </p><p>
 
