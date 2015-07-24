@@ -45,7 +45,7 @@ Meanwhile, the price is going up, you know, it's going up and I’m like losing 
 
 </p><p>
 
-And I decided to put up the money to do that and that's how we started BitInstant.  And BitInstant essentially allowed people to walk into places like 7-Eleven, CVS, the winery, banks, you know, Bank of America, Citi bank, Wells Fargo.  They deposit money into our accounts or into like 7-Eleven or Walmart or whatever.  And we then fund their <a href="/bitcoin-venture-investing/">exchange accounts</a>
+And I decided to put up the money to do that and that's how we started BitInstant.  And BitInstant essentially allowed people to walk into places like 7-Eleven, CVS, the winery, banks, you know, Bank of America, Citi bank, Wells Fargo.  They deposit money into our accounts or into like 7-Eleven or Walmart or whatever.  And we then fund their <a href="/bitcoin-investor/">bitcoin exchange accounts</a>
  or give them bitcoin directly and then we wait the week or so until these banks would settle with us or 7-Eleven would settle with us and ends up being something that people really needed.
 
 </p><p>
@@ -135,7 +135,7 @@ He could be lying to me, but I want to make sure that no one could be calling me
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  It’s just that’s it.  Like we don’t have a money <a href="/bitcoin-legal-issues/">transmitter license</a>
+<strong>Charlie Shrem:</strong>  It’s just that’s it.  Like we don’t have a money transmitter license
  and we tried very hard to get one over the years and we were very friendly with the government.  But, at the end of the day I am guilty of that crime.  We didn’t have a license and the law says you need to have a license in every state.
 
 </p><p>
