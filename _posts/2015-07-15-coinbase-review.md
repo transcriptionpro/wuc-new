@@ -20,6 +20,7 @@ published: true
 <p>In my mind, nothing comes close to <a href="http://www.runtogold.com/coinbase" target="_blank">Coinbase</a> in terms of ease of use and security. You link a bank account to the San Francisco-based start-up, and then send them money to buy Bitcoin at the currently offered price.
 <p>They wait up to a few days to ensure your transaction clears (Bitcoin is a murky financial area, and they do not want to risk identity theft or other problems until they have banks on their side), and then give you access to your coins. 30 days after you have a successful transaction, you can add a credit card to your account to enable instant buys of up to $1,000 per week. Regular speed buys are allowed at up to $50,000 per week, from a linked bank account.
 <p>Their platform is very popular, and justifiably so it makes owning and managing your coins very simple. They also take excellent security precautions like two-factor authentication on log-in AND on send, keeping the VAST majority (97%!) of their coins in offline storage, and so on.
+<center><a href="http://www.runtogold.com/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-468-60.jpg' title='Coinbase' alt='Coinbase' width="468" height="60" border='0' ></a></center>
 <p>They are an excellent way to enter the Bitcoin ecosystem, and an excellent way to integrate Bitcoin into your business, if you are so inclined. They also offer the excellent Coinbase Vault program which is a system that allows you to place your coins into a very high-security lock, requiring two-factor authentication along with a mandatory waiting period before the coins can be moved.</p>
 <p>What are they not? They <b>ARE NOT</b> an exchange. They are not a trading platform. If your goal is to be buying and selling Bitcoin on its swings then you do not want to be using <a href="http://www.runtogold.com/coinbase" target="_blank">Coinbase</a> for your day-to-day trading.</p>
 <h2>Details:</h2>
@@ -32,6 +33,7 @@ published: true
 <li>High fees and long waits make it unsuited for trading. It&#8217;s more like Western Union than like Scottrade.</li>
 <li>There appears to be a coordinated smear campaign against them on the internet.</li>
 </ul>
+<center><a href="http://www.runtogold.com/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-468-60.jpg' title='Coinbase' alt='Coinbase' width="468" height="60" border='0' ></a></center>
 <h2><b>Pros:</b></h2>
 <ul>
 <li>Easy to use! No harder than PayPal</li>
@@ -47,3 +49,4 @@ published: true
 <li>Really just not intended to be used for trading</li>
 <li>Will occasionally cancel orders for 'high-risk' behavior (suspected motive is really to not honor the price)</li>
 </ul>
+<center><a href="http://www.runtogold.com/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-468-60.jpg' title='Coinbase' alt='Coinbase' width="468" height="60" border='0' ></a></center>
