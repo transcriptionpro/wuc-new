@@ -6,8 +6,15 @@ authorurl: /
 published: true
 ---
 
-<p>A hosted web-based E-Wallet used for sending, receiving and storing bitcoins. This is not to be confused with the data structure in the blockchain which is also named coinbase. This also is not to be confused with a podcast series called Coinbase that was produced by AgoristRadio.com.
+<p>Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.
+<p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.
 <p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
+<h2>Stats</h2>
+      <ul><li>2,500,000 <span>Users</li>
+      <li>3,900,000 <span>Wallets</li>
+      <li>40,000 <span>Merchants</li>
+      <li>7,000 <span>Developer Apps</li></ul>
+<center><img src="/coinbase-summary.png" alt="Coinbase Summary" /></center>
 
 <h1>Coinbase Review</h1> 
 <p>In my mind, nothing comes close to <a href="https://www.runtogold.com/coinbase" target="_blank">Coinbase</a> in terms of ease of use and security. You link a bank account to the San Francisco-based start-up, and then send them money to buy Bitcoin at the currently offered price.
