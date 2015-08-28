@@ -14,7 +14,7 @@ published: true
       <li>3,900,000 <span>Wallets</li>
       <li>40,000 <span>Merchants</li>
       <li>7,000 <span>Developer Apps</li></ul>
-<center><img src="/coinbase-summary.png" alt="Coinbase Summary" /></center>
+<center><img src="/images/coinbase-summary.png" alt="Coinbase Summary" /></center>
 
 <h1>Coinbase Review</h1> 
 <p>In my mind, nothing comes close to <a href="https://www.runtogold.com/coinbase" target="_blank">Coinbase</a> in terms of ease of use and security. You link a bank account to the San Francisco-based start-up, and then send them money to buy Bitcoin at the currently offered price.
