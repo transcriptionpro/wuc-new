@@ -6,4 +6,37 @@ authorurl: /
 published: true
 ---
 
-<p>Coinbase review.
+<p>A hosted web-based E-Wallet used for sending, receiving and storing bitcoins. This is not to be confused with the data structure in the blockchain which is also named coinbase. This also is not to be confused with a podcast series called Coinbase that was produced by AgoristRadio.com.
+<p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
+
+<h1>Coinbase Review</h1> 
+<p>In my mind, nothing comes close to <a href="https://www.runtogold.com/coinbase" target="_blank">Coinbase</a> in terms of ease of use and security. You link a bank account to the San Francisco-based start-up, and then send them money to buy Bitcoin at the currently offered price.
+<p>They wait up to a few days to ensure your transaction clears (Bitcoin is a murky financial area, and they do not want to risk identity theft or other problems until they have banks on their side), and then give you access to your coins. 30 days after you have a successful transaction, you can add a credit card to your account to enable instant buys of up to $1,000 per week. Regular speed buys are allowed at up to $50,000 per week, from a linked bank account.
+<p>Their platform is very popular, and justifiably so it makes owning and managing your coins very simple. They also take excellent security precautions like two-factor authentication on log-in AND on send, keeping the VAST majority (97%!) of their coins in offline storage, and so on.
+<p>They are an excellent way to enter the Bitcoin ecosystem, and an excellent way to integrate Bitcoin into your business, if you are so inclined. They also offer the excellent Coinbase Vault program which is a system that allows you to place your coins into a very high-security lock, requiring two-factor authentication along with a mandatory waiting period before the coins can be moved.</p>
+<p>What are they not? They <b>ARE NOT</b> an exchange. They are not a trading platform. If your goal is to be buying and selling Bitcoin on its swings then you do not want to be using Coinbase for your day-to-day trading.</p>
+<h2>Details:</h2>
+<ul>
+<li>Backed by Andreessen Horowitz in a $25m Round A</li>
+<li>Backed by Goldman Sachs and IDG in a $75m Round B</li>
+<li>Biggest US player, focused on merchant integration</li>
+<li>Easy platform for buying and selling</li>
+<li>Good way to get money into the ecosystem</li>
+<li>High fees and long waits make it unsuited for trading. It&#8217;s more like Western Union than like Scottrade.</li>
+<li>There appears to be a coordinated smear campaign against them on the internet.</li>
+</ul>
+<h2><b>Pros:</b></h2>
+<ul>
+<li>Easy to use! No harder than PayPal</li>
+<li>Secure, trustworthy, American</li>
+<li>Good customer service</li>
+<li>They pay your transaction fees when you move your Bitcoin around</li>
+</ul>
+<h2><b>Cons</b>:</h2>
+<ul>
+<li>Fees of about 1%</li>
+<li>Long lag time for initial purchase, and later purchases over 1BTC makes it hard to profit from market movement over the short term</li>
+<li>Slightly higher than market price for purchase</li>
+<li>Really just not intended to be used for trading</li>
+<li>Will occasionally cancel orders for 'high-risk' behavior (suspected motive is really to not honor the price)</li>
+</ul>
