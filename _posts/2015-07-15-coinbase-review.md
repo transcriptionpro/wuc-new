@@ -36,17 +36,17 @@ published: true
 <center><a href="http://www.runtogold.com/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-468-60.jpg' title='Coinbase' alt='Coinbase' width="468" height="60" border='0' ></a></center>
 <h2><b>Pros:</b></h2>
 <ul>
-<li>Easy to use! No harder than PayPal</li>
-<li>Secure, trustworthy, American</li>
-<li>Good customer service</li>
+<li>Fairly easy to use!</li>
+<li>Secure, trustworthy and US based</li>
+<li>Proactive customer service</li>
 <li>They pay your transaction fees when you move your Bitcoin around</li>
 </ul>
 <h2><b>Cons</b>:</h2>
 <ul>
 <li>Fees of about 1%</li>
-<li>Long lag time for initial purchase, and later purchases over 1BTC makes it hard to profit from market movement over the short term</li>
+<li>3-5 day lag time for initial purchase</li>
 <li>Slightly higher than market price for purchase</li>
-<li>Really just not intended to be used for trading</li>
+<li><b>Not</b> intended to be used for trading</li>
 <li>Will occasionally cancel orders for 'high-risk' behavior (suspected motive is really to not honor the price)</li>
 </ul>
 {% include coinbase-free-bitcoins.html %}
