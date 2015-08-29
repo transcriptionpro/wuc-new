@@ -49,4 +49,4 @@ published: true
 <li>Really just not intended to be used for trading</li>
 <li>Will occasionally cancel orders for 'high-risk' behavior (suspected motive is really to not honor the price)</li>
 </ul>
-<center><a href="http://www.runtogold.com/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-468-60.jpg' title='Coinbase' alt='Coinbase' width="468" height="60" border='0' ></a></center>
+{% include coinbase-free-bitcoins.html %}
