@@ -9,4 +9,4 @@ group-id: bitcoin
 
 # Bitcoin
 
-Get help using Bitcoin.
+Categories. Get help using Bitcoin.
