@@ -16,5 +16,5 @@ published: true
 <li><a href="/adam-back-bitcoin-core-developers/">A Week With Adam Back - Part 2</a> - Who are the top Bitcoin developers?</li>
 <li><a href="/adam-back-confidential-transactions/">A Week With Adam Back - Part 3</a> - Confidential Transactions</li>
 <li><a href="/adam-back-lightning-network/">A Week With Adam Back - Part 4</a> - Lightning Network</li>
-<li><a href="/adam-back-sidechains/">A Week With Adam Back - Part 3</a> - Sidechains</li>
+<li><a href="/adam-back-sidechains/">A Week With Adam Back - Part 5</a> - Sidechains</li>
 </ul>
