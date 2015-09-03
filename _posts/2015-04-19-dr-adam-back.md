@@ -9,6 +9,10 @@ published: true
 
 <img src="/images/adam-back.png" alt="Dr. Adam Back" align="right">
 <p>Dr. Adam Back is the premier expert in the world on blockchain technology.
+<p>Adam Back currently serves as the Founder and President of Blockstream and is pioneering the sidechains project for the core Bitcoin protocol.
+<p>He has worked on e-cash protocols since 1995 as an applied cryptographer and is cited by Satoshi Nakamoto in the Bitcoin whitepaper as the inventor of the hashcash proof-of-work and decentralized mining used in Bitcoin security.
+<p>He was an architect and cryptographer at Zero-Knowledge Systems working on its Freedom network, a precursor to Tor. Most recently, Adam co-founded Picorp which was acquired by EMC.
+<p>He holds a Ph.D. in distributed systems and computer science from the University of Exeter.
 
 ## Articles by Dr. Adam Back
 <ul>
