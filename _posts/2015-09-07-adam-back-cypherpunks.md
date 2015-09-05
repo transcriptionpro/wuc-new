@@ -9,7 +9,7 @@ published: true
 <img src="/images/adam-back.png" alt="Dr. Adam Back" align="right">
 <p>Dr. Adam Back has been involved in serious cryptography deployments for decades. In this interview he talks about the history of applied cryptography.
 <p>Podcast Interview Youtube Embed
-<p>TRANSCRIPT (<a href="http://www.satoshisdeposition.com/podcast/BTCK-165-2015-09-07.mp3">download mp3</a>)
+<p><b>TRANSCRIPT</b> - (<a href="http://www.satoshisdeposition.com/podcast/BTCK-165-2015-09-07.mp3">download mp3</a>)
 <p><strong>Trace Mayer:</strong>  Welcome back to the Bitcoin Knowledge Podcast.  We have a legendary interview this time around.  To start it off, I'd like to just read from Satoshi Nakamoto's whitepaper on bitcoin in Section four on proof-of-work "to implement a distributed timestamp server on a peer-to-peer basis we will need to use a proof-of-work system similar to Dr. Adam Back's hashcash."
 
 <p>
