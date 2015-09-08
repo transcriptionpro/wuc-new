@@ -9,7 +9,7 @@ published: true
 <img src="/images/adam-back.png" alt="Dr. Adam Back" align="right">
 <p><a href="/dr-adam-back/">Dr. Adam Back</a> has been involved in serious cryptography deployments for decades. In this interview he discusses who the top Bitcoin developers are and why.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/Zz8Q7XUd2QM" frameborder="0" allowfullscreen></iframe></center>
-<p>TRANSCRIPT (<a href="http://www.satoshisdeposition.com/podcast/BTCK-166-2015-09-08.mp3">download mp3</a>)
+<p><b>TRANSCRIPT</b> (<a href="http://www.satoshisdeposition.com/podcast/BTCK-166-2015-09-08.mp3">download mp3</a>)
 <p><strong>Trace Mayer:</strong>  Welcome back to the Bitcoin Knowledge Podcast.  In episode two of a week with Adam Back.  We're going to be talking about some of the other people who have been instrumental in making bitcoin a success.  As he talked about in episode one, you know, he built on top of a lot of other people's work.  And isn't that really how it happens in our science and technical fields?
 
 <p>
