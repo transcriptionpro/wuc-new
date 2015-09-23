@@ -2,8 +2,8 @@
 layout: post
 title: Choice in Money Allows for Freedom of Association
 author: Adrian Childers
-authorurl: https://github.com/AdrianChilders/biography
-published: false
+authorurl: /adrian-childers/
+published: true
 ---
 
 ###Choice in Money Allows for Freedom of Association
