@@ -50,4 +50,3 @@ published: true
 <li><b>Not</b> intended to be used for trading</li>
 <li>Will occasionally cancel orders for 'high-risk' behavior (suspected motive is really to not honor the price)</li>
 </ul>
-{% include coinbase-free-bitcoins.html %}
