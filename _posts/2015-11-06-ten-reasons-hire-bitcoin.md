@@ -38,3 +38,4 @@ published: true
 <p><h3><b>10. </b>Monetary Sovereignty</h3>
 <p>Mankind has never really owned their own money before. It's always been owned by their rulers. In the case of the United states that would be the Federal Reserve and it's board members . The Fed is not a part of government, but rather a private cabal. Even when our government had a currency actually backed by reserves it was only fractionally backed and therefore just an illusion.
 <p>Bitcoin gives the ability for people to actually own their own money. You can't possibly own something if someone else can dilute the value of it by making more and taking it from you through inflation. With bitcoin the amount that will be created is known and that is it.
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/JYkQBBg55q8" frameborder="0" allowfullscreen></iframe></center>
