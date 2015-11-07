@@ -12,7 +12,7 @@ published: true
 <p>That's why in theory a merchant should be able to give bitcoin users a discount... because the layer of fraud that adds cost is no longer there. I'll also add that you get a tad bit of anonymity because you do not need to provide your name or information to merchants. So paying for pornography would be more discreet for example.
 <p><h3><b>2. </b>Bail-ins</h3>
 <p>Across the world there are more and more banks who are etching in the ability to have bail in situations where when they go insolvent, the necessary funds are then taken from depositors accounts without their permission.
-<p><h3><b>3. </b>Negative Interest Rates<h3>
+<p><h3><b>3. </b>Negative Interest Rates</h3>
 <p>They are not popular across the world yet but they exist and in the unsustainable bubbles that quantitative easing cause, it could become more widespread in the future. Paying a bank to store your money (in addition to inflation) will reduce your wealth more quickly.
 <p><h3><b>4. </b>Borderless</h3>
 <p>Currently most money has to move traditionally through slow cumbersome systems that can typically add large fees on top. With bitcoin, anyone could be paid and there are no borders or boundaries. This certainly has advantages in many areas... remittance for example. The savings would be even greater in the case of remittance if bitcoin was used more widely and didn't need to be converted to other currencies at each end.
