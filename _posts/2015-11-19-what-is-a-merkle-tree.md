@@ -10,15 +10,15 @@ published: true
 <p>Thanks to Merkle trees, it is possible to build Ethereum nodes that run on all computers and laptops large and small, smart phones and even Internet of things devices such as those that will be produced by <a href="http://slock.it/">Slock.it</a>. So how exactly do these Merkle trees work, and what value do they provide, both now and in the future?</p>
 <p><b>First</b>, the basics. A Merkle tree, in the most general sense, is a way of hashing a large number of chunks of data together which relies on splitting the chunks into buckets, where each bucket contains only a few chunks, then taking the hash of each bucket and repeating the same process, continuing to do so until the total number of hashes remaining becomes only one: the root hash.</p>
 <p>The most common and simple form of Merkle tree is the binary Mekle tree, where a bucket always consists of two adjacent chunks or hashes; it can be depicted as follows:</p>
-<p><center><img src="/merkle.png" alt="merkle" title="merkle" style="width:450px" /></center></p>
+<p><center><img src="/images/merkle.png" alt="merkle" title="merkle" style="width:450px" /></center></p>
 <p>So what is the benefit of this strange kind of hashing algorithm? Why not just concatenate all the chunks together into a single big chunk and use a regular hashing algorithm on that? The answer is that it allows for a neat mechanism known as Merkle proofs:</p>
-<p><center><img src="/merkle2.png" alt="merkle tree" title="merkle tree" style="width:450px" /></center></p>
+<p><center><img src="/images/merkle2.png" alt="merkle tree" title="merkle tree" style="width:450px" /></center></p>
 <p>A Merkle proof consists of a chunk, the root hash of the tree, and the "branch" consisting of all of the hashes going up along the path from the chunk to the root. Someone reading the proof can verify that the hashing, at least for that branch, is consistent going all the way up the tree, and therefore that the given chunk actually is at that position in the tree.
 <p>The application is simple: suppose that there is a large database, and that the entire contents of the database are stored in a Merkle tree where the root of the Merkle tree is publicly known and trusted (eg. it was digitally signed by enough trusted parties, or there is a lot of proof of work on it). Then, a user who wants to do a key-value lookup on the database (eg. "tell me the object in position 85273") can ask for a Merkle proof, and upon receiving the proof verify that it is correct, and therefore that the value received <em>actually is</em> at position 85273 in the database with that particular root.
 <p>It allows a mechanism for authenticating a <em>small</em> amount of data, like a hash, to be extended to also authenticate <em>large</em> databases of potentially unbounded size.</p>
 <h3>Merkle Proofs in Bitcoin</h3>
 <p>The original application of Merkle proofs was in Bitcoin, as described and created by Satoshi Nakamoto in 2009. The Bitcoin blockchain uses Merkle proofs in order to store the transactions in every block:</p>
-<p><img src="/mining.jpg" alt="merkle root mining" title="merkle root mining" /></p>
+<p><img src="/images/mining.jpg" alt="merkle root mining" title="merkle root mining" /></p>
 <p>The benefit that this provides is the concept that Satoshi described as "simplified payment verification": instead of downloading <em>every</em> transaction and every block, a "light client" can only download the chain of <em>block headers</em>, 80-byte chunks of data for each block that contain only five things:</p>
 <ul>
 <li>A hash of the previous header</li>
@@ -37,7 +37,7 @@ published: true
 <li>Receipts (essentially, pieces of data showing the <em>effect</em> of each transaction)</li>
 <li>State</li>
 </ul>
-<p><img src="/ethblockchain_full.png" alt="ethereum blockchain" title="ethereum blockchain" /></p>
+<p><img src="/images/ethblockchain_full.png" alt="ethereum blockchain" title="ethereum blockchain" /></p>
 <p>This allows for a highly advanced light client protocol that allows light clients to easily make and get verifiable answers to many kinds of queries:</p>
 <ul>
 <li>Has this transaction been included in a particular block?</li>
@@ -51,7 +51,7 @@ published: true
 <p>To compute the proof, the server locally creates a fake block, sets the state to S, and pretends to be a light client while applying the transaction. That is, if the process of applying the transaction requires the client to determine the balance of an account, the light client makes a balance query. If the light client needs to check a particular item in the storage of a particular contract, the light client makes a query for that, and so on. The server "responds" to all of its own queries correctly, but keeps track of all the data that it sends back.
 <p>The server then sends the client the combined data from all of these requests as a proof.
 <p>The client then undertakes the exact same procedure, but <em>using the provided proof as its database</em>; if its result is the same as what the server claims, then the client accepts the proof.</p>
-<p><center><img src="/lightproof.png" alt="lightproof" title="lightproof" style="width:450px" /></center></p>
+<p><center><img src="/images/lightproof.png" alt="lightproof" title="lightproof" style="width:450px" /></center></p>
 <h3>Patricia Trees</h3>
 <p>It was mentioned above that the simplest kind of Merkle tree is the binary Merkle tree; however, the trees used in Ethereum are more complex. This is the "Merkle Patricia tree" that you hear about in our documentation.
 <p>This article will not go into the detailed specification; that is best done by <a href="https://github.com/ethereum/wiki/wiki/Patricia-Tree">this article</a> and <a href="https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/">this one</a>, though I will discuss the basic reasoning.</p>
