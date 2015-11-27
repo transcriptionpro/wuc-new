@@ -8,7 +8,7 @@ published: true
 
 <img src="/images/adam-back.png" alt="Dr. Adam Back" align="right">
 <p><a href="/dr-adam-back/">Dr. Adam Back</a> has been involved in serious cryptography deployments for decades. In this interview, Dr. Back discusses Sidechains and their applicability for Bitcoin's scalability, extensibility and development.
-<p>Podcast Interview Youtube Embed
+<center></center>
 <p>TRANSCRIPT (<a href="http://www.satoshisdeposition.com/podcast/BTCK-169-2015-09-11.mp3">download mp3</a>)
 <p><strong>Trace Mayer:</strong>  Welcome back to Bitcoin Knowledge Podcast.  This is Episode 5 with the legendary Dr Adam Back.  We're going to be discussing his brain child, sidechains.  Welcome to the podcast, Dr. Back.
 
