@@ -17,10 +17,11 @@ published: true
 <p><b>WeUseCoins</b> traffic from Oct 31, 2013-Nov 30, 2015.
 <p><img src="/images/sponsor/weusecoins-traffic.png" alt="weusecoins traffic" align="center">
 <p><h2>HIGH TRAFFIC QUALITY</h2>
-<p>This traffic is <b>very high quality</b> and many are new Bitcoin users. For example, during one campaign in less than 45 days 750+ new accounts were sent to Coinbase. And over a six month period approximately 15,500 clicks per month were sent to Amazon resulting in about 325 ordered items per month. That is a lot of Bitcoin mining machines!
+<p>This traffic is <b>very high quality</b> and many are new Bitcoin users. For example, during one campaign in less than 45 days 750+ new accounts were sent to Coinbase. And over a six month period approximately 15,500 clicks per month were sent to Amazon resulting in about 325 ordered items per month.
+<p><img src="/images/sponsor/amazon-clicks.png" alt="amazon clicks" align="center">
+<p>That is a lot of Bitcoin mining machines!
 <p><h2>RATES</h2>
 <p>We can be very flexible with whatever type of campaign you want to run. Almost all legal business will be considered although some niches will not. The site needs to be family friendly and professional. All advertising sponsorships must be paid in advance via Bitcoin.
-<p><img src="/images/sponsor/amazon-clicks.png" alt="amazon clicks" align="center">
 <p>Although spots can be custom tailored the rates will be similar to Coindesk: 
 <p><img src="/images/sponsor/advertise-rates.png" alt="advertise rates" align="center">
 <p>We prefer to do larger deals for a longer time and will offer discounts for such.
