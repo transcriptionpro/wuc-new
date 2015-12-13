@@ -24,32 +24,31 @@
 		<i class="svg-icon googleplus-flat"></i>
 	</a>
 	<a
-		href="#"
-		onclick="return false;"
+		href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}"
+		onclick='window.open("http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}", "shareWindow", "height=800,width=1000"); return false;',
 		target="_blank"
 		title="Share on Reddit"
 		class="social-button reddit">
 		<i class="svg-icon reddit-flat"></i>
 	</a>
 	<a
-		href="#"
-		onclick="return false;"
+		href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&source=WeUseCoins"
+		onclick='window.open("https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&source=WeUseCoins", "shareWindow", "height=620,width=500"); return false;'
 		target="_blank"
 		title="Share on LinkedIn"
 		class="social-button linkedin">
 		<i class="svg-icon linkedin-flat"></i>
 	</a>
-	<a
-		href="#"
+	<!--<a
+		href="http://pinterest.com/pin/create/button/?url={URI-encoded URL of the page to pin}&media={URI-encoded URL of the image to pin}"
 		onclick="return false;"
 		target="_blank"
 		title="Share on Pinterest"
 		class="social-button pinterest">
 		<i class="svg-icon pinterest-flat"></i>
-	</a>
+	</a>-->
 	<a
-		href="#"
-		onclick="return false;"
+		href="mailto:?subject={{ page.title }}&body={{ page.title }} - {{ site.url }}{{ page.url }} via WeUseCoins"
 		target="_blank"
 		title="Share via Email"
 		class="social-button email">
