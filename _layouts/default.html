@@ -3,11 +3,11 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-{% if page.description %}
-<meta name="description" content="{{ page.description }}">
-{% else %}
-<meta name="description" content= "Anything" >
-{% endif %}
+  	{% if page.description %}
+  	<meta name="description" content="{{ page.description }}">
+  	{% else %}
+  	<meta name="description" content= "Anything" >
+  	{% endif %}
 
     {% include meta.html %}
 
@@ -21,16 +21,17 @@
 
     <!-- Created with Jekyll Now -->
 
-<style id="antiClickjack">body{display:none !important;}</style>
-<script type="text/javascript">
-   if (self === top) {
-       var antiClickjack = document.getElementById("antiClickjack");
-       antiClickjack.parentNode.removeChild(antiClickjack);
-   } else {
-       top.location = self.location;
-   }
-</script>
+  	<style id="antiClickjack">body{display:none !important;}</style>
+  	<script type="text/javascript">
+  	   if (self === top) {
+  	       var antiClickjack = document.getElementById("antiClickjack");
+  	       antiClickjack.parentNode.removeChild(antiClickjack);
+  	   } else {
+  	       top.location = self.location;
+  	   }
+  	</script>
 
+    {% include javascript.html %}
     {% include dfp-script.html %}
   </head>
 
@@ -39,7 +40,6 @@
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" width="150" height="50"/></a>
-
 
           <nav>
             <a href="{{ site.baseurl }}/en/getting-started/">Start</a>
