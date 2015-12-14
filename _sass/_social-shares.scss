@@ -8,8 +8,10 @@ $color-facebook: #3b5998;
 $color-reddit: #cee3f8;
 $color-linkedin: #0077b5;
 $color-pinterest: #bd081c;
-$color-email: #888;
+$color-email: #dc4e41;
 $color-btc: #303030;
+$color-btc-2: #404040;
+$color-btc-3: $color-btc;
 
 .social-shares {
 	text-align: right;
@@ -24,13 +26,13 @@ $color-btc: #303030;
 
 	.social-button {
 		min-width: 56px;
-		min-height: 25px;
+		height: 31px;
 		display: inline-block;
 		vertical-align: top;
 		text-align: center;
 		margin-left: -5px;
-		padding: 2px;
-		font-size: 12px;
+		padding: 5px;
+		font-size: 14px;
 		color: #FFF;
 		
 		&.facebook {
@@ -117,24 +119,25 @@ $color-btc: #303030;
 			}
 		}
 
-		&.btc, &.btc-volume {
+		&.btc, &.btc-volume, &.btc-difficulty {
 			position: relative;
-			background-color: $color-btc;
-			font-size: 10px;
+			line-height: 20px;
 
 			.heading {
-				position: absolute;
-				top: 0px;
-				left: 3px;
 				font-weight: bold;
 			}
+		}
 
-			.value {
-				position: absolute;
-				bottom: 0px;
-				right: 0px;
-				left: 0px;
-			}
+		&.btc {
+			background-color: $color-btc;
+		}
+
+		&.btc-volume {
+			background-color: $color-btc-2;
+		}
+
+		&.btc-difficulty {
+			background-color: $color-btc-3;
 		}
 	}
 
