@@ -1,0 +1,94 @@
+---
+layout: post
+title: Find The Best Bitcoin Wallet
+author: Jordan Tuwiner
+authorurl: https://jordantuwiner.com/
+published: true
+---
+
+<ul>
+<li><a href="/en/find-the-best-bitcoin-wallet/#uni">Universal Wallets</a></li>
+<li><a href="/en/find-the-best-bitcoin-wallet/#hardware">Hardware Wallets</a></li>
+<li><a href="/en/find-the-best-bitcoin-wallet/#online">Online Wallets (Web Wallets)</a></li>
+<li><a href="/en/find-the-best-bitcoin-wallet/#mobile-android">Mobile Wallets for Android</a></li>
+<li><a href="/en/find-the-best-bitcoin-wallet/#mobile-ios">Mobile Wallets for iOS</a></li>
+<li><a href="/en/find-the-best-bitcoin-wallet/#desktop">Desktop Wallets</a></li>
+<li><a href="/en/find-the-best-bitcoin-wallet/#paper">Paper Wallets</a></li>
+</ul>
+
+<p>Without a Bitcoin wallet, you can’t send or receive Bitcoin payments. So <a href="https://www.buybitcoinworldwide.com/kb/how-to-get-bitcoins/">before you get bitcoins</a>, you’ll need to buy, download, or create a bitcoin wallet. There are different types of wallets: </p>
+
+<ul>
+<li>Online bitcoin wallets. Wallets that can be accessed on the web from any internet connected device.</li> 
+<li>Bitcoin hardware wallets. Physical devices designed to secure bitcoins. </li> 
+<li>Software wallets. Wallet applications downloaded to your phone, computer or tablet. </li> 
+<li>Paper wallets. <a href="https://en.bitcoin.it/wiki/Private_key">Bitcoin private keys</a> printed from an offline computer. </li> 
+</ul>
+
+<p>By the end of this article you’ll understand Bitcoin wallets and have a better idea about which type is right for you. <a href="https://bitcoin.org/en/secure-your-wallet">Learn how to secure your wallet</a> before dealing with any significant amount of money.</p>
+
+<h2 id="uni">Universal Wallets</h2>
+{% for wallet in site.data.wallets %}
+{% if wallet.category == 'universal' %}
+{% include wallet_list.html %}
+{% endif %}
+{% endfor %}
+
+<h2 id="hardware">Hardware Wallets</h2>
+<p>Hardware wallets are small computers or smartcards built with the sole purpose of generating Bitcoin private keys offline. Hardware wallets securely sign transactions in the same offline environment. </p>
+{% for wallet in site.data.wallets %}
+{% if wallet.category == 'hardware' %}
+{% include wallet_list.html %}
+{% endif %}
+{% endfor %}
+
+<h2 id="online">Online Bitcoin Wallets</h2>
+<p>Online Bitcoin wallets, or web wallets, store your private keys online. Wallets can only be accessed with a user-set password.</p>
+{% for wallet in site.data.wallets %}
+{% if wallet.category == 'web' %}
+{% include wallet_list.html %}
+{% endif %}
+{% endfor %}
+
+<h2 id="mobile-android">Mobile Wallets for Android</h2>
+{% for wallet in site.data.wallets %}
+{% if wallet.category == 'mobileandroid' %}
+{% include wallet_list.html %}
+{% endif %}
+{% endfor %}
+
+<h2 id="mobile-ios">Mobile Wallets for iOS</h2>
+{% for wallet in site.data.wallets %}
+{% if wallet.category == 'mobileios' %}
+{% include wallet_list.html %}
+{% endif %}
+{% endfor %}
+
+
+<h2 id="desktop">Desktop Wallets</h2>
+<p>Desktop wallets are software wallets that are downloaded and installed on your computer. The desktop wallets below are available on Mac OS X, Windows, and Linux. </p>
+{% for wallet in site.data.wallets %}
+{% if wallet.category == 'desktop' %}
+{% include wallet_list.html %}
+{% endif %}
+{% endfor %}
+
+<h2 id="paper">Paper Wallets</h2>
+<p>Paper wallets were the standard method of cold storage before hardware wallets were built. Paper wallets are private keys printed out on a piece of paper. If generated and printed with a secure, offline computer, paper wallets are secure cold storage. </p>
+
+<p>The main problem with paper wallets is it can be inconvenient to create and print a new wallet each time you send funds to cold storage. However, it’s possible to bulk print paper wallets to save time and eliminate address reuse. </p>
+
+<h2>Best Practices</h2>
+<p>Bitcoin lets you control your money, meaning you are responsible for both your money’s security and your financial privacy. Here are some steps you can take to ensure your privacy and security: </p>
+
+<h3>Control your private keys</h3>
+<p>Services like Coinbase and Circle offer “Bitcoin wallets”, but in reality control your private keys. It’s best to use a wallet where you control your private keys. This is the only way to have full control of your funds and not have to rely on third parties for security. </p>
+
+<h3>Protect your privacy</h3>
+<p>Each time you request blockchain data from a wallet, the server may be able to view your IP address and connect this to the address data requested. Each wallet handles data requests differently. If privacy is important to you, use a wallet that downloads the whole blockchain like Bitcoin Core or Armory. Tor can be used with other wallets to shield your IP address, but this doesn’t prevent a server from tying a group of addresses to one identity. For more information, check out the <a href="http://www.openbitcoinprivacyproject.org/">Open Bitcoin Privacy Project</a> for wallet rankings based on privacy.</p>  
+
+<h3>Don’t reuse addresses</h3>
+<p>Most Bitcoin wallets today automatically create a new address for each transaction. Since all Bitcoin transactions are public, address reuse makes it easy for others to group transactions and understand which payments are connected to one identity. </p>
+
+<h3>Use different wallets for different sums of money</h3>
+<p>Just like you don’t walk around with your savings account as cash, there are different Bitcoin wallets that should be used depending on how much money is being stored or transferred. Secure wallets like paper wallets or hardware wallets can be used as “savings” wallets, while mobile, web, and desktop wallets should be treated like your spending wallet. </p>
