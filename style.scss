@@ -414,6 +414,14 @@ pre {
     color: #000;
 }
 
+.wallet-list img {
+    border-radius: 3px;
+    float: left;
+    height: auto;
+    margin: -2px 12px 0 0;
+    width: 40px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
