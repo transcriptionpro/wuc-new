@@ -1,0 +1,13 @@
+---
+layout: post
+title: Venture Capital Investments in Bitcoin and Blockchain Companies
+author: We Use Coins
+authorurl: 
+published: true
+---
+
+<p>Tracking venture capital investments in Bitcoin and blockchain companies. <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/_data/companies.yml">Create a pull request</a> to add new data. </p>
+
+{% for company in site.data.companies %}
+{% include company_list.html %}
+{% endfor %}
