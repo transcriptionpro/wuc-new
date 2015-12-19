@@ -440,6 +440,15 @@ pre {
     margin: 7px 0;
 }
 
+.company-list img {
+    float: left;
+    height: 50px;
+    margin-right: 10px;
+    margin-top: 4px;
+    max-width: 100%;
+    width: auto;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
