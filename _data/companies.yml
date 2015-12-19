@@ -1,4 +1,3 @@
----
 -
     date: 7-Dec-15
     company: Purse.io
@@ -12,6 +11,7 @@
     region: US & Canada
     img: purse
     description: Purse raised $1 million for its secret project "Tritium".  
+    url: 
 -
     date: 19-Nov-15
     company: Bitwage
@@ -25,6 +25,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Nov-15
     company: Align Commerce
@@ -38,6 +39,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 6-Nov-15
     company: Zapchain
@@ -51,6 +53,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 14-Oct-15
     company: Factom
@@ -64,6 +67,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 12-Oct-15
     company: ScoreChain
@@ -77,6 +81,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 6-Oct-15
     company: Orb
@@ -90,6 +95,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 2-Oct-15
     company: Coinplug
@@ -103,6 +109,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 29-Sep-15
     company: Safe Cash Payment Technologies
@@ -116,6 +123,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Sep-15
     company: Pey
@@ -123,12 +131,13 @@
     roundsize: 0.34
     cumulative: 0.34
     round: Seed
-    investors: Marc Junker, Frank Biedka, Hartmut A Borchers, Jurgen Pleteit, Olav Vier genannt Strawe, Tobias Jankowiak
+    investors: Marc Junker, Frank Biedka, Hartmut A Borchers, J�rgen Pleteit, Olav Vier genannt Strawe, Tobias Jankowiak
     headquartered: Hanover
     country: Germany
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 10-Sep-15
     company: Coinalytics
@@ -142,6 +151,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 10-Sep-15
     company: Abra
@@ -155,6 +165,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 10-Sep-15
     company: Case
@@ -168,6 +179,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 9-Sep-15
     company: Chain
@@ -181,6 +193,7 @@
     region: US& Canada
     img: 
     description: 
+    url: 
 -
     date: 8-Sep-15
     company: ShapeShift
@@ -194,6 +207,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 2-Sep-15
     company: Paymium
@@ -207,6 +221,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 18-Aug-15
     company: Filament
@@ -220,6 +235,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 12-Aug-15
     company: BitFlyer
@@ -233,6 +249,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 23-Jul-15
     company: Challenger Deep
@@ -246,6 +263,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 21-Jul-15
     company: BitX
@@ -259,6 +277,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 17-Jul-15
     company: ShoCard
@@ -272,6 +291,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 16-Jul-15
     company: TabTrader
@@ -285,6 +305,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 9-Jul-15
     company: BitFury
@@ -298,6 +319,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 24-Jun-15
     company: Ascribe
@@ -311,6 +333,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 24-Jun-15
     company: Vogogo
@@ -324,6 +347,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 18-Jun-15
     company: Case
@@ -337,6 +361,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 16-Jun-15
     company: Reveal
@@ -350,6 +375,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 11-Jun-15
     company: OpenBazaar
@@ -363,6 +389,7 @@
     region: Unknown
     img: 
     description: 
+    url: 
 -
     date: 9-Jun-15
     company: Symbiont
@@ -376,6 +403,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 3-Jun-15
     company: Mirror
@@ -389,6 +417,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 20-May-15
     company: Bitbond
@@ -402,6 +431,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 19-May-15
     company: Ripple Labs
@@ -415,6 +445,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-May-15
     company: itBit
@@ -428,6 +459,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-May-15
     company: Cryex
@@ -441,6 +473,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 6-May-15
     company: Satoshi Citadel Industries Inc.
@@ -454,6 +487,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 30-Apr-15
     company: Hedgy
@@ -467,6 +501,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 30-Apr-15
     company: Circle Internet Financial
@@ -480,6 +515,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 2-Apr-15
     company: Gem
@@ -493,6 +529,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 31-Mar-15
     company: PeerNova
@@ -506,6 +543,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 30-Mar-15
     company: Bitt
@@ -519,6 +557,7 @@
     region: Latin America
     img: 
     description: 
+    url: 
 -
     date: 20-Mar-15
     company: TabTrader
@@ -532,6 +571,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 19-Mar-15
     company: Coinigy
@@ -545,6 +585,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 10-Mar-15
     company: 21 Inc (21e6)
@@ -558,6 +599,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 10-Mar-15
     company: ShapeShift
@@ -571,6 +613,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 19-Feb-15
     company: Ledger
@@ -584,6 +627,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 9-Feb-15
     company: BitPesa
@@ -597,6 +641,7 @@
     region: Africa
     img: 
     description: 
+    url: 
 -
     date: 4-Feb-15
     company: HashRabbit
@@ -610,6 +655,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 3-Feb-15
     company: KnCMiner
@@ -623,6 +669,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 3-Feb-15
     company: NeuCoin
@@ -636,6 +683,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 3-Feb-15
     company: Ziftr
@@ -649,6 +697,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 2-Feb-15
     company: Bonafide (Bonifide.io)
@@ -662,6 +711,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 28-Jan-15
     company: BitFlyer
@@ -675,6 +725,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 27-Jan-15
     company: Colu
@@ -688,6 +739,7 @@
     region: Middle East
     img: 
     description: 
+    url: 
 -
     date: 21-Jan-15
     company: Anycoin Direct
@@ -701,6 +753,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 20-Jan-15
     company: Coinbase
@@ -714,6 +767,7 @@
     region: US & Canada
     img: 
     description: 
+    url: /coinbase-review/
 -
     date: 20-Jan-15
     company: Trustatom
@@ -727,6 +781,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 15-Jan-15
     company: Ciphrex
@@ -740,6 +795,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 14-Jan-15
     company: BlockCypher
@@ -753,6 +809,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 12-Jan-15
     company: Airbitz
@@ -766,6 +823,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-Jan-15
     company: LibertyX
@@ -779,6 +837,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 5-Jan-15
     company: GetGems
@@ -792,6 +851,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 1-Jan-15
     company: CoinOutlet
@@ -805,6 +865,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 30-Dec-14
     company: Bitreserve
@@ -818,6 +879,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 24-Dec-14
     company: BitGold
@@ -831,6 +893,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Dec-14
     company: PeerNova
@@ -844,6 +907,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 5-Dec-14
     company: BitGold
@@ -857,6 +921,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 2-Dec-14
     company: ChangeTip
@@ -870,6 +935,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 2-Dec-14
     company: DigiByte_
@@ -883,6 +949,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Dec-14
     company: GetGems
@@ -896,6 +963,7 @@
     region: Aisa
     img: 
     description: 
+    url: 
 -
     date: 27-Nov-14
     company: Purse.io
@@ -909,6 +977,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Nov-14
     company: Blockstream
@@ -922,6 +991,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 16-Nov-14
     company: OneName
@@ -935,6 +1005,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 5-Nov-14
     company: Dogetipbot
@@ -948,6 +1019,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Nov-14
     company: CoinOutlet
@@ -961,6 +1033,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 24-Oct-14
     company: Spondoolies-Tech
@@ -974,6 +1047,7 @@
     region: Middle East
     img: 
     description: 
+    url: 
 -
     date: 24-Oct-14
     company: BitLendingClub
@@ -987,6 +1061,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 20-Oct-14
     company: Bitnet
@@ -1000,6 +1075,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Oct-14
     company: AlphaPoint
@@ -1013,6 +1089,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 16-Oct-14
     company: Coinsetter
@@ -1026,6 +1103,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 10-Oct-14
     company: BitFlyer
@@ -1039,6 +1117,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 10-Oct-14
     company: Libra
@@ -1052,6 +1131,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 10-Oct-14
     company: Melotic
@@ -1065,6 +1145,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 10-Oct-14
     company: Swarm
@@ -1078,6 +1159,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 9-Oct-14
     company: Devign Lab
@@ -1091,6 +1173,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 9-Oct-14
     company: BitFury
@@ -1104,6 +1187,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 8-Oct-14
     company: Coinplug
@@ -1117,6 +1201,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 7-Oct-14
     company: Ciphrex
@@ -1130,6 +1215,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-Oct-14
     company: Blockchain
@@ -1143,6 +1229,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 7-Oct-14
     company: SolidX
@@ -1156,6 +1243,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 6-Oct-14
     company: SNAPCARD
@@ -1169,6 +1257,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Oct-14
     company: HashRabbit
@@ -1182,6 +1271,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Oct-14
     company: Bonafide (Bonifide.io)
@@ -1195,6 +1285,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 30-Sep-14
     company: Coinapult
@@ -1208,6 +1299,7 @@
     region: Latin America
     img: 
     description: 
+    url: 
 -
     date: 25-Sep-14
     company: Coinify*
@@ -1221,6 +1313,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 18-Sep-14
     company: CoinPlus
@@ -1234,6 +1327,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 17-Sep-14
     company: Koinify
@@ -1247,6 +1341,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Sep-14
     company: Gem
@@ -1260,6 +1355,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 4-Sep-14
     company: BitGo
@@ -1273,6 +1369,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 4-Sep-14
     company: KnCMiner
@@ -1286,6 +1383,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 25-Aug-14
     company: Korbit
@@ -1299,6 +1397,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 20-Aug-14
     company: Chain
@@ -1312,6 +1411,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 20-Aug-14
     company: Chain
@@ -1325,6 +1425,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 19-Aug-14
     company: BitX
@@ -1338,6 +1439,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 18-Aug-14
     company: BlockTrail
@@ -1351,6 +1453,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 13-Aug-14
     company: Bitbond
@@ -1364,6 +1467,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 11-Aug-14
     company: Unocoin
@@ -1377,6 +1481,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 5-Aug-14
     company: Vogogo
@@ -1390,6 +1495,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 23-Jul-14
     company: Volabit
@@ -1403,6 +1509,7 @@
     region: Latin America
     img: 
     description: 
+    url: 
 -
     date: 22-Jul-14
     company: BitFlyer
@@ -1416,6 +1523,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 16-Jul-14
     company: OneName
@@ -1429,6 +1537,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 16-Jul-14
     company: Elliptic
@@ -1442,6 +1551,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 16-Jul-14
     company: TradeBlock
@@ -1455,6 +1565,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 14-Jul-14
     company: BitGold
@@ -1468,6 +1579,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 10-Jul-14
     company: Safello
@@ -1481,6 +1593,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 8-Jul-14
     company: Xapo
@@ -1494,6 +1607,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Jul-14
     company: Expresscoin
@@ -1507,6 +1621,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 26-Jun-14
     company: BlockScore
@@ -1520,6 +1635,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Jun-14
     company: BitPagos
@@ -1533,6 +1649,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 16-Jun-14
     company: BitGo
@@ -1546,6 +1663,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 12-Jun-14
     company: HashPlex
@@ -1559,6 +1677,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 6-Jun-14
     company: Coinfloor
@@ -1572,6 +1691,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 1-Jun-14
     company: BlockScore
@@ -1585,6 +1705,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 30-May-14
     company: BitFury
@@ -1598,6 +1719,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 30-May-14
     company: Bitex.la
@@ -1611,6 +1733,7 @@
     region: Latin America
     img: 
     description: 
+    url: 
 -
     date: 27-May-14
     company: Huobi
@@ -1624,6 +1747,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 13-May-14
     company: BitPay
@@ -1637,6 +1761,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-May-14
     company: Mirror
@@ -1650,6 +1775,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-May-14
     company: Vaurum
@@ -1663,6 +1789,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 5-May-14
     company: ChangeTip
@@ -1676,6 +1803,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 21-Apr-14
     company: GogoCoin
@@ -1689,6 +1817,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 21-Apr-14
     company: Bonafide (Bonifide.io)
@@ -1702,6 +1831,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 21-Apr-14
     company: Coinalytics
@@ -1715,6 +1845,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 21-Apr-14
     company: Neuroware
@@ -1728,6 +1859,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 21-Apr-14
     company: Monetsu
@@ -1741,6 +1873,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 4-Apr-14
     company: ChangeTip
@@ -1754,6 +1887,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 3-Apr-14
     company: Coinplug
@@ -1767,6 +1901,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 2-Apr-14
     company: PayStand
@@ -1780,6 +1915,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Apr-14
     company: BTC.sx
@@ -1793,6 +1929,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 31-Mar-14
     company: Bitreserve
@@ -1806,6 +1943,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 26-Mar-14
     company: GoCoin
@@ -1819,6 +1957,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 26-Mar-14
     company: Circle Internet Financial
@@ -1832,6 +1971,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 26-Mar-14
     company: Hive
@@ -1845,6 +1985,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 25-Mar-14
     company: Payward, Inc. (Kraken)
@@ -1858,6 +1999,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 25-Mar-14
     company: Koinify
@@ -1871,6 +2013,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 18-Mar-14
     company: Exchange of the Americas (meXBT)
@@ -1884,6 +2027,7 @@
     region: Latin America
     img: 
     description: 
+    url: 
 -
     date: 16-Mar-14
     company: OKCoin
@@ -1897,6 +2041,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 13-Mar-14
     company: Xapo
@@ -1910,6 +2055,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 12-Mar-14
     company: Tembusu
@@ -1923,6 +2069,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 7-Mar-14
     company: CoinSimple
@@ -1936,6 +2083,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 1-Mar-14
     company: Expresscoin
@@ -1949,6 +2097,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Mar-14
     company: Expresscoin
@@ -1962,6 +2111,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 18-Feb-14
     company: Coinsetter
@@ -1975,6 +2125,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 17-Feb-14
     company: Safello
@@ -1988,6 +2139,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 10-Feb-14
     company: Elliptic
@@ -2001,6 +2153,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 4-Feb-14
     company: BitSim
@@ -2014,6 +2167,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 4-Feb-14
     company: Cryptopay
@@ -2027,6 +2181,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 1-Feb-14
     company: Spondoolies-Tech
@@ -2040,6 +2195,7 @@
     region: Middle East
     img: 
     description: 
+    url: 
 -
     date: 31-Jan-14
     company: Gliph
@@ -2053,6 +2209,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 21-Jan-14
     company: Tangible Cryptography (BitSimple)
@@ -2066,6 +2223,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 20-Jan-14
     company: Korbit
@@ -2079,6 +2237,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 15-Jan-14
     company: Exchange of the Americas (meXBT)
@@ -2092,6 +2251,7 @@
     region: Latin America
     img: 
     description: 
+    url: 
 -
     date: 15-Jan-14
     company: Bitex.la
@@ -2105,6 +2265,7 @@
     region: Latin America
     img: 
     description: 
+    url: 
 -
     date: 1-Jan-14
     company: Bitnet
@@ -2118,6 +2279,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 31-Dec-13
     company: COINFIRMA
@@ -2131,6 +2293,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 20-Dec-13
     company: Payward, Inc. (Kraken)
@@ -2144,6 +2307,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 18-Dec-13
     company: Gliph
@@ -2157,6 +2321,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 12-Dec-13
     company: Coinbase
@@ -2170,6 +2335,7 @@
     region: US & Canada
     img: 
     description: 
+    url: /coinbase-review/
 -
     date: 2-Dec-13
     company: CoinJar Pty
@@ -2183,6 +2349,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 1-Dec-13
     company: SNAPCARD
@@ -2196,6 +2363,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Dec-13
     company: Bex.io / Spawngrid
@@ -2209,6 +2377,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 25-Nov-13
     company: Coinplug
@@ -2222,6 +2391,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 18-Nov-13
     company: BTC China (Shanghai Satuxi Network)
@@ -2235,6 +2405,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 17-Nov-13
     company: 21 Inc (21e6)
@@ -2248,6 +2419,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 12-Nov-13
     company: Ripple Labs
@@ -2261,6 +2433,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 11-Nov-13
     company: itBit
@@ -2274,6 +2447,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-Nov-13
     company: GoCoin
@@ -2287,6 +2461,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 31-Oct-13
     company: Bitstamp
@@ -2300,6 +2475,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 31-Oct-13
     company: Circle Internet Financial
@@ -2313,6 +2489,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 9-Oct-13
     company: GogoCoin
@@ -2326,6 +2503,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Oct-13
     company: GogoCoin
@@ -2339,6 +2517,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 19-Sep-13
     company: Gliph
@@ -2352,6 +2531,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 8-Sep-13
     company: Coinfloor
@@ -2365,6 +2545,7 @@
     region: Europe
     img: 
     description: 
+    url: 
 -
     date: 4-Sep-13
     company: OKCoin
@@ -2378,6 +2559,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 1-Sep-13
     company: Vaurum
@@ -2391,6 +2573,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Sep-13
     company: BitPagos
@@ -2404,6 +2587,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Sep-13
     company: Buttercoin
@@ -2417,6 +2601,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Sep-13
     company: Armory Technologies
@@ -2430,6 +2615,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 19-Aug-13
     company: Digital Currencies FinTech
@@ -2443,6 +2629,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Aug-13
     company: Spondoolies-Tech
@@ -2456,6 +2643,7 @@
     region: Middle East
     img: 
     description: 
+    url: 
 -
     date: 22-Jul-13
     company: Avalon Clones
@@ -2469,6 +2657,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 18-May-13
     company: Gliph
@@ -2482,6 +2671,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 16-May-13
     company: BitPay
@@ -2495,6 +2685,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 14-May-13
     company: Ripple Labs
@@ -2508,6 +2699,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-May-13
     company: CoinJar Pty
@@ -2521,6 +2713,7 @@
     region: Asia
     img: 
     description: 
+    url: 
 -
     date: 26-Apr-13
     company: Coinbase
@@ -2534,6 +2727,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 11-Apr-13
     company: Ripple Labs
@@ -2547,6 +2741,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Mar-13
     company: TradeHill
@@ -2560,6 +2755,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Mar-13
     company: BitGo
@@ -2573,6 +2769,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 7-Jan-13
     company: BitPay
@@ -2586,6 +2783,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 31-Oct-12
     company: Bitinstant
@@ -2599,6 +2797,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 1-Sep-12
     company: Coinbase
@@ -2612,6 +2811,7 @@
     region: US & Canada
     img: 
     description: 
+    url: 
 -
     date: 3-Jan-12
     company: Gliph
@@ -2625,3 +2825,4 @@
     region: US & Canada
     img: 
     description: 
+    url: 
