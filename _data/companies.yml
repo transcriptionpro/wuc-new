@@ -9,7 +9,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: purse
+    img: purse-logo
     description: Purse raised $1 million for its secret project "Tritium".  
     url: 
 -
@@ -765,8 +765,8 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
-    description: 
+    img: coinbase-logo
+    description: Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.<p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.<p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
     url: /coinbase-review/
 -
     date: 20-Jan-15
