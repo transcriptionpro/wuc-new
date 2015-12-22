@@ -1,0 +1,8 @@
+<div class="company-list">
+<h3>{% if company.img != null %}<img src="/images/company/{{ company.img }}.png">{% else %} {% endif %}{% if company.url != null %}<a href="{{ company.url }}">{{ company.company }}</a>{% else %}{{ company.company }}{% endif %}: ${{ company.roundsize }} million - {{ company.round }}</h3>
+<h4>{{ company.date }} | {{ company.classification }}</h4>
+{% if company.description != null %}<p><b>Description:</b> {{ company.description }}</p>{% else %} {% endif %}
+<p><b>Investors:</b> {{ company.investors }}</p>
+<p><b>Headquartered:</b> {{ company.headquartered }}</p>
+<p><b>Country:</b> {{ company.country }}</p>
+</div>
