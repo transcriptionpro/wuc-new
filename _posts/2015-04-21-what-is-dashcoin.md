@@ -6,12 +6,18 @@ authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
 ---
 
-<img src="/images/dash.png" alt="what is dashcoin" align="right">
-<h2>What is Dash?</h2>
+<br />
+<img src="/images/dash.png" alt="what is dashcoin" align="left">
+<br />
+<br />
+<br />
+
 <p>
 Dash (DASH) is a next-generation digital currency based on the Bitcoin software. Dash has solved many of the problems inherent in Bitcoin by speeding up transactions, offering enhanced financial privacy, and developing a decentralized governance and funding system. Watch the short video below for a little more information on what Dash is and how it works:
-<p>
-<iframe width="700" height="394" src="https://www.youtube.com/watch?v=0GACaNvBlwc" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0GACaNvBlwc" frameborder="0" allowfullscreen></iframe>
+
 <h2>Why Choose Dash?</h2>
 <h3>- PRIVATE</h3>
 <p>Keep your payments private so nobody can track you, your transactions and balances are nobody’s business. With Dash’s ahead- of- time anonymization, only you have access to your financial information.</p>
