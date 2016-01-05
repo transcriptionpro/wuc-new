@@ -1,4 +1,32 @@
 -
+    date: 24-Dec-15
+    company: Streami
+    classification: Financial Services
+    roundsize: 2.00
+    cumulative: 2.00
+    round: Seed
+    investors: Shinhan Bank, Shinhan Data Systems, ICB, Bluepoint Partners
+    headquartered: South Korea
+    country: South Korea
+    region: Asia
+    img: 
+    description: 
+    url: 
+-
+    date: 22-Dec-15
+    company: BTCS
+    classification: Mining
+    roundsize: 1.45
+    cumulative: 3.75
+    round: N/A
+    investors: Cavalry Fund I LP
+    headquartered: Virginia
+    country: United States
+    region: US & Canada
+    img: 
+    description:  BTCS Inc. operates a beta ecommerce marketplace. It hosts an online ecommerce marketplace where consumers could purchase merchandise using digital currencies, such as bitcoin, litecoin, and dogecoin. The company was formerly known as Bitcoin Shop, Inc. and changed its name to BTCS Inc. in July 2015. BTCS Inc. is headquartered in Arlington, Virginia.
+    url: 
+-
     date: 7-Dec-15
     company: Purse.io
     classification: Payment processor
