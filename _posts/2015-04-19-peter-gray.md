@@ -2,7 +2,7 @@
 layout: post
 title: Peter D. Gray
 author: Peter D. Gray
-authorurl: https://www.weusecoins.com/peter-grey/
+authorurl: https://www.weusecoins.com/peter-gray/
 published: true
 ---
 
