@@ -21,6 +21,8 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+
+  overflow-x: hidden;
 }
 
 .container {
@@ -504,10 +506,26 @@ iframe {
   margin: 0px -25px;
   margin-bottom: 40px;
 
+  @include mobile() {
+    margin: 0px;
+    margin-bottom: 40px;
+  }
+
   & > div {
     display: table-cell;
     vertical-align: top;
     width: 33%;
+
+    @include mobile() {
+      display: block;
+      width: 100%;
+      padding: 0 15%;
+      margin-bottom: 40px;
+
+      &:last-child {
+        margin-bottom: 0px;
+      }
+    }
   }
 
   .quote, img {
@@ -518,6 +536,7 @@ iframe {
   .quote {
     display: table;
     font-size: 90%;
+    width: 100%;
     min-height: 125px;
     border-radius: 5px;
     background: rgba(black, 0.02);
