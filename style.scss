@@ -462,8 +462,9 @@ iframe {
   }
 
   img {
-    width: 57px;
-    height: 57px;
+    width: auto;
+    height: 90%;
+    max-height: 64px;
     max-width: none; // have to override rule. :(
   }
 
@@ -478,18 +479,74 @@ iframe {
 
   td:nth-child(3) {
     position: relative;
-    font-size: 70%;
+    font-size: 75%;
     font-weight: bold;
 
     &:before {
       position: absolute;
       top: 50%;
       transform: translateY(-50%);
-      left: -5%;
+      left: -15px;
       content: '';
       width: 21px;
       height: 46px;
-      background-image: url('/images/why-bitcoin/bracket.png');
+      background: url('/images/icons/icon-parant.png') center/cover;
+    }
+  }
+}
+// Banner on index "Popular Opinion"
+.popular-opinion {
+  display: table;
+  color: grey;
+  font-size: 80%;
+  border-collapse: separate; 
+  border-spacing: 15px 0px;
+  margin: 0px -25px;
+  margin-bottom: 40px;
+
+  & > div {
+    display: table-cell;
+    vertical-align: top;
+    width: 33%;
+  }
+
+  .quote, img {
+    border: 1px solid rgba(black, 0.1);
+    border-bottom: 2px solid rgba(black, 0.1);
+  }
+
+  .quote {
+    display: table;
+    font-size: 90%;
+    min-height: 125px;
+    border-radius: 5px;
+    background: rgba(black, 0.02);
+    font-style: italic;
+
+    p {
+      display: table-cell;
+      vertical-align: middle;
+
+      &:before {
+        content: '\201C';
+      }
+
+      &:after {
+        content: '\201D';
+      }
+    }
+  }
+
+  .person {
+    text-align: center;
+
+    h3 {
+      margin: 0;
+      color: #8EA330;
+    }
+
+    img {
+      margin-top: 25px;
     }
   }
 }
