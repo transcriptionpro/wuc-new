@@ -13,11 +13,11 @@ He was an architect and cryptographer at Zero-Knowledge Systems working on its F
 
 He holds a Ph.D. in distributed systems and computer science from the University of Exeter.
 
-## Articles by Dr. Adam Back
+{# ## Articles by Dr. Adam Back
 <ul>
 	<li><a href="/adam-back-cypherpunks/">A Week With Adam Back - Part 1</a> - Why is Dr. Back so legendary?</li>
 	<li><a href="/adam-back-bitcoin-core-developers/">A Week With Adam Back - Part 2</a> - Who are the top Bitcoin developers?</li>
 	<li><a href="/adam-back-confidential-transactions/">A Week With Adam Back - Part 3</a> - Confidential Transactions</li>
 	<li><a href="/adam-back-lightning-network/">A Week With Adam Back - Part 4</a> - Lightning Network</li>
 	<li><a href="/adam-back-sidechains/">A Week With Adam Back - Part 5</a> - Sidechains</li>
-</ul>
+</ul>#}
