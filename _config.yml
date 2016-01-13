@@ -74,3 +74,18 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+collections:
+  people:
+    output: true
+  companies:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: people
+    values:
+      layout: "person"
+      permalink: /:title
