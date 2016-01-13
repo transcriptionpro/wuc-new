@@ -1,6 +1,6 @@
 ---
 title: Coinbase
-logo: /images/coinbase-logo.png
+img: /images/coinbase-logo.png
 ---
 
 <p>Founded in June of 2012, <a href="http://www.runtogold.com/coinbase" target="_blank">Coinbase</a> is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.
