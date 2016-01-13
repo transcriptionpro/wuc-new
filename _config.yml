@@ -89,3 +89,10 @@ defaults:
     values:
       layout: "person"
       permalink: /:title
+  -
+    scope:
+      path: ""
+      type: companies
+    values:
+      layout: "company"
+      permalink: /:title
