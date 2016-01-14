@@ -16,7 +16,7 @@ layout: page
 {% endfor %}
 
 {% if hasPosts %}
-	<h2>Bitcoin articles by {{ page.title }}</h2>
+	<h2>Bitcoin articles by or related to {{ page.title }}</h2>
 	<ul>
 		{% for post in site.posts %}
 			{% if post.author == page.title %}

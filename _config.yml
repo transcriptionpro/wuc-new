@@ -78,8 +78,10 @@ exclude:
 collections:
   people:
     output: true
+    permalink: /:title/
   companies:
     output: true
+    permalink: /:title/
 
 defaults:
   -
@@ -88,11 +90,9 @@ defaults:
       type: people
     values:
       layout: "person"
-      permalink: /:title
   -
     scope:
       path: ""
       type: companies
     values:
       layout: "company"
-      permalink: /:title
