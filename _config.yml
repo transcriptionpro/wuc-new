@@ -78,10 +78,10 @@ exclude:
 collections:
   people:
     output: true
-    permalink: /:title
+    permalink: /:title/
   companies:
     output: true
-    permalink: /:title
+    permalink: /:title/
 
 defaults:
   -
