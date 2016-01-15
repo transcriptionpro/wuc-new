@@ -13,7 +13,7 @@ Bitcoin payments are irreversible, which means accepting Bitcoin with BitPay is 
 
 ## 40+ Integrations
 
-BitPay’s merchant tools have been integrated with a number of existing payment processors, including Shopify, PayPal, and wooCommerce. For a full list of integrations visit BitPay’s website.
+BitPay’s merchant tools have been integrated with a number of existing payment processors, including Shopify, PayPal, and wooCommerce. For a full list of integrations [visit BitPay’s website](https://bitpay.com/integrations).
 
 ## Support for 30+ Countries
 
@@ -30,7 +30,7 @@ In addition to merchant tools, BitPay offers an open source [Bitcoin wallet](/en
 ## Additional Features:
 
 * **Withhold any percent of income as bitcoin.** If a merchant chooses to retian 50% of income as Bitcoin, half of each payment will be converted to fiat, and half settled via wire transfer to the merchant’s bank account.  
-*	**Bitcore, API, and Insight.** In addition to Copay, BitPay’s Bitcore, API, and Insight are more open source tools that are free for anyone to use. 
+*	**Bitcore, API, and Insight.** BitPay’s [Bitcore](https://bitcore.io/), [API](https://bitpay.com/api), and [Insight](https://insight.is/) are open source tools that are free for anyone to use. 
 
 ## Why use BitPay?
 
