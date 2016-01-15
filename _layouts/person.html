@@ -25,3 +25,21 @@ layout: page
 		{% endfor %}
 	</ul>
 {% endif %}
+
+{% for pageBy in site.pages %}
+	{% if pageBy.author == page.title %}
+		{% assign hasPages = true %}
+		{% break %}
+	{% endif %}
+{% endfor %}
+
+{% if hasPages %}
+	<h2>Pages by or related to {{ page.title }}</h2>
+	<ul>
+		{% for pageBy in site.pages %}
+			{% if pageBy.author == page.title %}
+				<li><a href="{{ pageBy.url }}">{{ pageBy.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+{% endif %}
