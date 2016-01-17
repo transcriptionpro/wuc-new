@@ -1,6 +1,6 @@
 ---
 title: Jesse Powell
-description: CEO of Kraken
+seotitle: Jesse Powell - CEO of Kraken
 img: /images/jesse-powell.png
 ---
 
