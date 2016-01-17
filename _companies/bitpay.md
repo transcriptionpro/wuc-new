@@ -1,6 +1,8 @@
 ---
-title: BitPay About Page
+title: BitPay
+seotitle: BitPay About Page
 ---
+
 BitPay became the first Bitcoin payment processor when it was founded in 2011. BitPay allows merchants to accept Bitcoin without the need to worry about volatility, or the conversion from bitcoin to fiat. 
 
 ## Accept Bitcoin with BitPay
