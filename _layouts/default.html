@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.seotitle %}{{ page.seotitle }} – {% else %}{{ page.title }} - {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   	{% if page.description %}
   	<meta name="description" content="{{ page.description }}">
-  	{% else %}
-  	<meta name="description" content= "Anything" >
   	{% endif %}
 
     {% include meta.html %}
