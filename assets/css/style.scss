@@ -571,6 +571,26 @@ iframe {
   }
 }
 
+.segwit-table {
+	width: 100%;
+}
+
+.segwit-table th {
+	font-weight: bold;
+	background: #f2f1f1 none repeat scroll 0 0;
+}
+
+.segwit-table td, .segwit-table th {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 7px;
+    text-align: center;
+}
+
+.segwit-table tr:nth-child(2n) {
+    background: #f2f1f1 none repeat scroll 0 0;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
