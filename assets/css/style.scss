@@ -501,7 +501,7 @@ iframe {
   display: table;
   color: grey;
   font-size: 80%;
-  border-collapse: separate; 
+  border-collapse: separate;
   border-spacing: 15px 0px;
   margin: 0px -25px;
   margin-bottom: 40px;
@@ -591,8 +591,14 @@ iframe {
     background: #f2f1f1 none repeat scroll 0 0;
 }
 
+a.anchor {
+  position: relative;
+  color: inherit;
+  cursor: inherit;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-@import "social-shares";
+@import 'components';

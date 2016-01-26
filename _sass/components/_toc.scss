@@ -1,0 +1,30 @@
+.page-toc {
+  float: right;
+  list-style-type: none;
+  background-color: $lightGray;
+  font-size: 0.8em;
+  padding: 0;
+  margin: 15px;
+  margin-top: 0;
+
+  li {
+    padding: 2px 5px;
+    border-bottom: 1px solid $white;
+    transition: background-color 0.5s;
+    
+    &.page-toc-title {
+      font-weight: bold;
+      background-color: $gray;
+      color: $white;
+    }
+
+    a {
+      display: block;
+      color: $darkerGray;
+    }
+
+    &:hover {
+      background-color: lighten($gray, 25%);
+    }
+  }
+}
