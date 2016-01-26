@@ -1,5 +1,8 @@
 .page-toc {
+  position: relative;
+  z-index: 10;
   float: right;
+  z-index: 10;
   list-style-type: none;
   background-color: $lightGray;
   font-size: 0.8em;
@@ -11,11 +14,15 @@
     padding: 2px 5px;
     border-bottom: 1px solid $white;
     transition: background-color 0.5s;
-    
+
     &.page-toc-title {
       font-weight: bold;
       background-color: $gray;
       color: $white;
+
+      &:hover {
+        background-color: initial;
+      }
     }
 
     a {
