@@ -16,7 +16,7 @@ published: true
 <h2><strong>Interview with Marshal Long on How to Mine Bitcoins</strong></h2>
 <strong> </strong>
 
-<strong>Trace Mayer:</strong>  Okay.  Welcome back to the podcast.  We have a very important guest with us today.  We have Marshall Long, CTO of FinalHash, one of the leading bitcoin mining experts in the world on how to mine bitcoins.  Welcome to the podcast. Marshall.
+<strong>Trace Mayer:</strong>  Okay.  Welcome back to the podcast.  We have a very important guest with us today.  We have Marshall Long, CTO of FinalHash, one of the leading [bitcoin mining](/en/mining-guide/) experts in the world on how to mine bitcoins.  Welcome to the podcast. Marshall.
 
 </p><p>
 
