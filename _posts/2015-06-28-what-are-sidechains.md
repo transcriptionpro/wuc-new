@@ -161,7 +161,7 @@ So in bitcoin, we have the decentralized consensus hopefully, and it is essentia
 But what if you want to use the technology of bitcoin to build a private system or a semiprivate system?  What if you want to build a low-value experimental system, small system?  What is a decentralized system four people [inaudible 00:35:37]?
 What is that?
 
-That's not decentralized, it's four people.  And the mechanism with bitcoin uses for decentralized consensus is very fuzzy.  It's mining mechanism.  It's not secure when it's used in small scale.  So even if you are going to build something decentralized, how do you bootstrap it.  Many altcoins have struggled with this bootstrapping problem and done a variety of things.  So there are many other consensus models you can build systems out of, that exist in the wider world.
+That's not decentralized, it's four people.  And the mechanism with bitcoin uses for decentralized consensus is very fuzzy.  It's mining mechanism.  It's not secure when it's used in small scale.  So even if you are going to build something decentralized, how do you bootstrap it.  [Many altcoins have struggled](/en/alt-coins/) with this bootstrapping problem and done a variety of things.  So there are many other consensus models you can build systems out of, that exist in the wider world.
 
 In Sidechains whitepaper, we get a framework for thinking about the bitcoin consensus model by describing it as a dynamic-membership multiparty-signature.  This is the network is doing a threshold signatures where, you know, kind of, an N of M must sign off on the blocks.  But who are the N of M?  Well, it's a dynamic membership chosen by their own participation in that file.
 

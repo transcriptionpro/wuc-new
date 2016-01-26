@@ -274,7 +274,7 @@ Now where I'd like to see this move, and as a callout to the bitcoin changetip c
 
 </p><p>
 
-There's a couple of different pathways that we're exploring.  One is working with the Blockstream team and sidechains to see if we can figure out how we can do micro-transactions on a sidechain.
+There's a couple of different pathways that we're exploring.  One is working with the <a href="/what-are-sidechains/">Blockstream team and sidechains</a> to see if we can figure out how we can do micro-transactions on a sidechain.
 
 </p><p>
 

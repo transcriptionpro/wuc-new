@@ -110,7 +110,7 @@ The three most popular hardware wallets on the market are the Ledger Nano, KeepK
 
 ## Software Wallets using Offline Computers
 
-Offline software wallets are very similar to hardware wallets. A dedicated offline computer is used to run a Bitcoin wallet like [Armory](https://bitcoinarmory.com/) or [Electrum](https://electrum.org/#home). 
+Offline software wallets are very similar to hardware wallets. A dedicated offline computer is used to run a [Bitcoin wallet](/en/find-the-best-bitcoin-wallet/) like [Armory](https://bitcoinarmory.com/) or [Electrum](https://electrum.org/#home). 
  
 A wallet is created on the offline computer. Using the public HD seed from the offline computer a watch only version of the wallet can be imported to an everyday computer. This allows payments to be received online, but all funds and private keys are still secured and stored on the offline computer. 
 

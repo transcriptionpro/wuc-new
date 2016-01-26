@@ -23,7 +23,7 @@ Litecoin is an open source software project released under the MIT/X11 license w
 It is very easy to start using Litecoin.
 <p>
 <ul><li>Step 1: Get A Litecoin Wallet.</li>
-<li>Step 2: Get Some Litecoin at the <a href="https://www.kraken.com/">best Litecoin exchange</a>.</li>
+<li>Step 2: Get Some Litecoin at <a href="https://www.kraken.com/">Kraken</a> or <a href="/how-to-buy-litecoins/">another exchange</a>.</li>
 <li>Step 3: Use Your Litecoin.</li>
 <li>Step 4: Stay Up-to-Date.</li></ul>
 <h2>What is Litecoin mining?</h2>

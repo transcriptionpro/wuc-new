@@ -244,7 +244,7 @@ So, I joke that like there's this like thing a lot of companies have on the bott
 
 </p><p>
 
-<strong>Charlie Shrem:</strong>  And there is the risk you go to jail too.  Especially the exchanges are harder.  Companies like Coinbase that are retail.  The government is not as worried about those guys for a bunch of reasons.  Because they are doing KYC.  But also because retail, when you’re selling bitcoin from your own wallet to a customer and then you're buying it from.  It's very easily trackable.
+<strong>Charlie Shrem:</strong>  And there is the risk you go to jail too.  Especially the exchanges are harder.  Companies like Coinbase that are retail.  The government is not as worried about those guys for a bunch of reasons.  Because they are doing KYC.  But also because retail, when you’re <a href="/how-to-sell-bitcoins/">selling bitcoin from your own wallet</a> to a customer and then you're buying it from.  It's very easily trackable.
 
 </p><p>
 
