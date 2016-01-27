@@ -1,9 +1,11 @@
 ---
 layout: post
-title: CRYPSA Event on the Future of Bitcoin
+title: The Seven Network Effects of Bitcoin
+excerpt: Trace Mayer explains the seven network effects that will lead to Bitcoin’s continued success.
 author: Trace Mayer
 authorurl: /trace-mayer-bitcoin-expert/
-published: true
+permalink: /the-seven-network-effects-of-bitcoin/
+
 toc:
   speculation: "Speculation"
   merchants: "Merchants"
@@ -12,18 +14,13 @@ toc:
   developers: "Developers"
   financialization: "Financialization"
   worldreservecurrency: "World Reserve Currency"
----
 
-<p>Trace Mayer explaining the Future of Bitcoin and why it will succeed. This event was hosted by CRYPSA at LaGuardia Community College is one example of what a P2P community can achieve.
-<iframe width="700" height="394" src="https://www.youtube.com/embed/YAVIgXguUoU" frameborder="0" allowfullscreen></iframe>
-<p>
-<iframe width="700" height="394" src="https://www.youtube.com/embed/TCU-soMs1wY" frameborder="0" allowfullscreen></iframe>
-<p>
-### Transcript
-<p>Add transcript here.
+published: true
+---
 
 <p><strong>Trace Mayer, J.D., a long-time Bitcoin Guru and Investor in Bitcoin companies such as Armory, Bitpay and Kraken, explains the network effects that will lead to Bitcoin's continued success.</strong></p>
 <p style="padding-left: 30px;"><em>From his talk hosted by CRYPSA at LaGuardia Community College on June 29, 2015.</em><br />
+<iframe width="700" height="394" src="https://www.youtube.com/embed/YAVIgXguUoU" frameborder="0" allowfullscreen></iframe>
 <em> Listen to the audio: <a href="http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/">http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/</a></em></p>
 <h3>The 7 network effects of Bitcoin are as follows:</h3>
 <ol>
@@ -37,3 +34,4 @@ toc:
 </ol>
 <p>Bitcoin is a strong currency: it thrives on the internet; it frees its users from 3rd parties; it saves merchants money; it is deflationary; its code can be audited by all; its developers work tirelessly to improve upon it; the list goes on. The above-listed network effects can only serve to strengthen it. Competitors beware.</p>
 <p>Trace Mayer explaining the Future of Bitcoin and why it will succeed. This event was hosted by CRYPSA at LaGuardia Community College is one example of what a P2P community can achieve.
+<iframe width="700" height="394" src="https://www.youtube.com/embed/TCU-soMs1wY" frameborder="0" allowfullscreen></iframe>
