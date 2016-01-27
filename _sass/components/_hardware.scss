@@ -1,11 +1,18 @@
 .hardware-comparison {
-  display: flex;
-
   & > div {
-    width: 33%;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
 
-    h3 {
-      min-height: 70px;
+    &:nth-child(2){
+      margin: 0px 1.5%;
+    }
+
+    @include mobile() {
+        display: block;
+        width: 100%;
+        margin: 25px 0;
+        text-align: center;
     }
 
     & > img {
@@ -20,8 +27,8 @@
       margin: 0;
 
       li {
-        margin-bottom: 5px;
-        
+        padding: 5px 0;
+
         &:before {
           font-weight: bold;
           display: block;
