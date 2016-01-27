@@ -1,0 +1,56 @@
+.hardware-comparison {
+  display: flex;
+
+  & > div {
+    width: 33%;
+
+    h3 {
+      min-height: 70px;
+    }
+
+    & > img {
+      width: 100%;
+      height: auto;
+      max-height: 120px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        margin-bottom: 5px;
+        
+        &:before {
+          font-weight: bold;
+          display: block;
+        }
+
+        &.capacity:before {
+          content: 'Advertised Capacity: ';
+        }
+
+        &.power:before {
+          content: 'Power Efficiency: ';
+        }
+
+        &.guide:before {
+          content: 'Guide: ';
+        }
+
+        &.weight:before {
+          content: 'Weight: ';
+        }
+
+        &.price:before {
+          content: 'Price: ';
+        }
+
+        &.approx:before {
+          content: 'Appx. BTC Earned Per Month: '
+        }
+      }
+    }
+  }
+}
