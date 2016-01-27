@@ -14,6 +14,7 @@ toc:
   worldreservecurrency: "World Reserve Currency"
 ---
 
+{% include page-toc.html %}
 <p>Trace Mayer explaining the Future of Bitcoin and why it will succeed. This event was hosted by CRYPSA at LaGuardia Community College is one example of what a P2P community can achieve.
 <iframe width="700" height="394" src="https://www.youtube.com/embed/YAVIgXguUoU" frameborder="0" allowfullscreen></iframe>
 <p>

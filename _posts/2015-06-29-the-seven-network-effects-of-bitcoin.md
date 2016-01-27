@@ -18,6 +18,7 @@ toc:
 published: true
 ---
 
+{% include page-toc.html %}
 <p><strong>Trace Mayer, J.D., a long-time Bitcoin Guru and Investor in Bitcoin companies such as Armory, Bitpay and Kraken, explains the network effects that will lead to Bitcoin's continued success.</strong></p>
 <p style="padding-left: 30px;"><em>From his talk hosted by CRYPSA at LaGuardia Community College on June 29, 2015.</em><br />
 <iframe width="700" height="394" src="https://www.youtube.com/embed/YAVIgXguUoU" frameborder="0" allowfullscreen></iframe>
