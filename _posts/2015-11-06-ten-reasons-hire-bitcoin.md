@@ -20,6 +20,7 @@ toc:
 ---
 
 {% include page-toc.html %}
+<p>Bitcoin is an amazing technological innovation enabling the transfer of value over a communications channel. There are many different use cases for individuals to buy and hold Bitcoin. Understanding the job that needs to be done is critical for prioritizing what extensibility to focus on.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/f84LymEs67Y" frameborder="0" allowfullscreen></iframe></center>
 <p><h3><b>1. </b><a name="secure" class="anchor">Secure Online Transactions</a></h3>
 <p>Currently people use credit cards which are insecure for online transactions because the transaction details are reusable. A merchant (or thief) who has the credit card details can use those to charge against your account. Typically credit card companies cover this type of fraud, but in reality this "cost" is actually passed over to merchants who then pass the cost over to consumers.
