@@ -6,7 +6,7 @@ authorurl: /
 published: true
 toc:
   bill-gates: Bill Gates
-  warren-buffet: Warren Buffett
+  warren-buffett: Warren Buffett
   dr-eric-schmidt: Dr. Eric Schmidt
   al-gore: Al Gore
   ben-bernanke: Ben Bernanke
