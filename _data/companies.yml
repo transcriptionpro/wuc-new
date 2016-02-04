@@ -1,4 +1,74 @@
 -
+    date: 3-Feb-16
+    company: Blockstream
+    classification: Infrastructure
+    roundsize: 55.0
+    cumulative: 76.0
+    round: Series A
+    investors:  AXA Strategic Ventures, Digital Garage, Horizons Ventures, AME Cloud Ventures, Blockchain Capital, Future\Perfect Ventures
+    headquartered: San Francisco
+    country: United States
+    region: US & Canada
+    img: 
+    description: Blockstream is building open source software and infastructure for Bitcoin, including the lightning network and sidechains. Blockstream also employs a number of Bitcoin Core developers. 
+    url: 
+-
+    date: 25-Jan-16
+    company: SatoshiPay
+    classification: Financial Services
+    roundsize: 0.39
+    cumulative: 0.39
+    round: Seed
+    investors: Coinsilium, FastForward Innovations
+    headquartered: London
+    country: United Kingdom
+    region: Europe
+    img: 
+    description: SatoshiPay is a Bitcoin micropayment service. 
+    url: 
+-
+    date: 22-Jan-16
+    company: Digital Asset Holdings
+    classification: Financial Services
+    roundsize: 50.0
+    cumulative: 50.0
+    round: N/A
+    investors: ABN AMRO; Accenture; ASX Limited; BNP Paribas; Broadridge Financial Solutions; Citi; CME Ventures; Deutsche Börse Group; ICAP; J.P. Morgan; Santander InnoVentures; The Depository Trust & Clearing Corporation (DTCC); and The PNC Financial Services Group, Inc.
+    headquartered: New York
+    country: United States
+    region: US & Canada
+    img: 
+    description: Blockchain technology company founded by Blythe Masters, a former executive at JPMorgan Chase.
+    url: 
+-
+    date: 6-Jan-16
+    company: Gem
+    classification: Financial services
+    roundsize: 7.10
+    cumulative: 10.40
+    round: Series A
+    investors: Pelion Venture Partners, with KEC Ventures, Blockchain Capital, Digital Currency Group, RRE Ventures, Tamarisk Global, Drummond Road Capital, Tekton Ventures, Amplify.LA, Danmar Capital, James Joaquin
+    headquartered: Venice
+    country: United States
+    region: US & Canada
+    img: 
+    description: Gem is a blockchain API service, aiming to bring blockchain technology and smart contracts into the mainstream. 
+    url: 
+-
+    date: 6-Jan-16
+    company: Zebpay
+    classification: Wallet
+    roundsize: 1.0
+    cumulative: 1.0
+    round: Series A
+    investors: Amit Jindal, Arjun Handa, Nagendra Chaudhary
+    headquartered: India
+    country: India
+    region: Asia
+    img: 
+    description: Zebpay is an online Bitcoin wallet. It provides buy and sell brokerage services in India. 
+    url: 
+-
     date: 24-Dec-15
     company: Streami
     classification: Financial Services
