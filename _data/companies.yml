@@ -1,4 +1,32 @@
 -
+    date: 4-Feb-16
+    company: SurBTC (Chile)
+    classification: Exchange
+    roundsize: 0.30
+    cumulative: 0.40
+    round: Series A
+    investors: Digital Currency Group, Sauzalito Ventures, Fernando Barros
+    headquartered:
+    country: Chile
+    region: South America
+    img: 
+    description: SurBTC is Chile's largest Bitcoin exchange. 
+    url: 
+-
+    date: 4-Feb-16
+    company: Simplex
+    classification: Financial Services
+    roundsize: 7.0
+    cumulative: 8.4
+    round: Series A
+    investors: Bitmain, Cumberland Mining, FundersClub
+    headquartered: Tel Aviv
+    country: Israel
+    region: Middle East
+    img: 
+    description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
+    url: 
+-
     date: 3-Feb-16
     company: Blockstream
     classification: Infrastructure
@@ -10,7 +38,7 @@
     country: United States
     region: US & Canada
     img: 
-    description: Blockstream is building open source software and infastructure for Bitcoin, including the lightning network and sidechains. Blockstream also employs a number of Bitcoin Core developers. 
+    description: Blockstream is building open source software and infrastructure for Bitcoin, including the lightning network and sidechains. Blockstream also employs a number of Bitcoin Core developers. 
     url: 
 -
     date: 25-Jan-16
@@ -33,7 +61,7 @@
     roundsize: 50.0
     cumulative: 50.0
     round: N/A
-    investors: ABN AMRO; Accenture; ASX Limited; BNP Paribas; Broadridge Financial Solutions; Citi; CME Ventures; Deutsche Börse Group; ICAP; J.P. Morgan; Santander InnoVentures; The Depository Trust & Clearing Corporation (DTCC); and The PNC Financial Services Group, Inc.
+    investors: ABN AMRO, Accenture, ASX Limited, BNP Paribas, Broadridge Financial Solutions, Citi, CME Ventures, Deutsche Börse Group, ICAP, J.P. Morgan, Santander InnoVentures, The Depository Trust & Clearing Corporation (DTCC), and The PNC Financial Services Group Inc.
     headquartered: New York
     country: United States
     region: US & Canada
