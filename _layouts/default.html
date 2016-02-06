@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html>{% assign lang = page.lang %}{% assign t = site.data.translations[lang] %}
+<html lang="{{ lang }}">
   <head>
-    <title>{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 
   	{% if page.description %}
   	<meta name="description" content="{{ page.description }}">
@@ -25,16 +25,13 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" width="150" height="50"/></a>
+          <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}" class="site-avatar"><img src="{{ site.avatar }}" width="150" height="50"/></a>
 
-          <nav>
-            <a href="{{ site.baseurl }}/en/getting-started/">Start</a>
-            <a href="{{ site.baseurl }}/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">Buy</a>
-            <a href="{{ site.baseurl }}/en/bitcoin-news/">News</a>
-            <a href="{{ site.baseurl }}/en/questions/">FAQ</a>
-            <a href="{{ site.baseurl }}/en/mining-guide/">Mining</a>
-            <a href="{{ site.baseurl }}/en/alt-coins/">Alt-coins</a>
-           </nav>
+          <nav class="site-navigation">
+            {% for url in t.navigation %}
+              <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}{{ url[0] }}/">{{ url[1] }}</a>
+            {% endfor %}
+          </nav>
         </header>
       </div>
     </div>
@@ -51,25 +48,25 @@
           {% include ad-footer.html %}
           {% include email-form.html %}
           <p>
-        | <a href="{{ site.baseurl }}/de/">Deutsch</a> | 
-          <a href="{{ site.baseurl }}/es/">Español</a> | 
-          <a href="{{ site.baseurl }}/fr/">Français</a> | 
-          <a href="{{ site.baseurl }}/nl/">Nederlands</a> | 
-          <a href="{{ site.baseurl }}/pt/">Portugese</a> | 
-          <a href="{{ site.baseurl }}/ja/">日本語</a> | 
+          {% include svg-icons.html %}
           <p>
-          {% include svg-icons.html %}    
-          <p>
-          | <a href="{{ site.baseurl }}/en/translations/">Translations</a> | 
-          <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/README.md">Contribute</a> |
-          <a href="{{ site.baseurl }}/advertise">Advertise</a> | 
-          <a href="{{ site.baseurl }}/en/materials/">Materials</a> | 
-          <a href="{{ site.baseurl }}/en/team/">Team</a> | 
-          <a href="{{ site.baseurl }}/en/about/">About</a> | 
-          <a href="{{ site.baseurl }}/en/whos-who/">Who's Who</a> |
-          <a href="{{ site.baseurl }}/en/get-free-bitcoins/">Free Bitcoins</a> |
-          <p>
-          © 2011-2016 Hesiod Services LLC | <a href="{{ site.baseurl }}/en/terms/">Terms</a> |  <a href="{{ site.baseurl }}/en/privacy/">Privacy</a>
+
+          <nav class="footer">
+            <a href="https://github.com/sunnankar/wuc-new/">{{ t.footer.contribute }}</a>
+            {% for link in t.footer.links %}
+            <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}{{ link[0] }}">{{ link[1] }}</a>
+            {% endfor %}
+          </nav>
+
+          <nav class="languages">
+            {% for language in site.data.translations %}
+              {% if language[0] == lang %}
+                {% continue %}
+              {% endif %}
+              <a href="{{ site.baseurl }}/{% if language[0] != 'en' %}{{ language[0] }}/{% endif %}">{{ language[1].native }}</a>
+            {% endfor %}
+          </nav>
+          © 2011-2016 Hesiod Services LLC | <a href="{{ site.baseurl }}/terms/">Terms</a> |  <a href="{{ site.baseurl }}/privacy/">Privacy</a>
           <p>
         </footer>
       </div>

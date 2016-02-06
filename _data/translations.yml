@@ -1,0 +1,86 @@
+en:
+  native: English
+  navigation:
+    getting-started: Start
+    how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price: Buy
+    bitcoin-news: News
+    questions: FAQ
+    mining-guide: Mining
+    alt-coins: Alt-coins
+  footer:
+    contribute: Contribute
+    links:
+      advertise: Advertise
+      en/materials: Materials
+      en/team: Team
+      en/about: About
+      en/whos-who: Who's Who
+      en/get-free-bitcoins: Free Bitcoins
+  contribute-notif:
+    heading: Contribute and translate!
+    text: >
+          <p>We want to spread knowledge about Bitcoin everywhere, do you think you can help us increase our content or translate for those who don't speak English?</p>
+          <p>Visit us on <a href="%github-url%">GitHub</a> and learn how to contribute.</p>
+  post:
+    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+de:
+  native: Deutsch
+  navigation:
+    getting-started: Anfang
+    get-free-bitcoins: Gratis
+    bitcoin-price: Kurs
+    glossary: Glossar
+    questions: FAQ
+    mining-guide: Mining
+  footer:
+    contribute: Beitragen
+  contribute-notif:
+    heading: Hilf uns und übersetze!
+    text: >
+          <p>Wir wollen Wissen über Bitcoin weltweit verbreiten, meinst du, du kannst uns helfen oder Inhalt für die, die eine andere Sprache sprechen übersetzen?</p>
+          <p>Schau vorbei auf <a href="%github-url%">GitHub</a> und lerne wie du beitragen kannst.</p>
+  post:
+    written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
+fr:
+  native: Français
+  navigation:
+    getting-started: Débuter
+    get-free-bitcoins: Gratuits
+    bitcoin-price: Prix
+    glossary: Glossaire
+    questions: FAQ
+    mining-guide: Minage
+  footer:
+    contribute: Contribuer
+  post:
+    written-by: 'Écrit par <a href="%authorurl%">%author%</a> le %date%.'
+nl:
+  native: Nederlands
+  navigation:
+    getting-started: Aanvang
+    get-free-bitcoins: Gratis Bitcoins
+    bitcoin-price: Koers
+    glossary: Woordenlijst
+    questions: FAQ
+    merchant-tools: Koopman
+    mining-guide: Ontginnings Gids
+  # below here is untranslated
+  footer:
+    contribute: Contribute
+  post:
+    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+ja:
+  native: 日本語
+  navigation:
+    getting-started: スタート
+    get-free-bitcoins: 無償 Bitcoins
+    bitcoin-price: 価格
+    glossary: 用語集
+    questions: FAQ
+    merchant-tools: 商人
+    mining-guide: 鉱業 ガイド
+  # below here is untranslated
+  footer:
+    contribute: Contribute
+  post:
+    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
