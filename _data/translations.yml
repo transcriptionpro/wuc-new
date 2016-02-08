@@ -7,7 +7,7 @@ en:
     questions: FAQ
     mining-guide: Mining
     alt-coins: Alt-coins
-  footer:
+  footer: &footer_default
     contribute: Contribute
     links:
       advertise: Advertise
@@ -16,12 +16,13 @@ en:
       en/about: About
       en/whos-who: Who's Who
       en/get-free-bitcoins: Free Bitcoins
-  contribute-notif:
+  contribute-notif: &contrib_default
     heading: Contribute and translate!
     text: >
           <p>We want to spread knowledge about Bitcoin everywhere, do you think you can help us increase our content or translate for those who don't speak English?</p>
           <p>Visit us on <a href="%github-url%">GitHub</a> and learn how to contribute.</p>
-  post:
+    incomplete_text: <p>This translation is incomplete, if you can't find what you are looking for, we suggest checking <a href="/">the English site</a>.</p>
+  post: &post_default
     written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
 de:
   native: Deutsch
@@ -37,7 +38,7 @@ de:
   contribute-notif:
     heading: Hilf uns und übersetze!
     text: >
-          <p>Wir wollen Wissen über Bitcoin weltweit verbreiten, meinst du, du kannst uns helfen oder Inhalt für die, die eine andere Sprache sprechen übersetzen?</p>
+          <p>Wir wollen Wissen über Bitcoin weltweit verbreiten, meinst du, du kannst uns helfen oder Inhalte für die, die eine andere Sprache sprechen übersetzen?</p>
           <p>Schau vorbei auf <a href="%github-url%">GitHub</a> und lerne wie du beitragen kannst.</p>
   post:
     written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
@@ -67,8 +68,7 @@ nl:
   # below here is untranslated
   footer:
     contribute: Contribute
-  post:
-    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+  post: *post_default
 ja:
   native: 日本語
   navigation:
@@ -80,7 +80,34 @@ ja:
     merchant-tools: 商人
     mining-guide: 鉱業 ガイド
   # below here is untranslated
+  contribute-notif:
+    <<: *contrib_default
+    incomplete: true
   footer:
     contribute: Contribute
-  post:
-    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+  post: *post_default
+es:
+  native: Español
+  navigation:
+    getting-started: Empezando
+    glossary: Glosario
+    questions: FAQ
+  # below here is untranslated
+  contribute-notif:
+    <<: *contrib_default
+    incomplete: true
+  footer:
+    contribute: Contribute
+  post: *post_default
+ru:
+  native: русский
+  navigation:
+    glossary: глоссарий
+    questions: FAQ
+  # below here is untranslated
+  contribute-notif:
+    <<: *contrib_default
+    incomplete: true
+  footer:
+    contribute: Contribute
+  post: *post_default

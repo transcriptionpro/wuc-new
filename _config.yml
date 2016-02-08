@@ -141,3 +141,23 @@ defaults:
       path: "_posts/ja"
     values:
       lang: ja
+  - # Spanish
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+  -
+    scope:
+      path: "_posts/es"
+    values:
+      lang: "es"
+  - # Russian
+    scope:
+      path: "ru"
+    values:
+      lang: "ru"
+  -
+    scope:
+      path: "_posts/ru"
+    values:
+      lang: "ru"
