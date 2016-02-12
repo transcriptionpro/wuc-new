@@ -721,7 +721,7 @@ But the funny thing about it is that most of the bitcoin what they called scams 
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  And this actually gets to one of the core reasons that I funded Armory.  There wasn't necessarily a business model when I funded it.  But I wanted the software created that was free for individuals to use, where they could safely and securely store their private keys to their own bitcoins.
+<strong>Trace Mayer:</strong>  And this actually gets to one of the core reasons that I funded <a href="/armory/">Armory</a>.  There wasn't necessarily a business model when I funded it.  But I wanted the software created that was free for individuals to use, where they could safely and securely store their private keys to their own bitcoins.
 
 </p><p>
 

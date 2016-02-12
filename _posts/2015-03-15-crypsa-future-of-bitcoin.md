@@ -20,10 +20,12 @@ toc:
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/TCU-soMs1wY" frameborder="0" allowfullscreen></iframe>
 <p>
-### Transcript
+
+<h3>Transcript</h3>
+
 <p>Add transcript here.
 
-<p><strong>Trace Mayer, J.D., a long-time Bitcoin Guru and Investor in Bitcoin companies such as Armory, Bitpay and Kraken, explains the network effects that will lead to Bitcoin's continued success.</strong></p>
+<p><strong>Trace Mayer, J.D., a long-time Bitcoin Guru and Investor in Bitcoin companies such as <a href="/armory/">Armory</a>, Bitpay and Kraken, explains the network effects that will lead to Bitcoin's continued success.</strong></p>
 <p style="padding-left: 30px;"><em>From his talk hosted by CRYPSA at LaGuardia Community College on June 29, 2015.</em><br />
 <em> Listen to the audio: <a href="http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/">http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/</a></em></p>
 <h3>The 7 network effects of Bitcoin are as follows:</h3>

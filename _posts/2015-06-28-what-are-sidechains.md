@@ -7,12 +7,20 @@ published: true
 ---
 
 <center><img src="/images/what-are-sidechains.jpg" alt="what are sidechains"></center>
-<img src="/images/gregory-maxwell.png" alt="Gregory Maxwell" align="right">Gregory Maxwell is a Bitcoin core developer and Co-Founder and Chief Technology Officer of Blockstream.
-<p>Greg was one of the key architects of the two-way peg which makes sidechains possible. He has been a Bitcoin core developer since 2011, and is one of the most active reviewers of cryptographic protocol proposals in the Bitcoin industrial ecosystem.
-<p>Blockstream's sidechains whitepaper showed how multiple blockchains can cooperate and share a currency. In the talk, Blockstream's CTO Greg Maxwell discussed future cryptocurrency technology that is enabled by such sidechains—security, efficiency and additional features for Bitcoin.
+
+<img src="/images/gregory-maxwell.png" alt="Gregory Maxwell" align="right">
+
+Gregory Maxwell is a Bitcoin core developer and Co-Founder and Chief Technology Officer of Blockstream.
+
+Greg was one of the key architects of the two-way peg which makes sidechains possible. He has been a Bitcoin core developer since 2011, and is one of the most active reviewers of cryptographic protocol proposals in the Bitcoin industrial ecosystem.
+
+Blockstream's sidechains whitepaper showed how multiple blockchains can cooperate and share a currency. In the talk, Blockstream's CTO Greg Maxwell discussed future cryptocurrency technology that is enabled by such sidechains—security, efficiency and additional features for Bitcoin.
+
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/Twynh6xIKUc" frameborder="0" allowfullscreen></iframe></center>
+
 ### TRANSCRIPT OF What are sidechains?
-<p>Thanks.  It's good to see a lot of familiar faces.  I find lots of people who've been before I was here, come back again to hear this subject.  So the first time I'm presenting in front of this group with the sort of block stream add on so it will be interesting to see how that goes.  You can tell by the artistically competence audiences compared to my [inaudible 00:00:23].  So I'm going to talk about a couple of things tonight.  Previously when I last addressed this group, I talked about some virtual term things, improvements in bitcoin core 011 and I also talked about some more area of philosophical things.  Tonight I'm going to talk about things which are both longer term, but also a lot more concrete than philosophical. 
+
+Thanks.  It's good to see a lot of familiar faces.  I find lots of people who've been before I was here, come back again to hear this subject.  So the first time I'm presenting in front of this group with the sort of block stream add on so it will be interesting to see how that goes.  You can tell by the artistically competence audiences compared to my [inaudible 00:00:23].  So I'm going to talk about a couple of things tonight.  Previously when I last addressed this group, I talked about some virtual term things, improvements in bitcoin core 011 and I also talked about some more area of philosophical things.  Tonight I'm going to talk about things which are both longer term, but also a lot more concrete than philosophical. 
 
 So what I want to first do is sort of set a frame work to understand that the work that we've been doing here and then talk about what exactly that work is.  And a lot of what I'm going to talk about rose out of kind of thinking that occur in this technical space people working in the bowels of the bitcoin protocol.  How do we take the system with its design and how we make it scale and adapt, evolve, with greater needs and the wider world.  And how do we do that in a way that doesn't push uncomfortable tradeoffs on the people, who doesn't change the system against people's will.
 

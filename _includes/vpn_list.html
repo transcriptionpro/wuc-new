@@ -1,4 +1,8 @@
 <div class="vpn-list">
+	{% if vpn.img != null %}
+			<img src="/images/vpns/{{ vpn.img }}">
+	{% else %}
+	{% endif %}
 	<h3>{% if vpn.url != null %}<a href="{{ vpn.url }}">{{ vpn.service }}</a>{% else %}{{ vpn.service }}{% endif %}</h3>
 	<h4>
 		{{ vpn.country }} | {{ vpn.price_annual }} per month

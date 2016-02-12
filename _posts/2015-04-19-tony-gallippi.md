@@ -10,7 +10,9 @@ published: true
 <p>
 <p>
 <p>
+
 ## Article by Tony Gallippi
+
 <ul>
 <li><a href="/bitcoin-merchant-processor/">Bitcoin Knowledge Podcast Interview | Bitcoin Merchant Processor</a></li>
 </ul>

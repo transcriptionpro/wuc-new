@@ -11,6 +11,7 @@ published: true
 <p><img src="/images/peter-gray.png" alt="Peter D. Gray" style="float: right; margin-bottom: 20px;"/> Peter has been programmer since before there was a web. He eats, lives and sleeps code; but he's also a fan of good UX, design and typography. A rare crossbreed of business person and technology master, he's founded a number of companies and still loves the role of an active CTO who still codes everyday.
 
 ## Article by Peter D. Gray
+
 <ul>
 <li><a href="/coinkite/">Coinkite</a></li>
 </ul>

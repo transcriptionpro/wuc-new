@@ -8,7 +8,8 @@ published: true
 
 Vitalik Buterin is a programmer.
 
-## Article by Vitalik Buterin
+## Articles by Vitalik Buterin
+
 <ul>
 <li><a href="/what-is-ethereum/">What Is Ethereum</a></li>
 <li><a href="/what-is-ether/">What Is Ether</a></li>

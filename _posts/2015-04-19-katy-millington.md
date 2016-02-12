@@ -13,11 +13,13 @@ published: true
 <p>The group benefits from Katy's considerable international multi-jurisdictional experience when servicing customers and meeting regulatory requirements on a global scale.
 
 ## Articles by Katy Millington
+
 <ul>
 <li><a href="http://www.investorideas.com/news/2015/mining/07301.asp">GoldMoney Appoints Two New Directors</a></li>
 </ul>
 
 ## BitGold Executive Management Team Members
+
 <ul><li><a href="/roy-sebag/">Roy Sebag</a> - Co-Founder and Chief Executive Officer</li>
 <li><a href="/josh-crumb/">Josh Crumb</a> - Co-Founder and Chief Strategy Officer</li>
 <li><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer</li>

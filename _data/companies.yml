@@ -6,10 +6,10 @@
     cumulative: 0.40
     round: Series A
     investors: Digital Currency Group, Sauzalito Ventures, Fernando Barros
-    headquartered:
+    headquartered: Santiago
     country: Chile
     region: South America
-    img: 
+    img: surbtc.png
     description: SurBTC is Chile's largest Bitcoin exchange. 
     url: 
 -
@@ -23,7 +23,7 @@
     headquartered: Tel Aviv
     country: Israel
     region: Middle East
-    img: 
+    img: simplex.png
     description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
     url: 
 -
@@ -37,7 +37,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: blockstream.png
     description: Blockstream is building open source software and infrastructure for Bitcoin, including the lightning network and sidechains. Blockstream also employs a number of Bitcoin Core developers. 
     url: 
 -
@@ -51,7 +51,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: satoshipay.png
     description: SatoshiPay is a Bitcoin micropayment service. 
     url: 
 -
@@ -65,7 +65,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: digitalasset.png
     description: Blockchain technology company founded by Blythe Masters, a former executive at JPMorgan Chase.
     url: 
 -
@@ -79,7 +79,7 @@
     headquartered: Venice
     country: United States
     region: US & Canada
-    img: 
+    img: gem.png
     description: Gem is a blockchain API service, aiming to bring blockchain technology and smart contracts into the mainstream. 
     url: 
 -
@@ -93,7 +93,7 @@
     headquartered: India
     country: India
     region: Asia
-    img: 
+    img: zebpay.png
     description: Zebpay is an online Bitcoin wallet. It provides buy and sell brokerage services in India. 
     url: 
 -
@@ -107,7 +107,7 @@
     headquartered: South Korea
     country: South Korea
     region: Asia
-    img: 
+    img: streami.png
     description: 
     url: 
 -
@@ -121,7 +121,7 @@
     headquartered: Virginia
     country: United States
     region: US & Canada
-    img: 
+    img: btcs.png
     description:  BTCS Inc. operates a beta ecommerce marketplace. It hosts an online ecommerce marketplace where consumers could purchase merchandise using digital currencies, such as bitcoin, litecoin, and dogecoin. The company was formerly known as Bitcoin Shop, Inc. and changed its name to BTCS Inc. in July 2015. BTCS Inc. is headquartered in Arlington, Virginia.
     url: 
 -
@@ -135,7 +135,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: purse-logo
+    img: purse-logo.png
     description: Purse raised $1 million for its secret project "Tritium".  
     url: 
 -
@@ -149,7 +149,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: bitwage.png
     description: 
     url: 
 -
@@ -163,7 +163,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: aligncommerce.png
     description: 
     url: 
 -
@@ -177,7 +177,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: zapchain.png
     description: 
     url: 
 -
@@ -191,7 +191,7 @@
     headquartered: Texas
     country: United States
     region: US & Canada
-    img: 
+    img: factom.png
     description: 
     url: 
 -
@@ -205,7 +205,7 @@
     headquartered: Luxembourg
     country: Luxembourg
     region: Europe
-    img: 
+    img: scorechain.jpg
     description: 
     url: 
 -
@@ -219,7 +219,7 @@
     headquartered: Tokyo
     country: Japan
     region: Asia
-    img: 
+    img: orb.png
     description: 
     url: 
 -
@@ -233,7 +233,7 @@
     headquartered: Seoul
     country: South Korea
     region: Asia
-    img: 
+    img: coinplug.png
     description: 
     url: 
 -
@@ -247,7 +247,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: safecash.png
     description: 
     url: 
 -
@@ -261,7 +261,7 @@
     headquartered: Hanover
     country: Germany
     region: Europe
-    img: 
+    img: pey.jpg
     description: 
     url: 
 -
@@ -275,7 +275,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: coinalytics.png
     description: 
     url: 
 -
@@ -289,7 +289,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: abra.png
     description: 
     url: 
 -
@@ -303,7 +303,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: case.png
     description: 
     url: 
 -
@@ -317,7 +317,7 @@
     headquartered: San Francisco
     country: United States
     region: US& Canada
-    img: 
+    img: chain.png
     description: 
     url: 
 -
@@ -331,7 +331,7 @@
     headquartered: Zug
     country: Switzerland
     region: Europe
-    img: 
+    img: shapeshift.png
     description: 
     url: 
 -
@@ -345,7 +345,7 @@
     headquartered: Paris
     country: France
     region: Europe
-    img: 
+    img: paymium.jpg
     description: 
     url: 
 -
@@ -359,7 +359,7 @@
     headquartered: Reno
     country: United States
     region: US & Canada
-    img: 
+    img: filament.png
     description: 
     url: 
 -
@@ -373,12 +373,12 @@
     headquartered: Tokyo
     country: Japan
     region: Asia
-    img: 
+    img: bitflyer.png
     description: 
     url: 
 -
     date: 23-Jul-15
-    company: Challenger Deep
+    company: Challenger Deep (Kaiko)
     classification: Infrastructure
     roundsize: 1.86
     cumulative: 1.86
@@ -387,7 +387,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: kaiko.png
     description: 
     url: 
 -
@@ -401,7 +401,7 @@
     headquartered: Singapore
     country: Singapore
     region: Asia
-    img: 
+    img: bitx.png
     description: 
     url: 
 -
@@ -415,7 +415,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: shocard.png
     description: 
     url: 
 -
@@ -429,7 +429,7 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: 
+    img: tabtrader.jpg
     description: 
     url: 
 -
@@ -443,7 +443,7 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: 
+    img: bitfury.jpg
     description: 
     url: 
 -
@@ -457,7 +457,7 @@
     headquartered: Berlin
     country: Germany
     region: Europe
-    img: 
+    img: ascribe.jpg
     description: 
     url: 
 -
@@ -471,7 +471,7 @@
     headquartered: Calgary
     country: Canada
     region: US & Canada
-    img: 
+    img: vogogo.png
     description: 
     url: 
 -
@@ -485,7 +485,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: case.png
     description: 
     url: 
 -
@@ -499,7 +499,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: reveal.png
     description: 
     url: 
 -
@@ -513,7 +513,7 @@
     headquartered: Unknown
     country: Unknown
     region: Unknown
-    img: 
+    img: ob.png
     description: 
     url: 
 -
@@ -527,7 +527,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: symbiont.png
     description: 
     url: 
 -
@@ -541,7 +541,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: mirror.png
     description: 
     url: 
 -
@@ -555,7 +555,7 @@
     headquartered: Berlin
     country: Germany
     region: Europe
-    img: 
+    img: bitbond.png
     description: 
     url: 
 -
@@ -569,7 +569,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: ripple.png
     description: 
     url: 
 -
@@ -583,7 +583,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: itbit.png
     description: 
     url: 
 -
@@ -597,7 +597,7 @@
     headquartered: Stockholm
     country: Sweden
     region: Europe
-    img: 
+    img: cryex.png
     description: 
     url: 
 -
@@ -611,7 +611,7 @@
     headquartered: Makati
     country: Philippines
     region: Asia
-    img: 
+    img: sci.jpg
     description: 
     url: 
 -
@@ -625,7 +625,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: hedgy.png
     description: 
     url: 
 -
@@ -639,7 +639,7 @@
     headquartered: Boston
     country: United States
     region: US & Canada
-    img: 
+    img: circle.png
     description: 
     url: 
 -
@@ -653,7 +653,7 @@
     headquartered: Venice
     country: United States
     region: US & Canada
-    img: 
+    img: gem.png
     description: 
     url: 
 -
@@ -667,7 +667,7 @@
     headquartered: San Jose
     country: United States
     region: US & Canada
-    img: 
+    img: peernova.png
     description: 
     url: 
 -
@@ -681,7 +681,7 @@
     headquartered: Christ Church
     country: Barbados
     region: Latin America
-    img: 
+    img: bitt.jpg
     description: 
     url: 
 -
@@ -695,7 +695,7 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: 
+    img: tabtrader.jpg
     description: 
     url: 
 -
@@ -709,7 +709,7 @@
     headquartered: Milwaukee
     country: United States
     region: US & Canada
-    img: 
+    img: coinigy.png
     description: 
     url: 
 -
@@ -723,7 +723,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: 21.png
     description: 
     url: 
 -
@@ -737,7 +737,7 @@
     headquartered: Zug
     country: Switzerland
     region: Europe
-    img: 
+    img: shapeshift.png
     description: 
     url: 
 -
@@ -751,7 +751,7 @@
     headquartered: Paris
     country: France
     region: Europe
-    img: 
+    img: ledger.png
     description: 
     url: 
 -
@@ -765,7 +765,7 @@
     headquartered: Nairobi
     country: Kenya
     region: Africa
-    img: 
+    img: bitpesa.png
     description: 
     url: 
 -
@@ -779,7 +779,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: hashrabbit.png
     description: 
     url: 
 -
@@ -793,7 +793,7 @@
     headquartered: Stockholm
     country: Sweden
     region: Europe
-    img: 
+    img: knc.png
     description: 
     url: 
 -
@@ -807,7 +807,7 @@
     headquartered: Paris
     country: France
     region: Europe
-    img: 
+    img: neucoin.png
     description: 
     url: 
 -
@@ -821,7 +821,7 @@
     headquartered: Milford
     country: United States
     region: US & Canada
-    img: 
+    img: ziftr.png
     description: 
     url: 
 -
@@ -835,7 +835,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: bonafide.png
     description: 
     url: 
 -
@@ -849,7 +849,7 @@
     headquartered: Tokyo
     country: Japan
     region: Asia
-    img: 
+    img: bitflyer.png
     description: 
     url: 
 -
@@ -863,7 +863,7 @@
     headquartered: Tel Aviv
     country: Israel
     region: Middle East
-    img: 
+    img: colu.png
     description: 
     url: 
 -
@@ -877,7 +877,7 @@
     headquartered: Veghel
     country: The Netherlands
     region: Europe
-    img: 
+    img: anycoin.png
     description: 
     url: 
 -
@@ -891,7 +891,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: coinbase-logo
+    img: coinbase-logo.png
     description: Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.<p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.<p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
     url: /coinbase-review/
 -
@@ -905,7 +905,7 @@
     headquartered: Vancouver
     country: Canada
     region: US & Canada
-    img: 
+    img: trustatom.png
     description: 
     url: 
 -
@@ -919,7 +919,7 @@
     headquartered: San Diego
     country: United States
     region: US & Canada
-    img: 
+    img: ciphrex.png
     description: 
     url: 
 -
@@ -933,7 +933,7 @@
     headquartered: San Mateo
     country: United States
     region: US & Canada
-    img: 
+    img: blockcypher.png
     description: 
     url: 
 -
@@ -947,7 +947,7 @@
     headquartered: San Diego
     country: United States
     region: US & Canada
-    img: 
+    img: airbitz.png
     description: 
     url: 
 -
@@ -961,7 +961,7 @@
     headquartered: Boston
     country: United States
     region: US & Canada
-    img: 
+    img: libertyx.png
     description: 
     url: 
 -
@@ -975,7 +975,7 @@
     headquartered: Tel Aviv
     country: Israel
     region: Asia
-    img: 
+    img: getgems.png
     description: 
     url: 
 -
@@ -989,12 +989,12 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: coinoutlet.jpg
     description: 
     url: 
 -
     date: 30-Dec-14
-    company: Bitreserve
+    company: Bitreserve (Uphold)
     classification: Wallet
     roundsize: 9.6
     cumulative: 14.6
@@ -1003,7 +1003,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: uphold.png
     description: 
     url: 
 -
@@ -1017,7 +1017,7 @@
     headquartered: Toronto
     country: Canada
     region: US & Canada
-    img: 
+    img: bitgold.png
     description: 
     url: 
 -
@@ -1031,7 +1031,7 @@
     headquartered: San Jose
     country: United States
     region: US & Canada
-    img: 
+    img: peernova.png
     description: 
     url: 
 -
@@ -1045,7 +1045,7 @@
     headquartered: Toronto
     country: Canada
     region: US & Canada
-    img: 
+    img: bitgold.png
     description: 
     url: 
 -
@@ -1059,7 +1059,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: changetip.png
     description: 
     url: 
 -
@@ -1073,7 +1073,7 @@
     headquartered: Santa Monica
     country: United States
     region: US & Canada
-    img: 
+    img: digibyte.jpg
     description: 
     url: 
 -
@@ -1087,7 +1087,7 @@
     headquartered: Tel Aviv
     country: Israel
     region: Aisa
-    img: 
+    img: getgems.png
     description: 
     url: 
 -
@@ -1101,7 +1101,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: purse-logo.png
     description: 
     url: 
 -
@@ -1115,7 +1115,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: blockstream.png
     description: 
     url: 
 -
@@ -1129,7 +1129,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: onename.png
     description: 
     url: 
 -
@@ -1143,7 +1143,7 @@
     headquartered: Redding
     country: United States
     region: US & Canada
-    img: 
+    img: dogetip.jpg
     description: 
     url: 
 -
@@ -1157,7 +1157,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: coinoutlet.jpg
     description: 
     url: 
 -
@@ -1171,7 +1171,7 @@
     headquartered: Kiryat Gat Israel
     country: Israel
     region: Middle East
-    img: 
+    img: spondoolies.png
     description: 
     url: 
 -
@@ -1185,7 +1185,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: blc.png
     description: 
     url: 
 -
@@ -1199,7 +1199,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: bitnet.png
     description: 
     url: 
 -
@@ -1213,12 +1213,12 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: alphapoint.png
     description: 
     url: 
 -
     date: 16-Oct-14
-    company: Coinsetter
+    company: Coinsetter (now Kraken)
     classification: Exchange
     roundsize: 1.4
     cumulative: 1.9
@@ -1227,7 +1227,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: kraken.png
     description: 
     url: 
 -
@@ -1241,7 +1241,7 @@
     headquartered: Tokyo
     country: Japan
     region: Asia
-    img: 
+    img: bitflyer.png
     description: 
     url: 
 -
@@ -1255,7 +1255,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: libra.png
     description: 
     url: 
 -
@@ -1269,7 +1269,7 @@
     headquartered: Hong Kong
     country: China
     region: Asia
-    img: 
+    img: melotic.png
     description: 
     url: 
 -
@@ -1283,7 +1283,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: swarm.png
     description: 
     url: 
 -
@@ -1297,7 +1297,7 @@
     headquartered: Seoul
     country: South Korea
     region: Asia
-    img: 
+    img: coinone.png
     description: 
     url: 
 -
@@ -1311,7 +1311,7 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: 
+    img: bitfury.jpg
     description: 
     url: 
 -
@@ -1325,7 +1325,7 @@
     headquartered: Seoul
     country: South Korea
     region: Asia
-    img: 
+    img: coinplug.png
     description: 
     url: 
 -
@@ -1339,7 +1339,7 @@
     headquartered: San Diego
     country: United States
     region: US & Canada
-    img: 
+    img: ciphrex.png
     description: 
     url: 
 -
@@ -1353,7 +1353,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: blockchain.png
     description: 
     url: 
 -
@@ -1367,7 +1367,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: solidx.jpg
     description: 
     url: 
 -
@@ -1381,7 +1381,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: snapcard.png
     description: 
     url: 
 -
@@ -1395,7 +1395,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: hashrabbit.png
     description: 
     url: 
 -
@@ -1409,7 +1409,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: bonafide.png
     description: 
     url: 
 -
@@ -1423,12 +1423,12 @@
     headquartered: Panama City
     country: Panama
     region: Latin America
-    img: 
+    img: coinapult.jpg
     description: 
     url: 
 -
     date: 25-Sep-14
-    company: Coinify*
+    company: Coinify
     classification: Universal
     roundsize: 0.34
     cumulative: 0.34
@@ -1437,7 +1437,7 @@
     headquartered: Copenhagen
     country: Denmark
     region: Europe
-    img: 
+    img: coinify.png
     description: 
     url: 
 -
@@ -1451,7 +1451,7 @@
     headquartered: Luxembourg
     country: Luxembourg
     region: Europe
-    img: 
+    img: coinplus.png
     description: 
     url: 
 -
@@ -1465,7 +1465,7 @@
     headquartered: Mountain View
     country: United States
     region: US & Canada
-    img: 
+    img: koinify.png
     description: 
     url: 
 -
@@ -1479,7 +1479,7 @@
     headquartered: Venice
     country: United States
     region: US & Canada
-    img: 
+    img: gem.png
     description: 
     url: 
 -
@@ -1493,7 +1493,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: bitgo.png
     description: 
     url: 
 -
@@ -1507,7 +1507,7 @@
     headquartered: Stockholm
     country: Sweden
     region: Europe
-    img: 
+    img: knc.png
     description: 
     url: 
 -
@@ -1521,7 +1521,7 @@
     headquartered: Seoul
     country: South Korea
     region: Asia
-    img: 
+    img: korbit.png
     description: 
     url: 
 -
@@ -1535,7 +1535,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: chain.png
     description: 
     url: 
 -
@@ -1549,7 +1549,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: chain.png
     description: 
     url: 
 -
@@ -1563,7 +1563,7 @@
     headquartered: Singapore
     country: Singapore
     region: Asia
-    img: 
+    img: bitx.png
     description: 
     url: 
 -
@@ -1577,7 +1577,7 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: 
+    img: blocktrail.png
     description: 
     url: 
 -
@@ -1591,7 +1591,7 @@
     headquartered: Berlin
     country: Germany
     region: Europe
-    img: 
+    img: bitbond.png
     description: 
     url: 
 -
@@ -1605,7 +1605,7 @@
     headquartered: Bangalore
     country: India
     region: Asia
-    img: 
+    img: unocoin.png
     description: 
     url: 
 -
@@ -1619,7 +1619,7 @@
     headquartered: Calgary
     country: Canada
     region: US & Canada
-    img: 
+    img: vogogo.png
     description: 
     url: 
 -
@@ -1633,7 +1633,7 @@
     headquartered: Puerto Vallarta
     country: Mexico
     region: Latin America
-    img: 
+    img: volabit.png
     description: 
     url: 
 -
@@ -1647,7 +1647,7 @@
     headquartered: Tokyo
     country: Japan
     region: Asia
-    img: 
+    img: bitflyer.png
     description: 
     url: 
 -
@@ -1661,7 +1661,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: onename.png
     description: 
     url: 
 -
@@ -1675,7 +1675,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: elliptic.jpg 
     description: 
     url: 
 -
@@ -1689,7 +1689,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: tradeblock.png
     description: 
     url: 
 -
@@ -1703,7 +1703,7 @@
     headquartered: Toronto
     country: Canada
     region: US & Canada
-    img: 
+    img: bitgold.png
     description: 
     url: 
 -
@@ -1717,7 +1717,7 @@
     headquartered: Stockholm
     country: Sweden
     region: Europe
-    img: 
+    img: safello.png
     description: 
     url: 
 -
@@ -1731,7 +1731,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: xapo.png
     description: 
     url: 
 -
@@ -1745,7 +1745,7 @@
     headquartered: Santa Monica
     country: United States
     region: US & Canada
-    img: 
+    img: expresscoin.png
     description: 
     url: 
 -
@@ -1759,7 +1759,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: blockscore.png
     description: 
     url: 
 -
@@ -1773,7 +1773,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: bitpagos.png
     description: 
     url: 
 -
@@ -1787,7 +1787,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: bitgo.png
     description: 
     url: 
 -
@@ -1801,7 +1801,7 @@
     headquartered: Seattle
     country: United States
     region: US & Canada
-    img: 
+    img: hashplex.jpg
     description: 
     url: 
 -
@@ -1815,7 +1815,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: coinfloor.png
     description: 
     url: 
 -
@@ -1829,7 +1829,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: blockscore.png
     description: 
     url: 
 -
@@ -1843,7 +1843,7 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: 
+    img: bitfury.jpg
     description: 
     url: 
 -
@@ -1857,7 +1857,7 @@
     headquartered: Buenos Aires
     country: Argentina
     region: Latin America
-    img: 
+    img: bitexla.jpg
     description: 
     url: 
 -
@@ -1871,7 +1871,7 @@
     headquartered: Beijing
     country: China
     region: Asia
-    img: 
+    img: huobi.jpg
     description: 
     url: 
 -
@@ -1899,12 +1899,12 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: mirror.png
     description: 
     url: 
 -
     date: 7-May-14
-    company: Vaurum
+    company: Vaurum (Mirror)
     classification: Financial Services
     roundsize: 4
     cumulative: 6
@@ -1913,7 +1913,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: mirror.png
     description: 
     url: 
 -
@@ -1927,7 +1927,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: changetip.png
     description: 
     url: 
 -
@@ -1941,7 +1941,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: gogocoin.jpg
     description: 
     url: 
 -
@@ -1955,7 +1955,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: bonafide.png
     description: 
     url: 
 -
@@ -1969,7 +1969,7 @@
     headquartered: Mountain View
     country: United States
     region: US & Canada
-    img: 
+    img: coinalytics.png
     description: 
     url: 
 -
@@ -1983,7 +1983,7 @@
     headquartered: Mountain View
     country: United States
     region: US & Canada
-    img: 
+    img: neuroware.png
     description: 
     url: 
 -
@@ -1997,7 +1997,7 @@
     headquartered: Mountain View
     country: United States
     region: US & Canada
-    img: 
+    img: monetsu.jpg
     description: 
     url: 
 -
@@ -2011,7 +2011,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: changetip.png
     description: 
     url: 
 -
@@ -2025,7 +2025,7 @@
     headquartered: Seoul
     country: South Korea
     region: Asia
-    img: 
+    img: coinplug.png
     description: 
     url: 
 -
@@ -2039,12 +2039,12 @@
     headquartered: Santa Cruz
     country: United States
     region: US & Canada
-    img: 
+    img: paystand.png
     description: 
     url: 
 -
     date: 1-Apr-14
-    company: BTC.sx
+    company: BTC.sx (Magnr)
     classification: Financial Services
     roundsize: 0.3
     cumulative: 0.3
@@ -2053,12 +2053,12 @@
     headquartered: Singapore
     country: Singapore
     region: Asia
-    img: 
+    img: magnr.png
     description: 
     url: 
 -
     date: 31-Mar-14
-    company: Bitreserve
+    company: Bitreserve (Uphold)
     classification: Wallet
     roundsize: 5
     cumulative: 5
@@ -2067,7 +2067,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: uphold.png
     description: 
     url: 
 -
@@ -2081,7 +2081,7 @@
     headquartered: Singapore
     country: Singapore
     region: Asia
-    img: 
+    img: gocoin.jpg
     description: 
     url: 
 -
@@ -2095,7 +2095,7 @@
     headquartered: Boston
     country: United States
     region: US & Canada
-    img: 
+    img: circle.png
     description: 
     url: 
 -
@@ -2109,7 +2109,7 @@
     headquartered: Hong Kong
     country: China
     region: Asia
-    img: 
+    img: hive.png
     description: 
     url: 
 -
@@ -2123,7 +2123,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: kraken.png
     description: 
     url: 
 -
@@ -2137,7 +2137,7 @@
     headquartered: Mountain View
     country: United States
     region: US & Canada
-    img: 
+    img: koinify.png
     description: 
     url: 
 -
@@ -2151,7 +2151,7 @@
     headquartered: Mexico City
     country: Mexico
     region: Latin America
-    img: 
+    img: mexbt.jpg
     description: 
     url: 
 -
@@ -2165,7 +2165,7 @@
     headquartered: Beijing
     country: China
     region: Asia
-    img: 
+    img: okcoin.png
     description: 
     url: 
 -
@@ -2179,7 +2179,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: xapo.png
     description: 
     url: 
 -
@@ -2193,7 +2193,7 @@
     headquartered: Singapore
     country: Singapore
     region: Asia
-    img: 
+    img: tembusu.jpg
     description: 
     url: 
 -
@@ -2207,7 +2207,7 @@
     headquartered: Hong Kong
     country: China
     region: Asia
-    img: 
+    img: coinsimple.png
     description: 
     url: 
 -
@@ -2221,26 +2221,12 @@
     headquartered: Santa Monica
     country: United States
     region: US & Canada
-    img: 
+    img: expresscoin.png
     description: 
-    url: 
--
-    date: 1-Mar-14
-    company: Expresscoin
-    classification: Financial Services
-    roundsize: N/A
-    cumulative: N/A
-    round: Seed
-    investors: Crypto Currency Partners
-    headquartered: Santa Monica
-    country: United States
-    region: US & Canada
-    img: 
-    description: 
-    url: 
+    url:  
 -
     date: 18-Feb-14
-    company: Coinsetter
+    company: Coinsetter (now Kraken)
     classification: Exchange
     roundsize: 0.5
     cumulative: 0.5
@@ -2249,7 +2235,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: kraken.png
     description: 
     url: 
 -
@@ -2263,7 +2249,7 @@
     headquartered: Stockholm
     country: Sweden
     region: Europe
-    img: 
+    img: safello.png
     description: 
     url: 
 -
@@ -2277,7 +2263,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: elliptic.jpg
     description: 
     url: 
 -
@@ -2291,7 +2277,7 @@
     headquartered: Hong Kong
     country: China
     region: Asia
-    img: 
+    img: bitsim.png
     description: 
     url: 
 -
@@ -2305,7 +2291,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: cryptopay.png
     description: 
     url: 
 -
@@ -2319,7 +2305,7 @@
     headquartered: Kiryat Gat Israel
     country: Israel
     region: Middle East
-    img: 
+    img: spondoolies.png
     description: 
     url: 
 -
@@ -2333,7 +2319,7 @@
     headquartered: Portland
     country: United States
     region: US & Canada
-    img: 
+    img: gliph.png
     description: 
     url: 
 -
@@ -2347,7 +2333,7 @@
     headquartered: Wilmington
     country: United States
     region: US & Canada
-    img: 
+    img: bitsimple.png
     description: 
     url: 
 -
@@ -2361,7 +2347,7 @@
     headquartered: South Korea
     country: South Korea
     region: Asia
-    img: 
+    img: korbit.png
     description: 
     url: 
 -
@@ -2375,7 +2361,7 @@
     headquartered: Mexico City
     country: Mexico
     region: Latin America
-    img: 
+    img: mexbt.jpg
     description: 
     url: 
 -
@@ -2389,7 +2375,7 @@
     headquartered: Buenos Aires
     country: Argentina
     region: Latin America
-    img: 
+    img: bitexla.jpg
     description: 
     url: 
 -
@@ -2403,7 +2389,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: bitnet.png
     description: 
     url: 
 -
@@ -2417,7 +2403,7 @@
     headquartered: Atlanta
     country: United States
     region: US & Canada
-    img: 
+    img: coinfirma.png
     description: 
     url: 
 -
@@ -2431,7 +2417,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: kraken.png
     description: 
     url: 
 -
@@ -2445,7 +2431,7 @@
     headquartered: Portland
     country: United States
     region: US & Canada
-    img: 
+    img: gliph.png
     description: 
     url: 
 -
@@ -2473,7 +2459,7 @@
     headquartered: Richmond
     country: Australia
     region: Asia
-    img: 
+    img: coinjar.png
     description: 
     url: 
 -
@@ -2487,7 +2473,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: snapcard.png 
     description: 
     url: 
 -
@@ -2515,7 +2501,7 @@
     headquartered: Seoul
     country: South Korea
     region: Asia
-    img: 
+    img: coinplug.png
     description: 
     url: 
 -
@@ -2529,7 +2515,7 @@
     headquartered: Shanghai
     country: China
     region: Asia
-    img: 
+    img: btcc.png
     description: 
     url: 
 -
@@ -2543,7 +2529,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: 21.png
     description: 
     url: 
 -
@@ -2557,7 +2543,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: ripple.png
     description: 
     url: 
 -
@@ -2571,7 +2557,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: itbit.png
     description: 
     url: 
 -
@@ -2585,7 +2571,7 @@
     headquartered: Singapore
     country: Singapore
     region: Asia
-    img: 
+    img: gocoin.jpg
     description: 
     url: 
 -
@@ -2599,7 +2585,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: bitstamp.png
     description: 
     url: 
 -
@@ -2613,7 +2599,7 @@
     headquartered: Boston
     country: United States
     region: US & Canada
-    img: 
+    img: circle.png
     description: 
     url: 
 -
@@ -2627,7 +2613,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: gogocoin.jpg
     description: 
     url: 
 -
@@ -2641,7 +2627,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: gogocoin.jpg
     description: 
     url: 
 -
@@ -2655,7 +2641,7 @@
     headquartered: Portland
     country: United States
     region: US & Canada
-    img: 
+    img: gliph.png
     description: 
     url: 
 -
@@ -2669,7 +2655,7 @@
     headquartered: London
     country: United Kingdom
     region: Europe
-    img: 
+    img: coinfloor.png
     description: 
     url: 
 -
@@ -2683,12 +2669,12 @@
     headquartered: Beijing
     country: China
     region: Asia
-    img: 
+    img: okcoin.png
     description: 
     url: 
 -
     date: 1-Sep-13
-    company: Vaurum
+    company: Vaurum (Mirror)
     classification: Exchange
     roundsize: 2
     cumulative: 2
@@ -2697,7 +2683,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: mirror.png
     description: 
     url: 
 -
@@ -2711,7 +2697,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: bitpagos.png
     description: 
     url: 
 -
@@ -2725,7 +2711,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: buttercoin.jpg
     description: 
     url: 
 -
@@ -2739,12 +2725,12 @@
     headquartered: Baltimore
     country: United States
     region: US & Canada
-    img: 
+    img: armory.png
     description: 
     url: 
 -
     date: 19-Aug-13
-    company: Digital Currencies FinTech
+    company: Digital Currencies FinTech 
     classification: Financial Services
     roundsize: 1.25
     cumulative: 1.25
@@ -2753,7 +2739,7 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: 
+    img: ## could not find company or logo
     description: 
     url: 
 -
@@ -2767,7 +2753,7 @@
     headquartered: Kiryat Gat Israel
     country: Israel
     region: Middle East
-    img: 
+    img: spondoolies.png
     description: 
     url: 
 -
@@ -2781,7 +2767,7 @@
     headquartered: Scottsdale
     country: United States
     region: US & Canada
-    img: 
+    img: avalon.png
     description: 
     url: 
 -
@@ -2795,7 +2781,7 @@
     headquartered: Portland
     country: United States
     region: US & Canada
-    img: 
+    img: gliph.png
     description: 
     url: 
 -
@@ -2823,7 +2809,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: ripple.png
     description: 
     url: 
 -
@@ -2837,7 +2823,7 @@
     headquartered: Richmond
     country: Australia
     region: Asia
-    img: 
+    img: coinjar.png
     description: 
     url: 
 -
@@ -2865,7 +2851,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: ripple.png
     description: 
     url: 
 -
@@ -2879,7 +2865,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: tradehill.jpg
     description: 
     url: 
 -
@@ -2893,7 +2879,7 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: bitgo.png
     description: 
     url: 
 -
@@ -2921,7 +2907,7 @@
     headquartered: New York
     country: United States
     region: US & Canada
-    img: 
+    img: bitinstant.jpg
     description: 
     url: 
 -
@@ -2949,6 +2935,6 @@
     headquartered: Portland
     country: United States
     region: US & Canada
-    img: 
+    img: gliph.png
     description: 
     url: 

@@ -52,7 +52,7 @@ Based on the factors above, the following exchanges dominate the Bitcoin exchang
 
 [**Bitstamp**](https://www.bitstamp.net/) **–** Bitstamp was founded in 2011 making it one of Bitcoin’s oldest exchanges. It’s currently the world’s second largest exchange based on USD volume, with a little under 10,000 BTC traded per day.
 
-[**OKCoin**](https://www.okcoin.com/) –
+[**OKCoin**](https://www.okcoin.com/) – Bitcoin exchange based in China but trades in USD.
 
 [**Coinbase**](https://exchange.coinbase.com/) **–** Coinbase Exchange was the first regulated Bitcoin exchange in the United States. With about 8,000 BTC traded daily, it’s the world’s 4<sup>th</sup> largest exchange based on USD volume.
 

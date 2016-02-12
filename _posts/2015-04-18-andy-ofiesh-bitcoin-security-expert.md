@@ -12,7 +12,9 @@ published: true
 <p>
 Andy holds a degree in systems engineering and graduate degrees in computer science and computer systems engineering.
 <p>
+
 ## Bitcoin articles by Andy Ofiesh
+
 <ul>
 <li>Bitcoin Knowledge Podcast Interview # 100 - <a href="/bitcoin-private-keys-entropy/">Bitcoin public and private keys & entropy</a></li>
 <li>Bitcoin Knowledge Podcast Interview # 101 - <a href="/bitcoin-cold-storage/">Bitcoin cold storage</a></li>
