@@ -8,9 +8,7 @@ published: true
 
 <p>Principal Investigator: Greg Maxwell
 
-<p>One of the most powerful new features being explored in Elements[*] is Confidential Transactions, a cryptographic tool to improve the privacy and security of Bitcoin. This feature keeps the amounts transferred visible only to participants in the transaction (and those they designate).
-
-<p>[*] https://blockstream.com/developers/
+<p>One of the most powerful new features being explored in [Elements](https://blockstream.com/developers/) is Confidential Transactions, a cryptographic tool to improve the privacy and security of Bitcoin. This feature keeps the amounts transferred visible only to participants in the transaction (and those they designate).
 
 <p>The security of the Bitcoin ledger is made possible by universal verification: each participant individually and autonomously verifies that each transaction is valid, without trusting any third party. An unfortunate side effect is that all the transaction data must be conspicuously public so it can be verified, which is at odds with the normal expectation of privacy for traditional monetary instruments.
 
@@ -135,9 +133,7 @@ published: true
 
 <p>Numerous optimizations are required to make this more efficient:
 
-<p><b>First</b>, I propose a new ring signature formulation, a Borromean ring signature[*], which is especially efficient: it requires only 32 bytes per pubkey, plus 32 bytes which can be shared by many separate rings. This is has twice the asymptotic efficiency of previously proposed constructions for this application.
-
-<p>[*] https://github.com/Blockstream/borromean_paper/raw/master/borromean_draft_0.01_8c3f9e7.pdf
+<p><b>First</b>, I propose a new ring signature formulation, a [Borromean ring signature](https://github.com/Blockstream/borromean_paper/raw/master/borromean_draft_0.01_8c3f9e7.pdf), which is especially efficient: it requires only 32 bytes per pubkey, plus 32 bytes which can be shared by many separate rings. This is has twice the asymptotic efficiency of previously proposed constructions for this application.
 
 <p>Instead of expressing the amount directly, CT amounts are expressed using a decimal floating point where the digits are multiplied by a base 10 exponent.  This means that you can prove large amounts with small proofs, so long as they have few significant digits in base 10: e.g., 11.2345 and .0112345 can have the same size proof, even though one number is a thousand times larger.
 

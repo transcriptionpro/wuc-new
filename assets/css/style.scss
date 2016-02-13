@@ -446,8 +446,9 @@ pre {
     float: left;
     height: 50px;
     margin-right: 10px;
-    margin-top: 4px;
+    margin-top: 7px;
     width: auto;
+    border-radius: 4px;
 }
 
 iframe {
@@ -595,6 +596,14 @@ a.anchor {
   position: relative;
   color: inherit;
   cursor: inherit;
+}
+
+.vpn-list img {
+    float: left;
+    height: 50px;
+    margin: 7px 10px 0 0;
+    width: auto;
+    border-radius: 2px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -6,4 +6,4 @@ authorurl: /vitalik-buterin/
 published: true
 ---
 
-<p>The <a href="/what-is-ethereum/">Ethereum Network</a> uses Ether.
+The <a href="/what-is-ethereum/">Ethereum Network</a> uses Ether.

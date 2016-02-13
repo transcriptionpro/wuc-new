@@ -107,7 +107,7 @@
 ## Desktop Wallets
 
  - wallet: Armory
-   description: Armory is the most mature, secure and full featured Bitcoin wallet but it can be technologically intimidating for users. Whether you are an individual storing $1,000 or institution storing $1,000,000,000 this is the most secure option available. Users are in complete control all Bitcoin private keys and can setup a secure offline-signing process in Armory.
+   description: <a href="/armory/">Armory</a> is the most mature, secure and full featured Bitcoin wallet but it can be technologically intimidating for users. Whether you are an individual storing $1,000 or institution storing $1,000,000,000 this is the most secure option available. Users are in complete control all Bitcoin private keys and can setup a secure offline-signing process in Armory.
    category: desktop
    download: https://bitcoinarmory.com
    img: armory2
