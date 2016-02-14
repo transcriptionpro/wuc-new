@@ -8,7 +8,9 @@ published: true
 ---
 
 <center><a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a></center>
-### Review of the Bitcoin Ledger Wallet Nano</p>
+
+### Review of the Bitcoin Ledger Wallet Nano
+
 <p><strong>Description:</strong> A USB bitcoin hardware wallet with smartcard security in a very compact package.</p>
 <p><strong>Maker:</strong> Ledger SAS</p>
 <p><strong>Cost:</strong> €29.00 or about $33.20.</p>

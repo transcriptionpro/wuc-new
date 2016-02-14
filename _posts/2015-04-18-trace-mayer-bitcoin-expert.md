@@ -6,10 +6,13 @@ authorurl: https://www.tracemayer.net
 published: true
 ---
 
-<p><a class="social-link" href="https://twitter.com/tracemayer" target="_blank">Twitter</a> <a class="social-link" title="Trace Mayer" href="https://www.linkedin.com/in/tracemayer" target="_blank">LinkedIn</a></p>
-<img src="/images/trace-mayer.png" alt="Trace Mayer" align="right">An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in accounting and law and has studied Austrian economics focusing on Rothbard and Mises.
+<a class="social-link" href="https://twitter.com/tracemayer" target="_blank">Twitter</a> <a class="social-link" title="Trace Mayer" href="https://www.linkedin.com/in/tracemayer" target="_blank">LinkedIn</a>
 
-<p>He was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $11B in November 2013 and hosts the extremely popular <a title="Bitcoin Knowledge" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
+<img src="/images/trace-mayer.png" alt="Trace Mayer" align="right">
+
+An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in accounting and law and has studied Austrian economics focusing on Rothbard and Mises.
+
+He was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $11B in November 2013 and hosts the extremely popular <a title="Bitcoin Knowledge" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
 
 ### Crypto-currency related investments include:
 
@@ -21,15 +24,17 @@ published: true
  style="border: 0px solid ; width: 200px; height: 58px;"></a> <a href="http://www.bitcoinmagazine.com" align="right" target="_blank"><img
  src="http://www.tracemayer.net/images/bitcoin-magazine.png" alt="Bitcoin Magazine"
  style="border: 0px solid ; width: 200px; height: 30px;"></a>
-<p>
+
  <a href="http://www.kraken.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/kraken.png" alt="Kraken"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
- <p>
+ 
 ## Bitcoin articles by Trace Mayer
+
 <ul>
 <li><a href="/crypsa-future-of-bitcoin/">CRYPSA Event - The Future of Bitcoin</a></li>
 </ul> 
+
 ##### Speaker Intro Video
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/mgpDuH17T0Y" frameborder="0" allowfullscreen></iframe>
@@ -57,5 +62,3 @@ published: true
 ##### Money 2020 - Las Vegas Nov 2014
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/6W_DNR9Bhus" frameborder="0" allowfullscreen></iframe>
-
-### Contact

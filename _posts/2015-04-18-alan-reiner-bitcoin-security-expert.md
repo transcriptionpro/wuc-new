@@ -14,7 +14,9 @@ published: true
 <p>
 He holds graduate degrees in engineering mechanics and applied mathematics with additional background in statistics, data mining and cryptography.
 <p>
+
 ## Bitcoin articles by Alan Reiner
+
 <ul>
 <li><a href="">Best Bitcoin Security Practices</a></li>
 <li><a href="">Securing Your First Bitcoin</a></li>

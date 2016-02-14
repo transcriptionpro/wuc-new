@@ -15,7 +15,9 @@ published: true
 After earning a Finance MBA from New York University, he spent the 1980s on Wall Street, as a Eurodollar trader, equity analyst and junk bond analyst.
 <p>
 During the 1990s he was a featured columnist with TheStreet.com and a frequent contributor to Individual Investor, Online Investor, and Consumers Digest, among many other publications. He currently writes for CFA Magazine.
+
 ## Bitcoin articles by John Rubino
+
 <ul>
 <li><a href="/bitcoin-and-interest-rates/">Bitcoin and Interest Rates</a></li>
 <li><a href="/bitcoin-arbitrage-made-easy-lesson-one/">Bitcoin Arbitrage Made Easy | Lesson One</a></li>

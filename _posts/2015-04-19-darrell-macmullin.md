@@ -15,11 +15,13 @@ published: true
 <center><iframe src="https://player.vimeo.com/video/28200206" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 ## Article by Darrell MacMullin
+
 <ul>
 <li><a href="http://www.techvibes.com/blog/techvibes-tv-paypal-canadas-darrell-macmullin-2011-09-01">Techvibes TV with Paypal Canada</a></li>
 </ul>
 
 ## BitGold Executive Management Team Members
+
 <ul><li><a href="/roy-sebag/">Roy Sebag</a> - Co-Founder</li>
 <li><a href="/josh-crumb/">Josh Crumb</a> - Co-Founder and Chief Strategy Officer</li>
 <li><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer</li>

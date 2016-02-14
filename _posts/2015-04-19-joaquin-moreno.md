@@ -14,7 +14,9 @@ published: true
 <p>
 He co-founded Mondome, BTC en Español, YachtingHoy, was Zipzap's regional manager for Latin America, a product manager for VMBC, co-founded Pepun, was a partner for 4Sail and an engineer at Toyota Argentina.
 <p>
+
 ## Bitcoin articles by Joaquin Moreno
+
 <ul>
 <li><a href="">Curso de Trading con Bitcoins</a></li>
 <li><a href="">Curso Personalizado de Bitcoin</a></li>

@@ -12,6 +12,7 @@ published: true
 
 
 ## Article by Rodolfo Novak
+
 <ul>
 <li><a href="/coinkite/">Coinkite</a></li>
 </ul>

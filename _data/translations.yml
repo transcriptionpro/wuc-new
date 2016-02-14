@@ -27,12 +27,12 @@ en:
 de:
   native: Deutsch
   navigation:
-    getting-started: Anfang
+    anfang: Anfang
     get-free-bitcoins: Gratis
     bitcoin-price: Kurs
     glossary: Glossar
     questions: FAQ
-    mining-guide: Mining
+    mining-anleitung: Mining
   footer:
     contribute: Beitragen
   contribute-notif:

@@ -13,11 +13,13 @@ published: true
 <p>He is passionate about open-source projects and is an active committer to the FreeBSD Project under the moniker "Alex Dupre". He holds a Masters Degree in Informatics from the University of Milano-Bicocca.
 
 ## Article by Alessandro Premoli
+
 <ul>
 <li><a href="http://www.slideshare.net/BitGold/bit-gold-2015-0501-web-version">Bitgold Presentation</a></li>
 </ul>
 
 ## BitGold Executive Management Team Members
+
 <ul><li><a href="/roy-sebag/">Roy Sebag</a> - Co-Founder and Chief Executive Officer</li>
 <li><a href="/josh-crumb/">Josh Crumb</a> - Co-Founder and Chief Strategy Officer</li>
 <li><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer</li>

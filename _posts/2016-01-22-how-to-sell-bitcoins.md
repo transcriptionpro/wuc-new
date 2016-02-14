@@ -22,7 +22,7 @@ There are three ways to get cash for bitcoins:
 
 Selling bitcoins in person for cash is a private way to sell bitcoins. In most cases no information is requested by the buyer, nor is there KYC or AML involved. [LocalBitcoins](https://localbitcoins.com/) is the most popular of many services that will help you find local buyers to meet in person.  
 
-You may be able to find a cash trading partner at your local [Bitcoin Meetup Group](https://localbitcoins.com/). Since these meetups are filled with fellow Bitcoin users, it’s not hard to find someone willing to make an exchange. If the meetup group in your area meets often, it may be a good way to find a trade partner to buy from on a regular basis.
+You may be able to find a cash trading partner at your local [Bitcoin Meetup Group](http://bitcoin.meetup.com/). Since these meetups are filled with fellow Bitcoin users, it’s not hard to find someone willing to make an exchange. If the meetup group in your area meets often, it may be a good way to find a trade partner to buy from on a regular basis.
 
 If there’s no meetup group in your area, checking Facebook for local groups is another way to find local traders. This is how many people find trade partners in countries like Venezuela or Israel.  
 
