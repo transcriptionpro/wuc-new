@@ -8,6 +8,7 @@ Reggie Middleton is an entrepreneurial investor involved with Ultra-coin who gui
 In 2014, he founded Veritaseum, the progenitor of Ultra-Coin technology. Veritaseum was formed to exploit modern cryptography in the fields of finance, economics and value transfer transactions. According to Mr. Middleton, UltraCoin exploits modern cryptography in the fields of finance, economics and value transfer to disintermediate legacy financial institutions such as Wall Street banks.
 
 ### Record of Reggie Middleton
+
 Since the inception of his BoomBustBlog, he has established an outstanding track record, including but not limited to, the call of....
 
 <ol><li>The housing market crash in the spring of 2006 and publicly in September of 2007: Correction, and further thoughts on the topic and How Far Will US Home Prices Drop?</li>
