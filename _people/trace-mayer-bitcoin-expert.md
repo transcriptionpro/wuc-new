@@ -3,11 +3,10 @@ title: Trace Mayer - Bitcoin Expert
 author: Trace Mayer, J.D.
 authorurl: https://www.tracemayer.net
 published: true
+img: /images/trace-mayer.png
 ---
 
 <a class="social-link" href="https://twitter.com/tracemayer" target="_blank">Twitter</a> <a class="social-link" title="Trace Mayer" href="https://www.linkedin.com/in/tracemayer" target="_blank">LinkedIn</a>
-
-<img src="/images/trace-mayer.png" alt="Trace Mayer" align="right">
 
 An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in accounting and law and has studied Austrian economics focusing on Rothbard and Mises.
 

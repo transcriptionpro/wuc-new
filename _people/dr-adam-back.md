@@ -1,6 +1,7 @@
 ---
 title: Dr. Adam Back
 img: /images/adam-back.png
+person: adamback
 ---
 
 Dr. Adam Back is the premier expert in the world on blockchain technology and a significant pioneer of applied cryptography for privacy applications. His brilliant applied cryptography work is cited in the <a href="/bitcoin.pdf">Bitcoin whitepaper</a> for the necessity of using a system like his invention Hashcash and the <a href="/assets/pdf/tor-design.pdf">TOR whitepaper</a> of the use of telescoping circuits.
