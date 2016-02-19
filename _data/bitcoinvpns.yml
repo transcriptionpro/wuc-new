@@ -3,9 +3,9 @@
   fourteen: Yes
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
-  sessions: 
+  sessions:
   dns: No
   personal: Email
   bitcoin: Yes
@@ -25,18 +25,18 @@
   price_month: $0.67
   trial: No
   refund: 7
-  desc: Private Internet Access is used by major companies like Business Insider and Forbes. It is well known in the Bitcoin industry due to its sponsorship of the bitcointalk.org forums. 
+  desc: Private Internet Access is used by major companies like Business Insider and Forbes. It is well known in the Bitcoin industry due to its sponsorship of the bitcointalk.org forums.
   url: http://www.howtovanish.com/privateinternetaccesshtvbanner
   img: pia.jpeg
 - service: AceVPN
   country: USA
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: Yes
-  bandwidth: 
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -50,23 +50,23 @@
   ssl_rating: A
   num_connections: 2
   num_countries: 22
-  num_servers: 
+  num_servers:
   price_annual: $4.59
   price_month: $2.30
   trial: Yes
   refund: 7
   desc:
-  url: 
+  url:
   img:
 - service: AirVPN
   country: Italy
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -85,18 +85,18 @@
   price_month: $1.64
   trial: Yes
   refund: 3
-  desc: Based on OpenVPN. Reviews claim good reliability and speed. 
+  desc: Based on OpenVPN. Reviews claim good reliability and speed.
   url: https://airvpn.org/
   img: airvpn.png
 - service: Anonine
   country: UK
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -104,8 +104,8 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 29
   ssl_rating: C
   num_connections: 5
@@ -125,8 +125,8 @@
   timestamps: Yes
   bandwidth: No
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -139,8 +139,8 @@
   apis_used: 19
   ssl_rating: A-
   num_connections: 6
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $6.67
   price_month: $1.11
   trial: Yes
@@ -151,12 +151,12 @@
 - service: Astrill
   country: Seychelles
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
-  bandwidth: 
+  bandwidth:
   ip: Yes
   sessions: Yes
-  dns: 
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -164,7 +164,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 2
   ssl_rating: A-
@@ -175,7 +175,7 @@
   price_month: $2.92
   trial: Yes
   refund: 7
-  desc: VPN with 113 VPN servers in 40+ countries. 
+  desc: VPN with 113 VPN servers in 40+ countries.
   url: https://www.astrill.com/
   img: astrill.png
 - service: AzireVPN
@@ -211,12 +211,12 @@
 - service: BeeVPN
   country: Denmark
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -224,13 +224,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 12
   ssl_rating: C
   num_connections: 1
   num_countries: 4
-  num_servers: 
+  num_servers:
   price_annual: $7.17
   price_month: $7.17
   trial: No
@@ -243,9 +243,9 @@
   fourteen: No
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
-  sessions: 
+  sessions:
   dns: No
   personal: Email
   bitcoin: Yes
@@ -260,7 +260,7 @@
   ssl_rating: A
   num_connections: 3
   num_countries: 12
-  num_servers: 
+  num_servers:
   price_annual: $9.03
   price_month: $3.01
   trial: No
@@ -271,12 +271,12 @@
 - service: Blockless
   country: Canada
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -284,13 +284,13 @@
   warrant: No
   dnsservers: Yes
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 9
   ssl_rating: A
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $4.17
   price_month: $4.17
   trial: No
@@ -301,12 +301,12 @@
 - service: BolehVPN
   country: Malaysia
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -314,29 +314,29 @@
   warrant: Yes
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 7
   ssl_rating: A
   num_connections: 2
   num_countries: 14
-  num_servers: 
+  num_servers:
   price_annual: $6.67
   price_month: $3.34
   trial: Yes
   refund: 14
-  desc: BolehVPN provides VPN through Tor and is located in Malaysia. 
+  desc: BolehVPN provides VPN through Tor and is located in Malaysia.
   url: https://bolehvpn.net/
   img: boleh.png
 - service: Boxpn
   country: Seychelles
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -344,7 +344,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 25
   ssl_rating: A
@@ -362,11 +362,11 @@
   country: USA
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -374,7 +374,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 0
   ssl_rating: F
@@ -385,7 +385,7 @@
   price_month: $7.50
   trial: No
   refund: 0
-  desc: BTGuard allows you to hide your IP address when downloading content through BitTorrent. 
+  desc: BTGuard allows you to hide your IP address when downloading content through BitTorrent.
   url: https://btguard.com/
   img: btguard.jpg
 - service: Buffered
@@ -395,8 +395,8 @@
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -404,13 +404,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 16
   ssl_rating: A
   num_connections: 5
   num_countries: 26
-  num_servers: 
+  num_servers:
   price_annual: $9.99
   price_month: $2.00
   trial: No
@@ -421,12 +421,12 @@
 - service: CactusVPN
   country: Moldova
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -451,12 +451,12 @@
 - service: Cloudymous
   country: Moldova
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -464,15 +464,15 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 3
   ssl_rating: A+
-  num_connections: 
+  num_connections:
   num_countries: 8
   num_servers: 15
-  price_annual: 
-  price_month: 
+  price_annual:
+  price_month:
   trial: No
   refund: 30
   desc:
@@ -481,12 +481,12 @@
 - service: CryptoStorm
   country: Iceland
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -497,10 +497,10 @@
   smtp: No
   p2p: No
   apis_used: 2
-  ssl_rating: 
+  ssl_rating:
   num_connections: 1
   num_countries: 10
-  num_servers: 
+  num_servers:
   price_annual: $3.92
   price_month: $3.92
   trial: Yes
@@ -513,10 +513,10 @@
   fourteen: No
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: No
   bitcoin: Yes
   eff: No
@@ -542,11 +542,11 @@
   country: Northern Cyprus
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
+  timestamps:
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: No
   bitcoin: No ## website looks out of data, perhaps not active anymore
   eff: No
@@ -571,12 +571,12 @@
 - service: ExpressVPN
   country: British Virgin Islands
   fourteen: See Note
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
   ip: No
   sessions: Yes
-  dns: 
+  dns:
   personal: Email
   bitcoin: Yes
   eff: Yes
@@ -584,7 +584,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 21
   ssl_rating: A+
@@ -595,18 +595,18 @@
   price_month: $8.32
   trial: No
   refund: 30
-  desc: ExpressVPN is a P2P VPN with servers in over 70 countries. 
+  desc: ExpressVPN is a P2P VPN with servers in over 70 countries.
   url: https://www.expressvpn.com/
   img: expressvpn.png
 - service: Faceless.ME
   country: Cyprus
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
-  bandwidth: 
+  bandwidth:
   ip: Yes
   sessions: Yes
-  dns: 
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -614,13 +614,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 14
   ssl_rating: C
   num_connections: 1
   num_countries: 3
-  num_servers: 
+  num_servers:
   price_annual: $5.00
   price_month: $5.00
   trial: Yes
@@ -636,7 +636,7 @@
   bandwidth: Yes
   ip: Yes
   sessions: Yes
-  dns: 
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -644,7 +644,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 15
   ssl_rating: A+
@@ -661,12 +661,12 @@
 - service: Freedome
   country: Finland
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: Yes
@@ -680,7 +680,7 @@
   ssl_rating: B
   num_connections: 3
   num_countries: 19
-  num_servers: 
+  num_servers:
   price_annual: $4.16
   price_month: $1.39
   trial: Yes
@@ -693,10 +693,10 @@
   fourteen: Yes
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -710,7 +710,7 @@
   ssl_rating: A+
   num_connections: 1
   num_countries: 2
-  num_servers: 
+  num_servers:
   price_annual: $3.00
   price_month: $3.00
   trial: No
@@ -724,9 +724,9 @@
   traffic: No
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No ## seems inactive
   eff: No
@@ -734,7 +734,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 10
   ssl_rating: A
@@ -751,12 +751,12 @@
 - service: GoTrusted
   country: USA
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -765,12 +765,12 @@
   dnsservers: No
   openvpn: No
   smtp: Some
-  p2p: 
+  p2p:
   apis_used: 8
   ssl_rating: B
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $5.99
   price_month: $5.99
   trial: Yes
@@ -781,12 +781,12 @@
 - service: Hide.me
   country: Malaysia
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -794,7 +794,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 26
   ssl_rating: A+
@@ -811,12 +811,12 @@
 - service: HideIPVPN
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -824,7 +824,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 8
   ssl_rating: F
@@ -845,8 +845,8 @@
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -856,27 +856,27 @@
   openvpn: Yes
   smtp: Some
   p2p: No
-  apis_used: 
+  apis_used:
   ssl_rating: B
   num_connections: 1
-  num_countries: 
+  num_countries:
   num_servers: 923
   price_annual: $6.55
   price_month: $6.55
   trial: No
   refund: 30
-  desc: HideMyAss is perhaps one of the most well-known VPN providers. It offers an extensive network with 933 VPN servers in over 190 countries. 
+  desc: HideMyAss is perhaps one of the most well-known VPN providers. It offers an extensive network with 933 VPN servers in over 190 countries.
   url: https://www.hidemyass.com
   img: hma.png
 - service: Hotspot Shield
   country: Switzerland
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No ## switched, does not accept BTC
   eff: No
@@ -884,13 +884,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 4
   ssl_rating: F
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $2.50
   price_month: $2.50
   trial: Yes
@@ -904,9 +904,9 @@
   traffic: No
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -932,11 +932,11 @@
   country: Sweden
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No ## not available for now
   eff: No
@@ -944,18 +944,18 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 0
   ssl_rating: A
-  num_connections: 
-  num_countries: 
-  num_servers: 
-  price_annual: 
-  price_month: 
+  num_connections:
+  num_countries:
+  num_servers:
+  price_annual:
+  price_month:
   trial: No
   refund: 0
-  desc: 
+  desc:
   url: https://integrity.st/
   img:
 - service: Internetz.me
@@ -964,9 +964,9 @@
   traffic: No
   timestamps: No
   bandwidth: No
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -974,8 +974,8 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 5
   ssl_rating: A+
   num_connections: 3
@@ -991,12 +991,12 @@
 - service: IPinator
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -1004,8 +1004,8 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 18
   ssl_rating: B
   num_connections: 5
@@ -1021,12 +1021,12 @@
 - service: IPredator
   country: Sweden
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: Yes
-  bandwidth: 
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1045,18 +1045,18 @@
   price_month: $3.28
   trial: Yes
   refund: 0
-  desc: Does not support Android or iOS devices with OpenVPN. Reviews claim slow connection speeds. 
+  desc: Does not support Android or iOS devices with OpenVPN. Reviews claim slow connection speeds.
   url: https://ipredator.se/
   img: ipp.png
 - service: IPVanish
   country: USA
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1085,8 +1085,8 @@
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1094,7 +1094,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 18
   ssl_rating: A
@@ -1105,18 +1105,18 @@
   price_month: $1.39
   trial: No
   refund: 7
-  desc: Lacks some basic VPN features and tracks session logs. 
+  desc: Lacks some basic VPN features and tracks session logs.
   url: https://ironsocket.com/
   img: ironsocket.jpg
 - service: Ivacy
   country: Hong Kong
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
+  timestamps:
+  bandwidth:
+  ip:
   sessions: Yes
-  dns: 
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -1124,7 +1124,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 11
   ssl_rating: A
@@ -1165,18 +1165,18 @@
   price_month: $2.78
   trial: No
   refund: 7
-  desc: IVPN is based in Malta. Supports all operating systems and can be used on up to three devices at the same time. 
+  desc: IVPN is based in Malta. Supports all operating systems and can be used on up to three devices at the same time.
   url: https://www.ivpn.net/
   img: ivpn.png
 - service: Kepard
   country: Moldova
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -1189,8 +1189,8 @@
   apis_used: 7
   ssl_rating: A
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $2.90
   price_month: $2.90
   trial: No
@@ -1201,12 +1201,12 @@
 - service: LeVPN
   country: France
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1214,7 +1214,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 20
   ssl_rating: A
@@ -1225,18 +1225,18 @@
   price_month: $2.48
   trial: No
   refund: 7
-  desc: VPN based in France with over 110 servers six continents. 
+  desc: VPN based in France with over 110 servers six continents.
   url: https://www.le-vpn.com/
   img: levpn.jpg
 - service: LibertyShield
   country: UK
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -1244,8 +1244,8 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 11
   ssl_rating: C
   num_connections: 1
@@ -1261,12 +1261,12 @@
 - service: LibertyVPN
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -1274,13 +1274,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Yes
   apis_used: 10
   ssl_rating: F
   num_connections: 1
   num_countries: 83
-  num_servers: 
+  num_servers:
   price_annual: $8.99
   price_month: $8.99
   trial: No
@@ -1294,9 +1294,9 @@
   traffic: No
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -1321,12 +1321,12 @@
 - service: LiquidVPN
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -1334,7 +1334,7 @@
   warrant: Yes
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 13
   ssl_rating: A
@@ -1351,12 +1351,12 @@
 - service: Lokun
   country: Iceland
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
-  bandwidth: 
-  ip: 
+  bandwidth:
+  ip:
   sessions: Yes
-  dns: 
+  dns:
   personal: Email
   bitcoin: No ## shallow website, perhaps out of service. not much info
   eff: No
@@ -1364,15 +1364,15 @@
   warrant: Yes
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 0
   ssl_rating: A
   num_connections: 1
-  num_countries: 
-  num_servers: 
-  price_annual: 
-  price_month: 
+  num_countries:
+  num_servers:
+  price_annual:
+  price_month:
   trial: No
   refund: 7
   desc:
@@ -1382,11 +1382,11 @@
   country: Sweden
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: No
   bitcoin: Yes
   eff: No
@@ -1394,29 +1394,29 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 0
   ssl_rating: A+
   num_connections: 2
   num_countries: 5
-  num_servers: 
+  num_servers:
   price_annual: $5.44
   price_month: $2.72
   trial: Yes
   refund: 0
-  desc: VPN service based in Sweden, but only offers VPN servers for Germany. 
+  desc: VPN service based in Sweden, but only offers VPN servers for Germany.
   url: https://mullvad.net/en/
   img: mullvad.png
 - service: My Expat Network
   country: UK
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -1424,13 +1424,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 9
   ssl_rating: A
   num_connections: 3
   num_countries: 4
-  num_servers: 
+  num_servers:
   price_annual: $7.00
   price_month: $2.33
   trial: No
@@ -1441,12 +1441,12 @@
 - service: MyPrivateNetwork
   country: Hong Kong
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1454,13 +1454,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 13
   ssl_rating: A
   num_connections: 1
   num_countries: 32
-  num_servers: 
+  num_servers:
   price_annual: $7.75
   price_month: $7.75
   trial: No
@@ -1471,12 +1471,12 @@
 - service: MyVPN.Pro
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -1484,13 +1484,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 2
-  ssl_rating: 
+  ssl_rating:
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $9.95
   price_month: $9.95
   trial: No
@@ -1501,12 +1501,12 @@
 - service: NEXTGenVPN
   country: Seychelles
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -1514,13 +1514,13 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 9
   ssl_rating: C
   num_connections: 1
   num_countries: 11
-  num_servers: 
+  num_servers:
   price_annual: $14.57
   price_month: $14.57
   trial: No
@@ -1533,10 +1533,10 @@
   fourteen: No
   traffic: No
   timestamps: Yes
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -1544,13 +1544,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 9
   ssl_rating: A
   num_connections: 3
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $3.65
   price_month: $1.22
   trial: No
@@ -1565,8 +1565,8 @@
   timestamps: No
   bandwidth: No
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1591,12 +1591,12 @@
 - service: NVPN
   country: Bosnia
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No ## appears to be out of service
   eff: No
@@ -1604,7 +1604,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 3
   ssl_rating: A+
@@ -1615,18 +1615,18 @@
   price_month: $3.34
   trial: No
   refund: 3
-  desc: 
+  desc:
   url: https://nvpn.net/
   img:
 - service: OctaneVPN
   country: Nevis
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: No
   bandwidth: Yes
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1651,12 +1651,12 @@
 - service: OverPlay
   country: UK
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -1664,7 +1664,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 15
   ssl_rating: C
@@ -1676,17 +1676,17 @@
   trial: No
   refund: 5
   desc:
-  url: 
+  url:
   img:
 - service: oVPN.se
   country: Sweden
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1694,7 +1694,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 5
   ssl_rating: A+
@@ -1714,9 +1714,9 @@
   traffic: No
   timestamps: No
   bandwidth: No
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1724,29 +1724,29 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 0
   ssl_rating: A+
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $7.30
   price_month: $7.30
   trial: No
   refund: 0
-  desc: In addition to Bitcoin, oVPN.to accepts Litecoin and Dash. 
+  desc: In addition to Bitcoin, oVPN.to accepts Litecoin and Dash.
   url: https://vcp.ovpn.to/
   img: ovpnto.png
 - service: Perfect Privacy
   country: Switzerland
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1754,7 +1754,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 7
   ssl_rating: A+
@@ -1771,28 +1771,28 @@
 - service: PrivatePackets.io
   country: British Indian Ocean
   fourteen: See Note
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
   pgp: No
   warrant: No
-  dnsservers: 
+  dnsservers:
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 3
   ssl_rating: B
-  num_connections: 
+  num_connections:
   num_countries: 7
-  num_servers: 
+  num_servers:
   price_annual: $5.00
-  price_month: 
+  price_month:
   trial: No
   refund: 0
   desc:
@@ -1801,12 +1801,12 @@
 - service: PrivateVPN
   country: Sweden
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1814,7 +1814,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 21
   ssl_rating: A
@@ -1833,10 +1833,10 @@
   fourteen: No
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: No
   bitcoin: Yes
   eff: No
@@ -1844,7 +1844,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 12
   ssl_rating: B
@@ -1855,18 +1855,18 @@
   price_month: $0.38
   trial: Yes
   refund: 0
-  desc: VPN based in the Czech Republic. Known for being easy to use with Tor. 
+  desc: VPN based in the Czech Republic. Known for being easy to use with Tor.
   url: https://privatoria.net/
   img: privatoria.png
 - service: Proxy.sh
   country: Seychelles
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1874,7 +1874,7 @@
   warrant: Yes
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 5
   ssl_rating: C
@@ -1885,7 +1885,7 @@
   price_month: $3.33
   trial: No
   refund: 0
-  desc: Seychelles based service with 300 servers across 50+ countries. 
+  desc: Seychelles based service with 300 servers across 50+ countries.
   url: https://proxy.sh/
   img: proxysh.png
 - service: ProXPN
@@ -1893,10 +1893,10 @@
   fourteen: Yes
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -1904,8 +1904,8 @@
   warrant: Yes
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 16
   ssl_rating: B
   num_connections: 1
@@ -1915,18 +1915,18 @@
   price_month: $6.25
   trial: Yes
   refund: 30
-  desc: Slightly pricey VPN at $6.25 per month, but claims to offer high connection speeds. 
+  desc: Slightly pricey VPN at $6.25 per month, but claims to offer high connection speeds.
   url: https://www.proxpn.com/index.php
   img: proxpn.jpg
 - service: PRQ
   country: Sweden
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -1934,15 +1934,15 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
-  p2p: 
-  apis_used: 
-  ssl_rating: 
+  smtp:
+  p2p:
+  apis_used:
+  ssl_rating:
   num_connections: 1
-  num_countries: 
-  num_servers: 
-  price_annual: 
-  price_month: 
+  num_countries:
+  num_servers:
+  price_annual:
+  price_month:
   trial: No
   refund: 0
   desc:
@@ -1951,12 +1951,12 @@
 - service: PureVPN
   country: Hong Kong
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
   sessions: Yes
-  dns: 
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -1975,18 +1975,18 @@
   price_month: $0.83
   trial: No
   refund: 7
-  desc: VPN service based in Hong Kong with 500+ servers. Compatible with all mobile operating systems, plus Mac, Windows, and Linux. 
+  desc: VPN service based in Hong Kong with 500+ servers. Compatible with all mobile operating systems, plus Mac, Windows, and Linux.
   url: https://www.purevpn.com/
   img: purevpn.png
 - service: RA4W VPN
   country: USA
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No ## can't find website
   eff: No
@@ -1994,8 +1994,8 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 13
   ssl_rating: A
   num_connections: 1
@@ -2011,12 +2011,12 @@
 - service: RiseupVPN
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: No
   bitcoin: Yes
   eff: No
@@ -2024,15 +2024,15 @@
   warrant: Yes
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 0
   ssl_rating: A+
   num_connections: 25
-  num_countries: 
-  num_servers: 
-  price_annual: 
-  price_month: 
+  num_countries:
+  num_servers:
+  price_annual:
+  price_month:
   trial: Yes
   refund: 0
   desc: A Bitcoin VPN that claims to be easy to use and setup.
@@ -2045,8 +2045,8 @@
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2054,8 +2054,8 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 14
   ssl_rating: A
   num_connections: 3
@@ -2069,14 +2069,14 @@
   url: https://www.safervpn.com/
   img: safervpn.png
 - service: SecureVPN.to
-  country: 
-  fourteen: 
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  country:
+  fourteen:
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: No
   bitcoin: Yes
   eff: No
@@ -2084,13 +2084,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 0
   ssl_rating: A+
   num_connections: 25
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $6.84
   price_month: $0.27
   trial: No
@@ -2101,12 +2101,12 @@
 - service: SecurityKISS
   country: Ireland
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -2114,8 +2114,8 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 2
   ssl_rating: A-
   num_connections: 1
@@ -2133,10 +2133,10 @@
   fourteen: No
   traffic: Yes
   timestamps: Yes
-  bandwidth: 
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2144,29 +2144,29 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 11
   ssl_rating: B
   num_connections: 1
-  num_countries: 
-  num_servers: 
-  price_annual: 
-  price_month: 
+  num_countries:
+  num_servers:
+  price_annual:
+  price_month:
   trial: No
   refund: 0
-  desc: Seed4me is a VPN service specifically geared for mobile operating systems. 
+  desc: Seed4me is a VPN service specifically geared for mobile operating systems.
   url: https://seed4.me/
   img: seed4me.png
 - service: ShadeYou
   country: Netherlands
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2174,18 +2174,18 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 7
-  ssl_rating: 
+  ssl_rating:
   num_connections: 5
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $2.17
   price_month: $0.43
   trial: Yes
   refund: 7
-  desc: Cheap VPN at only $26 per year and based in the Netherlands. 
+  desc: Cheap VPN at only $26 per year and based in the Netherlands.
   url: https://shadeyouvpn.com/
   img: shadeyouvpn.png
 - service: SlickVPN
@@ -2193,10 +2193,10 @@
   fourteen: Yes
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
   sessions: Yes
-  dns: 
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2215,18 +2215,18 @@
   price_month: $0.48
   trial: No
   refund: 30
-  desc: VPN with 50+ server locations across six continents. Only $24 per year. 
+  desc: VPN with 50+ server locations across six continents. Only $24 per year.
   url: https://www.slickvpn.com/
   img: slick.png
 - service: Smart DNS Proxy
   country: Seychelles
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -2234,13 +2234,13 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 31
   ssl_rating: A
   num_connections: 5
   num_countries: 30
-  num_servers: 
+  num_servers:
   price_annual: $2.91
   price_month: $0.58
   trial: Yes
@@ -2251,12 +2251,12 @@
 - service: Steganos
   country: Germany
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -2264,13 +2264,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 6
   ssl_rating: A
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $4.17
   price_month: $4.17
   trial: No
@@ -2282,11 +2282,11 @@
   country: USA
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -2294,8 +2294,8 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 30
   ssl_rating: A
   num_connections: 1
@@ -2315,8 +2315,8 @@
   timestamps: Yes
   bandwidth: Yes
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: No
   bitcoin: No ## appears to be out of service
   eff: No
@@ -2324,13 +2324,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 23
   ssl_rating: C
   num_connections: 5
   num_countries: 31
-  num_servers: 
+  num_servers:
   price_annual: $4.95
   price_month: $0.99
   trial: No
@@ -2342,11 +2342,11 @@
   country: Canada
   fourteen: Yes
   traffic: No
-  timestamps: 
+  timestamps:
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -2354,13 +2354,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 12
   ssl_rating: A
   num_connections: 5
   num_countries: 13
-  num_servers: 
+  num_servers:
   price_annual: $3.99
   price_month: $0.80
   trial: Yes
@@ -2375,8 +2375,8 @@
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -2384,7 +2384,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 29
   ssl_rating: A
@@ -2401,12 +2401,12 @@
 - service: Torguard
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2425,18 +2425,18 @@
   price_month: $1.00
   trial: No
   refund: 7
-  desc: Basic plan starts at $5.95 per month with 200+ IPs in 6 different countries. 
+  desc: Basic plan starts at $5.95 per month with 200+ IPs in 6 different countries.
   url: https://torguard.net/
   img: torguard.png
 - service: TorrentPrivacy
   country: Seychelles
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -2444,15 +2444,15 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 10
   ssl_rating: C
   num_connections: 1
   num_countries: 3
   num_servers: 10
-  price_annual: 
-  price_month: 
+  price_annual:
+  price_month:
   trial: No
   refund: 0
   desc:
@@ -2461,12 +2461,12 @@
 - service: Trust.Zone
   country: Seychelles
   fourteen: No
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2485,18 +2485,18 @@
   price_month: $2.66
   trial: Yes
   refund: 10
-  desc: VPN provider based in Seychelles with 44 servers and high speeds. 
+  desc: VPN provider based in Seychelles with 44 servers and high speeds.
   url: https://trust.zone/
   img: trustzone.png
 - service: TunnelBear
   country: Canada
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: No
   bandwidth: Yes
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -2515,18 +2515,18 @@
   price_month: $0.83
   trial: Yes
   refund: 0
-  desc: TunnelBear is a simple VPN provider. It is easy to use and setup. 500mb per month is available for free, and a very affordable unlimited plan is available for $50 per year. 
+  desc: TunnelBear is a simple VPN provider. It is easy to use and setup. 500mb per month is available for free, and a very affordable unlimited plan is available for $50 per year.
   url: https://www.tunnelbear.com/
   img: tunnelbear.png
 - service: Tunnelr
   country: USA
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2535,12 +2535,12 @@
   dnsservers: No
   openvpn: Yes
   smtp: No
-  p2p: 
+  p2p:
   apis_used: 4
   ssl_rating: C
   num_connections: 5
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $5.00
   price_month: $1.00
   trial: No
@@ -2551,12 +2551,12 @@
 - service: TVWhenAway
   country: UK
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -2564,13 +2564,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 2
   ssl_rating: A+
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $4.98
   price_month: $4.98
   trial: No
@@ -2581,12 +2581,12 @@
 - service: Unblock-Us
   country: Barbados
   fourteen: See Note
-  traffic: 
-  timestamps: 
-  bandwidth: 
+  traffic:
+  timestamps:
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -2594,13 +2594,13 @@
   warrant: No
   dnsservers: Yes
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 35
   ssl_rating: B
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $4.16
   price_month: $4.16
   trial: No
@@ -2612,25 +2612,25 @@
   country: Denmark
   fourteen: Yes
   traffic: Yes
-  timestamps: 
-  bandwidth: 
+  timestamps:
+  bandwidth:
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
   pgp: No
   warrant: No
   dnsservers: Yes
-  openvpn: 
-  smtp: 
-  p2p: 
+  openvpn:
+  smtp:
+  p2p:
   apis_used: 14
   ssl_rating: A
   num_connections: 25
   num_countries: 6
-  num_servers: 
+  num_servers:
   price_annual: $4.17
   price_month: $0.17
   trial: Yes
@@ -2641,12 +2641,12 @@
 - service: UnoTelly
   country: Canada
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -2654,13 +2654,13 @@
   warrant: No
   dnsservers: Yes
   openvpn: No
-  smtp: 
+  smtp:
   p2p: Yes
   apis_used: 4
   ssl_rating: B
   num_connections: 1
   num_countries: 30
-  num_servers: 
+  num_servers:
   price_annual: $4.93
   price_month: $4.93
   trial: Yes
@@ -2671,12 +2671,12 @@
 - service: Unspyable
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No ## seems to be done
   eff: No
@@ -2690,7 +2690,7 @@
   ssl_rating: C
   num_connections: 1
   num_countries: 11
-  num_servers: 
+  num_servers:
   price_annual: $6.67
   price_month: $6.67
   trial: No
@@ -2705,8 +2705,8 @@
   timestamps: No
   bandwidth: No
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: Yes
@@ -2725,18 +2725,18 @@
   price_month: $9.99
   trial: No
   refund: 14
-  desc: VikingVPN is a small VPN service and focused on high speeds and good connections, rather than a large amount of servers or countries. 
+  desc: VikingVPN is a small VPN service and focused on high speeds and good connections, rather than a large amount of servers or countries.
   url: https://vikingvpn.com/
   img: vikingvpn.png
 - service: VPN4All
   country: Netherlands
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -2744,7 +2744,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 32
   ssl_rating: C
@@ -2762,11 +2762,11 @@
   country: Canada
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -2774,7 +2774,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 17
   ssl_rating: A
@@ -2794,9 +2794,9 @@
   traffic: No
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -2804,13 +2804,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 7
   ssl_rating: B
   num_connections: 5
   num_countries: 9
-  num_servers: 
+  num_servers:
   price_annual: $2.09
   price_month: $0.42
   trial: Yes
@@ -2821,12 +2821,12 @@
 - service: VPN Unlimited
   country: USA
   fourteen: Yes
-  traffic: 
-  timestamps: 
+  traffic:
+  timestamps:
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2834,7 +2834,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Yes
   apis_used: 8
   ssl_rating: A+
@@ -2845,18 +2845,18 @@
   price_month: $0.40
   trial: No
   refund: 7
-  desc: Very cheap VPN service with the yearly plan starting at $23.99. 
+  desc: Very cheap VPN service with the yearly plan starting at $23.99.
   url: https://www.vpnunlimitedapp.com/en
   img: vpnunlimited.png
 - service: VPN.ac
   country: Romania
   fourteen: No
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -2882,11 +2882,11 @@
   country: Belize
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2895,7 +2895,7 @@
   dnsservers: No
   openvpn: Yes
   smtp: No
-  p2p: 
+  p2p:
   apis_used: 7
   ssl_rating: C
   num_connections: 2
@@ -2905,18 +2905,18 @@
   price_month: $3.05
   trial: Yes
   refund: 7
-  desc: VPN.Asia offers over 200 server locations but is quite pricey with its cheapest plan at $73 per year. 
+  desc: VPN.Asia offers over 200 server locations but is quite pricey with its cheapest plan at $73 per year.
   url: https://vpn.asia/
   img: vpnasia.png
 - service: VPN.ht
   country: Hong Kong
   fourteen: No
   traffic: No
-  timestamps: 
+  timestamps:
   bandwidth: No
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -2924,7 +2924,7 @@
   warrant: Yes
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 16
   ssl_rating: A+
@@ -2941,12 +2941,12 @@
 - service: VPN.sh
   country: UK
   fourteen: Yes
-  traffic: 
-  timestamps: 
+  traffic:
+  timestamps:
   bandwidth: Yes
   ip: Yes
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -2954,7 +2954,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Yes
   apis_used: 6
   ssl_rating: C
@@ -2972,11 +2972,11 @@
   country: Bulgaria
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -2984,7 +2984,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 5
   ssl_rating: B
@@ -2995,18 +2995,18 @@
   price_month: $0.98
   trial: No
   refund: 7
-  desc: VPN based in Switzerland and registered in Bulgaria. Customers may use IPs from more than 50 countries. 
+  desc: VPN based in Switzerland and registered in Bulgaria. Customers may use IPs from more than 50 countries.
   url: http://vpnarea.com
   img: vpnarea.png
 - service: VPNBaron
   country: Romania
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
+  timestamps:
+  bandwidth:
+  ip:
   sessions: Yes
-  dns: 
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -3014,18 +3014,18 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 4
   ssl_rating: A
   num_connections: 3
   num_countries: 6
-  num_servers: 
+  num_servers:
   price_annual: $4.99
   price_month: $1.66
   trial: No
   refund: 3
-  desc: Simple VPN service based in Romania. 
+  desc: Simple VPN service based in Romania.
   url: https://vpnbaron.com/
   img: vpnbaron.png
 - service: VPNJack
@@ -3034,9 +3034,9 @@
   traffic: No
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -3044,13 +3044,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
+  smtp:
   p2p: Yes
   apis_used: 11
-  ssl_rating: 
+  ssl_rating:
   num_connections: 1
   num_countries: 1
-  num_servers: 
+  num_servers:
   price_annual: $2.50
   price_month: $2.50
   trial: Yes
@@ -3062,11 +3062,11 @@
   country: USA
   fourteen: Yes
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No ## may be scam
   eff: No
@@ -3074,13 +3074,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 10
   ssl_rating: C
   num_connections: 5
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $3.34
   price_month: $0.67
   trial: No
@@ -3091,12 +3091,12 @@
 - service: VPNSecure
   country: Australia
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: No
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: Yes
   eff: No
@@ -3123,10 +3123,10 @@
   fourteen: Yes
   traffic: No
   timestamps: No
-  bandwidth: 
+  bandwidth:
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No ## switched not to display, reports of abuse by service
   eff: No
@@ -3134,7 +3134,7 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 0
   ssl_rating: C
@@ -3145,7 +3145,7 @@
   price_month: $0.60
   trial: No
   refund: 7
-  desc: 
+  desc:
   url: https://vpntunnel.com/
   img:
 - service: VyprVPN
@@ -3155,7 +3155,7 @@
   timestamps: Yes
   bandwidth: Yes
   ip: Yes
-  sessions: 
+  sessions:
   dns: No
   personal: Yes
   bitcoin: No
@@ -3164,7 +3164,7 @@
   warrant: No
   dnsservers: Yes
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 33
   ssl_rating: A
@@ -3181,12 +3181,12 @@
 - service: WASEL Pro
   country: Netherlands
   fourteen: Yes
-  traffic: 
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  traffic:
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -3194,13 +3194,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: No
   apis_used: 9
   ssl_rating: F
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $7.50
   price_month: $7.50
   trial: Yes
@@ -3214,9 +3214,9 @@
   traffic: Yes
   timestamps: Yes
   bandwidth: Yes
-  ip: 
+  ip:
   sessions: Yes
-  dns: 
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -3225,12 +3225,12 @@
   dnsservers: No
   openvpn: Yes
   smtp: No
-  p2p: 
+  p2p:
   apis_used: 4
-  ssl_rating: 
+  ssl_rating:
   num_connections: 1
-  num_countries: 
-  num_servers: 
+  num_countries:
+  num_servers:
   price_annual: $5.84
   price_month: $5.84
   trial: No
@@ -3241,12 +3241,12 @@
 - service: WorldVPN
   country: UK
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: Yes
   eff: No
@@ -3272,11 +3272,11 @@
   country: Germany
   fourteen: Yes
   traffic: No
-  timestamps: 
+  timestamps:
   bandwidth: Yes
   ip: No
-  sessions: 
-  dns: 
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -3284,13 +3284,13 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
-  p2p: 
+  smtp:
+  p2p:
   apis_used: 7
   ssl_rating: A
   num_connections: 1
   num_countries: 11
-  num_servers: 
+  num_servers:
   price_annual: $6.49
   price_month: $6.49
   trial: Yes
@@ -3301,12 +3301,12 @@
 - service: ZoogTV
   country: UK
   fourteen: Yes
-  traffic: 
+  traffic:
   timestamps: Yes
   bandwidth: Yes
-  ip: 
-  sessions: 
-  dns: 
+  ip:
+  sessions:
+  dns:
   personal: Yes
   bitcoin: No
   eff: No
@@ -3314,7 +3314,7 @@
   warrant: No
   dnsservers: No
   openvpn: No
-  smtp: 
+  smtp:
   p2p: Some
   apis_used: 0
   ssl_rating: B
@@ -3332,11 +3332,11 @@
   country: UAE
   fourteen: No
   traffic: No
-  timestamps: 
-  bandwidth: 
-  ip: 
-  sessions: 
-  dns: 
+  timestamps:
+  bandwidth:
+  ip:
+  sessions:
+  dns:
   personal: Email
   bitcoin: No
   eff: No
@@ -3344,13 +3344,13 @@
   warrant: No
   dnsservers: No
   openvpn: Yes
-  smtp: 
+  smtp:
   p2p: Yes
   apis_used: 26
   ssl_rating: A-
   num_connections: 5
   num_countries: 20
-  num_servers: 
+  num_servers:
   price_annual: $5.99
   price_month: $1.20
   trial: Yes

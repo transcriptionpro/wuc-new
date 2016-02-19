@@ -72,6 +72,14 @@
       </div>
     </div>
 
+    {% if page.filter %}
+    <script src="{{ site.baseurl }}/assets/js/liquid.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/filters.js"></script>
+    <script>
+      //var Liquid = require('liquid');
+      filter.init('{{ page.filter }}');
+    </script>
+    {% endif %}
     {% include analytics.html %}
   </body>
 </html>
