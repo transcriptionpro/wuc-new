@@ -15,7 +15,7 @@ img: /images/gregory-maxwell.png
 ---
 Gregory Maxwell is a Bitcoin core developer and Co-Founder and Chief Technology Officer of Blockstream.
 
-## Sidechans
+## Sidechains
 
 Greg was one of the key architects of the two-way peg <a href="/what-are-sidechains/">which makes sidechains possible</a>. He has been a Bitcoin core developer since 2011, and is one of the most active reviewers of cryptographic protocol proposals in the Bitcoin industrial ecosystem.
 
