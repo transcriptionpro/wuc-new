@@ -1,9 +1,7 @@
 ---
 layout: page
 ---
-{% assign person = site.data.people[page.person] %}
-
-{% if page.img or person.position %}
+{% if page.img or page.position %}
 <div class="person-info">
 {% if page.img %}
 	<div class="person-img-wrap">
@@ -11,10 +9,11 @@ layout: page
 	</div>
 {% endif %}
 <div class="person-details">
-	{% if person.position != null %}<p><span>Position</span>: {{ person.position }}</p>{% endif %}
-	{% if person.education != null %}<p><span>Education</span>: {{ person.education }}</p>{% endif %}
-	{% if person.twitter != null %}<p><span>Twitter</span>: <a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a></p>{% endif %}
-	{% if person.github != null %}<p><span>GitHub</span>: <a href="https://github.com/{{ person.github }}">@{{ person.github }}</a></p>{% endif %}
+	{% if page.position != null %}<p><span>Position</span>: {{ page.position }}</p>{% endif %}
+	{% if page.education != null %}<p><span>Education</span>: {{ page.education }}</p>{% endif %}
+	{% if page.website != null %}<p><span>Website</span>: <a href="{{ page.website }}">{{ page.website }}</a></p>{% endif %}
+	{% if page.twitter != null %}<p><span>Twitter</span>: <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></p>{% endif %}
+	{% if page.github != null %}<p><span>GitHub</span>: <a href="https://github.com/{{ page.github }}">@{{ page.github }}</a></p>{% endif %}
 </div>
 </div>
 {% endif %}

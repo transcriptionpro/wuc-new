@@ -76,6 +76,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -469,7 +470,7 @@ iframe {
 	}
 	img {
 		border-radius: 50%;
-		max-width: 100%;
+		max-width: 220px;
 	}
 	span {
 		font-weight: bold;
