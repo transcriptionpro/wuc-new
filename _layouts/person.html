@@ -1,9 +1,21 @@
 ---
 layout: page
 ---
-
+{% if page.img or page.position %}
+<div class="person-info">
 {% if page.img %}
-	<img src="{{ page.img }}" alt="{{ page.title }}" align="right">
+	<div class="person-img-wrap">
+		<img src="{{ page.img }}" alt="{{ page.title }}">
+	</div>
+{% endif %}
+<div class="person-details">
+	{% if page.position != null %}<p><span>Position</span>: {{ page.position }}</p>{% endif %}
+	{% if page.education != null %}<p><span>Education</span>: {{ page.education }}</p>{% endif %}
+	{% if page.website != null %}<p><span>Website</span>: <a href="{{ page.website }}">{{ page.website }}</a></p>{% endif %}
+	{% if page.twitter != null %}<p><span>Twitter</span>: <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></p>{% endif %}
+	{% if page.github != null %}<p><span>GitHub</span>: <a href="https://github.com/{{ page.github }}">@{{ page.github }}</a></p>{% endif %}
+</div>
+</div>
 {% endif %}
 
 {{ content }}
