@@ -1,12 +1,12 @@
 en:
   native: English
   navigation:
-    getting-started: Start
-    how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price: Buy
-    bitcoin-news: News
-    questions: FAQ
-    mining-guide: Mining
-    alt-coins: Alt-coins
+    en/getting-started: Start
+    en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price: Buy
+    en/bitcoin-news: News
+    en/questions: FAQ
+    en/mining-guide: Mining
+    en/alt-coins: Alt-coins
   footer: &footer_default
     contribute: Contribute
     links:
