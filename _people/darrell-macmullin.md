@@ -1,12 +1,21 @@
 ---
-title: Darrell MacMullin - CEO Bitgold
+title: Darrell MacMullin
+seotitle: Darrell MacMullin - CEO Bitgold
 author: Darrell MacMullin - CEO Bitgold
 authorurl: /darrell-macmullin/
 published: true
+img: /images/darrell-macmullin.png
+name: Darrell MacMullin
+position: CEO Bitgold
+education: 
+experience: 
+short_desc: 
+long_desc: 
+affiliations: BitGold
+twitter: 
+github: 
+residence: 
 ---
-
-<img src="/images/darrell-macmullin.png" alt="Darrell MacMullin" align="right">
-
 <a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Executive Officer of <a href="/bitgold/">BitGold</a>.
 
 Darrell MacMullin has driven successful new payment and commerce innovations for the past 15 years, including the launch and leadership of PayPal during its first eight years in Canada.
@@ -27,9 +36,10 @@ Prior to PayPal Darrell was part of the successful launches and rapid growth of 
 
 ## BitGold Executive Management Team Members
 
-<ul><li><a href="/roy-sebag/">Roy Sebag</a> - Co-Founder</li>
-<li><a href="/josh-crumb/">Josh Crumb</a> - Co-Founder and Chief Strategy Officer</li>
-<li><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer</li>
-<li><a href="/alessandro-premoli/">Alessandro Premoli</a> - Chief Technology Officer</li>
-<li><a href="/daniel-crandall/">Daniel Crandall</a> - Chief Financial Officer</li>
-<li><a href="/katy-millington/">Katy Millington</a> - General Counsel</li></ul>
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'BitGold' and page.name != person.name %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>

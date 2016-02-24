@@ -70,5 +70,19 @@ toc:
 <li><a href="/rodolfo-novak/">Rodolfo Novak</a> - Founder & CEO of <a href="/coinkite/">Coinkite</a></li>
 <li><a href="/peter-gray/">Peter D. Gray</a> - Founder & CTO of <a href="/coinkite/">Coinkite</a></li>
 </ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+<h2 id="ind">BitGold</h2>
+
+<p>Bitgold is a brand new platform for that intends to offer gold payments to customers. Customers can store their balance in gold and spend at any store with a debit card.</p>
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'BitGold' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 <p>Is your favorite company not included? Are you a player on the Bitcoin field and want to be included? Please <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/README.md">submit a pull request</a>!

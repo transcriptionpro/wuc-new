@@ -279,6 +279,7 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  clear: both;
 }
 
 footer {
@@ -454,6 +455,40 @@ pre {
 
 iframe {
   max-width: 100%;
+}
+
+.similar-people {
+	
+	display: inline-block;
+    margin: 15px 10px 35px;
+    min-width: 150px;
+    text-align: center;
+	
+	
+	img {
+		border-radius: 50%;
+		width: 65px;
+		height: auto;
+	}
+	
+	.name {
+		font-size: 16px;
+	}
+	
+	.position {
+		color: #989898;
+		font-size: 14px;
+	}
+}
+
+.similar-people-wrap {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+hr {
+	clear: both;
 }
 
 .person-info {

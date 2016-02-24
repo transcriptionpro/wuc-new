@@ -7,11 +7,12 @@ education:
 experience: 
 short_desc: Gregory Maxwell is a Bitcoin Core developer and Co-Founder and Chief Technology Officer of Blockstream.
 long_desc: 
-affiliations: Blockstream
+affiliations: [Blockstream, Bitcoin Core]
 twitter: 
 github: gmaxwell
 residence:
 img: /images/gregory-maxwell.png 
+cats: [bitcoin developer]
 ---
 Gregory Maxwell is a Bitcoin core developer and Co-Founder and Chief Technology Officer of Blockstream.
 
