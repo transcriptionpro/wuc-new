@@ -52,7 +52,6 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
@@ -96,3 +95,70 @@ defaults:
       type: companies
     values:
       layout: "company"
+  # Languages
+  - # English
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      lang: en
+  - # German
+    scope:
+      path: "de"
+    values:
+      lang: de
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      lang: de
+  - # French
+    scope:
+      path: "fr"
+    values:
+      lang: fr
+  -
+    scope:
+      path: "_posts/fr"
+    values:
+      lang: fr
+  - # Dutch
+    scope:
+      path: "nl"
+    values:
+      lang: nl
+  -
+    scope:
+      path: "_posts/nl"
+    values:
+      lang: nl
+  - # Japanese
+    scope:
+      path: "ja"
+    values:
+      lang: ja
+  -
+    scope:
+      path: "_posts/ja"
+    values:
+      lang: ja
+  - # Spanish
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+  -
+    scope:
+      path: "_posts/es"
+    values:
+      lang: "es"
+  - # Russian
+    scope:
+      path: "ru"
+    values:
+      lang: "ru"
+  -
+    scope:
+      path: "_posts/ru"
+    values:
+      lang: "ru"

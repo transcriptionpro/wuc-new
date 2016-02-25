@@ -212,8 +212,7 @@ img {
     margin: 3px 0;
   }
 }
-
-nav {
+nav.site-navigation {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -639,3 +638,4 @@ a.anchor {
 @import "highlights";
 @import "svg-icons";
 @import 'components';
+@import 'footer';
