@@ -79,6 +79,7 @@ Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v
 <li>no - Norwegian - Could not find on Youtube</li>
 <li>pl - <a href="https://www.youtube.com/watch?v=gZRJihow1Qg">Polish</a> - v1 full</li>
 <li>pt - <a href="https://www.youtube.com/watch?v=1WQYLvbGFC0">Portugese</a> - v1 full</li>
+<li>ro - <a href="https://www.youtube.com/watch?v=uvFtlTvj4qI">Romanian</a> - v2 full</li>
 <li>ru - <a href="https://www.youtube.com/watch?v=Ur8zXNGA_3A">Russian</a> - v1 full</li>
 <li>sv - Swedish - Could not find on Youtube</li>
 <li>tl - Tagalog/Filipino - Could not find on Youtube</li>
