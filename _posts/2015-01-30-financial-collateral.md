@@ -205,7 +205,7 @@ Even though people had contracts, and to which Marx and French francs and stuff 
 
 <p><strong>Erik Voorhees:</strong>  It's unlikely but it could happen.
 
-<p><strong>Trace Mayer:</strong>  It could.  Well, it could happen but, I mean, as someone who's cashed out into bit coin, you know, when you're trying to reform your own subjective valuation of this particular asset have you weighed like, I mean, is there any competitor on the horizon when we're talking about like a new protocol layer of value transfer on the internet.  Anything that's got network effects anywhere close to bitcoin.
+<p><strong>Trace Mayer:</strong>  It could.  Well, it could happen but, I mean, as someone who's cashed out into bit coin, you know, when you're trying to reform your own subjective valuation of this particular asset have you weighed like, I mean, is there any competitor on the horizon when we're talking about like a new protocol layer of value transfer on the internet.  Anything that's got <a href="/the-seven-network-effects-of-bitcoin/">network effects anywhere close to bitcoin</a>.
 
 <p><strong>Erik Voorhees:</strong>  Not yet, nothing really and there's been lots of competitors.  So there's lots of new digital currencies that have come out, some are very similar to bitcoin, some do different things.  None of them has been able to really get a foothold on the market.
 

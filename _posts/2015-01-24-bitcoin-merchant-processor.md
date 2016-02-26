@@ -7,15 +7,19 @@ description: Tony Gallippi of BitPay on bitcoin merchant processors.
 published: true
 ---
 
-<img src="/images/tony-gallippi.png" alt="Tony Gallippi" align="right">Tony Gallippi is the co-founder and executive chairman of <a href="https://www.bitpay.com/">Bitpay</a>. Tony has 20 years of experience in Sales and Marketing in the Robotics and Financial industries. Tony has a Bachelor's degree in Mechanical Engineering from Georgia Tech.
-<p>
+<img src="/images/tony-gallippi.png" alt="Tony Gallippi" align="right">
+
+Tony Gallippi is the co-founder and executive chairman of <a href="https://www.bitpay.com/">Bitpay</a>. Tony has 20 years of experience in Sales and Marketing in the Robotics and Financial industries. Tony has a Bachelor's degree in Mechanical Engineering from Georgia Tech.
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/qWaRBsqLqIk" frameborder="0" allowfullscreen></iframe>
-<p>
+
 
 ### PODCAST INTERVIEW TRANSCRIPT
 
 Tony Gallippi of Bitpay on bitcoin merchant processing for over 60,000 merchant clients including behemoths like Microsoft, Newegg, Dell, TigerDirect and others.
+
 <h2>Interview with Tony Gallippi on Bitcoin Merchant Processor</h2>
+
 **Trace Mayer:**  Welcome back. We have a legendary interview with the legendary Tony Gallippi from BitPay.  Welcome to the podcast.
 
 **Tony Gallippi:**  Thanks, Trace.
@@ -148,7 +152,7 @@ If bitcoin has a fluctuating exchange rate.  So we need to create a small windo
 
 **Tony Gallippi:**  It's not that hard, right?  When we first built it, you know, most people are using Bitcoin QT.  They may have had to wait for their block chain to sync up before they could broadcast transaction.  You typically don't have those issues today.
 
-**Trace Mayer:**  Used things like Bread Wallet or blockingchain.info mobile phone wallet.
+**Trace Mayer:**  Used things like <a href="/breadwallet/">Bread Wallet</a> or blockingchain.info mobile phone wallet.
 
 **Tony Gallippi:**  Yeah, yeah.  The idea of waiting for your wallet to sync up before you can send a payment when you're sitting there that doesn't happen anymore.
 

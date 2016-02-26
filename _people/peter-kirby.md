@@ -11,23 +11,23 @@ Peter has spent the past 15 years involved in numerous successful early-stage te
 
 ### Videos
 
-####Peter Kirby's Keynote About Factom.org at BitcoinWednesday.com
+#### Peter Kirby's Keynote About Factom.org at BitcoinWednesday.com
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/yz3BGXXOh0I" frameborder="0" allowfullscreen></iframe>
 
-####Peter Kirby @ mindthegapexpo.com 10-04-15
+#### Peter Kirby @ mindthegapexpo.com 10-04-15
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/rW1fqiIyJLo" frameborder="0" allowfullscreen></iframe>
 
-####Inside Bitcoins Berlin 2015 - Day 1 - Peter Kirby
+#### Inside Bitcoins Berlin 2015 - Day 1 - Peter Kirby
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/iPJOZQJszHY" frameborder="0" allowfullscreen></iframe>
 
-####Factom interview - Solves the Bitcoin speed problem / Proof of audit
+#### Factom interview - Solves the Bitcoin speed problem / Proof of audit
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/DsaJRKn9PWY" frameborder="0" allowfullscreen></iframe>
 
-####Paul Snow & Peter Kirby: Factom, Proof of Existence, Proof of Process, Proof of Audit
+#### Paul Snow & Peter Kirby: [Factom](/what-is-factom/), Proof of Existence, Proof of Process, Proof of Audit
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/ev2mJnX5xqQ" frameborder="0" allowfullscreen></iframe>
 

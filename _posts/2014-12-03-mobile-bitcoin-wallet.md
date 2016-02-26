@@ -7,10 +7,13 @@ description: Aaron Voisine, founder and CEO of BreadWallet talks about mobile bi
 published: true
 ---
 
-<img src="/images/aaron-voisine.png" alt="Aaron Voisine" align="right">Aaron is the CEO and Founder of <a href="/breadwallet/">Breadwallet</a>. He was a senior iOS consultant at Banjo, Co-Founder of Lightt and iOS development lead at Yammer. He is very familiar with Objective-C, Python, software development, C++, Linux and iOS. He holds a degree in computer science from Purdue University.
-<p>
+<img src="/images/aaron-voisine.png" alt="Aaron Voisine" align="right">
+
+Aaron is the CEO and Founder of <a href="/breadwallet/">Breadwallet</a>. He was a senior iOS consultant at Banjo, Co-Founder of Lightt and iOS development lead at Yammer. He is very familiar with Objective-C, Python, software development, C++, Linux and iOS. He holds a degree in computer science from Purdue University.
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/B0GLZOM6V4c" frameborder="0" allowfullscreen></iframe>
-<p>
+
+
 **Trace Mayer**: So before we get straight into the interview just a quick disclaimer. I actually hadn't used Breadwallet (the mobile bitcoin wallet) before. There are tons of mobile bitcoin wallets out there. I just hadn’t had time to and I actually after the interview downloaded a copy of Breadwallet, a mobile bitcoin wallet; began to use it and I really like it. It's super simple. It's probably going to replace my blockchain.info. Nick Cary, CEO of blockchain.info, is in our next interview. I love that mobile bitcoin wallet too. It's just they have different uses and functions. One thing I don't necessarily like in Breadwallet (the mobile bitcoin wallet), there's no coin control, but I can take care of that on Blockchain.info or Armory so. Anyways, on to the interview.
 
 Welcome back to the <a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a>. We have **Aaron Voisine**, founder and CEO. of Breadwallet (the mobile bitcoin wallet). Welcome to podcast.

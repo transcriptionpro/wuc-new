@@ -7,7 +7,7 @@ description: Learn how to trade Bitcoin in this Bitcoin trading guide.
 published: true
 permalink: /bitcoin-trading/
 ---  
-Bitcoin’s history of bubbles and volatility has perhaps done more to bring in new users and investors than any other aspect of the crpytocurrency. [Each bitcoin bubble](http://www.runtogold.com/2015/12/the-rise-of-the-fourth-great-bitcoin-bubble/) creates hype that puts Bitcoin’s name in the news. The media attention causes more to become interested, and the price rises until the hype fades.
+Bitcoin’s history of bubbles and [volatility](/bitcoin-volatility-as-an-asset-class/) has perhaps done more to bring in new users and investors than any other aspect of the crpytocurrency. [Each bitcoin bubble](http://www.runtogold.com/2015/12/the-rise-of-the-fourth-great-bitcoin-bubble/) creates hype that puts Bitcoin’s name in the news. The media attention causes more to become interested, and the price rises until the hype fades.
 
 ![bitcoin trading](/images/trading/bitcoinwisdom.png)
 

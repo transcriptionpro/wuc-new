@@ -7,7 +7,7 @@ description: Learn how to buy litecoins online, with cash, with bitcoin, or with
 published: true
 seotitle: How to Buy Litecoins Online, with Cash, or PayPal
 ---
-Buying litecoin is not any different from purchasing bitcoins: find a Litecoin exchange, convert your local currency to litecoin, and send the litecoins to your wallet. 
+Buying [litecoin](/what-is-litecoin/) is not any different from purchasing bitcoins: find a Litecoin exchange, convert your local currency to litecoin, and send the litecoins to your wallet. 
 
 Finding a Litecoin exchange can be difficult because most exchanges don’t sell litecoin directly. In most cases customers must [first purchase bitcoins](/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/) and then trade for litecoin. 
 

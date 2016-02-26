@@ -13,23 +13,23 @@ Nic is an active team member at <a href="http://storj.io">Storj</a>, <a href="ht
 
 ### Videos:
 
-####Texas Bitcoin Conference Hackathon Developer Q&A
+#### Texas Bitcoin Conference Hackathon Developer Q&A
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/jCeufEk888g" frameborder="0" allowfullscreen></iframe>
 
-####DriveShare Test Group A Beta Launch - Live with the Storj Team
+#### DriveShare Test Group A Beta Launch - Live with the Storj Team
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/BiTFmhKk4ow" frameborder="0" allowfullscreen></iframe>
 
-####Tether + Factom Collaboration Announcement
+#### Tether + [Factom](/what-is-factom/) Collaboration Announcement
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/66cjwAOZoxo" frameborder="0" allowfullscreen></iframe>
 
-####Vaultoro + Factom Collaboration Announcement
+#### Vaultoro + Factom Collaboration Announcement
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/ieN2FqNhrrY" frameborder="0" allowfullscreen></iframe>
 
-####Tradle + Factom Collaboration Announcement
+#### Tradle + Factom Collaboration Announcement
 <iframe width="700" height="394" src="https://www.youtube.com/embed/3Lpxi262G54" frameborder="0" allowfullscreen></iframe>
 
 ### Team Member Of:

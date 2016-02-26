@@ -8,7 +8,7 @@ published: true
 ---
 ![what can you buy with bitcoin](/images/bitpremier-compressor.png)
 
-Bitcoin’s volatility created a nightmare for most merchants. A 10% rise or drop in price in a single day was and is still common. For a merchant, this could lead to a $100 loss on a $1,000 sale. 
+[Bitcoin’s volatility](/bitcoin-volatility-as-an-asset-class/) created a nightmare for most merchants. A 10% rise or drop in price in a single day was and is still common. For a merchant, this could lead to a $100 loss on a $1,000 sale. 
 
 BitPay, Coinbase, and other Bitcoin payment processors have helped merchants by taking on the volatility risk in accepting Bitcoin payments. Merchants can integrate with a Bitcoin payment processor and accept payments through these third party services. Payment processors receive bitcoin and send the merchant local currency at the end of each day or week. Merchants may also choose to keep any percent of payments as Bitcoin. 
 

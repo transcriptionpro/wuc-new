@@ -1735,7 +1735,7 @@
   price_month: $7.30
   trial: No
   refund: 0
-  desc: In addition to Bitcoin, oVPN.to accepts Litecoin and Dash. 
+  desc: In addition to Bitcoin, oVPN.to accepts <a href="/what-is-litecoin/">Litecoin</a> and <a href="/what-is-dash/">Dash</a>. 
   url: https://vcp.ovpn.to/
   img: ovpnto.png
 - service: Perfect Privacy

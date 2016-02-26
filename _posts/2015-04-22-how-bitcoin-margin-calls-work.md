@@ -38,7 +38,7 @@ OKCoin requires that you maintain an Equity / Position Value of at least 1%. Onc
  
 ### BitMEX Force Liquidation Process:
  
-BitMEX will compute the smallest amount of your position that needs to be liquidated at prevailing market prices to get your Equity / Position Value above the minimum threshold and execute that order as a limit price. The use of a limit price reduces the amount of volatility introduced to the market as a result of margin calls. The liquidation process will get more aggressive if your Equity / Position Value declines further due to adverse market moves. Once the minimum threshold has been met again, force liquidation will cease. During this process, you are free to close open positions to stop force liquidation. If a deposit is detected on the Blockchain, that amount will be credited against your shortfall and force liquidation will cease.
+BitMEX will compute the smallest amount of your position that needs to be liquidated at prevailing market prices to get your Equity / Position Value above the minimum threshold and execute that order as a limit price. The use of a limit price reduces the [amount of volatility](/bitcoin-volatility-as-an-asset-class/) introduced to the market as a result of margin calls. The liquidation process will get more aggressive if your Equity / Position Value declines further due to adverse market moves. Once the minimum threshold has been met again, force liquidation will cease. During this process, you are free to close open positions to stop force liquidation. If a deposit is detected on the Blockchain, that amount will be credited against your shortfall and force liquidation will cease.
  
 ### Bitfinex Force Liquidation Process:
  
