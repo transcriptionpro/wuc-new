@@ -59,12 +59,12 @@ Because of the XBUU14 hedge, the portfolio value stays constant at $10,000 no ma
  
 Now that the portfolio has been constructed and hedged to eliminate currency risk, it is time to capture riskless profits. Exchange A trades at $480, while exchange B trades at $500. The below steps describe how to arbitrage the two exchanges.
  
-<ol><li>Deposit $5,000 onto exchange A; deposit 7 XBT onto exchange B<</li>
-<li>Buy 7 XBT on exchange A for a cost of $3,360 = 7 XBT * $480<</li>
-<li>Simultaneously sell 7 XBT on exchange B and receive $3,500<</li>
-<li>Withdraw $3,500 from exchange B, then wire $3,500 to exchange A<</li>
-<li>Transfer 7 XBT from exchange A to B<</li>
-<li>Repeat<</li></ol>
+<ol><li>Deposit $5,000 onto exchange A; deposit 7 XBT onto exchange B</li>
+<li>Buy 7 XBT on exchange A for a cost of $3,360 = 7 XBT * $480</li>
+<li>Simultaneously sell 7 XBT on exchange B and receive $3,500</li>
+<li>Withdraw $3,500 from exchange B, then wire $3,500 to exchange A</li>
+<li>Transfer 7 XBT from exchange A to B</li>
+<li>Repeat</li></ol>
 The above trade generated $140 in gross profit. USD deposit and withdrawal fees as well as exchange trading fees must be deducted. The result will be the net profit from this arbitrage trade. The amount of times the portfolio can be churned is limited by the speed of USD wire transfers and the size of price gap between exchange A and B.
  
 Notice that only 7 XBT could be used as working capital for the arbitrage opportunity. This is because BitMEX requires margin to be posted against the short 50 XBUU14 contracts. BitMEX requires an initial margin of 30%, given short 50 XBUU14 contracts are worth 10 XBT (1/$500 * $100 * 50 Contracts), 3 XBT must be deposited as margin with BitMEX leaving 7 XBT for arbitrage purposes.
@@ -73,14 +73,14 @@ Notice that only 7 XBT could be used as working capital for the arbitrage opport
  
 Instead of withdrawing USD from exchange B and transferring again back to exchange A, a trader can play the spread between the two exchanges. Exchange A trades at $480, while exchange B trades at $500. The below steps describe how to spread trade.
  
-<ol><li>Deposit $5,000 onto exchange A; deposit 7 XBT onto exchange B<</li>
-<li>Buy 7 XBT on exchange A for a cost of $3,360 = 7 XBT * $480<</li>
-<li>Simultaneously sell 7 XBT on exchange B and receive $3,500<</li>
-<li>Prices on exchange A and B equalise at $500<</li>
-<li>Buy 7 XBT on exchange B for a cost of $3,500<</li>
-<li>Simultaneously sell 7 XBT on exchange A and receive $3,500<</li>
-<li>Exchange A now contains $5,140<</li>
-<li>Exchange B now contains 7 XBT<</li>
-<li>Wait for the spread between A and B to widen again and repeat<</li></ol>
+<ol><li>Deposit $5,000 onto exchange A; deposit 7 XBT onto exchange B</li>
+<li>Buy 7 XBT on exchange A for a cost of $3,360 = 7 XBT * $480</li>
+<li>Simultaneously sell 7 XBT on exchange B and receive $3,500</li>
+<li>Prices on exchange A and B equalise at $500</li>
+<li>Buy 7 XBT on exchange B for a cost of $3,500</li>
+<li>Simultaneously sell 7 XBT on exchange A and receive $3,500</li>
+<li>Exchange A now contains $5,140</li>
+<li>Exchange B now contains 7 XBT</li>
+<li>Wait for the spread between A and B to widen again and repeat</li></ol>
  
 The above trade has generated $140 in gross profit. USD deposit and exchange trading fees must be deducted. The result will be the net profit from this arbitrage trade. Spread trading does not require the withdrawal of USD from exchange B and subsequent deposit onto exchange A which reduces fees paid. However, traders must wait for the spread to collapse before the portfolio can be rebalanced.
