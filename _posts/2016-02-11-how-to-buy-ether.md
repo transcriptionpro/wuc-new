@@ -7,7 +7,7 @@ description: Learn how to buy ether online, with cash, with bitcoin, or with Pay
 published: true
 seotitle: How to Buy Ether (Ethereum)
 ---
-Although Ethereum has one of the largest cryptocurrency market caps, it's still fairly new. Not all exchanges support direct purchases of ether. In most cases buying bitcoins and trading for ether is the easiest way to get ether.  
+Although [Ethereum](/what-is-ethereum/) has one of the largest cryptocurrency market caps, it's still fairly new. Not all exchanges support direct purchases of ether. In most cases buying bitcoins and trading for ether is the easiest way to get ether.  
 
 With that said, there are still a few exchanges where you can buy ether without bitcoin: 
 

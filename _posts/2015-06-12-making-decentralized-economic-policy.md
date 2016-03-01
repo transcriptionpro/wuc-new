@@ -8,7 +8,7 @@ published: true
 
 ### Bitcoin block size, a change in economic policy
 
-The block size limit debate. This is the first major change in bitcoin economic policy since inception, Jan 2009. There is no perfect answer; as with most modern policy changes, any action ­ including inaction ­ generates winners and losers.
+The [block size](/why-blocksize-limit-keeps-bitcoin-free-decentralized/) limit debate. This is the first major change in bitcoin economic policy since inception, Jan 2009. There is no perfect answer; as with most modern policy changes, any action ­ including inaction ­ generates winners and losers.
 
 ### What is bitcoin? An existential question to answer.
 

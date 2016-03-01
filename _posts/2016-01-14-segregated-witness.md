@@ -24,7 +24,7 @@ Nicolas Bacca (btchip), an employee of Bitcoin security company Ledger, [announc
  
 ### breadwallet
 
-Aaron Voisine is the CEO and founder of breadwallet, perhaps the most popular Bitcoin wallet for iPhone. In an [interview with Bitcoin Magazine](https://bitcoinmagazine.com/articles/breadwallet-ceo-aaron-voisine-we-support-core-s-scalability-road-map-but-bitcoin-does-need-a-hard-fork-1452545148), Voisine stated that breadwallet will support SegWit.
+Aaron Voisine is the CEO and founder of [breadwallet](/breadwallet/), perhaps the most popular Bitcoin wallet for iPhone. In an [interview with Bitcoin Magazine](https://bitcoinmagazine.com/articles/breadwallet-ceo-aaron-voisine-we-support-core-s-scalability-road-map-but-bitcoin-does-need-a-hard-fork-1452545148), Voisine stated that breadwallet will support SegWit.
 
 ### Full List
 

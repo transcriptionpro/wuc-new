@@ -8,7 +8,7 @@ published: true
 ---
 
 <center><img src="/images/court.jpg" alt="court"></center>
-<img src="/images/charlie-shrem.png" alt="Charlie Shrem" align="right">Charlie Shrem, former CEO of <a href="/bitinstant/">BitInstant</a>, tells war stories about buying and selling bitcoins.
+<img src="/images/charlie-shrem.png" alt="Charlie Shrem" align="right">Charlie Shrem, former CEO of <a href="/bitinstant/">BitInstant</a>, tells war stories about buying and <a href="/how-to-sell-bitcoins/">selling bitcoins</a>.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/CYZjZh36_fA" frameborder="0" allowfullscreen></iframe>
 <p>
@@ -316,7 +316,7 @@ But when we have an exchange, you have one guy who says I want to sell ten bitco
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  And that's really what was so troublesome in the early days was establishing the trust.  But as the network effects of bitcoin take root.  And you like I’d got tons of friends now.  Like if I ever needed a –
+<strong>Trace Mayer:</strong>  And that's really what was so troublesome in the early days was establishing the trust.  But as <a href="/the-seven-network-effects-of-bitcoin/">the network effects of bitcoin</a> take root.  And you like I’d got tons of friends now.  Like if I ever needed a –
 
 </p><p>
 

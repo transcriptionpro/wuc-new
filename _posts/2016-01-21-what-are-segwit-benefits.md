@@ -69,7 +69,7 @@ Segwit resolves this by changing the calculation of the transaction hash for sig
 
 ### Who benefits?
 
-Removing the quadratic scaling of hashed data for verifying signatures makes increasing the block size safer. Doing that without also limiting transaction sizes allows Bitcoin to continue to support payments that go to or come from large groups, such as payments of mining rewards or crowdfunding services.
+Removing the quadratic scaling of hashed data for verifying signatures makes increasing the [block size](/why-blocksize-limit-keeps-bitcoin-free-decentralized/) safer. Doing that without also limiting transaction sizes allows Bitcoin to continue to support payments that go to or come from large groups, such as payments of mining rewards or crowdfunding services.
 
 The modified hash only applies to signature operations initiated from witness data, so signature operations from the base block will continue to require lower limits.
 

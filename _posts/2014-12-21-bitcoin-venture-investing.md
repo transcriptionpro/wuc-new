@@ -9,7 +9,7 @@ published: true
 
 <img src="/images/brock-pierce.png" alt="Brock Pierce" align="right">
 
-Brock Pierce is a partner at Crypto-Currency Partners. He is a founder of GoCoin, Investor in BitFury, Chairman on Mastercoin board and on the Board of Directors for Bitcoin Foundation.
+Brock Pierce is a partner at Crypto-Currency Partners. He is a founder of GoCoin, Investor in BitFury, Chairman on <a href="/what-is-mastercoin/">Mastercoin</a> board and on the Board of Directors for Bitcoin Foundation.
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cwjb6Iov_mc" frameborder="0" allowfullscreen></iframe>
 <p>

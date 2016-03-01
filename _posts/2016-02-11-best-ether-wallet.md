@@ -9,7 +9,7 @@ seotitle: Best Ethereum Wallets to Store Ether
 permalink: "/ethereum-wallets/"
 ---
 
-Ethereum is still quite new and has a smaller user than Bitcoin. Ether wallet options are somewhat limited, although its passionate user base has already created a few decent wallet options. 
+[Ethereum](/what-is-ethereum/) is still quite new and has a smaller userbase than Bitcoin. Ether wallet options are somewhat limited, although its passionate user base has already created a few decent wallet options. 
 
 ## Ethereum Wallet
 

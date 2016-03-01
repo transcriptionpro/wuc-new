@@ -19,7 +19,7 @@ published: true
 </ul>
 <h2>Transactions</h2>
 <ul>
-<li>Buy/sell bitcoins</li>
+<li>Buy/<a href="/how-to-sell-bitcoins/">sell bitcoins</a></li>
 <li>Send/receive bitcoins</li>
 </ul>
 <h2>Fees</h2>

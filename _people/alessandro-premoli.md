@@ -1,19 +1,32 @@
 ---
-title: Alessandro Premoli - CTO Bitgold
+title: Alessandro Premoli
 author: Alessandro Premoli - CTO Bitgold
+seotitle: Alessandro Premoli - CTO Bitgold
 authorurl: /alessandro-premoli/
 published: true
+img: /images/alessandro-premoli.png
+name: Alessandro Premoli
+position: CTO Bitgold
+education: Masters Degree in Informatics from the University of Milano-Bicocca
+experience: 
+short_desc: Alessandro "Alex" Premoli is the Chief Technology Officer of BitGold.
+long_desc: 
+affiliations: BitGold
+twitter: 
+github: 
+residence: Italy
 ---
+Alessandro "Alex" Premoli is the Chief Technology Officer of <a href="/bitgold/">BitGold</a>. He is the architect of the BitGold proprietary platform, and leads the BitGold development team in Milan, Italy. He is passionate about open-source projects and is an active committer to the FreeBSD Project under the moniker "Alex Dupre".
 
-<img src="/images/alessandro-premoli.png" alt="Alessandro Premoli" align="right">
-
-Alessandro "Alex" Premoli is the Chief Technology Officer of <a href="/bitgold/">BitGold</a>. He is the architect of the BitGold proprietary platform, and leads the BitGold development team in Milan, Italy.
+## History
 
 Over the last decade, he has developed encrypted storage and messaging systems for highly sensitive, data-intensive organizations, gaining comprehensive experience in security, cryptography and digital signature solutions.
 
-Alex has been an important member of the cryptocurrency community for several years and has been involved in the Ripple financial protocol since its early days.
+Alex has been an important member of the cryptocurrency community for several years and has been involved in the [Ripple financial protocol](/what-is-ripple/) since its early days.
 
-He is passionate about open-source projects and is an active committer to the FreeBSD Project under the moniker "Alex Dupre". He holds a Masters Degree in Informatics from the University of Milano-Bicocca.
+## Education
+ 
+He holds a Masters Degree in Informatics from the University of Milano-Bicocca.
 
 ## Article by Alessandro Premoli
 
@@ -23,8 +36,10 @@ He is passionate about open-source projects and is an active committer to the Fr
 
 ## BitGold Executive Management Team Members
 
-<ul><li><a href="/roy-sebag/">Roy Sebag</a> - Co-Founder and Chief Executive Officer</li>
-<li><a href="/josh-crumb/">Josh Crumb</a> - Co-Founder and Chief Strategy Officer</li>
-<li><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer</li>
-<li><a href="/alessandro-premoli/">Alessandro Premoli</a> - Chief Technology Officer</li>
-<li><a href="/daniel-crandall/">Daniel Crandall</a> - Chief Financial Officer</li></ul>
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'BitGold' and page.name != person.name %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>

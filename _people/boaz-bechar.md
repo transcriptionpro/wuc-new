@@ -1,10 +1,24 @@
 ---
 title: Boaz Bechar
+seotitle: Boaz Bechar - CEO & Founder, BlockTrail
 author: Boaz Bechar
 authorurl: https://www.weusecoins.com/boaz-bechar/
 published: true
+img: /images/boaz-bechar.png
+name: Boaz Bechar
+position: CEO & Founder, BlockTrail
+education: 
+experience: 
+short_desc: Boaz Bechar is the CEO and founder of BlockTrail.
+long_desc: 
+affiliations: BlockTrail
+twitter: boazeb
+github: 
+residence: 
+cats: [ ]
 ---
+Boaz Bechar is the CEO and founder of BlockTrail. He is an entrepreneur with over 10 years experience in leading tech startups. 
 
-<img src="/images/boaz-bechar.png" alt="Boaz Bechar" align="right">
+## History
 
-Boaz Bechar is the CEO and founder of BlockTrail, he is an entrepreneur with over 10 years experience in leading tech startups. Boaz previously co-founded consumer telecom service PokeTALK (acquired by VoxOX.com), as well as services and products for telecom, analytics and fraud detection.
+Boaz previously co-founded consumer telecom service PokeTALK (acquired by VoxOX.com), as well as services and products for telecom, analytics and fraud detection.

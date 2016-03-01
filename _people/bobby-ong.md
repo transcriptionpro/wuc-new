@@ -1,10 +1,23 @@
 ---
 title: Bobby Ong
+seotitle: Bobby Ong - Co-founder, CoinGecko
 author: Bobby Ong
 authorurl: http://www.weusecoins.com/bobby-ong
 published: true
+img: /images/bobby-ong.png
+name: Bobby Ong
+position: Co-founder, CoinGecko
+education: BSc. in Economics from University College London
+experience: 
+short_desc: Bobby Ong is the co-founder of CoinGecko.
+long_desc: 
+affiliations: CoinGecko
+twitter: bobbyong
+github: 
+residence: 
+cats: [ ]
+website: https://www.coingecko.com
 ---
+Bobby Ong is the co-founder of [CoinGecko](https://www.coingecko.com). He obtained his BSc. in Economics from University College London in 2012. He is also the curator of [AltcoinWeekly](http://www.altcoinweekly.com/), a weekly cryptocurrency newsletter.
 
-<img src="/images/bobby-ong.png" alt="Bobby Ong" align="right">Bobby Ong is the co-founder of <a href="https://www.coingecko.com">CoinGecko</a>. He obtained his BSc. in Economics from University College London in 2012. He is also the curator of <a href="http://www.altcoinweekly.com/">AltcoinWeekly</a>, a weekly cryptocurrency newsletter.
-
-Bobby got interested in Bitcoin after about hearing about it during the 2013 Cyprus financial crisis. You may follow him on Twitter at <a href="https://twitter.com/bobbyong">@bobbyong</a>.
+Bobby got interested in Bitcoin after about hearing about it during the 2013 Cyprus financial crisis. You may follow him on Twitter at [@bobbyong](https://twitter.com/bobbyong).

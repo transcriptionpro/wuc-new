@@ -20,11 +20,11 @@ During this lesson we will refer to the “cheap exchange” as exchange A, and 
  
 The arbitraging of spot exchange requires traders to buy XBT cheaply on exchange A, and sell XBT expensive on exchange B simultaneously. If a trader started with just USD the following steps would have to be taken to conduct the arbitrage:
  
-<ol><li>Wire USD to exchange A/li>
-<li>Sell USD buy XBT/li>
-<li>Transfer XBT to exchange B, wait for 1-6 confirmations/li>
-<li>Sell XBT for USD on exchange B/li>
-<li>Remit USD from exchange B to home bank account/li>
+<ol><li>Wire USD to exchange A</li>
+<li>Sell USD buy XBT</li>
+<li>Transfer XBT to exchange B, wait for 1-6 confirmations</li>
+<li>Sell XBT for USD on exchange B</li>
+<li>Remit USD from exchange B to home bank account</li>
 <li>Repeat</li></ol>
 
 There are several problems with that trade flow. Wiring USD can take upwards of 5 business days depending on the bank and country. By the time the funds reach exchange A, the arbitrage opportunity could have disappeared. In step 3, the <a href="/en/bitcoin-price/">price of XBT</a> could move against the trader before he is able to sell on exchange B.

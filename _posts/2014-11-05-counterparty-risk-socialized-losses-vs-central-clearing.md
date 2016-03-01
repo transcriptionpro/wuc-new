@@ -8,7 +8,7 @@ published: true
 
 ### Counterparty Risk
 
-When trading Bitcoin, aside from price volatility, counterparty risk is a trader’s next biggest risk. The spectacular implosion of MtGox and other cryptocurrency exchanges remind the community why it needs to stay vigilant. With the addition of leverage, traders on derivatives exchanges need take even greater care.
+When trading Bitcoin, aside from [price volatility](/bitcoin-volatility-as-an-asset-class/), counterparty risk is a trader’s next biggest risk. The spectacular implosion of MtGox and other cryptocurrency exchanges remind the community why it needs to stay vigilant. With the addition of leverage, traders on derivatives exchanges need take even greater care.
 
 Derivatives exchanges offer products whose value depends on a third-party event. At settlement, losers must have enough funds to cover winners or else someone is shortchanged. To mitigate this risk, exchanges require traders to hold a minimum amount of equity vs. the total value of their outstanding positions. This is called margin. When a trader’s equity drops below a minimum margin level, a margin call is issued and the exchange force liquidates a trader’s positions. Problems arise if the exchange is unable to close a trader’s positions before their margin level drops below 0. Bitcoin derivatives exchanges have chosen two methods to handle this issue, socialised losses, and central clearing.
 

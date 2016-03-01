@@ -15,7 +15,7 @@
 ## Hardware
 
  - wallet: Ledger Nano
-   description: <p>The Ledger Nano is a smartcard based hardware wallet. Private keys are generated and signed offline in the smartcard’s secure environment. The Nano is setup using the Ledger Chrome Application. A random 24-word seed is generated upon setup and backed offline by writing it down on a piece of paper. In case of theft, damage or loss, the entire wallet can be recreated with the seed. A user selected PIN code is also assigned to the device to protect against physical theft or hacking.</p><p>The Ledger Nano may be used on any computer, or Android phones with Mycelium or GreenBits.</p> 
+   description: <p>The <a href="/bitcoin-ledger-wallet-review/">Ledger Nano</a> is a smartcard based hardware wallet. Private keys are generated and signed offline in the smartcard’s secure environment. The Nano is setup using the Ledger Chrome Application. A random 24-word seed is generated upon setup and backed offline by writing it down on a piece of paper. In case of theft, damage or loss, the entire wallet can be recreated with the seed. A user selected PIN code is also assigned to the device to protect against physical theft or hacking.</p><p>The Ledger Nano may be used on any computer, or Android phones with Mycelium or GreenBits.</p> 
    category: hardware
    buy: http://buybitcoinww.co/ledger_nano
    img: ledger
@@ -55,7 +55,7 @@
 ## Mobile - Android
 
  - wallet: Mycelium (Android)
-   description: Mycelium is a favorite among experienced Bitcoin users. It’s an HD wallet with many advanced features, like support for hardware wallets TREZOR and Ledger, watch-only accounts, cold storage spending, and Tor. 
+   description: <a href="/how-to-use-mycelium-bitcoin-wallet/">Mycelium</a> is a favorite among experienced Bitcoin users. It’s an HD wallet with many advanced features, like support for hardware wallets TREZOR and Ledger, watch-only accounts, cold storage spending, and Tor. 
    category: mobileandroid
    download: https://play.google.com/store/apps/details?id=com.mycelium.wallet
    img: mycelium
@@ -67,7 +67,7 @@
    img: bitcoinwallet
 
  - wallet: Airbitz
-   description: <p>AirBitz is another Bitcoin wallet that’s great for everyday use. It’s integrated with Fold, meaning you can get 20% discounts at Starbucks from within the wallet.</p><p>Airbitz manages accounts with usernames and passwords, but doesn’t have access to your funds. This type of account creation is easier for less technical users who may have trouble backing up or understanding HD seeds.</p>
+   description: <p><a href="/airbitz/">AirBitz</a> is another Bitcoin wallet that’s great for everyday use. It’s integrated with Fold, meaning you can get 20% discounts at Starbucks from within the wallet.</p><p>Airbitz manages accounts with usernames and passwords, but doesn’t have access to your funds. This type of account creation is easier for less technical users who may have trouble backing up or understanding HD seeds.</p>
    category: mobileandroid
    download: https://play.google.com/store/apps/details?id=com.airbitz&hl=en
    img: airbitz2
@@ -81,7 +81,7 @@
 ## Mobile - iOS
 
  - wallet: breadwallet
-   description: Breadwallet’s combination of simplicity and security has made it the most popular iOS wallet. iPhone users in search of their first Bitcoin wallet should find Breadwallet easy to understand. 
+   description: Breadwallet’s combination of simplicity and security has made it the most popular iOS wallet. iPhone users in search of their first Bitcoin wallet should find <a href="/breadwallet/">Breadwallet</a> easy to understand. 
    category: mobileios 
    download: https://itunes.apple.com/il/app/breadwallet-bitcoin-wallet/id885251393?mt=8
    img: breadwallet2

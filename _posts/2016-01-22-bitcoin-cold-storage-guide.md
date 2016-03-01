@@ -100,7 +100,7 @@ Hardware wallets are backed up using HD seeds and also written on paper. Hardwar
  
 Some wallets like TREZOR allow users to add an additional custom word to the HD seed that will prevent someone who finds your seed from stealing your funds. The downside is that the passphrase must be memorized. In the case that it's forgotten the passphrase cannot be recovered. It's a passphrase and not a password. 
 
-The three most popular hardware wallets on the market are the Ledger Nano, KeepKey, and TREZOR. 
+The three most popular hardware wallets on the market are the [Ledger Nano](/bitcoin-ledger-wallet-review/), KeepKey, and TREZOR. 
 
 **Ledger Nano:** [Ledger Nano](https://www.ledgerwallet.com/products/1-ledger-nano) is Ledger's flagship hardware wallet. It's a smartcard wallet in USB form factor, meaning it can be plugged in directly to any computer's USB port. The downside to the Nano is that it lacks a screen and must be initialized on a secure computer or operating system. Ledger offers its own Ledger Starter which will let you boot from a secure OS and initialize your device if you don’t have a dedicated offline computer. 
 

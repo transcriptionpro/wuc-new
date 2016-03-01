@@ -8,7 +8,7 @@ published: true
 
 <p>Principal Investigator: Greg Maxwell
 
-<p>One of the most powerful new features being explored in [Elements](https://blockstream.com/developers/) is Confidential Transactions, a cryptographic tool to improve the privacy and security of Bitcoin. This feature keeps the amounts transferred visible only to participants in the transaction (and those they designate).
+<p>One of the most powerful new features being explored in [Elements](https://blockstream.com/developers/) is Confidential Transactions, a cryptographic tool to <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">improve the privacy</a> and security of Bitcoin. This feature keeps the amounts transferred visible only to participants in the transaction (and those they designate).
 
 <p>The security of the Bitcoin ledger is made possible by universal verification: each participant individually and autonomously verifies that each transaction is valid, without trusting any third party. An unfortunate side effect is that all the transaction data must be conspicuously public so it can be verified, which is at odds with the normal expectation of privacy for traditional monetary instruments.
 

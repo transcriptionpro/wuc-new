@@ -7,4 +7,4 @@ I have seemingly dedicated my life to cryptocurrencies and block chain technolog
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/o2SfJvCrcR4" frameborder="0" allowfullscreen></iframe>
 
-I believe [alt-coins](/en/alt-coins/), such as Dogecoin, serve an incredibly important service in bringing new individuals into this ecosystem. When I speak to young students in my network, rarely was the first cryptocurrency they received bitcoin. More often, it was <a href=/what-is-litecoin/>Litecoin</a> or <a href=/what-is-dogecoin/>Dogecoin</a> that got them hooked on this technology.
+I believe [alt-coins](/en/alt-coins/), such as Dogecoin, serve an incredibly important service in bringing new individuals into this ecosystem. When I speak to young students in my network, rarely was the first cryptocurrency they received bitcoin. More often, it was [Litecoin](/what-is-litecoin/) or [Dogecoin](/what-is-dogecoin/) that got them hooked on this technology.
