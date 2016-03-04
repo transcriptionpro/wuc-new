@@ -11,7 +11,7 @@ education:
 experience: 
 short_desc: 
 long_desc: 
-affiliations: BitGold
+affiliations: [BitGold]
 twitter: 
 github: 
 residence: 

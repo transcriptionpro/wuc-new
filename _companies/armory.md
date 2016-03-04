@@ -48,3 +48,11 @@ published: true
 <strong>TRACE MAYER, J.D.</strong>, STRATEGY
 <p><img src="/images/trace-mayer.png" alt="Trace Mayer" align="right" height="200" width="200"><a title="Trace Mayer" href="http://www.tracemayer.net" target="_blank">Trace Mayer</a> hosts the <a title="Bitcoin Knowledge Podcast" href="http://www.bitcoin.kn" target="_blank">Bitcoin Knowledge Podcast</a>, is an early Bitcoin thought leader, maintainer of <a title="We Use Coins" href="https://www.weusecoins.com" target="_blank">We Use Coins</a>, entrepreneur, monetary scientist and investor with companies such as <a title="bitpay" href="http://www.bitpay.com" target="_blank">BitPay</a> and <a title="Kraken" href="http://www.kraken.com" target="_blank">Kraken</a>.</p>
 <p>He led the Armory seed round and holds accounting and law degrees and has studied Austrian economics.
+
+<h2>Venture Capital Rounds</h2>
+
+{% for company in site.data.companies %}
+{% if company.company == 'Armory Technologies' %}
+{% include company_list.html %}
+{% endif %}
+{% endfor %}

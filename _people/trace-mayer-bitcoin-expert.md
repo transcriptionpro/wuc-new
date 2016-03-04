@@ -4,6 +4,19 @@ author: Trace Mayer, J.D.
 authorurl: https://www.tracemayer.net
 published: true
 img: /images/trace-mayer.png
+seotitle: Trace Mayer - Bitcoin Expert
+name: Trace Mayer
+position: Bitcoin Expert
+education: Degrees in Accounting and Law
+experience: 
+short_desc: An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech.
+long_desc: 
+affiliations: [BitPay, Armory, Kraken, Bitcoin Knowledge]
+twitter: tracemayer
+github: sunnankar
+residence: 
+cats: [ ]
+website: https://tracemayer.net
 ---
 
 <a class="social-link" href="https://twitter.com/tracemayer" target="_blank">Twitter</a> <a class="social-link" title="Trace Mayer" href="https://www.linkedin.com/in/tracemayer" target="_blank">LinkedIn</a>

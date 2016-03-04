@@ -6,10 +6,9 @@ authorurl: https://www.weusecoins.com
 description: Bitcoin Ledget Wallet review and how to use the Bitcoin Ledget Walletthe.
 published: true
 ---
+<p><a href="https://www.ledgerwallet.com/r/4727" target="_blank" rel="nofollow"><img class="aligncenter" src="/images/ledger-wallet.jpg" alt="bitcoin ledger wallet nano review"/></a></p>
 
-<center><a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a></center>
-
-### Review of the Bitcoin Ledger Wallet Nano
+<h3>Review of the Bitcoin Ledger Wallet Nano</h3>
 
 <p><strong>Description:</strong> A USB bitcoin hardware wallet with smartcard security in a very compact package.</p>
 <p><strong>Maker:</strong> Ledger SAS</p>

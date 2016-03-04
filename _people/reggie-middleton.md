@@ -1,6 +1,19 @@
 ---
 title: Reggie Middleton
 img: /images/reggie-middleton.png
+seotitle: Reggie Middleton - Ultra-coin
+name: Reggie Middleton
+position: Ultra-coin
+education: Bachelor's Degree in Business Management
+experience: 
+short_desc: 
+long_desc: 
+affiliations: [Ultra-coin]
+twitter: reggiemiddleton
+github: 
+residence: 
+cats: [ ]
+website: http://veritaseum.com
 ---
 
 Reggie Middleton is an entrepreneurial investor involved with Ultra-coin who guides a small team of independent analysts to uncover truths, seldom if, ever published in the mainstream media or Wall Street analyst reports.

@@ -1,12 +1,23 @@
 ---
-title: Josh Crumb - CSO Bitgold
+title: Josh Crumb
 author: Josh Crumb - CSO Bitgold
 authorurl: /josh-crumb/
 published: true
+seotitle: Josh Crumb - CSO Bitgold
+img: /images/josh-crumb.png
+name: Josh Crumb
+position: CSO Bitgold
+education: Master of Science degree in Mineral Economics, Bachelor of Science degree in Engineering from the Colorado School of Mines
+experience: 
+short_desc: Josh Crumb is the co-founder and Chief Strategy Officer of BitGold.
+long_desc: 
+affiliations: [Bitgold]
+twitter: 
+github: 
+residence: 
+cats: [ ]
+website: 
 ---
-
-<img src="/images/josh-crumb.png" alt="Josh Crumb" align="right">
-
 Josh Crumb is the co-founder and Chief Strategy Officer of <a href="/bitgold/">BitGold</a>.
 
 He is an entrepreneur with a background in early stage global businesses.
@@ -28,8 +39,10 @@ He holds a Master of Science degree in Mineral Economics, a Graduate Certificate
 
 ## BitGold Executive Management Team Members
 
-<ul><li><a href="/roy-sebag/">Roy Sebag</a> - Co-Founder and Chief Executive Officer</li>
-<li><a href="/josh-crumb/">Josh Crumb</a> - Co-Founder and Chief Strategy Officer</li>
-<li><a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Operating Officer</li>
-<li><a href="/alessandro-premoli/">Alessandro Premoli</a> - Chief Technology Officer</li>
-<li><a href="/daniel-crandall/">Daniel Crandall</a> - Chief Financial Officer</li></ul>
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'BitGold' and page.name != person.name %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>

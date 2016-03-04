@@ -50,3 +50,11 @@ This process allows merchants to accept Bitcoin without a Bitcoin wallet or any 
 ## BitPay Team
 
 <p><img align="right" alt="Tony Gallippi" src="/images/tony-gallippi.png">Tony Gallippi is the co-founder and executive chairman of Bitpay. Tony has 20 years of experience in Sales and Marketing in the Robotics and Financial industries. Tony has a Bachelor's degree in Mechanical Engineering from Georgia Tech.</p>
+
+## Venture Capital Rounds
+
+{% for company in site.data.companies %}
+{% if company.company == 'BitPay' %}
+{% include company_list.html %}
+{% endif %}
+{% endfor %}

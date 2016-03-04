@@ -46,3 +46,11 @@ img: /images/company/coinbase-logo.png
 <li><b>Not</b> intended to be used for trading</li>
 <li>Will occasionally cancel orders for 'high-risk' behavior (suspected motive is really to not honor the price)</li>
 </ul>
+
+<h2>Venture Capital Rounds</h2>
+
+{% for company in site.data.companies %}
+{% if company.company == 'Coinbase' %}
+{% include company_list.html %}
+{% endif %}
+{% endfor %}
