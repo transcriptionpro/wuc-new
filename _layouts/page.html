@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="page">
+<article class="page {% if page.position %}person-page{% endif %}">
 
   <h1>{{ page.title }}{% if page.position %} - {{ page.position }}{% endif %}</h1> 
 

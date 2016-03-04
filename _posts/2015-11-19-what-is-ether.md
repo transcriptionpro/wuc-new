@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Is Ethere?
+title: What Is Ether?
 author: Vitalik Buterin
 authorurl: /vitalik-buterin/
 published: true

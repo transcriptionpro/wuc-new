@@ -7,13 +7,14 @@ education: Ph.D. in Computer Science from University of Leuven
 experience: 
 short_desc: Peter Wuille is a Bitcoin Core developer and the co-founder of Blockstream.
 long_desc: 
-affiliations: Bitcoin Core, Blockstream
+affiliations: [Bitcoin Core, Blockstream]
 twitter: pwuille
 github: sipa
 residence: Switzerland
 website: http://bitcoin.sipa.be/
+seotitle: Pieter Wuille - Bitcoin Core Developer
 ---
-Peter Wuille is a Bitcoin Core developer and the co-founder of Blockstream. He is #2 in terms of commits to Bitcoin Core and is responsible for important improvements to Bitcoin like [BIP 66](https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki), [libsecp256k1](https://github.com/bitcoin/secp256k1), and [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki). 
+Peter Wuille is a [Bitcoin Core](/bitcoin-core/) developer and the co-founder of Blockstream. He is #2 in terms of commits to Bitcoin Core and is responsible for important improvements to Bitcoin like [BIP 66](https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki), [libsecp256k1](https://github.com/bitcoin/secp256k1), and [Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki). 
 
 ## Bitcoin Core
 
@@ -36,3 +37,13 @@ Early Bitcoin investor [Trace Mayer](/trace-mayer-bitcoin-expert/) called SegWit
 A presentation on Segregated Witness. 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NOYNZB5BCHM" frameborder="0" allowfullscreen></iframe>
+
+## More Bitcoin Core Developers
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'Bitcoin Core' and page.name != person.name %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>

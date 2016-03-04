@@ -3,11 +3,24 @@ title: Peter Kirby
 author: Nicola Minichiello
 authorurl: https://www.weusecoins.com/nicola-minichiello
 published: true
+seotitle: Peter Kirby
+img: /images/peter-kirby.png
+name: Peter Kirby
+position: CEO, Factom
+education: Degree in Biochemistry from Lehigh University, MBA in Entrepreneurship from Acton School of Business
+experience: 
+short_desc: Peter Kirby is the CEO of Factom. 
+long_desc: 
+affiliations: [Factom]
+twitter: petermkirby
+github: 
+residence: 
+cats: [ ]
+website: 
 ---
-<img src="https://www.weusecoins.com/images/peter-kirby.png" alt="Peter Kirby" align="right"><a title="Peter Kirby" href="https://twitter.com/petermkirby" target="_blank">Peter Kirby</a> is a seasoned executive with over twenty years of sales experience in the computer software, pharmaceuticals and real estate investment. Peter has a degree in Biochemistry from Lehigh University, and an MBA in Entrepreneurship from Acton School of Business. He works with leaders in financial services, government and law to address the most complex data security issues around the globe. 
-<p>
+Peter Kirby is a seasoned executive with over twenty years of sales experience in the computer software, pharmaceuticals and real estate investment. Peter has a degree in Biochemistry from Lehigh University, and an MBA in Entrepreneurship from Acton School of Business. He works with leaders in financial services, government and law to address the most complex data security issues around the globe. 
+
 Peter has spent the past 15 years involved in numerous successful early-stage tech companies, and possesses a deep knowledge of business development and community-based marketing in the technology sector. As a leader in the blockchain space, Peter has led multi-million dollar operations and was the driving force behind delivering major products to market. Peter’s expertise has made him a sought-after speaker across the world, as well as a trusted source to leading outlets such as The Wall Street Journal, Financial Times and numerous other industry trade publications.
-<p>
 
 ### Videos
 

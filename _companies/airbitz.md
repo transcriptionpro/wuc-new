@@ -107,3 +107,11 @@ Tim has no turned his interested to all things crypto. When he isn't hashing and
     <li>Georgetown Law & University of Pennsylvania</li>
   </ul>
 </p>
+
+<h2>Venture Capital Rounds</h2>
+
+{% for company in site.data.companies %}
+{% if company.company == 'Airbitz' %}
+{% include company_list.html %}
+{% endif %}
+{% endfor %}

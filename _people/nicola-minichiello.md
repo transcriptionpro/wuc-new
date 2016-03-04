@@ -3,13 +3,24 @@ title: Nicola Minichiello
 author: Nicola Minichiello
 authorurl: https://www.weusecoins.com/nicola-minichiello/
 published: true
+seotitle: Nicola Minichiello - Community Director, Factom
+img: /images/nicola-minichiello.png
+name: Nicola Minichiello
+position: Community Director, Factom
+education: 
+experience: 
+short_desc: Nicola Minichiello is the Community Director of Factom.
+long_desc: 
+affiliations: [Factom, Storj, Swarm]
+twitter: colortwits
+github: 
+residence: 
+cats: [ ]
+website: 
 ---
-<img src="/images/nicola-minichiello.png" alt="Nicola Minichiello" align="right">
+Nicola Minichiello (Nic) is originally Italian but relocated to London, UK 18 years ago where he works and lives since. Born to get things done, he is an experienced “factotum”, skilled and proficient in many fields. He is currently a VP of Marketing and Communications, a Community Director, a Project and Operations Manager, for some of the top Bitcoin 2.0 projects. 
 
-<a title="Nicola Minichiello" href="https://twitter.com/colortwits" target="_blank">Nicola Minichiello</a> (Nic) is originally Italian but relocated to London, UK 18 years ago where he works and lives since. Born to get things done, he is an experienced “factotum”, skilled and proficient in many fields. He is currently a VP of Marketing and Communications, a Community Director, a Project and Operations Manager, for some of the top Bitcoin 2.0 projects. 
-
-Nic is an active team member at <a href="http://storj.io">Storj</a>, <a href="http://factom.org">Factom</a>, <a href="http://synereo.com">Synereo</a>, <a href="http://swarm.fund">Swarm</a>, <a href="http://vanbex.com">Vanbex Group</a>, and collaborates on a number of other projects. He is a Senior Technology Specialist at the Financial Times where he has worked for over 15 years. An Apple Certified Technical Coordinator with experience in Data Center, Cloud Computing, Video Production, Data Storage, and Media Asset Management. Nic studied Computer Science at the University of Pisa, Italy.
-
+Nic is an active team member at [Storj](http://storj.io), [Factom](http://factom.org), [Synereo](http://synereo.com), [Swarm](http://swarm.fund), [Vanbex Group](http://vanbex.com), and collaborates on a number of other projects. He is a Senior Technology Specialist at the Financial Times where he has worked for over 15 years. An Apple Certified Technical Coordinator with experience in Data Center, Cloud Computing, Video Production, Data Storage, and Media Asset Management. Nic studied Computer Science at the University of Pisa, Italy.
 
 ### Videos:
 

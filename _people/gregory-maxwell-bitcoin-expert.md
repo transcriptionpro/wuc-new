@@ -1,5 +1,6 @@
 ---
 title: Gregory Maxwell
+seotitle: Gregory Maxwell - CTO, Blockstream
 published: true
 name: Gregory Maxwell
 position: CTO, Blockstream
@@ -14,7 +15,7 @@ residence:
 img: /images/gregory-maxwell.png 
 cats: [bitcoin developer]
 ---
-Gregory Maxwell is a Bitcoin core developer and Co-Founder and Chief Technology Officer of Blockstream.
+Gregory Maxwell is a [Bitcoin Core](/bitcoin-core/) developer and Co-Founder and Chief Technology Officer of Blockstream.
 
 ## Sidechains
 
@@ -39,3 +40,13 @@ For many in the Bitcoin community, Greg is likely the person telling you that yo
 A presentation on sidechains from the SF Bitcoin Dev Meetup:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/9pyVvq-vrrM" frameborder="0" allowfullscreen></iframe>
+
+## More Bitcoin Core Developers
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'Bitcoin Core' and page.name != person.name %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
