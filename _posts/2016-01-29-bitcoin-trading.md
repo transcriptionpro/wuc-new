@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitcoin Trading How-to Guide & Strategies
+title: Bitcoin Trading How-to Guide and Strategies
 author: Jordan Tuwiner
 authorurl: /jordan-tuwiner/
 description: Learn how to trade Bitcoin in this Bitcoin trading guide.   
@@ -14,6 +14,10 @@ Bitcoin’s history of bubbles and [volatility](/bitcoin-volatility-as-an-asset-
 Each time Bitcoin’s price rises, new investors and speculators want their share of profits. Because Bitcoin is global and easy to send anywhere, trading bitcoin is simple.
 
 Compared to other financial instruments, Bitcoin trading has very little barrier to entry. If you already own bitcoins, you can start trading almost instantly. In many cases, verification isn’t even required in order to trade.  
+
+If you are interested in trading Bitcoin then there are many online trading companies offering this product usually as a contract for difference or CFD.
+
+Avatrade offers 20 to 1 leverage and good trading conditions on its <a href="http://www.avatrade.com/trading-info/range-of-markets/bitcoin">Bitcoin CFD trading program</a>.
 
 ## Why Trade Bitcoin?
 
