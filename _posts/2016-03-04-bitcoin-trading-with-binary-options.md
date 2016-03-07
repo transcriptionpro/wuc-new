@@ -39,19 +39,19 @@ toc:
 
 <img src="/images/bitcoin-trading-with-binary-options-2.jpg" width="700" height="394" alt="How to trade Bitcoin binary options"/>
 
-<h2 id="trading">Bitcoin trading with Binary Options</h2>
+<h2 id="trading">Bitcoin trading with binary options</h2>
 
-<p>Quite simply, Bitcoin trading with Binary Options refers to betting on whether the Bitcoin price will go up or down when paired with the US$.
+<p>Quite simply, Bitcoin trading with binary options refers to betting on whether the Bitcoin price will go up or down when paired with the US$.
 
 <p>Binary Options are popular, partly because they are easy to use and don’t require a lot of maintenance. You don’t need to follow every fluctuation in price, as you're only invested on the value going up or down.
 
-<p>So too, Bitcoin trading with Binary Options is quite simple. You simply call or put on Bitcoin, input the amount you're investing and the time frame over which you're predicting, and choose the instruments you're using.
+<p>So too, Bitcoin trading with binary options is quite simple. You simply call or put on Bitcoin, input the amount you're investing and the time frame over which you're predicting, and choose the instruments you're using.
 
 <h2 id="earn">How much can you earn?</h2>
 
-<p>Binary Options can earn you a lot of money. You also stand to lose your entire investment. If the price goes beyond your target price when choosing a call option, you'll get up to 85% ROI. If not, you'll lose 100% of your investment.
+<p>Binary options can earn you a lot of money. You also stand to lose your entire investment. If the price goes beyond your target price when choosing a call option, you'll get up to 85% ROI. If not, you'll lose 100% of your investment.
 
-<p>This is the downside to Binary Options, with Bitcoin or any other trades. Instead of risking devaluation of your money, you're risking it all. However, it is not as risky as trading on leverage, for example, with which you stand to lose more than you invested.
+<p>This is the downside to binary options, with Bitcoin or any other trades. Instead of risking devaluation of your money, you're risking it all. However, it is not as risky as trading on leverage, for example, with which you stand to lose more than you invested.
 
 <h2 id="started">Get started now</h2>
 
