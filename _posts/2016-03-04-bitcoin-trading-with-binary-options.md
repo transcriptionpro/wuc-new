@@ -57,4 +57,4 @@ toc:
 
 <p>Binary Options trading is simple, and can be accessed by beginners and experts alike. Trading on Bitcoin is as simple as any other currency or asset. This seems to be the future of trading, and it’s certainly worth a look.
 
-<p>Get trading <a href="http://www.anyoption.com/">binary options</a> today. Be responsible, and you'll be sure to reap what you sow.
+<p>Get trading binary options today. Be responsible, and you'll be sure to reap what you sow.
