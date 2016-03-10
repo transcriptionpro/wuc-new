@@ -1,4 +1,23 @@
+/**
+ * Chart types:
+ * price, priceUSD, priceEUR, priceCNY - requires div "price-chart-" + currency
+ * transactionsPerDay - requires div "transactions-per-day-chart"
+ *
+ * Charts are added by adding a "charts" array to the front matter of the page and also adding the respective container div.
+ */
+
 Chart.defaults.global.responsive = true;
+Chart.types.Line.extend({
+    name: "LineCompact",
+    initialize: function (data) {
+        Chart.types.Line.prototype.initialize.apply(this, arguments);
+        var xLabels = this.scale.xLabels;
+        xLabels.forEach(function (label, i) {
+            if (i % 2 === 0)
+                xLabels[i] = '';
+        });
+    }
+});
 
 Date.prototype.chartLabel = function() {
 var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
@@ -66,7 +85,7 @@ var BitcoinCharts = {
         chartData['datasets'][0]['data'].push(value);
       });
     }).done(function(){
-      var transactionsPerDayChart = new Chart(ctx).Line(chartData, chartOptions);
+      var transactionsPerDayChart = new Chart(ctx).LineCompact(chartData, chartOptions);
     });
   },
 
@@ -110,11 +129,12 @@ var BitcoinCharts = {
 
       $.each(tmpValues, function(){
         chartData['labels'].push(new Date(this['timestamp'] * 1000).chartLabel());
+        //chartData['labels'] = ['January', '', '', 'February', '', '', 'March'];
         chartData['datasets'][0]['data'].push(this['l']);
         chartData['datasets'][1]['data'].push(this['h']);
       });
     }).done(function(){
-      var priceChart = new Chart(ctx).Line(chartData, chartOptions);
+      var priceChart = new Chart(ctx).LineCompact(chartData, chartOptions);
     });
   }
 };
