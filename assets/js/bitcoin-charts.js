@@ -17,16 +17,66 @@ var BitcoinCharts = {
       case 'price':
         this.createPriceChart();
         break;
+      case 'priceUSD':
+        this.createPriceChart('usd');
+        break;
+      case 'priceEUR':
+        this.createPriceChart('eur');
+        break;
+      case 'priceCNY':
+        this.createPriceChart('cny');
+        break;
+      case 'transactionsPerDay':
+        this.createTransationsPerDayChart();
+        break;
       default:
         console.error('Chart type does not exist: ' + chart);
         break;
     }
   },
-  createPriceChart: function(){
+
+  createTransationsPerDayChart: function(){
     var chartOptions = {
           scaleShowHorizontalLines: false,
+          scaleShowVerticalLines: false
+        },
+        chartData = {
+          labels: [],
+          datasets: [
+            {
+              label: 'Transactions per day',
+              fillColor: "rgba(220,220,220,0.2)",
+              strokeColor: "rgba(220,220,220,1)",
+              pointColor: "rgba(220,220,220,1)",
+              pointStrokeColor: "#fff",
+              pointHighlightFill: "#fff",
+              pointHighlightStroke: "rgba(220,220,220,1)",
+              data: []
+            }
+          ]
+        },
+        ctx = $("#transactions-per-day-chart").get(0).getContext("2d");
+
+    $.getJSON('https://api.kaiko.com/v1/stats/transactions-per-day?json=true&from=2016-01-01', function(data){
+      $.each(data.dates.reverse(), function(index, value){
+        chartData['labels'].push(new Date(value).chartLabel());
+      });
+
+      $.each(data.values.reverse(), function(index, value){
+        chartData['datasets'][0]['data'].push(value);
+      });
+    }).done(function(){
+      var transactionsPerDayChart = new Chart(ctx).Line(chartData, chartOptions);
+    });
+  },
+
+  createPriceChart: function(currency){
+    var currency = currency || 'usd',
+        exchange = (currency == 'usd' || currency == 'eur' ? 'coinbase' : 'btcchina')
+        chartOptions = {
+          scaleShowHorizontalLines: false,
           scaleShowVerticalLines: false,
-          multiTooltipTemplate: "<%if (datasetLabel){%><%=datasetLabel%>: <%}%>$<%= value %>",
+          multiTooltipTemplate: "<%if (datasetLabel){%><%=datasetLabel%>: <%}%>" + (currency == 'usd' ? '$' : '' ) + "<%= value %>" + (currency == 'eur' ? '€' : (currency == 'cny' ? 'CNY' : '')),
         },
         chartData = {
           labels: [],
@@ -53,12 +103,10 @@ var BitcoinCharts = {
             }
           ]
         },
-        exchange,
-        ctx = $("#price-chart").get(0).getContext("2d");
+        ctx = $("#price-chart-" + currency).get(0).getContext("2d");
 
-    $.getJSON('https://api.kaiko.com/v1/history/exchanges?exchanges=coinbase', function(data){
-      exchange = Object.keys(data)[0];
-      var tmpValues = data[exchange][Object.keys(data[exchange])[0]].reverse();
+    $.getJSON('https://api.kaiko.com/v1/history/exchanges?exchanges=' + exchange, function(data){
+      var tmpValues = data[exchange]['btc' + currency].reverse();
 
       $.each(tmpValues, function(){
         chartData['labels'].push(new Date(this['timestamp'] * 1000).chartLabel());

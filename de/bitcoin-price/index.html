@@ -1,11 +1,23 @@
 ---
-
+toc:
+  20092012: 2009-2012 - The Early Days
+  2013: 2013 - The Insane Bitcoin Price
+  2014: 2014 - The Long Grind
+  2015: 2015 - Continued Building
+  conclusion: Conclusion
+charts:
+  - priceEUR
+  - transactionsPerDay
 ---
 
-{% include widget_price.html %}
-<h1><b>Bitcoin Price</b></h1>
-The Bitcoin price has been highly unpredictable but has proven to be one of the best speculations ever with multiple years having returns in excess of 5,000% each.
+<h1><b>Bitcoin Price</b> | Bitcoin Value</h1>
+<canvas id="price-chart-eur" class="chart" height="150" style="width:100%;"></canvas>
+<canvas id="transactions-per-day-chart" class="chart" height="150" style="width:100%;"></canvas>
+<p>The Bitcoin price has been highly unpredictable but has proven to be one of the best speculations ever with multiple years having returns in excess of 5,000% each.
 
+{% include widget_price.html %}
+
+{% include page-toc.html %}
 <h3>2009-2012 - The Early Days</h3>
 When Satoshi released the software in January 2009 there was no Bitcoin price. On <a href="http://www.runtogold.com/bookofsatoshi">Aug. 27, 2010</a> he proposed:
 <p>
