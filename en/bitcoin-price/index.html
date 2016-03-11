@@ -1,17 +1,19 @@
 ---
 layout: default
 title: Bitcoin Price
-toc: 
+toc:
   20092012: 2009-2012 - The Early Days
   2013: 2013 - The Insane Bitcoin Price
   2014: 2014 - The Long Grind
   2015: 2015 - Continued Building
   conclusion: Conclusion
+charts:
+  - price
 ---
 
 
 <h1><b>Bitcoin Price</b> | Bitcoin Value</h1>
-<center><img src="http://bitcoincharts.com/charts/chart.png?width=940&m=bitstampUSD&SubmitButton=Draw&r=730&i=&c=0&s=&e=&Prev=&Next=&t=C&b=&a1=SMA&m1=50&a2=SMA&m2=200&x=0&i1=&i2=&i3=&i4=&v=1&cv=0&ps=0&l=1&p=0&" width="700" height="259" alt="bitcoin price" /></center>
+<canvas id="price-chart-usd" class="chart" height="150" style="width:100%;"></canvas>
 <p>The Bitcoin price has been highly unpredictable but has proven to be one of the best speculations ever with multiple years having returns in excess of 5,000% each.
 
 {% include widget_price.html %}
