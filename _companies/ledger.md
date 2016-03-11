@@ -41,6 +41,16 @@ The [Ledger](https://www.coldhardware.com/ledger-nano-review/) [Android](https:/
 
 Ledger plans to release its fourth device, the Ledger Blue, in mid-2016.
 
+## Employees
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'Ledger' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 ## Venture Capital Rounds
 
 {% for company in site.data.companies %}
