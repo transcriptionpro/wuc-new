@@ -48,7 +48,7 @@ var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept"
 };
 
 var BitcoinCharts = {
-  KAIKO_URL: 'https://api.kaiko.com/v1/stats/',
+  KAIKO_URL: 'https://api.kaiko.com/v1/stats/%NAME%?json=true&from=2016-01-01',
   colors: null,
 
   parseAPI: function(data){
@@ -100,21 +100,23 @@ var BitcoinCharts = {
       pointDot: false
     },
     chartTypes = {
+      'averageVolumePerTransaction': {
+        'name': 'average-volume-per-transaction',
+        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Average volume per transaction'}]}),
+        'options': lotsOfDataOptions
+      },
       'transactionsPerDay': {
-        'container': 'transactions-per-day',
-        'url': self.KAIKO_URL + 'transactions-per-day?json=true&from=2016-01-01',
-        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'transactions per day' }]}),
+        'name': 'transactions-per-day',
+        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Transactions per day' }]}),
         'options': lotsOfDataOptions
       },
       'coinsInCirculation': {
-        'container': 'coins-in-circulation',
-        'url': self.KAIKO_URL + 'coins-in-circulation?json=true&from=2016-01-01',
+        'name': 'coins-in-circulation',
         'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Coins in circulation' }]}),
         'options': lotsOfDataOptions
       },
       'difficulty': {
-        'container': 'difficulty',
-        'url': self.KAIKO_URL + 'difficulty?json=true&from=2016-01-01',
+        'name': 'difficulty',
         'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Difficulty' }]}),
         'options': lotsOfDataOptions
       }
@@ -145,18 +147,10 @@ var BitcoinCharts = {
 
   createSimpleChart: function(object){
     var self = this,
-        url = object.url || null,
-        container = ('#' + object.container + '-chart') || null,
+        url = (typeof object.name != 'undefined' ? self.KAIKO_URL.replace("%NAME%", object.name) : null),
+        container = (typeof object.name != 'undefined' ? '#' + object.name + '-chart' : null),
         chartData = object.data || null,
         chartOptions = object.options || null;
-
-    if(typeof chartData === 'undefined' || chartData == null){
-      console.error('ChartData has to be defined');
-      return false;
-    }else if(typeof container === 'undefined' || container == null){
-      console.error('Container has to be defined');
-      return false;
-    }
 
     $.getJSON(url, function(data){
       parsedData = self.parseAPI(data);
