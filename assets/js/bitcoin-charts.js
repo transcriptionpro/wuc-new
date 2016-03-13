@@ -48,7 +48,8 @@ var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept"
 };
 
 var BitcoinCharts = {
-  self: null,
+  KAIKO_URL: 'https://api.kaiko.com/v1/stats/',
+  colors: null,
 
   parseAPI: function(data){
     var response = {
@@ -67,107 +68,109 @@ var BitcoinCharts = {
     return response;
   },
 
-  colors: {
-    'primary': 'rgba(170, 200, 101, 1)',
-    'primaryFill': 'rgba(170, 200, 101, 0.2)',
-    'secondary': 'rgba(188,150,1,1)',
-    'secondaryFill': 'rgba(188,150,1,0.2)'
-  },
-
   /**
    * This function initializes a bitcoin chart, takes a type of chart as parameter.
    * It is used for easier, automatic intialization.
    */
   initChart: function(chart){
-    self = this;
+    self = this,
+    self.colors = {
+      'primary': 'rgba(170, 200, 101, 1)',
+      'primaryFill': 'rgba(170, 200, 101, 0.2)',
+      'secondary': 'rgba(188,150,1,1)',
+      'secondaryFill': 'rgba(188,150,1,0.2)'
+    },
+    defaultChartData = {
+      labels: [],
+      datasets: [
+        {
+          label: '',
+          fillColor: this.colors['primaryFill'],
+          strokeColor: this.colors['primary'],
+          pointColor: this.colors['primary'],
+          pointStrokeColor: "#fff",
+          pointHighlightFill: "#fff",
+          pointHighlightStroke: "rgba(220,220,220,1)",
+          data: []
+        }
+      ]
+    },
+    lotsOfDataOptions = {
+      pointHitDetectionRadius: 1,
+      pointDot: false
+    },
+    chartTypes = {
+      'transactionsPerDay': {
+        'container': 'transactions-per-day',
+        'url': self.KAIKO_URL + 'transactions-per-day?json=true&from=2016-01-01',
+        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'transactions per day' }]}),
+        'options': lotsOfDataOptions
+      },
+      'coinsInCirculation': {
+        'container': 'coins-in-circulation',
+        'url': self.KAIKO_URL + 'coins-in-circulation?json=true&from=2016-01-01',
+        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Coins in circulation' }]}),
+        'options': lotsOfDataOptions
+      },
+      'difficulty': {
+        'container': 'difficulty',
+        'url': self.KAIKO_URL + 'difficulty?json=true&from=2016-01-01',
+        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Difficulty' }]}),
+        'options': lotsOfDataOptions
+      }
+    };
 
     switch(chart){
       case 'price':
-        this.createPriceChart();
+        self.createPriceChart();
         break;
       case 'priceUSD':
-        this.createPriceChart('usd');
+        self.createPriceChart('usd');
         break;
       case 'priceEUR':
-        this.createPriceChart('eur');
+        self.createPriceChart('eur');
         break;
       case 'priceCNY':
-        this.createPriceChart('cny');
-        break;
-      case 'transactionsPerDay':
-        this.createTransationsPerDayChart();
-        break;
-      case 'coinsInCirculation':
-        this.createCoinsInCirculationChart();
+        self.createPriceChart('cny');
         break;
       default:
-        console.error('Chart type does not exist: ' + chart);
+        if(chart in chartTypes){
+          self.createSimpleChart(chartTypes[chart]);
+        }else{
+          console.error('Chart type does not exist: ' + chart);
+        }
         break;
     }
   },
 
-  createCoinsInCirculationChart: function(){
-    var chartOptions = {
-        pointHitDetectionRadius: 1,
-        pointDot: false
-      },
-      chartData = {
-        labels: [],
-        datasets: [
-          {
-            label: 'Coins in circulation',
-            fillColor: this.colors['primaryFill'],
-            strokeColor: this.colors['primary'],
-            pointColor: this.colors['primary'],
-            pointStrokeColor: "#fff",
-            pointHighlightFill: "#fff",
-            pointHighlightStroke: "rgba(220,220,220,1)",
-            data: []
-          }
-        ]
-      },
-      ctx = $("#coins-in-circulation-chart").get(0).getContext("2d");
+  createSimpleChart: function(object){
+    var self = this,
+        url = object.url || null,
+        container = ('#' + object.container + '-chart') || null,
+        chartData = object.data || null,
+        chartOptions = object.options || null;
 
-    $.getJSON('https://api.kaiko.com/v1/stats/coins-in-circulation?json=true&from=2016-01-01', function(data){
+    if(typeof chartData === 'undefined' || chartData == null){
+      console.error('ChartData has to be defined');
+      return false;
+    }else if(typeof container === 'undefined' || container == null){
+      console.error('Container has to be defined');
+      return false;
+    }
+
+    $.getJSON(url, function(data){
       parsedData = self.parseAPI(data);
 
       chartData['labels'] = parsedData.labels;
       chartData['datasets'][0]['data'] = parsedData.values;
     }).done(function(){
-      var coinsInCirculationChart = new Chart(ctx).LineCompact(chartData, chartOptions);
-    });
-  },
-
-  createTransationsPerDayChart: function(){
-    var chartData = {
-          labels: [],
-          datasets: [
-            {
-              label: 'Transactions per day',
-              fillColor: this.colors['primaryFill'],
-              strokeColor: this.colors['primary'],
-              pointColor: this.colors['primary'],
-              pointStrokeColor: "#fff",
-              pointHighlightFill: "#fff",
-              pointHighlightStroke: "rgba(220,220,220,1)",
-              data: []
-            }
-          ]
-        },
-        ctx = $("#transactions-per-day-chart").get(0).getContext("2d");
-
-    $.getJSON('https://api.kaiko.com/v1/stats/transactions-per-day?json=true&from=2016-01-01', function(data){
-      parsedData = self.parseAPI(data);
-
-      chartData['labels'] = parsedData.labels;
-      chartData['datasets'][0]['data'] = parsedData.values;
-    }).done(function(){
-      var transactionsPerDayChart = new Chart(ctx).LineCompact(chartData);
+      new Chart($(container).get(0).getContext("2d")).LineCompact(chartData, chartOptions);
     });
   },
 
   createPriceChart: function(currency){
-    var currency = currency || 'usd',
+    var self = this,
+        currency = currency || 'usd',
         currencySign = (currency == 'usd' ? '$' :
                        (currency == 'eur' ? '€' :
                        (currency == 'cny' ? 'CNY' : ''))),
