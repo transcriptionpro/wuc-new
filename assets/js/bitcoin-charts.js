@@ -47,40 +47,39 @@ var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept"
  return (dd[1]?dd:"0"+dd[0]) + ' ' + monthNames[this.getMonth()] + ' ' + yyyy;
 };
 
+Date.prototype.chartUrl = function() {
+  var month = '' + (this.getMonth() + 1),
+      day = '' + this.getDate(),
+      year = this.getFullYear();
+
+  if (month.length < 2) month = '0' + month;
+  if (day.length < 2) day = '0' + day;
+
+  return [year, month, day].join('-');
+};
+
 var BitcoinCharts = {
-  KAIKO_URL: 'https://api.kaiko.com/v1/stats/%NAME%?json=true&from=2016-01-01',
+  DATE: new Date(),
+  KAIKO_URL: 'https://api.kaiko.com/v1/stats/%NAME%?json=true&from=%DATE%',
   colors: null,
-
-  parseAPI: function(data){
-    var response = {
-          'labels': [],
-          'values': []
-        };
-
-    $.each(data.dates.reverse(), function(index, value){
-      response['labels'].push(new Date(value).chartLabel());
-    });
-
-    $.each(data.values.reverse(), function(index, value){
-      response['values'].push(value);
-    });
-
-    return response;
-  },
+  defaultChartData: null,
+  oldApiChartOptions: null,
 
   /**
    * This function initializes a bitcoin chart, takes a type of chart as parameter.
    * It is used for easier, automatic intialization.
    */
   initChart: function(chart){
-    self = this,
+    var self = this;
+    self.DATE.setMonth(self.DATE.getMonth() - 3),
+    self.KAIKO_URL = self.KAIKO_URL.replace('%DATE%', self.DATE.chartUrl()),
     self.colors = {
       'primary': 'rgba(170, 200, 101, 1)',
       'primaryFill': 'rgba(170, 200, 101, 0.2)',
       'secondary': 'rgba(188,150,1,1)',
       'secondaryFill': 'rgba(188,150,1,0.2)'
     },
-    defaultChartData = {
+    self.defaultChartData = {
       labels: [],
       datasets: [
         {
@@ -95,32 +94,12 @@ var BitcoinCharts = {
         }
       ]
     },
-    lotsOfDataOptions = {
+    self.oldApiChartOptions = {
       pointHitDetectionRadius: 1,
       pointDot: false
-    },
-    chartTypes = {
-      'averageVolumePerTransaction': {
-        'name': 'average-volume-per-transaction',
-        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Average volume per transaction'}]}),
-        'options': lotsOfDataOptions
-      },
-      'transactionsPerDay': {
-        'name': 'transactions-per-day',
-        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Transactions per day' }]}),
-        'options': lotsOfDataOptions
-      },
-      'coinsInCirculation': {
-        'name': 'coins-in-circulation',
-        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Coins in circulation' }]}),
-        'options': lotsOfDataOptions
-      },
-      'difficulty': {
-        'name': 'difficulty',
-        'data': $.extend(true, defaultChartData, { 'datasets': [{ 'label': 'Difficulty' }]}),
-        'options': lotsOfDataOptions
-      }
     };
+
+    console.log(self.KAIKO_URL);
 
     switch(chart){
       case 'price':
@@ -136,27 +115,29 @@ var BitcoinCharts = {
         self.createPriceChart('cny');
         break;
       default:
-        if(chart in chartTypes){
-          self.createSimpleChart(chartTypes[chart]);
-        }else{
-          console.error('Chart type does not exist: ' + chart);
-        }
+        self.createSimpleChart(chart);
         break;
     }
   },
 
-  createSimpleChart: function(object){
+  createSimpleChart: function(name){
     var self = this,
-        url = (typeof object.name != 'undefined' ? self.KAIKO_URL.replace("%NAME%", object.name) : null),
-        container = (typeof object.name != 'undefined' ? '#' + object.name + '-chart' : null),
-        chartData = object.data || null,
-        chartOptions = object.options || null;
+        realName = name.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase(),
+        url = (typeof realName != 'undefined' ? self.KAIKO_URL.replace("%NAME%", realName) : null),
+        container = (typeof realName != 'undefined' ? '#' + realName + '-chart' : null),
+        chartData = self.defaultChartData,
+        chartOptions = self.oldApiChartOptions;
 
     $.getJSON(url, function(data){
-      parsedData = self.parseAPI(data);
+      $.extend(true, chartData, { 'datasets': [{ 'label': data.name }]});
 
-      chartData['labels'] = parsedData.labels;
-      chartData['datasets'][0]['data'] = parsedData.values;
+      $.each(data.dates.reverse(), function(index, value){
+        chartData['labels'].push(new Date(value).chartLabel());
+      });
+
+      $.each(data.values.reverse(), function(index, value){
+        chartData['datasets'][0]['data'].push(value);
+      });
     }).done(function(){
       new Chart($(container).get(0).getContext("2d")).LineCompact(chartData, chartOptions);
     });
