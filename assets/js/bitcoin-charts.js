@@ -1,9 +1,9 @@
 /**
  * Chart types:
  * price, priceUSD, priceEUR, priceCNY - requires div "price-chart-" + currency
- * transactionsPerDay - requires div "transactions-per-day-chart"
  *
- * Charts are added by adding a "charts" array to the front matter of the page and also adding the respective container div.
+ * All chart types of the "old API" are supported. Just convert their url / name to camelCase. For example:
+ * transactionsPerDay, hashRate, averageTransactionFees, transactionFees, outputsVolume, coinsInCirculation, etc.
  */
 
 Chart.defaults.global.responsive = true;
