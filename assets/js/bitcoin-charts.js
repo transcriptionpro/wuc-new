@@ -1,9 +1,9 @@
 /**
  * Chart types:
  * price, priceUSD, priceEUR, priceCNY - requires div "price-chart-" + currency
- * transactionsPerDay - requires div "transactions-per-day-chart"
  *
- * Charts are added by adding a "charts" array to the front matter of the page and also adding the respective container div.
+ * All chart types of the "old API" are supported. Just convert their url / name to camelCase. For example:
+ * transactionsPerDay, hashRate, averageTransactionFees, transactionFees, outputsVolume, coinsInCirculation, etc.
  */
 
 Chart.defaults.global.responsive = true;
@@ -47,127 +47,105 @@ var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept"
  return (dd[1]?dd:"0"+dd[0]) + ' ' + monthNames[this.getMonth()] + ' ' + yyyy;
 };
 
+Date.prototype.chartUrl = function() {
+  var month = '' + (this.getMonth() + 1),
+      day = '' + this.getDate(),
+      year = this.getFullYear();
+
+  if (month.length < 2) month = '0' + month;
+  if (day.length < 2) day = '0' + day;
+
+  return [year, month, day].join('-');
+};
+
 var BitcoinCharts = {
-  self: null,
-
-  parseAPI: function(data){
-    var response = {
-          'labels': [],
-          'values': []
-        };
-
-    $.each(data.dates.reverse(), function(index, value){
-      response['labels'].push(new Date(value).chartLabel());
-    });
-
-    $.each(data.values.reverse(), function(index, value){
-      response['values'].push(value);
-    });
-
-    return response;
-  },
-
-  colors: {
-    'primary': 'rgba(170, 200, 101, 1)',
-    'primaryFill': 'rgba(170, 200, 101, 0.2)',
-    'secondary': 'rgba(188,150,1,1)',
-    'secondaryFill': 'rgba(188,150,1,0.2)'
-  },
+  DATE: new Date(),
+  KAIKO_URL: 'https://api.kaiko.com/v1/stats/%NAME%?json=true&from=%DATE%',
+  colors: null,
+  defaultChartData: null,
+  oldApiChartOptions: null,
 
   /**
    * This function initializes a bitcoin chart, takes a type of chart as parameter.
    * It is used for easier, automatic intialization.
    */
   initChart: function(chart){
-    self = this;
+    var self = this;
+    self.DATE.setMonth(self.DATE.getMonth() - 3),
+    self.KAIKO_URL = self.KAIKO_URL.replace('%DATE%', self.DATE.chartUrl()),
+    self.colors = {
+      'primary': 'rgba(170, 200, 101, 1)',
+      'primaryFill': 'rgba(170, 200, 101, 0.2)',
+      'secondary': 'rgba(188,150,1,1)',
+      'secondaryFill': 'rgba(188,150,1,0.2)'
+    },
+    self.defaultChartData = {
+      labels: [],
+      datasets: [
+        {
+          label: '',
+          fillColor: this.colors['primaryFill'],
+          strokeColor: this.colors['primary'],
+          pointColor: this.colors['primary'],
+          pointStrokeColor: "#fff",
+          pointHighlightFill: "#fff",
+          pointHighlightStroke: "rgba(220,220,220,1)",
+          data: []
+        }
+      ]
+    },
+    self.oldApiChartOptions = {
+      pointHitDetectionRadius: 1,
+      pointDot: false
+    };
+
+    console.log(self.KAIKO_URL);
 
     switch(chart){
       case 'price':
-        this.createPriceChart();
+        self.createPriceChart();
         break;
       case 'priceUSD':
-        this.createPriceChart('usd');
+        self.createPriceChart('usd');
         break;
       case 'priceEUR':
-        this.createPriceChart('eur');
+        self.createPriceChart('eur');
         break;
       case 'priceCNY':
-        this.createPriceChart('cny');
-        break;
-      case 'transactionsPerDay':
-        this.createTransationsPerDayChart();
-        break;
-      case 'coinsInCirculation':
-        this.createCoinsInCirculationChart();
+        self.createPriceChart('cny');
         break;
       default:
-        console.error('Chart type does not exist: ' + chart);
+        self.createSimpleChart(chart);
         break;
     }
   },
 
-  createCoinsInCirculationChart: function(){
-    var chartOptions = {
-        pointHitDetectionRadius: 1,
-        pointDot: false
-      },
-      chartData = {
-        labels: [],
-        datasets: [
-          {
-            label: 'Coins in circulation',
-            fillColor: this.colors['primaryFill'],
-            strokeColor: this.colors['primary'],
-            pointColor: this.colors['primary'],
-            pointStrokeColor: "#fff",
-            pointHighlightFill: "#fff",
-            pointHighlightStroke: "rgba(220,220,220,1)",
-            data: []
-          }
-        ]
-      },
-      ctx = $("#coins-in-circulation-chart").get(0).getContext("2d");
+  createSimpleChart: function(name){
+    var self = this,
+        realName = name.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase(),
+        url = (typeof realName != 'undefined' ? self.KAIKO_URL.replace("%NAME%", realName) : null),
+        container = (typeof realName != 'undefined' ? '#' + realName + '-chart' : null),
+        chartData = self.defaultChartData,
+        chartOptions = self.oldApiChartOptions;
 
-    $.getJSON('https://api.kaiko.com/v1/stats/coins-in-circulation?json=true&from=2016-01-01', function(data){
-      parsedData = self.parseAPI(data);
+    $.getJSON(url, function(data){
+      $.extend(true, chartData, { 'datasets': [{ 'label': data.name }]});
 
-      chartData['labels'] = parsedData.labels;
-      chartData['datasets'][0]['data'] = parsedData.values;
+      $.each(data.dates.reverse(), function(index, value){
+        chartData['labels'].push(new Date(value).chartLabel());
+      });
+
+      $.each(data.values.reverse(), function(index, value){
+        chartData['datasets'][0]['data'].push(value);
+      });
     }).done(function(){
-      var coinsInCirculationChart = new Chart(ctx).LineCompact(chartData, chartOptions);
-    });
-  },
-
-  createTransationsPerDayChart: function(){
-    var chartData = {
-          labels: [],
-          datasets: [
-            {
-              label: 'Transactions per day',
-              fillColor: this.colors['primaryFill'],
-              strokeColor: this.colors['primary'],
-              pointColor: this.colors['primary'],
-              pointStrokeColor: "#fff",
-              pointHighlightFill: "#fff",
-              pointHighlightStroke: "rgba(220,220,220,1)",
-              data: []
-            }
-          ]
-        },
-        ctx = $("#transactions-per-day-chart").get(0).getContext("2d");
-
-    $.getJSON('https://api.kaiko.com/v1/stats/transactions-per-day?json=true&from=2016-01-01', function(data){
-      parsedData = self.parseAPI(data);
-
-      chartData['labels'] = parsedData.labels;
-      chartData['datasets'][0]['data'] = parsedData.values;
-    }).done(function(){
-      var transactionsPerDayChart = new Chart(ctx).LineCompact(chartData);
+      new Chart($(container).get(0).getContext("2d")).LineCompact(chartData, chartOptions);
     });
   },
 
   createPriceChart: function(currency){
-    var currency = currency || 'usd',
+    var self = this,
+        currency = currency || 'usd',
         currencySign = (currency == 'usd' ? '$' :
                        (currency == 'eur' ? '€' :
                        (currency == 'cny' ? 'CNY' : ''))),
