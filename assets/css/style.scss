@@ -689,6 +689,28 @@ a.anchor {
 	max-height: 100px;
 }
 
+.company-wrap {
+	
+	width: 100%;
+	text-align: center;
+	
+	h3 {
+	    display: inline-block;
+	    margin: 20px 10px;
+	    width: 120px;
+	}
+	
+	img {
+		width: 65px;
+		border-radius: 3px;
+		height: auto;
+	}
+	.company-title-ww {
+		clear: both;
+		font-size: 16px;
+	}
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

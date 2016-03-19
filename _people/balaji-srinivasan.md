@@ -12,7 +12,7 @@ affiliations: [21, Counsyl]
 twitter: balajis
 github: balajis
 residence: 
-cats: [ ]
+cats: featured
 website: 
 ---
 Balaji Srinivasan is the Founder and CEO of [21](/21/), and a General Board Partner at [a16z](http://a16z.com/). 

@@ -2,6 +2,7 @@
 title: BitFury
 seotitle: BitFury
 img: /images/company/bitfury.jpg
+cats: featured
 ---
 [BitFury](http://bitfury.com/) is a private [Bitcoin mining](/en/mining-guide/) pool and mining chip manufacturer.
 

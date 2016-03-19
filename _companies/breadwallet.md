@@ -1,13 +1,14 @@
 ---
-title: Breadwallet About Page
+title: Breadwallet
+seotitle: Breadwallet About Page
 author: Breadwallet
 authorurl: http://www.weusecoins.com
 published: true
+cats: featured
+img: /images/breadwallet.jpg
 ---
 
 ### THE FIRST STANDALONE iPHONE BITCOIN WALLET
-
-<img src="/images/breadwallet.png" alt="Breadwallet" align="right">
 
 Unlike other iPhone wallets, breadwallet is a real standalone bitcoin client. There is no server to get hacked or go down, so you can always access your money. Using SPV mode, breadwallet connects directly to the bitcoin network with the fast performance you need on a mobile device.
 

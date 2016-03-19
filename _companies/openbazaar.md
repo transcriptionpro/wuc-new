@@ -27,6 +27,16 @@ OpenBazaar offers both buyers and sellers many advantages over traditional onlin
 
 **Global –** OpenBazaar uses Bitcoin as its currency and payment system. Bitcoin is global and works anywhere in the world. This gives isolated or restricted areas access to new markets and customers. Imagine a farmer in Chile with no bank account who wants to sell honey online. While it was always possible to create a website with listings, it’s hard to get products viewed by potential customers. Even though OpenBazaar is decentralized, it provides centralized listings that will help vendors put products in front of the eyes of potential customers.
 
+## OpenBazaar Developers
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'OpenBazaar' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 ## Links
 
 [What are Decentralized Markets?](https://coincenter.org/2015/11/what-are-decentralized-markets/) – by OpenBazaar developer Sam Patterson.
