@@ -1,12 +1,12 @@
 ---
-title: Coinkite Bitcoin Wallet and Platform - About Page
+title: Coinkite
+seotitle: Coinkite Bitcoin Wallet and Platform - About Page
 author: Coinkite
 authorurl: https://www.weusecoins.com/coinkite/
 published: true
+cats: featured
+img: /images/coinkite.png
 ---
-
-<center><img src="/images/coinkite-header.png" alt="Coinkite" style="width: 100%;" /></center>
-
 <p><a title="Coinkite" href="https://coinkite.com" target="_blank">Coinkite</a> empowers individuals, businesses and startups from all over the world to secure and manage Bitcoin. Coinkite's mission is simple: build more, advertise less and be privacy conscious.
 
 With this platform you can focus on building

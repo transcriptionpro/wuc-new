@@ -19,7 +19,7 @@ Fred Ehrsam is the co-founder of [Coinbase](/coinbase-review/). Previously, Ehrs
 
 ## Recognition
 
-In 2014, Ehrsam [was named](http://ideas.time.com/2013/12/06/these-are-the-30-people-under-30-changing-the-world/slide/fred-ehrsam/) one of TIME's _30 People Under 30 Changing the World_. In the same year, [he was also included](www.forbes.com/pictures/mdg45edmhm/fred-ehrsam-25/) as part of Forbe's _30 Under 30_. 
+In 2014, Ehrsam [was named](http://ideas.time.com/2013/12/06/these-are-the-30-people-under-30-changing-the-world/slide/fred-ehrsam/) one of TIME's _30 People Under 30 Changing the World_. In the same year, [he was also included](http://www.forbes.com/pictures/mdg45edmhm/fred-ehrsam-25/) as part of Forbe's _30 Under 30_. 
 
 ## Quotes
 

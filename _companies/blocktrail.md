@@ -3,10 +3,9 @@ title: BlockTrail
 author: Boaz Bechar
 authorurl: https://www.weusecoins.com/boaz-bechar/
 published: true
+cats: featured
+img: /images/blocktrail.png
 ---
-
-<img src="/images/blocktrail.png" alt="BlockTrail" align="right">
-
 BlockTrail provides secure bitcoin infrastructure for developers and enterprises, enabling advanced transaction functionality and access to refined economic data-sets.
 
 Founded in 2014 and based in Amsterdam, the Netherlands, BlockTrail is dedicated to delivering better tools for the bitcoin economy. To help further this mission we offer three exciting products: BlockTrail Webwallet, Block Explorer and API.

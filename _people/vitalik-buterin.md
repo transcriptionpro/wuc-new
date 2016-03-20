@@ -15,7 +15,7 @@ affiliations: [Ethereum]
 twitter: vitalikbuterin
 github: 
 residence: 
-cats: [ ]
+cats: featured
 website: http://vitalik.ca
 ---
 

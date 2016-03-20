@@ -1,6 +1,8 @@
 ---
 title: Bitcoin Core
 published: true
+cats:
+ - ww
 ---
 Bitcoin Core--formerly Bitcoin-Qt--is a Bitcoin codebase based on the original code and framework published by Satoshi Nakamoto. Bitcoin Core is currently run by more than 70% of Bitcoin nodes and all miners. 
 

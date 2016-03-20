@@ -16,7 +16,7 @@ twitter: aantonop
 github: aantonop
 residence: 
 website: https://antonopoulos.com/
-cats: [public speaker, book author, bitcoin expert]
+cats: [public speaker, book author, bitcoin expert, featured]
 ---
 Andreas M. Antonopoulos is a technologist and serial entrepreneur who has become one of the most well-known and well-respected figures in bitcoin. As an engaging public speaker, teacher and writer,  Andreas makes complex subjects accessible and easy to understand. As an advisor, he helps startups recognize, evaluate, and navigate security and business risks.
 

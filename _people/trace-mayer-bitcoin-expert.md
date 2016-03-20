@@ -15,7 +15,7 @@ affiliations: [BitPay, Armory, Kraken, Bitcoin Knowledge]
 twitter: tracemayer
 github: sunnankar
 residence: 
-cats: [ ]
+cats: featured
 website: https://tracemayer.net
 ---
 

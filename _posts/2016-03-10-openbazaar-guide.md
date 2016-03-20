@@ -128,12 +128,29 @@ A Moderated Payment is safer and means the seller does not receive your payment 
 
 If no problems occur, the buyer and vendor each sign the transaction and the payment is released to the vendor. Should an issue arise, the moderator can use its signing key to side with the side he/she deserves the funds.  
 
-
 Moderator Payment is recommended because it helps prevent fraud and scams. Payment is only released to the vendor upon delivery and complete order fulfillment. If Moderated Payment is selected, you must agree with the seller on a moderator for the transaction. Most moderators charge a dispute fee if there is a problem with the order.  
 
 Direct Payment may be a fine option in some cases. A reputable company, like Bitcoin hardware wallet company [Ledger](/ledger/), for example, could be trusted with a Direct Payment. In most cases, however, Moderated Payment is the better option and Direct Payment should be avoided.
 
 A refund Bitcoin address is required in the next step, regardless of payment method. Open your Bitcoin wallet and paste in an unused address which can be used for refunds on this specific transaction.
+
+![openbazaar][28]
+
+Next, enter your shipping address. Skip this step if you added a default shipping address to your profile.
+
+![openbazaar][29]
+
+If you have multiple shipping addresses saved, select where you want your item delivered. Below, only one address is available, so it is automatically selected. 
+
+![openbazaar][30]
+
+The next step will display the total cost of your order. In addition to the item price, you may be charged for shipping fees, and in some cases a moderator fee. Usually a moderator fee is only charged in the case of a dispute.  
+
+![openbazaar][31]
+
+Finally, a Bitcoin address will be displayed at the top of the screen. Send the requested amount of bitcoin to complete your purchase.
+
+![openbazaar][32]
 
 ### Saving Stores 
 
@@ -248,3 +265,8 @@ From there you can ask a question about the seller’s listings.
 [25]: /images/openbazaar/termsreturn.png
 [26]: /images/openbazaar/listing.png
 [27]: /images/openbazaar/forsalestore.png
+[28]: /images/openbazaar/1refund.png
+[29]: /images/openbazaar/2paymentinfo.png
+[30]: /images/openbazaar/3shipto.png
+[31]: /images/openbazaar/4ordertotal.png
+[32]: /images/openbazaar/5pay.png

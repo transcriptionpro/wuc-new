@@ -15,7 +15,7 @@ affiliations: [World Bitcoin Network]
 twitter: jamesgdangelo
 github: 
 residence: 
-cats: [educator]
+cats: featured
 website: 
 ---
 James De'Angelo is well-known in the Bitcoin industry for his YouTube Channel: [World Bitcoin Network](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos?view=0&flow=grid&sort=p). De'Angelo's videos provide simple explanations about basic Bitcoin concepts, making it easy for beginners to understand the new technology. 

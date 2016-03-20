@@ -23,62 +23,104 @@ toc:
 <li><a href="/adam-back-lightning-network/">A Week With Adam Back - Part 4</a> - Lightning Network</li>
 <li><a href="/adam-back-sidechains/">A Week With Adam Back - Part 5</a> - Sidechains</li>
 </ul>
+
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 <h2 id="companies">Companies</h2>
-<ul>
-<li><a href="/airbitz/">Airbitz</a> - Mobile Bitcoin Wallet (Android & iOS)</li>
-<li><a href="/armory/">Armory</a> - Enterprise Bitcoin wallet security software</li>
-<li><a href="/bitgold/">Bitgold</a> - New with gold payments</li>
-<li><a href="/blocktrail/">BlockTrail</a> - Bitcoin Developers Platform</li>
-<li><a href="/breadwallet/">Breadwallet</a> - Mobile Bitcoin wallet</li>
-<li><a href="/coinbase-review/">Coinbase</a> - Major Bitcoin exchange in US and Europe</li>
-<li><a href="/coincorner/">CoinCorner</a> - Leading UK & European Bitcoin exchange</li>
-<li><a href="/coinkite/">Coinkite</a> - Business and Consumer Bitcoin Wallet, Merchant Tools and Developers API Platform</li>
-<li><a href="/cryptolabs/">Cryptolabs</a> - Case hardware wallet</li>
-<li><a href="/cryptohippie/">Cryptohippie</a> - Virtual Private Network (<a href="/bitcoin-vpns/">VPN</a> - secure Internet browsing)</li>
-<li><a href="/factom/">Factom</a> - Factom Project</li>
-<li><a href="/kraken-bitcoin-exchange/">Kraken</a> - Largest EUR Bitcoin exchange</li>
-<li><a href="/safello/">Safello</a> - Bitcoin exchange in Sweden</li>
-<li><a href="/anycoin/">Anycoin Direct</a> - Bitcoin exchange in Europe</li>
-<li><a href="/shapeshift/">Shapeshift</a> - Alt-coin exchange</li>
-</ul>
-<hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2 id="ind">Individuals</h2>
-<ul>
-<li><a href="/james-deangelo/">James De'Angelo</a> - World Bitcoin Network</li>
-<li><a href="/brian-donegan/">Brian Donegan</a> - <a href="http://www.whereyoucan.com/People/Brian-Donegan.aspx">Isle of Man government</a></li>
-<li><a href="/daniel-scott/">Daniel Scott</a> - CoinCorner Co-Founder</li>
-<li><a href="/eli-dourado/">Eli Dourado</a> - Research fellow at the Mercatus Center</li>
-<li><a href="/tony-gallippi/">Tony Gallippi</a> - Chairman of <a href="/bitpay/">Bitpay</a></li>
-<li><a href="/jeff-garzik/">Jeff Garzik</a> - Bitcoin core developer and CEO of Dunvegan Space Systems, Inc.</li>
-<li><a href="/arthur-hayes/">Arthur Hayes</a> - CEO of BitMEX</li>
-<li><a href="/peter-kirby/">Peter Kirby</a> - President of Factom</li>
-<li><a href="/gregory-maxwell-bitcoin-expert/">Gregory Maxwell</a> - Bitcoin core developer and Co-Founder and CTO Blockstream</li>
-<li><a href="/trace-mayer-bitcoin-expert/">Trace Mayer, J.D.</a> - Investor</li>
-<li><a href="/reggie-middleton/">Reggie Middleton</a> - Investor</li>
-<li><a href="/nicola-minichiello/">Nicola Minichiello</a> - Bitcoin 2.0 focus</li>
-<li><a href="/andy-ofiesh-bitcoin-security-expert/">Andy Ofiesh</a> - Senior Developer at <a href="/armory/">Armory</a></li>
-<li><a href="/zooko-wilcox-ohearn/">Zooko Wilcox-O'Hearn</a> - CEO at Least Authority</a></li>
-<li><a href="/michael-perklin-bitcoin-security-expert/">Michael Perklin</a> - CryptoCurrency Security Standard (CCSS)</li>
-<li><a href="/jesse-powell/">Jesse Powell</a> - CEO of Kraken</li>
-<li><a href="/alan-reiner-bitcoin-security-expert/">Alan Reiner</a> - CTO and Founder of <a href="/armory/">Armory</a></li>
-<li><a href="/paul-rosenberg/">Paul Rosenberg</a> - Cryptohippie</li>
-<li><a href="/john-velissarios-bitcoin-security-expert/">John Velissarios</a> - CEO & CISO of <a href="/armory/">Armory</a></li>
-<li><a href="/aaron-voisine-bitcoin-security-expert/">Aaron Voisine</a> - CEO of <a href="/breadwallet/">Breadwallet</a></li>
-<li><a href="/erik-voorhees/">Erik Voorhees</a> - CEO of <a href="/shapeshift/">Shapeshift</a></li>
-<li><a href="/boaz-bechar/">Boaz Bechar</a> - CEO of <a href="/blocktrail/">BlockTrail</a></li>
-<li><a href="/rodolfo-novak/">Rodolfo Novak</a> - Founder & CEO of <a href="/coinkite/">Coinkite</a></li>
-<li><a href="/peter-gray/">Peter D. Gray</a> - Founder & CTO of <a href="/coinkite/">Coinkite</a></li>
-</ul>
 
-<hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2 id="ind">BitGold</h2>
+<h3>Bitcoin Core</h3>
 
-<p>Bitgold is a brand new platform for that intends to offer gold payments to customers. Customers can store their balance in gold and spend at any store with a debit card.</p>
+<p><a href="/bitcoin-core/">Bitcoin Core</a>--formerly Bitcoin-Qt--is a Bitcoin codebase based on the original code and framework published by Satoshi Nakamoto. Bitcoin Core is currently run by more than 70% of Bitcoin nodes and all miners, making it the most widely used Bitcoin client. Note that Bitcoin Core is not a company.</p>
 
 <div class="similar-people-wrap">
 {% for person in site.people %}
-{% if person.affiliations contains 'BitGold' %}
+{% if person.affiliations contains 'Bitcoin Core' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3>Blockstream</h3>
+
+<p><a href="/blockstream/">Blockstream</a> is one of the most-well funded Bitcoin companies, with $76 million in venture capital thanks to its latest $55 million funding round. Its core purpose is to improve Bitcoin's utility with sidechains.</p>
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'Blockstream' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3>Armory</h3>
+
+<p><a href="/armory/">Armory</a> builds enterprise grade Bitcoin security software solutions and provides Bitcoin security consulting services to institutions for deploying a Bitcoin security plan.</p>
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'Armory' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3>Coinbase</h3>
+
+<p><a href="/coinbase-review/">Coinbase</a> aims to be the easiest way to get started with Bitcoin. Users can easily buy & sell bitcoins, or accept bitcoin as a merchant. </p>
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'Coinbase' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3>Ledger</h3>
+
+<p><a href="/ledger/">Ledger</a> is a Bitcoin security company known for its Bitcoin hardware wallets.</p>
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'Ledger' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3>OpenBazaar</h3>
+
+<p><a href="/openbazaar/">OpenBazaar</a> is a Bitcoin-only, decentralized online marketplace. It is currently developed by OB1.</p>
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.affiliations contains 'OpenBazaar' %}
+{% include similar-people.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3>More Bitcoin Companies</h3>
+
+<div class="company-wrap">
+{% for company in site.companies %}
+{% if company.cats contains 'featured' %}
+<h3><a href="{{ company.url }}"><img src="{{ company.img }}"><div class="company-title-ww">{{ company.title }}</div></a></h3>
+{% endif %}
+{% endfor %}
+</div>
+
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+<h2 id="ind">Individuals</h2>
+
+You don't need to work for a company to contribute in the Bitcoin space. Meet more of the names and faces who are involved with Bitcoin.
+
+<h3></h3>
+
+<div class="similar-people-wrap">
+{% for person in site.people %}
+{% if person.cats contains 'featured' %}
 {% include similar-people.html %}
 {% endif %}
 {% endfor %}
