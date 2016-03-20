@@ -206,7 +206,7 @@ var BitcoinCharts = {
       });
     }).done(function(){
       // Draw the chart with the data and options.
-      var priceChart = new Chart(ctx).LineCompact(chartData, chartOptions);
+      new Chart(ctx).LineCompact(chartData, chartOptions);
     });
   }
 };
