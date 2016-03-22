@@ -8,7 +8,7 @@ education: B.S. in Computer Science from Georgia Institute of Technology
 experience: 
 short_desc: Jeff Garzik is a Bitcoin core developer, CEO of Dunvegan Space Systems, Inc., and the Co-founder of Bloq.
 long_desc: 
-affiliations: [Bitcoin Core, Bitcoin Classic, BitPay, Bloq]
+affiliations: [Bitcoin Classic, Bloq]
 twitter: 
 github: jgarzik
 residence: 
