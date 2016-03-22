@@ -3,21 +3,21 @@ title:  Gavin Andresen
 img: /images/gavin-andresen.jpg
 seotitle: Gavin Andresen - Chief Scientist, Bitcoin Foundation
 name: Gavin Andresen
-position: Chief Scientist, Bitcoin Foundation
+position: Developer
 education: BSc. in Computer Science from Princeton University
 experience: 
-short_desc: Gavin Andresen is the Chief Scientist of the Bitcoin Foundation and a former Bitcoin Core developer.
+short_desc: Gavin Andresen is a developer.
 long_desc: 
 affiliations: [Bitcoin Foundation, Bitcoin XT, Bitcoin Classic, Coinbase] 
 twitter: gavinandresen
 github: gavinandresen
 residence: 
 cats: [ ]
-website: http://gavinandresen.ninja/
+website: 
 ---
-Gavin Andresen was one of the first developers to contribute code to Bitcoin. He is third in terms of [overall GitHub commits](https://github.com/bitcoin/bitcoin/graphs/contributors) to Bitcoin Core with 484. 
+Gavin Andresen was an early contributor of code to Bitcoin with [overall GitHub commits](https://github.com/bitcoin/bitcoin/graphs/contributors) to Bitcoin Core around 484. 
 
-In 2015, Andresen joined MIT's Digital Currency Initiative. Additionally, he serves as the Chief Scientist of the Bitcoin Foundation, and is an advisor to [Coinbase](/coinbase/) and [Zcash](https://z.cash/team.html).
+In 2015, Andresen joined MIT's Digital Currency Initiative. Additionally, he serves as the Chief Scientist of the failed Bitcoin Foundation, and is an advisor to [Coinbase](/coinbase/) and [Zcash](https://z.cash/team.html).
 
 ## History with Bitcoin
 
@@ -25,7 +25,7 @@ Andresen and Satoshi Nakamoto communicated often through Bitcointalk in early-20
 
 ## Bitcoin Core
 
-From mid-2010 until April-2014, Andresen maintained control of the Bitcoin Core GitHub repository and was considered Bitcoin's lead developer. On April 8, 2014, [Andresen stepped down](http://www.coindesk.com/gavin-andresen-steps-bitcoins-lead-developer/) and [Wladimir van der Laan](/wladimir-van-der-laan/) agreed to take over as Lead Maintainer of the Bitcoin repo. 
+From mid-2010 until April-2014, Andresen maintained control of the Bitcoin Core GitHub repository. On April 8, 2014, [Andresen stepped down](http://www.coindesk.com/gavin-andresen-steps-bitcoins-lead-developer/) and [Wladimir van der Laan](/wladimir-van-der-laan/) agreed to take over as Lead Maintainer of the Bitcoin Core repo. 
 
 ## Contributions to Bitcoin 
 
