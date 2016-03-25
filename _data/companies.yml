@@ -1,4 +1,74 @@
 -
+    date: 21-Mar-2016
+    company: Rootstock
+    classification: Financial Services
+    roundsize: 1.0
+    cumulative: 1.0
+    round: Seed
+    investors: Bitmain Technology, Coinsilium, Digital Currency Group
+    headquartered: Buenos Aires
+    country: Argentina
+    region: South America
+    img: rootstock.jpg
+    description:  
+    url: 
+-
+    date: 21-Mar-2016
+    company: Elliptic
+    classification: Wallet
+    roundsize: 5.0
+    cumulative: 7.0
+    round: Series A
+    investors: Paladin Capital Group, Santander InnoVentures, KRW Schindler, Digital Currency Group, Octopus Ventures
+    headquartered: London
+    country: United Kingdom
+    region: Europe
+    img: elliptic.jpg
+    description:  
+    url: 
+-
+    date: 9-Mar-2016
+    company: Chronicled
+    classification: Infrastructure
+    roundsize: 3.42
+    cumulative: 3.42
+    round: Seed
+    investors: Mandra Capital, Pantera Capital, Colbeck Capital Management
+    headquartered: San Francisco
+    country: United States
+    region: US & Canada
+    img: chronicled.jpg
+    description:  
+    url: 
+-
+    date: 26-Feb-2016
+    company: Ribbit.me
+    classification: Financial Services
+    roundsize: 1.5
+    cumulative: 1.5
+    round: Seed
+    investors: Hayaat Group 
+    headquartered: New York
+    country: United States
+    region: US & Canada
+    img: ribbitme.png
+    description:  
+    url: 
+-
+    date: 19-Feb-2016
+    company: Chainalysis
+    classification: Financial Services
+    roundsize: 1.6
+    cumulative: 1.6
+    round: Seed
+    investors: Point Nine Capital, Techstars, Digital Currency Group, Funders Club, Converge VP
+    headquartered: New York
+    country: United States
+    region: US & Canada
+    img: chainalysis.jpg
+    description:  
+    url: 
+-
     date: 4-Feb-16
     company: SurBTC (Chile)
     classification: Exchange
@@ -739,6 +809,20 @@
     region: Europe
     img: shapeshift.png
     description: 
+    url: 
+-
+    date: 1-Mar-15
+    company: Simplex
+    classification: Financial Services
+    roundsize: 0.4
+    cumulative: 1.4
+    round: Grant
+    investors: Office of the Chief Scientist of Israel
+    headquartered: Tel Aviv
+    country: Israel
+    region: Middle East
+    img: simplex.png
+    description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
     url: 
 -
     date: 19-Feb-15
@@ -1860,6 +1944,20 @@
     img: bitexla.jpg
     description: 
     url: 
+-
+    date: 28-May-14
+    company: Simplex
+    classification: Financial Services
+    roundsize: 1.0
+    cumulative: 1.0
+    round: Seed
+    investors:  Agile Wings, Yaron Lemelbaum, DRW
+    headquartered: Tel Aviv
+    country: Israel
+    region: Middle East
+    img: simplex.png
+    description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
+    url:
 -
     date: 27-May-14
     company: Huobi
