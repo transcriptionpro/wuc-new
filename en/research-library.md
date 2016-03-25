@@ -15,7 +15,33 @@ This is a list of many reports and papers on Bitcoin and the blockchain. Feel fr
   <tbody>
     {% for file in site.data.library %}
       <tr>
-        <td><a href="{{ site.baseurl }}/assets/pdf/library/{{ file.file }}">{{ file.title }}</a></td>
+        <td>
+          <a href="{{ site.baseurl }}/assets/pdf/library/{{ file.file }}">{{ file.title }}</a><br>
+          {{ file.desc }}
+          {% if file.authors %}
+            Authors:
+            {% for author in file.authors %}
+              {% assign inCollection = site.people|where:'name',author %}
+
+              {% if inCollection == empty %}
+                {% assign inCollection = site.people|where:'title',author %}
+              {% endif %}
+
+              {% if inCollection != empty %}
+                {% assign inCollection = inCollection[0] %}
+                <a href="{{ inCollection.url }}">
+                  {% if inCollection.name %}
+                    {{ inCollection.name }}{% if forloop.last != true %}, {% endif %}
+                  {% else %}
+                    {{ inCollection.title }}{% if forloop.last != true %}, {% endif %}
+                  {% endif %}
+                </a>
+              {% else %}
+                {{ author }}{% if forloop.last != true %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </td>
         <td>{{ file.size }}</td>
         <td>{{ file.date }}</td>
       </tr>
