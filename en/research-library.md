@@ -17,7 +17,7 @@ This is a list of many reports and papers on Bitcoin and the blockchain. Feel fr
       <tr>
         <td>
           <a href="{{ site.baseurl }}/assets/pdf/library/{{ file.file }}">{{ file.title }}</a><br>
-          {{ file.desc }}
+          <p>{{ file.desc }}</p>
           {% if file.authors %}
             Authors:
             {% for author in file.authors %}
@@ -40,6 +40,9 @@ This is a list of many reports and papers on Bitcoin and the blockchain. Feel fr
                 {{ author }}{% if forloop.last != true %}, {% endif %}
               {% endif %}
             {% endfor %}
+            {% if file.organization %}
+              <br>Organization: {{ file.organization }}
+            {% endif %}
           {% endif %}
         </td>
         <td>{{ file.size }}</td>
