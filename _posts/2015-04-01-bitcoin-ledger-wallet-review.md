@@ -20,6 +20,9 @@ toc:
 ---
 <p><center><a href="https://www.ledgerwallet.com/r/4727" target="_blank" rel="nofollow"><img class="aligncenter" src="/images/ledger-wallet.jpg" alt="bitcoin ledger wallet nano review"/></a></center></p>
 <h3>Review of the Bitcoin Ledger Wallet Nano</h3>
+
+{% include page-toc.html %}
+
 <p><strong>Description:</strong> A USB bitcoin hardware wallet with smartcard security in a very compact package.</p>
 <p><strong>Maker:</strong> Ledger SAS</p>
 <p><strong>Cost:</strong> €29.00 or about $33.20.</p>
