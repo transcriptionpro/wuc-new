@@ -110,3 +110,4 @@ published: true
 <p><i>This article should not be viewed as an endorsement of any of the companies or products mentioned. Please do your own extensive research before considering investing any funds.</i></p>
 <p><strong>Where to buy:</strong> Direct from <a href="https://www.ledgerwallet.com/r/4727" target="_blank" rel="nofollow">Ledger</a>.
 <center><a href="https://www.ledgerwallet.com/r/4727"><img width=468 height=90 alt="Ledger Wallet protects your bitcoins" src="/images/ledger-wallet.jpg"></a></center>
+<p><a href="https://www.ledgerwallet.com/r/4727" rel="nofollow" target="_blank"><img class="aligncenter" src="/images/ledger-wallet.jpg" alt="bitcoin ledger wallet" width="468" height="90" /></a></p>
