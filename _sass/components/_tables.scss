@@ -1,0 +1,42 @@
+table {
+  &.research-library {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 15px;
+
+    thead {
+      th {
+        border-bottom: 2px solid #303030;
+      }
+
+      th:first-child {
+        text-align: left;
+        width: 65%;
+      }
+
+      th:last-child {
+        text-align: right;
+      }
+    }
+
+    tbody {
+      tr {
+        opacity: 0.9;
+
+        td:nth-child(2) {
+          text-align: center;
+        }
+
+        td:last-child {
+          text-align: right;
+        }
+      }
+
+      tr:hover {
+        opacity: 1;
+        color: #000;
+      }
+    }
+  }
+}

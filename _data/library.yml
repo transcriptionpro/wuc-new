@@ -1,10 +1,11 @@
-- title: Commerzbank - It’s less about the money and more about the blockchain
+- title: It’s less about the money and more about the blockchain
   date: 24 Mar 2016
   size: 906K
-  file: Commerzbank - It’s less about the money and more about the blockchain.pdf
-  desc:
+  file: Commerzbank - It's less about the money and more about the blockchain.pdf
+  desc: The process of liquidity creation is increasingly less the preserve of central banks and ever more the result of actions in the wider financial system.
   authors:
-  organization:
+    - Peter Dixon
+  organization: Commerzbank
 - title: Blockchains and the Boundaries of Self-Organized Economies - Predictions for the Future of Banking
   date: 18 Mar 2016
   size: 263K
