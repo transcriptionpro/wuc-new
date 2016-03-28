@@ -12,7 +12,7 @@ table {
 
       th:first-child {
         text-align: left;
-        width: 65%;
+        width: 70%;
       }
 
       th:last-child {
@@ -24,18 +24,36 @@ table {
       tr {
         opacity: 0.9;
 
+        .description {
+            max-height: 0px;
+            overflow: hidden;
+            margin: 0;
+            transition: max-height 0.5s, margin 0.5s;
+        }
+
+        td {
+          padding-bottom: 15px;
+          border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+        }
+
         td:nth-child(2) {
           text-align: center;
         }
 
         td:last-child {
           text-align: right;
+          white-space: nowrap;
         }
-      }
 
-      tr:hover {
-        opacity: 1;
-        color: #000;
+        &:hover {
+          opacity: 1;
+          color: #000;
+
+          .description {
+            max-height: 350px;
+            margin: 15px 0;
+          }
+        }
       }
     }
   }
