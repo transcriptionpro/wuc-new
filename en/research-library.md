@@ -17,7 +17,7 @@ This is a list of many reports and papers on Bitcoin and the blockchain. Feel fr
       <tr>
         <td>
           <a href="{{ site.baseurl }}/assets/pdf/library/{{ file.file }}">{{ file.title }}</a><br>
-          <p>{{ file.desc }}</p>
+          {% if file.desc %}<p class="description">{{ file.desc }}</p>{% endif %}
           {% if file.authors %}
             Authors:
             {% for author in file.authors %}
