@@ -3,10 +3,11 @@ layout: default
 ---
 <article class="page">
 
-  <h1>{{ page.title }}{% if page.position %} - {{ page.position }}{% endif %}</h1> 
+  <h1>{{ page.title }}{% if page.position %} - {{ page.position }}{% endif %}</h1>
 
   <div class="entry">
     {{ content }}
   </div>
-  
+
+  {% include disqus.html %}
 </article>
