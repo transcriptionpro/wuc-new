@@ -71,14 +71,14 @@ var BitcoinCharts = {
    */
   initChart: function(chart){
     var self = this;
-    self.DATE.setMonth(self.DATE.getMonth() - 3),
-    self.KAIKO_URL = self.KAIKO_URL.replace('%DATE%', self.DATE.chartUrl()),
+    self.DATE.setMonth(self.DATE.getMonth() - 3);
+    self.KAIKO_URL = self.KAIKO_URL.replace('%DATE%', self.DATE.chartUrl());
     self.colors = {
       'primary': 'rgba(170, 200, 101, 1)',
       'primaryFill': 'rgba(170, 200, 101, 0.2)',
       'secondary': 'rgba(188,150,1,1)',
       'secondaryFill': 'rgba(188,150,1,0.2)'
-    },
+    };
     self.defaultChartData = {
       labels: [],
       datasets: [
@@ -93,13 +93,11 @@ var BitcoinCharts = {
           data: []
         }
       ]
-    },
+    };
     self.oldApiChartOptions = {
       pointHitDetectionRadius: 1,
       pointDot: false
     };
-
-    console.log(self.KAIKO_URL);
 
     switch(chart){
       case 'price':
@@ -145,22 +143,24 @@ var BitcoinCharts = {
 
   createPriceChart: function(currency){
     var self = this,
+        currencies = {
+          usd: '$',
+          eur: '€',
+          cny: 'CNY'
+        },
         currency = currency || 'usd',
-        currencySign = (currency == 'usd' ? '$' :
-                       (currency == 'eur' ? '€' :
-                       (currency == 'cny' ? 'CNY' : ''))),
-        exchange = (currency === 'cny' ? 'btcchina' : 'coinbase')
+        exchange = (currency === 'cny' ? 'btcchina' : 'coinbase'),
 
         // This is the object passed to the chart for formatting, styling, etc.
         chartOptions = {
           // Set the templates for the axis labels and tooltips.
-          scaleLabel: (currency == 'usd' ? currencySign : '' )
+          scaleLabel: (currency === 'usd' ? currencies[currency] : '' )
                       + '<%= value %>'
-                      + (currency == 'cny' || currency == 'eur' ? currencySign : ''),
+                      + (currency != 'usd' ? currencies[currency] : ''),
           multiTooltipTemplate: "<%if (datasetLabel){%><%=datasetLabel%>: <%}%>"
-                                + (currency == 'usd' ? currencySign : '')
+                                + (currency === 'usd' ? currencies[currency] : '')
                                 + "<%= value %>"
-                                + (currency == 'eur' || currency == 'cny' ? currencySign : ''),
+                                + (currency != 'usd' ? currencies[currency] : ''),
         },
 
         /*
