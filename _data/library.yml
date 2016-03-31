@@ -12,6 +12,9 @@
   file: Blockchains and the Boundaries of Self-Organized Economies - Predictions for the Future of Banking.pdf
   desc:
   authors:
+    - Trent J. MacDonald
+    - Darcy Allen
+    - Jason Potts
   organization:
 - title: Blockchain technology as a platform for digitization - Implications for the insurance industry
   date: 18 Mar 2016
@@ -19,28 +22,33 @@
   file: Blockchain technology as a platform for digitization - Implications for the insurance industry.pdf
   desc:
   authors:
-  organization:
-- title: bitfury-digital_assets_on_public_blockchains
+    - Shaun Crawford
+    - Ian Meadows
+    - David Piesse
+  organization: EY
+- title: Digital Assets on Public Blockchains
   date: 17 Mar 2016
   size: 196K
   file: bitfury-digital_assets_on_public_blockchains.pdf
   desc:
   authors:
-  organization:
-- title: PWC - Blurred lines - How FinTech is shaping Financial Services
+  organization: BitFury
+- title: Blurred lines - How FinTech is shaping Financial Services
   date: 17 Mar 2016
   size: 1M
   file: PWC - Blurred lines - How FinTech is shaping Financial Services.pdf
   desc:
   authors:
-  organization:
+  organization: PWC
 - title: Beyond Bitcoin - The blockchain revolution in financial services
   date: 17 Mar 2016
   size: 340K
   file: Beyond Bitcoin - The blockchain revolution in financial services.pdf
   desc:
   authors:
-  organization:
+    - Kevin Petrasic
+    - Matthew Bornfreund
+  organization: White & Case
 - title: Distributed  Ledger Technology - Beyond Blockchain
   date: 13 Mar 2016
   size: 1M
@@ -54,48 +62,61 @@
   file: Centrally Banked Cryptocurrencies.pdf
   desc:
   authors:
+    - George Danezis
+    - Sarah Meiklejohn
   organization:
-- title: UNICREDIT - Blockchain-Technology-and-Applications-from-a-Financial-Perspective
+- title: Blockchain-Technology-and-Applications-from-a-Financial-Perspective
   date: 11 Mar 2016
   size: 578K
   file: UNICREDIT - Blockchain-Technology-and-Applications-from-a-Financial-Perspective.pdf
   desc:
   authors:
-  organization:
-- title: Deloitte-blockchain-banking-industry-outlook-2016
+    - Matteo Biella
+    - Vittorio Zinetti
+  organization: UniCredit
+- title: Banking reimagined
   date: 07 Mar 2016
   size: 3M
   file: Deloitte-blockchain-banking-industry-outlook-2016.pdf
-  desc:
+  desc: How disruptive forces will radically transform the industry in the decade ahead.
   authors:
-  organization:
-- title: Rootstock-WhitePaper-Overview
+  organization: Deloitte
+- title: Bitcoin powered smart contracts
   date: 07 Mar 2016
   size: 586K
   file: Rootstock-WhitePaper-Overview.pdf
   desc:
   authors:
-  organization:
+    - Sergio Demian Lerner
+  organization: Rootstock
 - title: Tangle - a cryptocurrency for Internet-of-Things industry - blockchain alternative
   date: 05 Mar 2016
   size: 318K
   file: Tangle - a cryptocurrency for Internet-of-Things industry - blockchain alternative.pdf
   desc:
   authors:
+    - Serguei Popov
   organization:
-- title: JP-Morgan-Juno-Distributed-Cryptoledger
+- title: Juno Distributed Cryptoledger
   date: 04 Mar 2016
   size: 799K
   file: JP-Morgan-Juno-Distributed-Cryptoledger.pdf
   desc:
   authors:
-  organization:
+    - Will Martino
+    - Stuart Popejoy
+    - Brian Schroeder
+    - Libby Kent
+  organization: J.P. Morgan
 - title: Inclusive Block Chain Protocols
   date: 04 Mar 2016
   size: 159K
   file: Inclusive Block Chain Protocols.pdf
   desc:
   authors:
+    - Yoad Lewenberg
+    - Yonatan Sompolinsky
+    - Aviv Zohar
   organization:
 - title: Accountable Privacy for Decentralized Anonymous Payments
   date: 04 Mar 2016
@@ -103,7 +124,10 @@
   file: Accountable Privacy for Decentralized Anonymous Payments.pdf
   desc:
   authors:
-  organization:
+    - Christina Garman
+    - Matthew Green
+    - Ian Miers
+  organization: Johns Hopkins University
 - title: Transaction Hypergraph Models for Pattern Identification in the Bitcoin Blockchain
   date: 04 Mar 2016
   size: 32K
