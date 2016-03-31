@@ -8,6 +8,7 @@ published: true
 seotitle: OpenBazaar Beginner's Guide and How-To
 toc:
   openbazaar-setup: Setup
+  introducing-openbazaar: Introducing Open Bazaar
   getting-started-with-openbazaar: Getting Started
   account-types: Account Types
   using-openbazaar-as-a-buyer: OpenBazaar for Buyers
@@ -19,6 +20,10 @@ toc:
 [OpenBazaar](https://openbazaar.org/) is an open source, decentralized marketplace. Instead of a centralized server that hosts listings, OpenBazaar is an application and network. Each installation of OpenBazaar stores and transmits its own listings to other nodes on the network. 
 
 OpenBazaar's peer-to-peer nature means there is no company or middleman that can remove or block listings, charge fees, or hold money. 
+
+## Introducing OpenBazaar 
+
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/kq46n6YmYU8?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
 ## OpenBazaar Setup
 
