@@ -17,7 +17,7 @@ website:
 ---
 Cory Fields is a [Bitcoin Core](/bitcoin-core/) Developer. He works alongside [Gavin Andresen](/gavin-andresen/) and [Wladimir van der Laan](/wladimir-van-der-laan/) at MIT's Digital Currency Initiative. 
 
-Previously, Cory served on the board of The XBMC Foundation and worked as a developer on XBMC. 
+Previously, Fields served on the board of The XBMC Foundation and worked as a developer on XBMC. 
 
 ## Quotes
 

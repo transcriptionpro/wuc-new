@@ -15,7 +15,7 @@ residence:
 cats: [ ]
 website: https://nicolascary.com/
 ---
-Nicolas Cary is a co-founder of Blockchain, a popular Bitcoin block explorer and [Bitcoin wallet](/en/find-the-best-bitcoin-wallet/). He also co-founded [Youth Business USA](https://twitter.com/YouthBusinessUS), a nonprofit that helps and trains young entrepreneurs. 
+Nicolas Cary is a co-founder of Blockchain, a popular Bitcoin block explorer and [Bitcoin wallet](/en/find-the-best-bitcoin-wallet/). He also co-founded [Youth Business USA](https://twitter.com/YouthBusinessUS), a nonprofit that supports and trains young entrepreneurs. 
 
 ## Links
 
