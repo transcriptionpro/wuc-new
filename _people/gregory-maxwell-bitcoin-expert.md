@@ -1,8 +1,6 @@
 ---
 title: Gregory Maxwell
 seotitle: Gregory Maxwell - CTO, Blockstream
-published: true
-name: Gregory Maxwell
 position: CTO, Blockstream
 education:
 experience:
