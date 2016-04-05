@@ -1,8 +1,5 @@
 ---
 title: BlockTrail
-author: Boaz Bechar
-authorurl: https://www.weusecoins.com/boaz-bechar/
-published: true
 cats: featured
 img: /images/blocktrail.png
 ---

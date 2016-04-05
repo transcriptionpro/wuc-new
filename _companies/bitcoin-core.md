@@ -1,10 +1,9 @@
 ---
 title: Bitcoin Core
-published: true
 cats:
  - ww
 ---
-Bitcoin Core--formerly Bitcoin-Qt--is a Bitcoin codebase based on the original code and framework published by Satoshi Nakamoto. Bitcoin Core is currently run by more than 70% of Bitcoin nodes and all miners. 
+Bitcoin Core--formerly Bitcoin-Qt--is a Bitcoin codebase based on the original code and framework published by Satoshi Nakamoto. Bitcoin Core is currently run by more than 70% of Bitcoin nodes and all miners.
 
 ## Purpose & Goals
 
@@ -21,34 +20,28 @@ Bitcoin Core is open source and [hosted on GitHub](https://github.com/bitcoin/bi
 
 ### Developers
 
-Wladimir van der Laan is the Lead Maintainer of Bitcoin Core. He has direct commit access to the Core Github repo and is responsible for merging pull requests, moderation, and the release cycle. 
+Wladimir van der Laan is the Lead Maintainer of Bitcoin Core. He has direct commit access to the Core Github repo and is responsible for merging pull requests, moderation, and the release cycle.
 
-[More than 350 developers](https://github.com/bitcoin/bitcoin/graphs/contributors) have contributed to the project. 
+[More than 350 developers](https://github.com/bitcoin/bitcoin/graphs/contributors) have contributed to the project.
 
-The profiles of the most active developers are listed below: 
+The profiles of the most active developers are listed below:
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Bitcoin Core' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="Bitcoin Core" %}
 
 ## BIPs
 
-New feature proposals for Bitcoin Core are submitted as Bitcoin Improvement Proposals (BIPs). BIPs are [hosted on GitHub](https://github.com/bitcoin/bips/) and maintained by Bitcoin Core developer Luke Dashjr. 
+New feature proposals for Bitcoin Core are submitted as Bitcoin Improvement Proposals (BIPs). BIPs are [hosted on GitHub](https://github.com/bitcoin/bips/) and maintained by Bitcoin Core developer Luke Dashjr.
 
-[BIP 1](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki) outlines BIP guidelines, rules, formatting, and workflow. 
+[BIP 1](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki) outlines BIP guidelines, rules, formatting, and workflow.
 
 ## Download
 
-Bitcoin Core is available for download from [bitcoin.org](https://bitcoin.org/en/download). The latest version is 0.12. 
+Bitcoin Core is available for download from [bitcoin.org](https://bitcoin.org/en/download). The latest version is 0.12.
 
 ## Controversy
 
-Bitcoin stands to uproot, alter, or damage existing financial institutions, governments, payment networks, and currencies. Like with any groundbreaking technology, not every user agrees on how/which features should be implemented, or who should control the protocol. 
+Bitcoin stands to uproot, alter, or damage existing financial institutions, governments, payment networks, and currencies. Like with any groundbreaking technology, not every user agrees on how/which features should be implemented, or who should control the protocol.
 
 Bitcoin's block size debate brought Bitcoin Core into the spotlight. Many claim that the Core development team should raise the block size from 1 MB to add more space for on-chain Bitcoin transactions. The Bitcoin Core team prefers to address scaling with protocols built on top of Bitcoin, like [Lightning Network](/adam-back-lightning-network/) and [sidechains](/what-are-sidechains/).  
 
-Alternate implementations like the failed [Classic and XT](https://bitcoinmagazine.com/articles/unlimited-classic-and-bitpay-core-bitcoin-s-new-kids-on-the-blockchain-1452705977) projects led by [Gavin Andresen](/gavin-andresen/) attempted to dangerously hard fork the Bitcoin network away from Bitcoin Core but ultimately died out after failing to reach consensus among miners, exchanges, developers, businesses and users. 
+Alternate implementations like the failed [Classic and XT](https://bitcoinmagazine.com/articles/unlimited-classic-and-bitpay-core-bitcoin-s-new-kids-on-the-blockchain-1452705977) projects led by [Gavin Andresen](/gavin-andresen/) attempted to dangerously hard fork the Bitcoin network away from Bitcoin Core but ultimately died out after failing to reach consensus among miners, exchanges, developers, businesses and users.

@@ -1,24 +1,20 @@
 ---
 title: Jacob Dienelt
 seotitle: Jacob Dienelt - Blockchain Architect, itBit
-author: Jacob Dienelt
-authorurl: http://www.weusecoins.com
-published: true
-img: 
-name: Jacob Dienelt
+img:
 position: Treasurer, Factom Foundation
 education: Bsc. in Game Theory from Kenyon College
-experience: 
+experience:
 short_desc: Jacob Dienelt is Treasurer of The Factom Foundation and a Blockchain Architect at itBit.
-long_desc: 
+long_desc:
 affiliations: [itBit, Factom]
 twitter: jakedienelt
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
 website: http://jacobdienelt.com/
 ---
-Jacob Dienelt is a Treasury Operations Expert, and is currently Treasurer of The [Factom](/factom/) Foundation and a Blockchain Architect at itBit. Jacob is also the founder of Immutable Data Partners, and advisor for several leading projects. 
+Jacob Dienelt is a Treasury Operations Expert, and is currently Treasurer of The [Factom](/factom/) Foundation and a Blockchain Architect at itBit. Jacob is also the founder of Immutable Data Partners, and advisor for several leading projects.
 
 ## History
 

@@ -1,8 +1,6 @@
 ---
-title: Cryptolabs About Page
-author: Cryptolabs
-authorurl: http://www.weusecoins.com
-published: true
+title: Cryptolabs
+seotitle: Cryptolabs About Page
 ---
 
 This is an early about page for Cryptolabs.

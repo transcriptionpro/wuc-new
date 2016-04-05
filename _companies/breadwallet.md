@@ -1,9 +1,6 @@
 ---
 title: Breadwallet
 seotitle: Breadwallet About Page
-author: Breadwallet
-authorurl: http://www.weusecoins.com
-published: true
 cats: featured
 img: /images/breadwallet.jpg
 ---

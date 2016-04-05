@@ -1,20 +1,17 @@
 ---
 title: Alan Reiner
 seotitle: Alan Reiner - Bitcoin Security Expert
-author: Alan Reiner
-authorurl: https://www.weusecoins.com/alan-reiner-bitcoin-security-expert
-published: true
 img: /images/alan-reiner.png
 name: Alan Reiner
 position: Founder, Armory
 education: Graduate Degrees in Engineering Mechanics and Applied Mathematics
-experience: 
+experience:
 short_desc: Alan Reiner was the former CTO and Founder of Armory.
-long_desc: 
-affiliations: 
-twitter: 
+long_desc:
+affiliations:
+twitter:
 github: etotheipi
-residence: 
+residence:
 ---
 Alan Reiner was the former CTO and Founder of <a href="/armory/">Armory</a>. He is a cryptocurrency security pioneer and widely recognized as a world leading Bitcoin security expert and as a trusted source for security best practices. Under his leadership Armory innovated new Bitcoin security features and enterprise-grade functionality.
 

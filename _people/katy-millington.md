@@ -1,20 +1,17 @@
 ---
 title: Katy Millington
-author: Katy Millington - General Counsel of Bitgold
-seotitle: Katy Millington - General Counsel of Bitgold
-authorurl: /katy-millington/
 published: true
 img: /images/katy-millington.png
-name: Katy Millington
 position: General Counsel of Bitgold
 education: Bachelor of Laws & Bachelor of Arts from the University of Auckland
-experience: 
+experience:
 short_desc: Katy Millington is the group General Counsel of BitGold.
-long_desc: 
-affiliations: BitGold
+long_desc:
+affiliations:
+  - BitGold
 twitter: katybmillington
-github: 
-residence: 
+github:
+residence:
 ---
 Katy Millington is the group General Counsel of BitGold, an executive director of the Jersey companies, and the Jersey Head of Compliance.
 
@@ -34,10 +31,5 @@ She holds a Bachelor of Laws (with honours) and a Bachelor of Arts from the Univ
 
 ## BitGold Executive Management Team Members
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'BitGold' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[0] %}
+{% include similar-people.html organization=organization name=page.title %}

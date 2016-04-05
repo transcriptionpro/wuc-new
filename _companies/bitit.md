@@ -1,14 +1,11 @@
 ---
-layout: post
-title: Bitit | Buy Bitcoins fast and easy
-author: Bitit
-authorurl: https://www.bitit.gift
+title: Bitit
+seotitle: Bitit | Buy Bitcoins fast and easy
 description: Buy Bitcoins online by credit card and by cash in 100K+ Local stores.
-published: true
 ---
 <p style="margin-bottom: 20px;"><a class="social-link" href="https://twitter.com/bitit_gift" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @Bitit</a></p>
 
-<p>Bitit lets users buy Bitcoin through its prepaid vouchers and Bitcoin gift cards. 
+<p>Bitit lets users buy Bitcoin through its prepaid vouchers and Bitcoin gift cards.
 <p>These tools make it very easy to buy your first bitcoins.
 <p>By credit card or by cash in more than 100K+ Local stores choose your most convenient way to buy Bitcoin.
 <p>Bitit is the easiest way to buy, send & receive Bitcoins.<br><br></p>
@@ -42,7 +39,7 @@ published: true
 </ul>
 <hr/>
 ### Supported Countries
-<p>Available in the United States, Canada, and most of Europe.</p> 
+<p>Available in the United States, Canada, and most of Europe.</p>
 <p>All European and Canadian residents may <a title="Bitit" href="https://www.bitit.gift/physical" target="_blank" style="text-decoration:none; color:#FF693A;">buy bitcoin by cash with Neosurf</a></p>
 <hr/>
 ### Privacy & Limits

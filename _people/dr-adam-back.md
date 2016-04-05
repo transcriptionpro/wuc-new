@@ -2,17 +2,18 @@
 title: Dr. Adam Back
 img: /images/adam-back.png
 person: adamback
-name: Dr. Adam Back
 position: President, Blockstream
 education: Ph.D. in Computer Science from University of Exeter
-experience: 
-short_desc: 
-long_desc: 
+experience:
+short_desc:
+long_desc:
 img: /images/adam-back.png
-affiliations: Blockstream, Armory
+affiliations:
+  - Blockstream
+  - Armory
 twitter: adam3us
-github: 
-residence: 
+github:
+residence:
 ---
 
 Dr. Adam Back is the premier expert in the world on blockchain technology and a significant pioneer of applied cryptography for privacy applications. His brilliant applied cryptography work is cited in the <a href="/bitcoin.pdf">Bitcoin whitepaper</a> for the necessity of using a system like his invention Hashcash and the <a href="/assets/pdf/tor-design.pdf">TOR whitepaper</a> of the use of telescoping circuits.
@@ -36,14 +37,3 @@ He holds a Ph.D. in distributed systems and computer science from the University
 Adam Back on fungibility, privacy & identity:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/3dAdI3Gzodo" frameborder="0" allowfullscreen></iframe>
-
-{% comment %}
-Articles by Dr. Adam Back
-<ul>
-	<li><a href="/adam-back-cypherpunks/">A Week With Adam Back - Part 1</a> - Why is Dr. Back so legendary?</li>
-	<li><a href="/adam-back-bitcoin-core-developers/">A Week With Adam Back - Part 2</a> - Who are the top Bitcoin developers?</li>
-	<li><a href="/adam-back-confidential-transactions/">A Week With Adam Back - Part 3</a> - Confidential Transactions</li>
-	<li><a href="/adam-back-lightning-network/">A Week With Adam Back - Part 4</a> - Lightning Network</li>
-	<li><a href="/adam-back-sidechains/">A Week With Adam Back - Part 5</a> - Sidechains</li>
-</ul>
-{% endcomment %}

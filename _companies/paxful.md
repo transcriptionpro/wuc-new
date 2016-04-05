@@ -1,8 +1,6 @@
 ---
-title: Paxful About Page
-author: Paxful
-authorurl: /paxful/
-published: true
+title: Paxful
+seotitle: Paxful About Page
 ---
 
 Paxul has been integrated with Backpage and there is this helpful guide: <a href="/how-to-use-bitcoin-with-backpage/">How To Use Bitcoin With Backpage</a>.

@@ -1,30 +1,27 @@
 ---
 title: Aaron Voisine
-author: Aaron Voisine
 seotitle: Aaron Voisine - Bitcoin Security Expert
-authorurl: https://www.weusecoins.com/aaron-voisine-bitcoin-security-expert
-published: true
 img: /images/aaron-voisine.png
-name: Aaron Voisine
 position: CEO, breadwallet
 education: B.S. in Computer Science from Purdue University
-experience: 
+experience:
 short_desc: Aaron Voisine is the CEO and Founder of breadwallet.
-long_desc: 
-affiliations: breadwallet
-twitter: 
+long_desc:
+affiliations:
+  - breadwallet
+twitter:
 github: voisine
-residence: 
+residence:
 ---
-Aaron Voisine is the CEO and Founder of <a href="/breadwallet/">Breadwallet</a>. 
+Aaron Voisine is the CEO and Founder of <a href="/breadwallet/">Breadwallet</a>.
 
 ## breadwallet
 
 Voisine founded [breadwallet](http://breadwallet.com/) in 2014. It is an [open source](https://github.com/voisine/breadwallet) SVP wallet for iOS and one of the most [popular Bitcoin wallets](/en/find-the-best-bitcoin-wallet/).
 
-## Passphrase-protected private key (BIP 38) 
+## Passphrase-protected private key (BIP 38)
 
-Voisine contributed code to [BIP 38](https://github.com/bitcoin/bips/blob/master/bip-0038.mediawiki), which added passphrase-protected private keys to Bitcoin. An additional layer of protection for paper wallets was needed in order to prevent against physical theft. 
+Voisine contributed code to [BIP 38](https://github.com/bitcoin/bips/blob/master/bip-0038.mediawiki), which added passphrase-protected private keys to Bitcoin. An additional layer of protection for paper wallets was needed in order to prevent against physical theft.
 
 ## History
 

@@ -2,18 +2,19 @@
 title: Brian Hoffman
 seotitle: Brian Hoffman - CEO, OB1
 img: /images/brian-hoffman.jpg
-name: Brian Hoffman
 position: CEO, OB1
-education: 
-experience: 
+education:
+experience:
 short_desc: Brian Hoffman is the CEO of OB1, and lead developer of OpenBazaar.
-long_desc: 
-affiliations: [OpenBazaar, OB1]
+long_desc:
+affiliations:
+  - OpenBazaar
+  - OB1
 twitter: brianchoffman
 github: hoffmabc
-residence: 
+residence:
 cats: [ ]
-website: 
+website:
 ---
 Brian Hoffman is the CEO of OB1, which is the parent company of the decentralized marketplace [OpenBazaar](/openbazaar/).
 
@@ -23,13 +24,13 @@ OpenBazaar began as Dark Market, when Amir Taaki published its first code in 201
 
 ## Quotes
 
-On [OpenBazaar's goals](http://fortune.com/2015/06/25/openbazaar-not-silk-road/): 
+On [OpenBazaar's goals](http://fortune.com/2015/06/25/openbazaar-not-silk-road/):
 
 > The vision is opening trade for every kind of activity. We’re not building a marketplace that specifies one kind of user or trade, we just build the network and it’s up to the participants to decide what goes across that network, much like the Internet. Same goes for bitcoin. I think some of these new technologies, early on, get adopted by some unsavory groups, because they’re the ones that are most willing to be risky about the way they conduct business.
 
-On [OpenBazaar](http://insidebitcoins.com/news/brian-hoffman-on-why-vcs-arent-scared-to-invest-in-openbazaar/33846): 
+On [OpenBazaar](http://insidebitcoins.com/news/brian-hoffman-on-why-vcs-arent-scared-to-invest-in-openbazaar/33846):
 
-> OpenBazaar is not a company; it’s not a business. We don’t have servers in some data center collecting all this data and controlling our users. It’s just a protocol. It’s just a bunch of computers talking to each other, so what happens on that network is up to the whim of the users. 
+> OpenBazaar is not a company; it’s not a business. We don’t have servers in some data center collecting all this data and controlling our users. It’s just a protocol. It’s just a bunch of computers talking to each other, so what happens on that network is up to the whim of the users.
 
 ## Links
 
@@ -38,13 +39,8 @@ On [OpenBazaar](http://insidebitcoins.com/news/brian-hoffman-on-why-vcs-arent-sc
 
 ## More OpenBazaar Developers
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'OpenBazaar' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[0] %}
+{% include similar-people.html organization=organization name=page.title %}
 
 ## Video
 

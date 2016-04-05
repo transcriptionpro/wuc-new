@@ -1,20 +1,17 @@
 ---
 title: Joaquin Moreno
-author: Joaquin Moreno
-authorurl: http://www.weusecoins.com/joaquin-moreno/
-published: true
 seotitle: Joaquin Moreno - Founder, Mondome
 img: /images/joaquin-moreno.png
 name: Joaquin Moreno
 position: Founder, Mondome
-education: 
-experience: 
-short_desc: Joaquin Moreno is the founder of Mondome and BTC en Español. 
-long_desc: 
+education:
+experience:
+short_desc: Joaquin Moreno is the founder of Mondome and BTC en Español.
+long_desc:
 affiliations: [Mondome, BTC en Español]
 twitter: joaquinmoreno
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
 website: http://btcenespanol.com/
 ---

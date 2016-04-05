@@ -2,24 +2,23 @@
 title: Washington Sanchez
 seotitle: Washington Sanchez - Co-founder, OB1
 img: /images/washington-sanchez.jpg
-name: Washington Sanchez
 position: Co-founder, OB1
-education: 
-experience: 
-short_desc: 
-long_desc: 
+education:
+experience:
+short_desc:
+long_desc:
 affiliations: [OB1, OpenBazaar]
 twitter: drwasho
 github: drwasho
-residence: 
+residence:
 cats: [ ]
-website: 
+website:
 ---
 Washington Sanchez is a Co-founder of OB1 and a core developer of [OpenBazaar](/openbazaar/).  
 
 ## Work on OpenBazaar
 
-Sanchez is responisble for implementing OpenBazaar's market protocol. He also [published OpenBazaar's proposal](https://gist.github.com/drwasho/a5380544c170bdbbbad8) for Ricardian Contracts. 
+Sanchez is responisble for implementing OpenBazaar's market protocol. He also [published OpenBazaar's proposal](https://gist.github.com/drwasho/a5380544c170bdbbbad8) for Ricardian Contracts.
 
 ## Links
 
@@ -27,10 +26,5 @@ How to stop a Bitcoin hard fork… or how to accelerate it - by [Washington Sanc
 
 ## More OpenBazaar Developers
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'OpenBazaar' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[1] %}
+{% include similar-people.html organization=organization name=page.title %}

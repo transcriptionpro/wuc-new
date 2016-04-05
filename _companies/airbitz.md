@@ -1,9 +1,6 @@
 ---
 title: Airbitz
 seotitle: Airbitz Bitcoin Wallet - About Page
-author: Airbitz
-authorurl: https://www.weusecoins.com/airbitz/
-published: true
 cats: featured
 img: /images/airbitz.png
 ---
@@ -111,7 +108,7 @@ Tim has no turned his interested to all things crypto. When he isn't hashing and
 <h2>Venture Capital Rounds</h2>
 
 {% for company in site.data.companies %}
-{% if company.company == 'Airbitz' %}
-{% include company_list.html %}
-{% endif %}
+  {% if company.company == 'Airbitz' %}
+    {% include company_list.html %}
+  {% endif %}
 {% endfor %}

@@ -2,16 +2,15 @@
 title: Luke Dashjr (Luke-Jr)
 seotitle: Luke Dashjr (Luke-Jr) - Bitcoin Core Developer
 img: /images/luke-dashjr.png
-name: Luke Dashjr
-position: Bitcoin Core Developer 
-education: 
-experience: 
-short_desc: Luke Dashjr is a Bitcoin Core developer and founder of Eligius mining pool. 
-long_desc: 
+position: Bitcoin Core Developer
+education:
+experience:
+short_desc: Luke Dashjr is a Bitcoin Core developer and founder of Eligius mining pool.
+long_desc:
 affiliations: [Bitcoin Core, BFG Miner]
-twitter: 
+twitter:
 github: luke-jr
-residence: 
+residence:
 cats: [ ]
 website: http://luke.dashjr.org/
 ---
@@ -33,17 +32,12 @@ Dashjr founded [Eligius](http://eligius.st/~gateway/), one of the first Bitcoin 
 
 ## BIPs 22 & 23
 
-Dashjr is responsible for BIPs [22](https://github.com/bitcoin/bips/blob/master/bip-0022.mediawiki) and [23](https://github.com/bitcoin/bips/blob/master/bip-0023.mediawiki). 
+Dashjr is responsible for BIPs [22](https://github.com/bitcoin/bips/blob/master/bip-0022.mediawiki) and [23](https://github.com/bitcoin/bips/blob/master/bip-0023.mediawiki).
 
 BIP 22 added protocol support for long polling, which allowed to be notified of new templates immediately. BIP 23 [allows miners](https://bitcointalk.org/index.php?topic=957509.0) to "check the basic validity of their next block before expending work on it, reducing risks of accidental
 hardforks or mining invalid blocks."
 
 ## More Bitcoin Core Developers
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Bitcoin Core' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[0] %}
+{% include similar-people.html organization=organization name=page.title %}

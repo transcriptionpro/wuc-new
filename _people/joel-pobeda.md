@@ -2,20 +2,19 @@
 title: Joel Pobeda
 seotitle: Joel Pobeda - COO, Ledger
 img: /images/joel-pobeda.png
-name: Joel Pobeda
 position: COO, Ledger
-education: 
-experience: 
+education:
+experience:
 short_desc: Joel Pobeda is the Co-founder and COO of Ledger.
-long_desc: 
+long_desc:
 affiliations: [Ledger, Chronocoin]
-twitter: 
-github: 
-residence: 
+twitter:
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
-Joel Pobeda is the Co-founder and COO of [Ledger](/ledger/), a Bitcoin security company. 
+Joel Pobeda is the Co-founder and COO of [Ledger](/ledger/), a Bitcoin security company.
 
 ## Chronocoin
 
