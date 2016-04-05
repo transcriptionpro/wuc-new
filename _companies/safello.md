@@ -1,8 +1,6 @@
 ---
-title: Safello About Page
-author: Safello
-authorurl: http://www.weusecoins.com
-published: true
+title: Safello
+seotitle: Safello About Page
 ---
 
 This is an early about page for Safello an European Bitcoin exchange.

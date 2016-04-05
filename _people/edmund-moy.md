@@ -2,22 +2,21 @@
 title: Edmund Moy
 seotitle: Edmund Moy - Former Director of the US Mint
 img: /images/edmund-moy.png
-name: Edmund Moy
 position: Former Director of the US Mint
 education: Bachelors of Arts in Economics, International Relations, and Political Science from University of Wisconsin–Madison
-experience: 
+experience:
 short_desc: Edmund Moy served as the 38th Director of the US Mint.
-long_desc: 
+long_desc:
 affiliations: []
 twitter: EdmundCMoy
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
 Edmund Moy served as the 38th Director of the US Mint. Moy gained attention in the Bitcoin space in May-2014 when he [tweeted](https://twitter.com/EdmundCMoy/statuses/469500127179440128) about cryptocurrencies acting as competition against banks. A day later, he [wrote a blog post](http://edmoy.com/the-currency-revolution-courtesy-of-bitcoin/) claiming Bitcoin "will be a disruptor to the traditional notions of currency".
 
-Since his initial tweets about Bitcoin, Moy has become more involved with the digital currency. In November 2015, he attended the Bitcoin Investor Conference in Las Vegas. In March 2016, he was [featured as a guest](http://www.bitcoin.kn/2016/03/former-united-states-mint-director-ed-moy-discusses-coinage/) on the Bitcoin Knowledge Podcast. 
+Since his initial tweets about Bitcoin, Moy has become more involved with the digital currency. In November 2015, he attended the Bitcoin Investor Conference in Las Vegas. In March 2016, he was [featured as a guest](http://www.bitcoin.kn/2016/03/former-united-states-mint-director-ed-moy-discusses-coinage/) on the Bitcoin Knowledge Podcast.
 
 ## Quotes
 

@@ -1,20 +1,18 @@
 ---
 title: Andreas M. Antonopoulos
 seotitle: Andreas M. Antonopoulos - Bitcoin Expert
-author: Andreas M. Antonopoulos
-authorurl: /andreas-antonopoulos-bitcoin-expert/
-published: true
 img: /images/andreas-antonopoulos.jpg
 name: Andreas M. Antonopoulos
 position: Author, Mastering Bitcoin
 education: Degrees in Computer Science, Data Communications and Distributed Systems from University College London
-experience: 
+experience:
 short_desc: Andreas M. Antonopoulos is a technologist and serial entrepreneur who has become one of the most well-known and well-respected figures in bitcoin.
-long_desc: 
-affiliations: Let's Talk Bitcoin
+long_desc:
+affiliations:
+  - Let's Talk Bitcoin
 twitter: aantonop
 github: aantonop
-residence: 
+residence:
 website: https://antonopoulos.com/
 cats: [public speaker, book author, bitcoin expert, featured]
 ---
@@ -22,15 +20,15 @@ Andreas M. Antonopoulos is a technologist and serial entrepreneur who has become
 
 ## Mastering Bitcoin
 
-Andreas is the author of *Mastering Bitcoin*, a book on the basics and technical aspects of Bitcoin. The book was published in December 2014 and is [available for free on GitHub](https://github.com/bitcoinbook/bitcoinbook). 
+Andreas is the author of *Mastering Bitcoin*, a book on the basics and technical aspects of Bitcoin. The book was published in December 2014 and is [available for free on GitHub](https://github.com/bitcoinbook/bitcoinbook).
 
 ## Blockchain.info
 
-Antonopoulos served as Blockchain.info's Chief Security Officer for eight months. He currently serves as an advisor to its board. 
+Antonopoulos served as Blockchain.info's Chief Security Officer for eight months. He currently serves as an advisor to its board.
 
 ## Public Speaking
 
-A former teacher, Andreas has used his skills to become one of the most recognized Bitcoin public speakers. He [made an appearance at the Canadian Senate](https://www.youtube.com/watch?v=xUNGFZDO8mM), has been [featured on the Joe Rogan Experience](https://www.youtube.com/watch?v=5wwbzwUXfgc), and hundreds more of his speaking appearances can be found on [YouTube](https://www.youtube.com/results?q=andreas+antonopoulos+bitcoin&sp=CAM%253D). 
+A former teacher, Andreas has used his skills to become one of the most recognized Bitcoin public speakers. He [made an appearance at the Canadian Senate](https://www.youtube.com/watch?v=xUNGFZDO8mM), has been [featured on the Joe Rogan Experience](https://www.youtube.com/watch?v=5wwbzwUXfgc), and hundreds more of his speaking appearances can be found on [YouTube](https://www.youtube.com/results?q=andreas+antonopoulos+bitcoin&sp=CAM%253D).
 
 ## History
 

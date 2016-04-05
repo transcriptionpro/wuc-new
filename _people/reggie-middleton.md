@@ -2,16 +2,15 @@
 title: Reggie Middleton
 img: /images/reggie-middleton.png
 seotitle: Reggie Middleton - Ultra-coin
-name: Reggie Middleton
 position: Ultra-coin
 education: Bachelor's Degree in Business Management
-experience: 
-short_desc: 
-long_desc: 
+experience:
+short_desc:
+long_desc:
 affiliations: [Ultra-coin]
 twitter: reggiemiddleton
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
 website: http://veritaseum.com
 ---

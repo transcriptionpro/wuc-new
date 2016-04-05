@@ -2,18 +2,17 @@
 title: Jeremy Gardner
 img: /images/jeremy-gardner.png
 seotitle: Jeremy Gardner - Co-Founder, BlockchainEdu
-name: Jeremy Gardner
 position: Founder, BlockchainEdu
-education: 
+education:
 experience: 
-short_desc: Jeremy Gardner is the Co-Founder of BlockchainEdu and Augur. 
-long_desc: 
+short_desc: Jeremy Gardner is the Co-Founder of BlockchainEdu and Augur.
+long_desc:
 affiliations: [BlockchainEdu, Augur]
 twitter: disruptepreneur
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
 I have seemingly dedicated my life to cryptocurrencies and block chain technology over the course of the past year. I am the co-founder and executive director of the College Cryptocurrency Network (CCN), Director of Operations/Business Development at Augur, and serve as an official advisor to Bitcoin Shop.
 

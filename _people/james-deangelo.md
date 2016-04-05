@@ -1,24 +1,20 @@
 ---
 title: James DeAngelo
 seotitle: James DeAngelo - Founder, World Bitcoin Network
-author: James DeAngelo
-authorurl: https://twitter.com/JamesGDAngelo
-published: true
 img: /images/james-deangelo.png
-name: James DeAngelo
 position: Founder, World Bitcoin Network
-education: 
-experience: 
+education:
+experience:
 short_desc: James DeAngelo is the Founder of World Bitcoin Network.
-long_desc: 
+long_desc:
 affiliations: [World Bitcoin Network]
 twitter: jamesgdangelo
-github: 
-residence: 
+github:
+residence:
 cats: featured
-website: 
+website:
 ---
-James De'Angelo is well-known in the Bitcoin industry for his YouTube Channel: [World Bitcoin Network](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos?view=0&flow=grid&sort=p). De'Angelo's videos provide simple explanations about basic Bitcoin concepts, making it easy for beginners to understand the new technology. 
+James De'Angelo is well-known in the Bitcoin industry for his YouTube Channel: [World Bitcoin Network](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos?view=0&flow=grid&sort=p). De'Angelo's videos provide simple explanations about basic Bitcoin concepts, making it easy for beginners to understand the new technology.
 
 ## Most Viewed Videos
 

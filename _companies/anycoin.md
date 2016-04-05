@@ -1,8 +1,6 @@
 ---
-title: Anycoin Direct - About Page
-author: Anycoin Direct
-authorurl: https://www.weusecoins.com/anycoin/
-published: true
+title: Anycoin
+seotitle: Anycoin Direct - About Page
 ---
 
 <img src="/images/anycoin.png" alt="Anycoin Direct" align="center">

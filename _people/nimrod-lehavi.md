@@ -2,19 +2,18 @@
 title: Nimrod Lehavi
 seotitle: Nimrod Lehavi - CEO, Simplex
 img: /images/nimrod-lehavi.png
-name: Nimrod Lehavi
 position: CEO, Simplex
-education: 
-experience: 
+education:
+experience:
 short_desc: Nimrod Lehavi is the CEO and Co-founder of Simplex.
-long_desc: 
+long_desc:
 affiliations: [Simplex, Israeli Bitcoin Association]
 twitter: nimrodlehavi
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
-Nimrod Lehavi is the CEO and Co-founder of [Simplex](/simplex/), a credit card fraud prevention company. In addition, he's a Board Member of the Israeli Bitcoin Association. 
+Nimrod Lehavi is the CEO and Co-founder of [Simplex](/simplex/), a credit card fraud prevention company. In addition, he's a Board Member of the Israeli Bitcoin Association.
 
-Previously, he founded Lehavi Solutions Software Boutique, which provides enterprise technology solutions. 
+Previously, he founded Lehavi Solutions Software Boutique, which provides enterprise technology solutions.

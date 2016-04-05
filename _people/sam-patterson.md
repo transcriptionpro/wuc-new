@@ -2,22 +2,21 @@
 title: Sam Patterson
 seotitle: Sam Patterson - COO, OB1
 img: /images/sam-patterson.jpg
-name: Sam Patterson
 position: COO, OB1
-education: 
-experience: 
+education:
+experience:
 short_desc: Sam Patterson is the Operations Lead of OpenBazaar, and the COO of OB1.
-long_desc: 
+long_desc:
 affiliations: [OB1, OpenBazaar]
 twitter: samuelpatt
 github: SamPatt
-residence: 
+residence:
 cats: [ ]
-website: 
+website:
 ---
 Sam Patterson is the Operations Lead of [OpenBazaar](/openbazaar/), and the COO of OB1. Patterson co-founded OpenBazaar [to](https://www.linkedin.com/in/sam-patterson-0943901b) "help bring decentralized trade to the world".
 
-Previously, he worked at the Charles Koch Institute as a Senior Policy Analyst and Research Fellow. 
+Previously, he worked at the Charles Koch Institute as a Senior Policy Analyst and Research Fellow.
 
 ## Links
 
@@ -26,13 +25,8 @@ Previously, he worked at the Charles Koch Institute as a Senior Policy Analyst a
 
 ## More OpenBazaar Developers
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'OpenBazaar' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[1] %}
+{% include similar-people.html organization=organization name=page.title %}
 
 ## Video
 

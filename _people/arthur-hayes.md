@@ -5,13 +5,14 @@ img: /images/arthur-hayes.png
 name: Arthur Hayes
 position: CEO, BitMEX
 education: BA in Economics from the Wharton School of Business at the University of Pennsylvania
-experience: 
-short_desc: Arthur Hayes is the CEO of BitMEX. 
-long_desc: 
-affiliations: BitMEX
-twitter: 
-github: 
-residence: 
+experience:
+short_desc: Arthur Hayes is the CEO of BitMEX.
+long_desc:
+affiliations:
+  - BitMEX
+twitter:
+github:
+residence:
 cats: [ ]
 ---
 
@@ -19,7 +20,7 @@ Arthur Hayes serves as the CEO of BitMEX and obtained his BA in Economics at the
 
 ## History
 
-After leaving Citi in 2013, Arthur began trading and investing in Bitcoin. He primarily engages in arbitrage between different spot exchanges, and between Bitcoin derivatives. After trading Bitcoin derivatives on various exchanges for some time, he thought that there is space for a Bitcoin derivative exchange modelled after existing exchanges where fiat currency derivatives are traded. 
+After leaving Citi in 2013, Arthur began trading and investing in Bitcoin. He primarily engages in arbitrage between different spot exchanges, and between Bitcoin derivatives. After trading Bitcoin derivatives on various exchanges for some time, he thought that there is space for a Bitcoin derivative exchange modelled after existing exchanges where fiat currency derivatives are traded.
 
 ## BitMEX
 

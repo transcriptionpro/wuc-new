@@ -1,20 +1,18 @@
 ---
 title: Daniel Crandall
 seotitle: Daniel Crandall - CFO Bitgold
-author: Daniel Crandall - CFO Bitgold
-authorurl: /daniel-crandall/
-published: true
 img: /images/daniel-crandall.png
 name: Daniel Crandall
 position: CFO Bitgold
 education: Bachelor of Accounting from Brock University
-experience: 
+experience:
 short_desc: CPA, CA and is the CFO of BitGold.
-long_desc: 
-affiliations: BitGold
-twitter: 
-github: 
-residence: 
+long_desc:
+affiliations:
+  - BitGold
+twitter:
+github:
+residence:
 ---
 Daniel Crandall is a CPA, CA and is the <b>CFO</b> of <a href="/bitgold/">BitGold</a>.
 
@@ -31,10 +29,5 @@ He holds an Honours Bachelor of Accounting (Co-op) degree from Brock University.
 
 ## BitGold Executive Management Team Members
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'BitGold' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[0] %}
+{% include similar-people.html organization=organization name=page.title %}

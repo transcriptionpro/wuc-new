@@ -2,16 +2,15 @@
 title: Jesse Powell
 seotitle: Jesse Powell - CEO of Kraken
 img: /images/jesse-powell.png 
-name: Jesse Powell
 position: CEO of Kraken
-education: 
-experience: 
+education:
+experience:
 short_desc: Jesse Powell is the co-founder and CEO of Kraken.
-long_desc: 
+long_desc:
 affiliations: [Kraken]
 twitter: jespow
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
 website: http://jesse.forthewin.com/
 ---

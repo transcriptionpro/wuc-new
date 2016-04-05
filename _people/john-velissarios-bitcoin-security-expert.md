@@ -1,22 +1,18 @@
 ---
 title: John Velissarios - Bitcoin Security Expert
-author: John Velissarios
-authorurl: https://www.weusecoins.com/john-velissarios-bitcoin-security-expert
-published: true
 seotitle: John Velissarios
 img: /images/john-velissarios.png
-name: John Velissarios
 position: Consultant
 education: Degree in Computer Science & Graduate Degree in Cryptography and Information Security
-experience: 
+experience:
 short_desc: John Velissarios provides security consulting services for blockchain and Bitcoin technologies.
-long_desc: 
+long_desc:
 affiliations: [Accenture]
-twitter: 
-github: 
+twitter:
+github:
 residence: [London]
 cats: [ ]
-website: 
+website:
 ---
 John spearheads the professional global services division. He brings two decades of IT security expertise earned in the world’s most trusted consulting organizations and was entrusted with protecting the world's most important and valuable private keys. He served a global customer base of tier 1 financial institutions and payment processors.
 
@@ -26,6 +22,6 @@ He leads the blockchain and Bitcoin security consulting services.
 
 John holds a degree in computer science and graduate degree in cryptography and information security. John is a founding member of the Institute of Information Security Professionals, IISP, and regular speaker at security conferences.
 
-## Video 
+## Video
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/Y1WRH0Pomlg" frameborder="0" allowfullscreen></iframe></center>

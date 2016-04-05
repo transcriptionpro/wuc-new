@@ -1,20 +1,17 @@
 ---
 title: Brian Donegan
 seotitle: Brian Donegan - Isle of Man Government
-author: Brian Donegan
-authorurl: https://www.weusecoins.com/
-published: true
 img: /images/brian-donegan.png
-name: Brian Donegan
 position: Business Development Manager, Isle of Man government
-education: 
-experience: 
+education:
+experience:
 short_desc: Brian Donegan is the business development manager for the Isle of Man government.
-long_desc: 
-affiliations: Isle of Man Government
-twitter: 
-github: 
-residence: 
+long_desc:
+affiliations:
+  - Isle of Man Government
+twitter:
+github:
+residence:
 cats: [ ]
 ---
 Brian Donegan is the business development manager for the Isle of Man government. He has been instrumental in bringing Bitcoin and cryptocurrency businesses to the Isle of Man.

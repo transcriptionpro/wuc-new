@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learn from the top people in the Bitcoin world
-toc: 
+toc:
   back: Dr. Adam Back
   companies: Companies
   ind: Individuals
@@ -32,73 +32,37 @@ toc:
 
 <p><a href="/bitcoin-core/">Bitcoin Core</a>--formerly Bitcoin-Qt--is a Bitcoin codebase based on the original code and framework published by Satoshi Nakamoto. Bitcoin Core is currently run by more than 70% of Bitcoin nodes and all miners, making it the most widely used Bitcoin client. Note that Bitcoin Core is not a company.</p>
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Bitcoin Core' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="Bitcoin Core" %}
 
 <h3>Blockstream</h3>
 
 <p><a href="/blockstream/">Blockstream</a> is one of the most-well funded Bitcoin companies, with $76 million in venture capital thanks to its latest $55 million funding round. Its core purpose is to improve Bitcoin's utility with sidechains.</p>
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Blockstream' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="Blockstream" %}
 
 <h3>Armory</h3>
 
 <p><a href="/armory/">Armory</a> builds enterprise grade Bitcoin security software solutions and provides Bitcoin security consulting services to institutions for deploying a Bitcoin security plan.</p>
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Armory' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="Armory" %}
 
 <h3>Coinbase</h3>
 
 <p><a href="/coinbase-review/">Coinbase</a> aims to be the easiest way to get started with Bitcoin. Users can easily buy & sell bitcoins, or accept bitcoin as a merchant. </p>
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Coinbase' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="Coinbase" %}
 
 <h3>Ledger</h3>
 
 <p><a href="/ledger/">Ledger</a> is a Bitcoin security company known for its Bitcoin hardware wallets.</p>
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Ledger' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="Ledger" %}
 
 <h3>OpenBazaar</h3>
 
 <p><a href="/openbazaar/">OpenBazaar</a> is a Bitcoin-only, decentralized online marketplace. It is currently developed by OB1.</p>
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'OpenBazaar' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="OpenBazaar" %}
 
 <h3>More Bitcoin Companies</h3>
 
@@ -118,11 +82,11 @@ You don't need to work for a company to contribute in the Bitcoin space. Meet mo
 
 <h3></h3>
 
-<div class="similar-people-wrap">
+<div class="person-list">
 {% for person in site.people %}
-{% if person.cats contains 'featured' %}
-{% include similar-people.html %}
-{% endif %}
+  {% if person.cats contains 'featured' %}
+    {% include person.html %}
+  {% endif %}
 {% endfor %}
 </div>
 

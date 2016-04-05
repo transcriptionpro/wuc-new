@@ -1,8 +1,6 @@
 ---
-title: The Merkle About Page
-author: The Merkle
-authorurl: http://www.weusecoins.com
-published: true
+title: The Merkle
+seotitle: The Merkle About Page
 ---
 
 This is for The Merkle.

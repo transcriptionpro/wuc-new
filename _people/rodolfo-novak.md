@@ -1,20 +1,16 @@
 ---
 title: Rodolfo Novak
-author: Rodolfo Novak
-authorurl: https://www.weusecoins.com/rodolfo-novak/
-published: true
 seotitle: Rodolfo Novak - CEO & Co-founder, Coinkite
 img: /images/rodolfo-novak.png
-name: Rodolfo Novak
 position: CEO & Co-founder, Coinkite
-education: 
-experience: 
-short_desc: Rodolfo Novak is the CEO & Co-founder of Coinkite. 
-long_desc: 
+education:
+experience:
+short_desc: Rodolfo Novak is the CEO & Co-founder of Coinkite.
+long_desc:
 affiliations: [Coinkite]
 twitter: nvk
 github: nvk
-residence: 
+residence:
 cats: [ ]
 website: http://rnvk.org/
 ---

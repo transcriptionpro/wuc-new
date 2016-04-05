@@ -1,22 +1,18 @@
 ---
 title: Zooko Wilcox
-author: Zooko Wilcox
-authorurl: https://www.weusecoins.com/zooko-wilcox-ohearn/
-published: true
 seotitle: Zooko Wilcox - Founder & CEO, Zcash
 img: /images/zooko-wilcox.jpg
-name: Zooko Wilcox
 position: Founder & CEO, Zcash
-education: 
-experience: 
-short_desc: Zooko Wilcox is the Founder & CEO of Zcash. 
-long_desc: 
+education:
+experience:
+short_desc: Zooko Wilcox is the Founder & CEO of Zcash.
+long_desc:
 affiliations: [Zcash]
 twitter: zooko
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
 
 Zooko Wilcox is CEO of Least Authority and covers areas including engineering, security, operations and customer support.

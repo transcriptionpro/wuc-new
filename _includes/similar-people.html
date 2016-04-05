@@ -1,8 +1,7 @@
-<div class="similar-people">
-
-<a href="{{ person.url }}"><img src="{{ person.img }}"></a>
-<a href="{{ person.url }}"><div class="name">{{ person.name }}</div></a>
-
-<div class="position">{{ person.position }}</div>
-
+<div class="person-list">
+{% for person in site.people %}
+  {% if person.affiliations contains include.organization and person.title != include.name %}
+    {% include person.html %}
+  {% endif %}
+{% endfor %}
 </div>

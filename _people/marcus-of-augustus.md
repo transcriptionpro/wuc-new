@@ -1,8 +1,6 @@
 ---
-title: Marcus of Augustus - Bitcoin Core Developer
-author: Marcus of Augustus
-authorurl: https://www.weusecoins.com/marcus-of-augustus/
-published: true
+title: Marcus of Augustus
+seotitle: Marcus of Augustus - Bitcoin Core Developer
 ---
 
 About Marcus of Augustus. Core Bitcoin developer.

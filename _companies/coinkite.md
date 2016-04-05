@@ -1,9 +1,6 @@
 ---
 title: Coinkite
 seotitle: Coinkite Bitcoin Wallet and Platform - About Page
-author: Coinkite
-authorurl: https://www.weusecoins.com/coinkite/
-published: true
 cats: featured
 img: /images/coinkite.png
 ---
@@ -19,7 +16,7 @@ and completely avoid human error in daily operations.
 
 <p>
   <ul>
-	<li><a href="https://coinkite.com/multisig">Bitcoin Multi-Signature</a> and <a href="https://coinkite.com/security">Hot Wallets</a></li> 
+	<li><a href="https://coinkite.com/multisig">Bitcoin Multi-Signature</a> and <a href="https://coinkite.com/security">Hot Wallets</a></li>
     <li><a href="https://coinkite.com/merchants">Merchant Tools</a> (i.e.<a href="https://coinkite.com/faq/pay">Pay Buttons</a>)</li>
     <li><a href="https://coinkite.com/startups">Startup and Business Platform</a></li>
     <li><a href="https://coinkite.com/developers">Developer's API Platform</a></li>
@@ -63,4 +60,3 @@ who still codes everyday.
     <li>Bitcoin Core Developer</li>
   </ul>
 </p>
-
