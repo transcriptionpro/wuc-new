@@ -162,3 +162,13 @@ defaults:
       path: "_posts/ru"
     values:
       lang: "ru"
+  - # Portuguese
+    scope:
+      path: "pt"
+    values:
+      lang: "pt"
+  -
+    scope:
+      path: "_posts/pt"
+    values:
+      lang: "pt"
