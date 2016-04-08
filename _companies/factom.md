@@ -1,8 +1,6 @@
 ---
+title: Factom
 title: Factom About Page
-author: Nicola Minichiello
-authorurl: https://www.weusecoins.com/nicola-minichiello
-published: true
 ---
 
 <img src="/images/factom_logo.png" alt="Factom Logo">

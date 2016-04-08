@@ -2,26 +2,25 @@
 title: Evan Duffield
 seotitle: Evan Duffield - Creator, Dash
 img: /images/evan-duffield.jpg
-name: Evan Duffield
 position: Creator, Dash
-education: 
-experience: 
+education:
+experience:
 short_desc: Evan Duffield is the creator of Dash.
-long_desc: 
+long_desc:
 affiliations: [DASH]
-twitter: 
-github: 
-residence: 
+twitter:
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
-Evan Duffield is the creator of [Dash](/what-is-dash/), a cryptocurrency focused on privacy and speed. 
+Evan Duffield is the creator of [Dash](/what-is-dash/), a cryptocurrency focused on privacy and speed.
 
 ## History
 
 After discovering Bitcoin in 2010, Duffield wanted to add anonymity into the protocol. Duffield claims that [Bitcoin Core](/bitcoin-core/) developers would not have merged such code. Out of frustration, Duffield launched Dash in January-2014.  
 
-## Links 
+## Links
 
 DASH lead developer Evan Duffield discusses cryptocurrency experimentation - [Bitcoin Knowledge Podcast](http://www.bitcoin.kn/2016/02/dash-lead-developer-evan-duffield-discusses-cryptocurrency-experimentation/)
 

@@ -29,13 +29,7 @@ OpenBazaar offers both buyers and sellers many advantages over traditional onlin
 
 ## OpenBazaar Developers
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'OpenBazaar' %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% include similar-people.html organization="OpenBazaar" %}
 
 ## Links
 

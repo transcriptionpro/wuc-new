@@ -1,22 +1,18 @@
 ---
 title: Michael Perklin
-author: Michael Perklin
-authorurl: https://www.weusecoins.com/michael-perklin-bitcoin-security-expert
-published: true
 seotitle: Michael Perklin - Bitcoin Security Expert
 img: /images/michael-perklin.png
-name: Michael Perklin
 position: 
-education: 
-experience: 
-short_desc: Michael Perklin is the president of C4 and Bitcoinsultants, and the Chairman of the Board at Bitcoin Alliance of Canada. 
-long_desc: 
+education:
+experience:
+short_desc: Michael Perklin is the president of C4 and Bitcoinsultants, and the Chairman of the Board at Bitcoin Alliance of Canada.
+long_desc:
 affiliations: [C4, Bitcoin Alliance of Canada, Bitcoinsultants]
 twitter: mperklin
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
 I am a cybersecurity expert who has worked for over a decade in the information security space. In the past I've held positions as a cyber investigator, a digital-forensic investigator, a reverse engineer, an application tester, and a computer programmer.
 

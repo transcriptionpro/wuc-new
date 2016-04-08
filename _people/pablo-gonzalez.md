@@ -2,20 +2,19 @@
 title: Pablo Gonzalez
 seotitle: Pablo Gonzalez - CEO, Bitso
 img: /images/pablo-gonzalez.jpg
-name: Pablo Gonzalez
 position: CEO, Bitso
-education: 
-experience: 
+education:
+experience:
 short_desc: Pablo Gonzalez is the CEO of Bitso.
-long_desc: 
+long_desc:
 affiliations: [Bitso]
 twitter: pablo_gonzalez
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
-Pablo Gonzalez is the CEO of Mexican Bitcoin exchange Bitso. 
+Pablo Gonzalez is the CEO of Mexican Bitcoin exchange Bitso.
 
 ## Links
 

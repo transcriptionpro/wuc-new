@@ -2,22 +2,21 @@
 title: Wayne Vaughan
 seotitle: Wayne Vaughan - CEO, Tierion
 img: /images/wayne-vaughan.png
-name: Wayne Vaughan
 position: CEO, Tierion
-education: 
-experience: 
-short_desc: Wayne Vaughan is the CEO of Tierion and the President of Fuscient. 
-long_desc: 
+education:
+experience:
+short_desc: Wayne Vaughan is the CEO of Tierion and the President of Fuscient.
+long_desc:
 affiliations: [Tierion, Fuscient]
 twitter: waynevaughan
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
-Wayne Vaughan is the CEO of [Tierion](https://tierion.com/), a cloud-based storage system that allows for trustless verification of data on the Bitcoin blockchain. 
+Wayne Vaughan is the CEO of [Tierion](https://tierion.com/), a cloud-based storage system that allows for trustless verification of data on the Bitcoin blockchain.
 
-He also serves as the President of Fuscient, a digital marketing agency. 
+He also serves as the President of Fuscient, a digital marketing agency.
 
 ## Links
 

@@ -1,20 +1,17 @@
 ---
 title: Bobby Ong
 seotitle: Bobby Ong - Co-founder, CoinGecko
-author: Bobby Ong
-authorurl: http://www.weusecoins.com/bobby-ong
-published: true
 img: /images/bobby-ong.png
-name: Bobby Ong
 position: Co-founder, CoinGecko
 education: BSc. in Economics from University College London
-experience: 
+experience:
 short_desc: Bobby Ong is the co-founder of CoinGecko.
-long_desc: 
-affiliations: CoinGecko
+long_desc:
+affiliations:
+  - CoinGecko
 twitter: bobbyong
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
 website: https://www.coingecko.com
 ---

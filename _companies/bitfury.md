@@ -1,6 +1,5 @@
 ---
 title: BitFury
-seotitle: BitFury
 img: /images/company/bitfury.jpg
 cats: featured
 ---
@@ -12,9 +11,9 @@ BitFury runs some of the largest private mining operations in the world. Its min
 
 ## BitFury Capital
 
-On top of its Bitcoin mining operations, BitFury operates [BitFury Capital](http://bitfurycapital.com/), where it "supports the growth of the Bitcoin ecosystem through strategic partnerships and business opportunities." 
+On top of its Bitcoin mining operations, BitFury operates [BitFury Capital](http://bitfurycapital.com/), where it "supports the growth of the Bitcoin ecosystem through strategic partnerships and business opportunities."
 
-BitFury Capital has invested in Xapo, BitGo, and GoCoin. 
+BitFury Capital has invested in Xapo, BitGo, and GoCoin.
 
 ## 16nm ASIC Mining Chip
 

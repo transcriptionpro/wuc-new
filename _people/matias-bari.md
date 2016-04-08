@@ -1,25 +1,24 @@
 ---
 title: Matias Bari
-seotitle: Matias Bari - CEO, SatoshiTango 
+seotitle: Matias Bari - CEO, SatoshiTango
 img: /images/matias-bari.png
-name: Matias Bari
 position: CEO, SatoshiTango
-education: 
-experience: 
+education:
+experience:
 short_desc: Matias Bari is the CEO of SatoshiTango.  
-long_desc: 
+long_desc:
 affiliations: [SatoshiTango]
-twitter: 
-github: 
-residence: 
+twitter:
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
-Matias Bari is the CEO of [SatoshiTango](https://satoshitango.com/home), a Bitcoin platform and exchange. SatoshiTango allows users to [buy and sell bitcoins](/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/), [spend bitcoins](/what-can-you-buy-with-bitcoin/) through a VISA debit card, or top-up mobile phones. 
+Matias Bari is the CEO of [SatoshiTango](https://satoshitango.com/home), a Bitcoin platform and exchange. SatoshiTango allows users to [buy and sell bitcoins](/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/), [spend bitcoins](/what-can-you-buy-with-bitcoin/) through a VISA debit card, or top-up mobile phones.
 
-## Coinnect 
+## Coinnect
 
-Bari, in a partnership with Mexican Bitcoin exchange Volabit, [launched Coinnect](http://www.coindesk.com/volabit-satoshitango-rebittance-argentina-mexico/). It allows users to send remittances from SatoshiTango to Volabit--or vice-versa--without the need to know what Bitcoin is or how to use it. 
+Bari, in a partnership with Mexican Bitcoin exchange Volabit, [launched Coinnect](http://www.coindesk.com/volabit-satoshitango-rebittance-argentina-mexico/). It allows users to send remittances from SatoshiTango to Volabit--or vice-versa--without the need to know what Bitcoin is or how to use it.
 
 ## Links
 
@@ -28,7 +27,7 @@ Bari, in a partnership with Mexican Bitcoin exchange Volabit, [launched Coinnect
 
 ## Quotes
 
-On why SatoshiTango [sells bitcoins through pre-paid cards](http://www.coindesk.com/bootstrapping-bitcoin-startup-amid-argentinas-financial-uncertainty/): 
+On why SatoshiTango [sells bitcoins through pre-paid cards](http://www.coindesk.com/bootstrapping-bitcoin-startup-amid-argentinas-financial-uncertainty/):
 
 > We believe that if people are familiar with prepaid cards, why not use these? People are very happy because they understand when they buy a prepaid card, the card is ready to buy bitcoin, and the exact amount they have in their hands is what they can buy.
 

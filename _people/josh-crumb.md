@@ -1,22 +1,18 @@
 ---
 title: Josh Crumb
-author: Josh Crumb - CSO Bitgold
-authorurl: /josh-crumb/
-published: true
 seotitle: Josh Crumb - CSO Bitgold
 img: /images/josh-crumb.png
-name: Josh Crumb
 position: CSO Bitgold
 education: Master of Science degree in Mineral Economics, Bachelor of Science degree in Engineering from the Colorado School of Mines
-experience: 
+experience:
 short_desc: Josh Crumb is the co-founder and Chief Strategy Officer of BitGold.
-long_desc: 
+long_desc:
 affiliations: [Bitgold]
-twitter: 
-github: 
-residence: 
+twitter:
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
 Josh Crumb is the co-founder and Chief Strategy Officer of <a href="/bitgold/">BitGold</a>.
 
@@ -39,10 +35,5 @@ He holds a Master of Science degree in Mineral Economics, a Graduate Certificate
 
 ## BitGold Executive Management Team Members
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'BitGold' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[0] %}
+{% include similar-people.html organization=organization name=page.title %}

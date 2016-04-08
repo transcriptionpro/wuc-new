@@ -1,8 +1,5 @@
 ---
 title: Bytecoin
-author: We Use Coins
-authorurl: /
-published: true
 ---
 
 <p>Bytecoin is the private untraceable cryptocurrency launched in 2012 and is the first enterprise-ready solution.

@@ -1,22 +1,18 @@
 ---
 title: Roy Sebag - CEO Bitgold
-author: Roy Sebag - CEO Bitgold
-authorurl: /roy-sebag/
-published: true
 seotitle: Roy Sebag - CEO Bitgold
 img: /images/roy-sebag.png
-name: Roy Sebag
 position: CEO, Bitgold
-education: 
-experience: 
+education:
+experience:
 short_desc: Roy Sebag is the founder and team leader of BitGold.
-long_desc: 
+long_desc:
 affiliations: [BitGold]
 twitter: roysebag
-github: 
-residence: 
+github:
+residence:
 cats: [ ]
-website: 
+website:
 ---
 Roy Sebag is the founder and team leader of <a href="/bitgold/">BitGold</a>.
 
@@ -28,10 +24,5 @@ Roy loves to consume information and is a voracious reader of all things science
 
 ## BitGold Executive Management Team Members
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'BitGold' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[0] %}
+{% include similar-people.html organization=organization name=page.title %}

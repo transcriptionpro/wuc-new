@@ -1,5 +1,6 @@
 ---
-title: CoinCorner - About Page
+title: CoinCorner
+seotitle: CoinCorner - About Page
 author: CoinCorner Liam
 authorurl: https://www.weusecoins.com/coincorner/
 published: true

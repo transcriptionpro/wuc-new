@@ -1,8 +1,5 @@
 ---
 title: Bar Kayma
-author: Bar Kayma
-authorurl: /bar-kayma/
-published: true
 ---
 
 <p>The Bar Kayma is a sustainable vegan restaurant and bar owned by the cooperative, proud to have about 450 members so far (a number that increases daily…) with a rich and healthy menu and many interesting activities taking place on a daily and weekly basis.
@@ -21,7 +18,7 @@ published: true
 <p>Bar Kayma provides advice and support to uprising cooperatives country wide!
 <p>~~~~~
 <h3>The Restaurant & Bar:</h3>
-<p>The first cooperative decision was to serve vegan food. We found it obvious that the food we offer should be considerate- towards our environment and to all living creatures of this world. 
+<p>The first cooperative decision was to serve vegan food. We found it obvious that the food we offer should be considerate- towards our environment and to all living creatures of this world.
 <p>Another step in the way to considerate nutrition was the decision not to support industries such as mineral water and Coca kola. Instead, on the  beverages side - we offer freshly squeezed juices, unique, tasty and healthy smoothies, etc. If you haven't tasted the Halve Shake yet – you're loosing out!
 <p>Most of our food and is not processed in a factory. The sauces, vegan cheeses and even the ketchup as well as our - are all freshly made in our kitchen!
 <h3>The Store:</h3>

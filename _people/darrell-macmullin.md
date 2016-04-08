@@ -1,20 +1,16 @@
 ---
 title: Darrell MacMullin
 seotitle: Darrell MacMullin - CEO Bitgold
-author: Darrell MacMullin - CEO Bitgold
-authorurl: /darrell-macmullin/
-published: true
 img: /images/darrell-macmullin.png
-name: Darrell MacMullin
 position: CEO Bitgold
-education: 
-experience: 
-short_desc: 
-long_desc: 
+education:
+experience:
+short_desc:
+long_desc:
 affiliations: [BitGold]
-twitter: 
-github: 
-residence: 
+twitter:
+github:
+residence:
 ---
 <a href="/darrell-macmullin/">Darrell MacMullin</a> - Chief Executive Officer of <a href="/bitgold/">BitGold</a>.
 
@@ -36,10 +32,5 @@ Prior to PayPal Darrell was part of the successful launches and rapid growth of 
 
 ## BitGold Executive Management Team Members
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'BitGold' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[0] %}
+{% include similar-people.html organization=organization name=page.title %}

@@ -1,8 +1,6 @@
 ---
-title: Armory - About Page
-author: Armory
-authorurl: https://www.weusecoins.com/armory/
-published: true
+title: Armory
+seotitle: Armory - About Page
 ---
 
 <img src="/images/armory.png" alt="Armory" align="center">

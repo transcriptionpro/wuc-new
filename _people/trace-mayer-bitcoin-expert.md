@@ -1,20 +1,16 @@
 ---
 title: Trace Mayer - Bitcoin Expert
-author: Trace Mayer, J.D.
-authorurl: https://www.tracemayer.net
-published: true
 img: /images/trace-mayer.png
 seotitle: Trace Mayer - Bitcoin Expert
-name: Trace Mayer
 position: Bitcoin Expert
 education: Degrees in Accounting and Law
-experience: 
+experience:
 short_desc: An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech.
-long_desc: 
+long_desc:
 affiliations: [BitPay, Armory, Kraken, Bitcoin Knowledge]
 twitter: tracemayer
 github: sunnankar
-residence: 
+residence:
 cats: featured
 website: https://tracemayer.net
 ---
@@ -29,7 +25,7 @@ He was among the first popular bloggers to publicly recommend Bitcoin in its inf
 
 <a href="http://www.bitcoinarmory.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/armory.png" alt="Armory"
- style="border: 0px solid ; width: 200px; height: 58px;"></a> 
+ style="border: 0px solid ; width: 200px; height: 58px;"></a>
  <a href="http://www.bitpay.com" align="middle" target="_blank"><img
  src="http://www.tracemayer.net/images/bitpay.png" alt="Bitpay"
  style="border: 0px solid ; width: 200px; height: 58px;"></a> <a href="http://www.bitcoinmagazine.com" align="right" target="_blank"><img
@@ -39,12 +35,12 @@ He was among the first popular bloggers to publicly recommend Bitcoin in its inf
  <a href="http://www.kraken.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/kraken.png" alt="Kraken"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
- 
+
 ## Bitcoin articles by Trace Mayer
 
 <ul>
 <li><a href="/crypsa-future-of-bitcoin/">CRYPSA Event - The Future of Bitcoin</a></li>
-</ul> 
+</ul>
 
 ##### Speaker Intro Video
 

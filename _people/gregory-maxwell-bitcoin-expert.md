@@ -1,18 +1,16 @@
 ---
 title: Gregory Maxwell
 seotitle: Gregory Maxwell - CTO, Blockstream
-published: true
-name: Gregory Maxwell
 position: CTO, Blockstream
-education: 
-experience: 
+education:
+experience:
 short_desc: Gregory Maxwell is a Bitcoin Core developer and Co-Founder and Chief Technology Officer of Blockstream.
-long_desc: 
+long_desc:
 affiliations: [Blockstream, Bitcoin Core]
-twitter: 
+twitter:
 github: gmaxwell
 residence:
-img: /images/gregory-maxwell.png 
+img: /images/gregory-maxwell.png
 cats: [bitcoin developer]
 ---
 Gregory Maxwell is a [Bitcoin Core](/bitcoin-core/) developer and Co-Founder and Chief Technology Officer of Blockstream.
@@ -23,7 +21,7 @@ Greg was one of the key architects of the two-way peg <a href="/what-are-sidecha
 
 ## Confidential Transactions
 
-Maxwell is currently working on [Confidential Transactions](https://people.xiph.org/~greg/confidential_values.txt) for Blockstream. Confidential Transactions will make transaction amounts visible to transaction participants and hide the data from the blockchain. 
+Maxwell is currently working on [Confidential Transactions](https://people.xiph.org/~greg/confidential_values.txt) for Blockstream. Confidential Transactions will make transaction amounts visible to transaction participants and hide the data from the blockchain.
 
 ## Bitcoin Development
 
@@ -43,10 +41,5 @@ A presentation on sidechains from the SF Bitcoin Dev Meetup:
 
 ## More Bitcoin Core Developers
 
-<div class="similar-people-wrap">
-{% for person in site.people %}
-{% if person.affiliations contains 'Bitcoin Core' and page.name != person.name %}
-{% include similar-people.html %}
-{% endif %}
-{% endfor %}
-</div>
+{% assign organization = page.affiliations[1] %}
+{% include similar-people.html organization=organization name=page.title %}
