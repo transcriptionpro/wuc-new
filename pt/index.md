@@ -1,5 +1,4 @@
 ---
-layout: default-pt
 ---
 
 <title>What is Bitcoin? - We Use Coins Bitcoin Experts Can Help</title>
