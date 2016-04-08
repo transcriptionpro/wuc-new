@@ -411,7 +411,7 @@ pre {
   }
 }
 
-.wallet-link a {
+.wallet-link a, .buy-link {
     background: #e2b925 none repeat scroll 0 0;
     border: 1px solid #cea100;
     border-radius: 3px;
@@ -420,20 +420,28 @@ pre {
     float: right;
     font-size: 14px;
     font-weight: 700;
-    padding: 4px 14px;
+    padding: 6px 14px 6px;
     text-transform: uppercase;
 }
 
-.wallet-link a:hover {
+.wallet-link a:hover, .buy-link:hover {
     color: #000;
 }
 
-.wallet-list img {
+.wallet-list {
+	margin: 10px 0;
+}
+
+.wallet-list .wallet-logo {
     border-radius: 3px;
     float: left;
     height: auto;
     margin: -2px 12px 0 0;
     width: 40px;
+}
+
+.wallet-list .img-large {
+    width: 100%;
 }
 
 .company-list {
@@ -653,6 +661,47 @@ a.anchor {
 		clear: both;
 		font-size: 16px;
 	}
+}
+
+.bitcoin-icon {
+	height: auto;
+    max-width: 220px;
+	
+	@include mobile {
+    max-width: 120px;
+  }
+}
+
+.pull-right {
+	float: right;
+}
+
+.pull-left {
+	float: left;
+	margin: 0 20px 0 0;
+}
+
+.caption {
+    color: #969696;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.exchange-name, .accept-name {
+	img {
+    float: left;
+    margin: -7px 10px 0 0;
+    max-height: 34px;
+}
+}
+
+.exchange-desc, .accept-desc {
+	margin: 15px 0 30px;
+}
+
+.buy-list {
+	margin-top: 20px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

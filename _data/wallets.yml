@@ -40,12 +40,6 @@
 
 ## Web Wallets
 
- - wallet: Coinkite
-   description: Coinkite is a multisignature Bitcoin wallet with good privacy. Coinkite accounts can be accessed via a .onion address and no personal details are required to create a wallet.  
-   category: web
-   create: https://coinkite.com/
-   img: coinkite
-
  - wallet: GreenAddress
    description: GreenAddress is a multisig web wallet, with apps available for Chrome, iOS, and Android.  
    category: web

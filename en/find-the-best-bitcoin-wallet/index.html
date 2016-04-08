@@ -26,7 +26,16 @@ toc:
 <li>Paper wallets. <a href="https://en.bitcoin.it/wiki/Private_key">Bitcoin private keys</a> printed from an offline computer. </li> 
 </ul>
 
-<p>By the end of this article you’ll understand Bitcoin wallets and have a better idea about which type is right for you. <a href="https://bitcoin.org/en/secure-your-wallet">Learn how to secure your wallet</a> before dealing with any significant amount of money.</p>
+<img src="/images/bitcoinicons/wallet.png" class="bitcoin-icon pull-left" />
+
+<p>By the end of this article you’ll understand Bitcoin wallets and have a better idea about which type is right for you. Here are some factors to consider:</p>
+
+<ul>
+<li><b>On the go?</b> If you are making payments in person and not online then a mobile wallet like Copay (iOS & Android), breadwallet (iOS) or Mycelium (Android) is a must.</li>
+<li><b>Frequency of payments.</b> If you will need to make frequent payments then it will be best to keep your funds in wallet that is easy to use and accessible. Mobile wallets and desktop wallets are good options.</li>
+<li><b>Amount.</b> If you are dealing with large amounts of bitcoins you will need a secure wallet. Hardware wallets and secure offline wallets like Armory are good options.</li>
+<li><b>Use combinations.</b> Use a mobile wallet as your checking account, and a hardware or secure offline wallet as your savings account. Mix and match to find a combination that provides both security and accessibility.</li>
+</ul>
 
 <h2 id="uni">Universal Wallets</h2>
 {% for wallet in site.data.wallets %}
@@ -42,6 +51,9 @@ toc:
 {% include wallet_list.html %}
 {% endif %}
 {% endfor %}
+
+<img src="/images/ledger/desktop.png" />
+<div class="caption">Software wallets make it easy to securely spend and receive bitcoins to a hardware wallet. The image above shows how Ledger's desktop wallet provides the interface to receive payments to a Ledger Nano or HW.1.</div>
 
 <h2 id="online">Online Bitcoin Wallets</h2>
 <p>Online Bitcoin wallets, or web wallets, store your private keys online. Wallets can only be accessed with a user-set password.</p>
@@ -77,7 +89,7 @@ toc:
 <h2 id="paper">Paper Wallets</h2>
 <p>Paper wallets were the standard method of <a href="/bitcoin-cold-storage-guide/">cold storage</a> before hardware wallets were built. Paper wallets are private keys printed out on a piece of paper. If generated and printed with a secure, offline computer, paper wallets are secure cold storage. </p>
 
-<p>The main problem with paper wallets is it can be inconvenient to create and print a new wallet each time you send funds to cold storage. However, it’s possible to bulk print paper wallets to save time and eliminate address reuse. </p>
+<p>The main problem with paper wallets is it can be inconvenient to create and print a new wallet each time you send funds to cold storage. However, it’s possible to bulk print paper wallets to save time and eliminate address reuse. Our cold storage guide explains step-by-step <a href="/bitcoin-cold-storage-guide/">how to create a secure paper wallet</a>.</p>
 
 <h2>Best Practices</h2>
 <p>Bitcoin lets you control your money, meaning you are responsible for both your money’s security and your financial privacy. Here are some steps you can take to ensure your privacy and security: </p>

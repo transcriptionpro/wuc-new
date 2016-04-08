@@ -1,4 +1,32 @@
 -
+    date: 31-Mar-2016
+    company: Bitt
+    classification: Exchange
+    roundsize: 16.0
+    cumulative: 17.5
+    round: Series A
+    investors: Overstock
+    headquartered: Christ Church
+    country: Barbados
+    region: Latin America
+    img: bitt.jpg
+    description:  
+    url: 
+-
+    date: 30-Mar-2016
+    company: Stratumn
+    classification: Financial Services
+    roundsize: 0.70
+    cumulative: 0.70
+    round: Seed
+    investors: Otium Venture, Eric Larchevêque
+    headquartered: Paris
+    country: France
+    region: Europe
+    img: rootstock.jpg
+    description:  
+    url: 
+-
     date: 21-Mar-2016
     company: Rootstock
     classification: Financial Services
