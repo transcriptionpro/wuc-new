@@ -25,9 +25,3 @@ Previously, he was a Manager at Collins Barrow Toronto LLP, a public accounting 
 ## Education
 
 He holds an Honours Bachelor of Accounting (Co-op) degree from Brock University.
-
-
-## BitGold Executive Management Team Members
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

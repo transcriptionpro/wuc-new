@@ -39,8 +39,3 @@ It reduces a complex geographical issue, the distribution of internet connectivi
 On [hardforks](http://coinjournal.net/who-asked-wlad-what-does-bitcoins-lead-developer-say-about-scaling-debate-exclusive/):
 
 > On the other hand a hardfork is extremely hard to coordinate. Even one that just involves changing one parameter. Everyone with a full node has to upgrade. This is not something that can be done regularly. Certainly not with such a near time horizon. Changing the rules in a decentralized consensus system is a very difficult problem and I don’t think we’ll resolve it any time soon.
-
-## More Bitcoin Core Developers
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

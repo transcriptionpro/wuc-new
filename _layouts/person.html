@@ -43,7 +43,14 @@ layout: default
 				{% endfor %}
 			</ul>
 		{% endif %}
+
+		{% if page.affiliations %}
+			<h2>Related people</h2>
+			{% for organization in page.affiliations %}
+				{% include similar-people.html organization=organization name=page.title showOrg=true %}
+			{% endfor %}
+		{% endif %}
 	</div>
-	
+
   {% unless page.disable_disqus %}{% include disqus.html %}{% endunless %}
 </article>
