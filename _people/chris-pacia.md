@@ -33,8 +33,3 @@ Pacia has been vocal about his disagreement with the current path of [Bitcoin Co
 ## Links
 
 Matt Whitlock and Chris Pacia Debate Replace by Fee Proposals (Podcast) - [NeoCash Radio](http://neocashradio.com/blog/matt-whitlock-and-chris-pacia-debate-replace-by-fee-proposals/)
-
-## More OpenBazaar Developers
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

@@ -21,8 +21,3 @@ He has been an active investor and portfolio manager for over a decade specializ
 Throughout his career, he has correctly predicted important investment and economic themes before they materialized resulting in risk-adjusted returns that significantly outperformed market indexes.
 
 Roy loves to consume information and is a voracious reader of all things science, history, and economics.
-
-## BitGold Executive Management Team Members
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

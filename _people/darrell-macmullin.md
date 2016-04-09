@@ -29,8 +29,3 @@ Prior to PayPal Darrell was part of the successful launches and rapid growth of 
 <ul>
 <li><a href="http://www.techvibes.com/blog/techvibes-tv-paypal-canadas-darrell-macmullin-2011-09-01">Techvibes TV with Paypal Canada</a></li>
 </ul>
-
-## BitGold Executive Management Team Members
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

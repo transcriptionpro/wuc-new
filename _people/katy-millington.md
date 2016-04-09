@@ -28,8 +28,3 @@ She holds a Bachelor of Laws (with honours) and a Bachelor of Arts from the Univ
 <ul>
 <li><a href="http://www.investorideas.com/news/2015/mining/07301.asp">GoldMoney Appoints Two New Directors</a></li>
 </ul>
-
-## BitGold Executive Management Team Members
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

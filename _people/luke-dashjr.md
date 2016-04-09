@@ -36,8 +36,3 @@ Dashjr is responsible for BIPs [22](https://github.com/bitcoin/bips/blob/master/
 
 BIP 22 added protocol support for long polling, which allowed to be notified of new templates immediately. BIP 23 [allows miners](https://bitcointalk.org/index.php?topic=957509.0) to "check the basic validity of their next block before expending work on it, reducing risks of accidental
 hardforks or mining invalid blocks."
-
-## More Bitcoin Core Developers
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

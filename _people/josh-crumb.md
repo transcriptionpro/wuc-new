@@ -32,8 +32,3 @@ He holds a Master of Science degree in Mineral Economics, a Graduate Certificate
 <ul>
 <li><a href="https://www.youtube.com/watch?v=onVExQEmVMU">Bitgold Co-Founder Interview</a></li>
 </ul>
-
-## BitGold Executive Management Team Members
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

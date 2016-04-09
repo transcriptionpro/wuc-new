@@ -36,8 +36,3 @@ Early Bitcoin investor [Trace Mayer](/trace-mayer-bitcoin-expert/) called SegWit
 A presentation on Segregated Witness.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NOYNZB5BCHM" frameborder="0" allowfullscreen></iframe>
-
-## More Bitcoin Core Developers
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}

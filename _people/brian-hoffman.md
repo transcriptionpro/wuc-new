@@ -37,11 +37,6 @@ On [OpenBazaar](http://insidebitcoins.com/news/brian-hoffman-on-why-vcs-arent-sc
 * OpenBazaar: The Decentralized Offspring of Ebay & Amazon - Interview with Project Lead, Brian Hoffman - [Coin Telegraph](http://cointelegraph.com/news/openbazaar-the-decentralized-offspring-of-ebay-amazon-interview-with-project-lead-brian-hoffman)
 * OB1 CEO Brian Hoffman Explains Levels of Anonymity in OpenBazaar - [Bitcoin Magazine](https://bitcoinmagazine.com/articles/ob-ceo-brian-hoffman-explains-levels-of-anonymity-in-openbazaar-1458059826)
 
-## More OpenBazaar Developers
-
-{% assign organization = page.affiliations[0] %}
-{% include similar-people.html organization=organization name=page.title %}
-
 ## Video
 
 This Week in Startup interview with Brian Hoffman.
