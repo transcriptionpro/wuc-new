@@ -63,7 +63,7 @@
  - wallet: Airbitz
    description: <p><a href="/airbitz/">AirBitz</a> is another Bitcoin wallet that’s great for everyday use. It’s integrated with Fold, meaning you can get 20% discounts at Starbucks from within the wallet.</p><p>Airbitz manages accounts with usernames and passwords, but doesn’t have access to your funds. This type of account creation is easier for less technical users who may have trouble backing up or understanding HD seeds.</p>
    category: mobileandroid
-   download: https://play.google.com/store/apps/details?id=com.airbitz&hl=en
+   download: https://airbitz.co/af/9TZ
    img: airbitz2
 
  - wallet: GreenBits
