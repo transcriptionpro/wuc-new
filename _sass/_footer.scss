@@ -1,16 +1,17 @@
-nav.footer, nav.languages {
+nav.footer,
+nav.languages {
   display: block;
   margin: 10px;
 
   a {
+    border-right: 1px solid $gray;
     display: inline-block;
     margin: 0;
     margin-left: -5px;
-    padding: 0px 10px;
-    border-right: 1px solid $gray;
+    padding: 0 10px;
 
     &:last-of-type {
-      border-right: none;
+      border-right: 0;
     }
   }
 }

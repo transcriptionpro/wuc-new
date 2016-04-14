@@ -5,22 +5,29 @@
 // IMPORTS
 //
 
-@import "reset";
-@import "variables";
+@import 'reset';
+@import 'fonts';
+@import 'variables';
+@import 'bourbon/bourbon';
+@import 'neat/neat';
 // Syntax highlighting @import is at the bottom of this file
 
-/**************/
-/* BASE RULES */
-/**************/
+//
+// BASE RULES
+//
 
 html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: $white;
+  color: $darkerGray;
+  font: 18px / 1.4 $montserrat;
+  font-weight: 300;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   overflow-x: hidden;
 }
@@ -32,9 +39,12 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: bold;
 
   line-height: 1.7;
@@ -48,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+
   a {
     color: inherit;
   }
@@ -63,7 +74,6 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
 }
 
 p {
@@ -72,15 +82,18 @@ p {
 
 a {
   color: $blue;
+  cursor: pointer;
   text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
+
+  &:hover,
+  &:active {
     color: $blue;
     text-decoration: underline;
   }
 }
 
-ul, ol {
+ul,
+ol {
   margin: 15px 0;
   padding-left: 30px;
 }
@@ -93,19 +106,25 @@ ol {
   list-style-type: decimal;
 }
 
-ol ul, ul ol, ul ul, ol ol {
+ol ul,
+ul ol,
+ul ul,
+ol ol {
   margin: 0;
 }
 
-ul ul, ol ul {
+ul ul,
+ol ul {
   list-style-type: circle;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-weight: bold;
 }
 
@@ -119,18 +138,19 @@ img {
 }
 
 .date {
-  font-style: italic;
   color: $gray;
+  font-style: italic;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
   background: $lightGray;
+  color: $black;
 }
+
 ::selection {
-  color: $black;
   background: $lightGray;
+  color: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -212,10 +232,11 @@ img {
     margin: 3px 0;
   }
 }
+
 nav.site-navigation {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $montserrat;
   font-size: 18px;
 
   @include mobile {
@@ -227,7 +248,7 @@ nav.site-navigation {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $black;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -281,7 +302,7 @@ nav.site-navigation {
     font-style: normal;
     margin: 0 0 1.5em;
     padding: 0 1em;
-}
+  }
 }
 
 .wrapper-footer {
@@ -484,8 +505,8 @@ hr {
   font-size: 90%;
 
   h3 {
-    margin: 0;
     line-height: 0.9;
+    margin: 0;
   }
 
   img {
@@ -507,7 +528,6 @@ hr {
   td:nth-child(3) {
     position: relative;
     font-size: 75%;
-    font-weight: bold;
 
     &:before {
       position: absolute;
@@ -666,7 +686,7 @@ a.anchor {
 .bitcoin-icon {
 	height: auto;
     max-width: 220px;
-	
+
 	@include mobile {
     max-width: 120px;
   }
@@ -688,25 +708,27 @@ a.anchor {
     text-align: center;
 }
 
-.exchange-name, .accept-name {
-	img {
+.exchange-name,
+.accept-name {
+  img {
     float: left;
     margin: -7px 10px 0 0;
     max-height: 34px;
-}
+  }
 }
 
-.exchange-desc, .accept-desc {
-	margin: 15px 0 30px;
+.exchange-desc,
+.accept-desc {
+  margin: 15px 0 30px;
 }
 
 .buy-list {
-	margin-top: 20px;
+  margin-top: 20px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
+@import 'highlights';
+@import 'svg-icons';
 @import 'components';
 @import 'footer';
