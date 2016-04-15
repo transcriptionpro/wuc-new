@@ -1,5 +1,5 @@
 ---
-title: Trace Mayer - Bitcoin Expert
+title: Trace Mayer
 img: /images/trace-mayer.png
 seotitle: Trace Mayer - Bitcoin Expert
 position: Bitcoin Expert

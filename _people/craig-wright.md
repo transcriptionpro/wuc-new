@@ -14,7 +14,7 @@ residence:
 cats: [ ]
 website:
 ---
-Craig Wright is an Australian theologist, computer scientist, and businessman.
+Craig Wright is an Australian theologist, computer scientist and businessman.
 
 He was [falsely accused](http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/) of being Bitcoin creator Satoshi Nakamoto in December 2015.
 
