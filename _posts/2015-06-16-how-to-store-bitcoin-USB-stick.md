@@ -9,7 +9,41 @@ Learn how to store bitcoins on a USB stick.
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/2qmOM567BF4" frameborder="0" allowfullscreen></iframe>
 
-This should increase your Bitcoin security. You may also be interested in the <a href="https://www.weusecoins.com/bitcoin-ledger-wallet-review/">Ledger Wallet Review</a>.
+Storing bitcoins on a USB stick is not as straight forward as storing regular data. Bitcoin private keys are secret codes and storing them on a regular USB stick leaves them at risk of theft if someone were to physically discover the USB. 
+
+Luckily, entrepreneurs have created unique solutions that allow Bitcoin users to store coins on USB sticks or similar devices. The rest of this post will run through your options for storing bitcoins on these devices. 
+
+## Ledger Nano
+
+<img class="usb-hw" alt="ledger" src="/images/ledger/img02-rotated.png">
+
+The [Ledger Nano](/bitcoin-ledger-wallet-review/) is a smartcard based Bitcoin hardware wallet. It stores Bitcoin private keys and signs transactions in its secure environment. It is not a traditional USB stick, but rather requires a software wallet to provide an interface to interact with the wallet's keys. 
+
+The Nano [costs about $30](https://www.ledgerwallet.com/r/4727) and is a portable, secure solution for storing bitcoins on a USB device. 
+
+## Ledger HW.1
+
+<img class="usb-hw" alt="ledger" src="/images/ledger/img04-rotated.png">
+
+The Ledger HW.1 is a dimmed down version of the Ledger Nano. It [costs about $17](https://www.ledgerwallet.com/r/4727). 
+
+## OpenDime
+
+<img alt="ledger" src="/images/opendime.png">
+
+The [OpenDime](https://opendime.com/) is a new Bitcoin hardware device that was released in April 2016. It calls itself the "First Bitcoin Bearer Bond". 
+
+The OpenDime is unique because it stores just a single private key. It acts like a read-only USB device and contains just one address. It is meant to be passed along and used as cash. 
+
+The main downside to OpenDime is that it contains just a single address. Because address re-use is harmful to privacy, users who plan to transaction often should look for other alternatives. 
+
+## Encrypted USB Stick
+
+One creative option is to create a Bitcoin paper wallet. Instead of printing the paper wallet's private keys, they can be saved on an encrypted USB stick. 
+
+You can [read this guide](/bitcoin-cold-storage-guide/) and follow steps 1-5 to create a secure paper wallet. Instead of printing in step 6, just save to an encrypted USB. Just make sure this is done on an offline computer! 
+
+An encrypted USB stick like the Kingston Digital DataTraveler 4000 [sells for $28 on Amazon](http://www.amazon.com/Kingston-Digital-DataTraveler-DT4000-4GB/dp/B004NRMWN4?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00). 
 
 ### Transcript - How To Store Bitcoin On USB Stick
 

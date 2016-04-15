@@ -23,13 +23,15 @@
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca, de
    logo: kraken.png
    url: https://www.kraken.com/
+   getting_started: yes
    
  - exchange: LocalBitcoins
    description: LocalBitcoins is an escrow service that helps match Bitcoin buyers and sellers.  
    countries: us, de, sa
    logo: localbitcoins.png
-   url: http://buybitcoinww.co/local_bitcoins 
+   url: http://www.runtogold.com/localbitcoins 
    description_sa: LocalBitcoins is used throughout South America, with high volumes in Argentina and Venezuela.
+   getting_started: yes
    
  - exchange: BitQuick
    description: BitQuick is an escrow service that facilitates the buying and selling of bitcoins via cash deposit. 
@@ -66,6 +68,7 @@
    countries: ca
    logo: quickbt.png
    url: https://quickbt.com/ca/
+   getting_started: yes
    
 ############## Asia ##############  
    
@@ -219,4 +222,47 @@
    description: Buy bitcoins in France with local bank transfer.
    countries: fr
    logo: paymium.jpg
-   url: https://paymium.com/      
+   url: https://paymium.com/   
+   
+############## Africa ##############    
+
+ - exchange: BitX
+   description: Buy and sell bitcoins via bank transfer in South Africa and Nigeria. 
+   countries: af
+   logo: bitx.png
+   url: https://www.bitx.co/ 
+   
+ - exchange: NairaEx
+   description: Buy and sell bitcoins in Nigeria with Perfect Money and Web Money.  
+   countries: af
+   logo: nairaex.png
+   url: https://nairaex.com/home    
+   
+ - exchange: BitPesa
+   description: Buy and <a href="https://www.sellbitcoins.io/">sell bitcoins</a> with Airtel in Kenya, and with Paga or Quickteller in Nigeria. 
+   countries: af
+   logo: bitpesa.png
+   url: https://www.bitpesa.co/ 
+   
+############## Mexico ##############    
+
+ - exchange: Bitso
+   description: "Bitso is one of Mexico's largest Bitcoin exchanges. Fund your account at more than 135,000 physical locations with cash or via online bank transfer."  
+   countries: mx
+   logo: bitso.jpg
+   url: https://bitso.com/?l=en
+
+ - exchange: Chip-Chap
+   description: Buy bitcoins in Mexico at more than 5,000 brick-and-mortar stores. Buy bitcoins in Europe with SafetyPay, or with EasyPay at 500 physical locations in Greece.  
+   countries: mx
+   logo: chipchap.png
+   url: https://chip-chap.com/
+   
+############## Global ##############    
+
+ - exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
+   countries: 
+   logo: 247exchange.jpg
+   url: http://www.runtogold.com/247exchange  
+   getting_started: yes

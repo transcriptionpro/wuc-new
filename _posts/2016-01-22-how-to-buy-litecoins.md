@@ -13,24 +13,21 @@ Finding a Litecoin exchange can be difficult because most exchanges don’t sell
 
 With that said, there are a few exchanges where users can purchase litecoins directly, without buying bitcoins first: 
 
-* **[Kraken](https://www.kraken.com/)** - Kraken is a Bitcoin and cryptocurrency exchange based in Europe. Kraken offers three Litecoin trading pairs: LTCXBT, LTCUSD, and LTCEUR. In addition, Kraken accepts a number of payment methods--SEPA transfer, USD bank wire, GBP SEPA, Interac Online--which makes buying litecoins easy for Europeans, Americans, and Canadians. 
-
-* **[SnapCard](https://www.snapcard.io/buy-litecoin)** - SnapCard is a US based bitcoin broker. Customers can buy litecoin with a connected US bank account via ACH transfer. 
-
-* **[LitecoinLocal.net](https://www.litecoinlocal.net/)** - LitecoinLocal is similar to LocalBitcoins. Users upload buy/sell ads and can agree on trade terms while using LitecoinLocal as escrow. 
-
+{% for exchange in site.data.buy_litecoin %}
+{% if exchange.tags == 'fiat' %}
+{% include buy-list.html %}
+{% endif %}
+{% endfor %}
 
 ## Trading Bitcoins for Litecoins
 
 If the options above don’t work, the second easiest way to get litecoins is to exchange bitcoins for litecoin. Many Bitcoin exchanges offer this trading pair:
  
-* **[BTC-e](https://btc-e.com/)** - BTC-e has the largest amount LTC/BTC trading volume in the world, with over $250,000 average daily volume. BTC-e offers the best exchange rate and only charges 0.2% per trade. 
-
-* **[Bitfinex](https://www.bitfinex.com/)** - Bitfinex is the largest USD/BTC trading site in terms of volume, but also features a LTC/BTC pair. 
-
-* **[Poloniex](https://poloniex.com/)** - An altcoin exchange with $20,000 BTC/LTC daily volume. 
-
-* **[ShapeShift](https://shapeshift.io/)** - Convert bitcoins to litecoins in less than a minute. 
+{% for exchange in site.data.buy_litecoin %}
+{% if exchange.tags == 'btc' %}
+{% include buy-list.html %}
+{% endif %}
+{% endfor %} 
 
 ## Completing your Purchase
 

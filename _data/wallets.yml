@@ -11,6 +11,7 @@
    category: universal
    download: https://copay.io/
    img: copay
+   tags: start, mobile, hybrid
    
 ## Hardware
 
@@ -19,6 +20,7 @@
    category: hardware
    buy: http://buybitcoinww.co/ledger_nano
    img: ledger
+   more_info: /bitcoin-ledger-wallet-review/
    
  - wallet: TREZOR
    description: <p>The TREZOR differs from the Ledger Nano in that it’s a very tiny computer rather than a smartcard. Private keys are still generated offline.</p> <p>TREZOR also generates a 24-word seed upon setup. The TREZOR has its own built in screen where the seed is displayed and copied down during backup. Since the TREZOR is an offline device it offers extra security since the seed isn’t displayed on an online computer.</p> <p>An additional passphrase can be added to the 24-word seed. This provides extra protection, since anyone who finds someone else’s 24-word seed is free to access the funds. If the optional passphrase is added, an attacker still wouldn’t be able to access funds without both the seed AND the passphrase. If the passphrase is forgotten, it cannot be recovered.</p> 
@@ -65,6 +67,8 @@
    category: mobileandroid
    download: https://airbitz.co/af/9TZ
    img: airbitz2
+   tags: start, mobile
+   more_info: /airbitz/
 
  - wallet: GreenBits
    description: GreenBits is the native version of GreenAddress. It’s fast, simple, and supports hardware wallets TREZOR and Ledger Nano/HW.1.
@@ -79,12 +83,8 @@
    category: mobileios 
    download: https://itunes.apple.com/il/app/breadwallet-bitcoin-wallet/id885251393?mt=8
    img: breadwallet2
-
- - wallet: Mycelium (iOS)
-   description: Mycelium for iOS is a simple Bitcoin wallet, built for speed and ease of use. 
-   category: mobileios
-   download: https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290?mt=8
-   img: mycelium
+   more_info: /breadwallet/
+   tags: start, mobile
 
  - wallet: Copay
    description: Copay is available in the App Store. Click here for more details. 
@@ -97,6 +97,7 @@
    category: mobileios
    download: https://itunes.apple.com/us/app/bitcoin-wallet-airbitz/id843536046?mt=8
    img: airbitz2
+   more_info: /airbitz/
 
 ## Desktop Wallets
 
@@ -105,12 +106,15 @@
    category: desktop
    download: https://bitcoinarmory.com
    img: armory2
+   tags: start
+   more_info: /armory/ 
 
  - wallet: Bitcoin Core
    description: Bitcoin Core is the “official” Bitcoin client and wallet, though isn’t used by many due to slow speeds and a lack of features. Bitcoin Core, however, <a href="https://bitcoin.org/en/full-node">is a full node</a>, meaning it helps verify and transmit other Bitcoin transactions across the network and stores a copy of the entire blockchain. This offers better privacy since Core doesn’t have to rely on data from external servers or other peers on the network. Bitcoin Core routed through Tor is considered one of the best ways to use Bitcoin privately. 
    category: desktop
    download: https://bitcoin.org/en/download
    img: core
+   tags: start 
 
  - wallet: Electrum
    description: Electrum may be the most popular desktop wallet, due to its speed and ease of use. Electrum can also be used as cold storage if you have an extra computer that can be used offline. Additonaly, Electrum offers other features like connecting through Tor, multisiganture wallets, integration with hardware wallets, and more. 

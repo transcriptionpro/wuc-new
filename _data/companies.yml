@@ -1,4 +1,46 @@
 -
+    date: 12-Apr-2016
+    company: BitKan
+    classification: Financial Services
+    roundsize: 1.60
+    cumulative: 1.75
+    round: Series A
+    investors: Bitmain Technology
+    headquartered: Shenzhen
+    country: China
+    region: Asia
+    img: bitkan.png
+    description:  
+    url:
+-
+    date: 8-Apr-2016
+    company: Custos Media Technologies
+    classification: Financial Services
+    roundsize: 0.27
+    cumulative: 0.27
+    round: Seed
+    investors: Digital Currency Group, Innovus Technology Transfer
+    headquartered: Stellenbosch
+    country: South Africa
+    region: Africa
+    img: custos.png
+    description:  
+    url:
+-
+    date: 4-Apr-2016
+    company: Bitwala
+    classification: Financial Services
+    roundsize: 0.91
+    cumulative: 0.91
+    round: Seed
+    investors: KfW Banking Group, Digital Currency Group
+    headquartered: Berlin
+    country: Germany
+    region: Europe
+    img: bitwala.png
+    description:  
+    url: 
+-
     date: 31-Mar-2016
     company: Bitt
     classification: Exchange
