@@ -432,6 +432,44 @@ pre {
   }
 }
 
+.wallet-buttons {
+	display: inline;
+}
+
+@media screen and (max-width: 500px) {
+    .wallet-buttons {
+    clear: both;
+    display: block;
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.wallet-link-more a {
+	float: left !important;
+	margin: 5px 10px 0 0px !important;
+}
+
+.wallet-link a {
+	float: left !important;
+}
+
+}
+
+.wallet-link-more a {
+    background: #e2b925 none repeat scroll 0 0;
+    border: 1px solid #cea100;
+    border-radius: 3px;
+    box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.15) inset;
+    color: #fff;
+    float: right;
+    font-size: 11px;
+    font-weight: 700;
+    margin: 5px 0 0 10px;
+    padding: 4px 12px;
+    text-transform: uppercase;
+}
+
 .wallet-link a, .buy-link {
     background: #e2b925 none repeat scroll 0 0;
     border: 1px solid #cea100;
@@ -439,14 +477,16 @@ pre {
     box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.15) inset;
     color: #fff;
     float: right;
-    font-size: 14px;
+    font-size: 11px;
     font-weight: 700;
-    padding: 6px 14px 6px;
+    margin: 5px 0 0;
+    padding: 4px 12px;
     text-transform: uppercase;
 }
 
-.wallet-link a:hover, .buy-link:hover {
+.wallet-link a:hover, .buy-link:hover, .wallet-link-more a:hover {
     color: #000;
+    text-decoration: none;
 }
 
 .wallet-list {
@@ -502,7 +542,9 @@ hr {
 
 // Banner on index "Why Bitcoin"
 .why-bitcoin {
-  font-size: 90%;
+   float: left;
+   font-size: 90%;
+   margin: 25px 0;
 
   h3 {
     line-height: 0.9;
@@ -519,6 +561,10 @@ hr {
   td {
     padding: 20px 10px;
     vertical-align: middle;
+  }
+  
+  .why-bitcoin-img {
+	  padding-left: 0px !important;
   }
 
   td:nth-child(2) {
@@ -541,6 +587,7 @@ hr {
     }
   }
 }
+
 // Banner on index "Popular Opinion"
 .popular-opinion {
   display: table;
@@ -712,8 +759,9 @@ a.anchor {
 .accept-name {
   img {
     float: left;
-    margin: -7px 10px 0 0;
+    margin: -4px 10px 0 0;
     max-height: 34px;
+    border-radius: 5px;
   }
 }
 
@@ -724,6 +772,46 @@ a.anchor {
 
 .buy-list {
   margin-top: 20px;
+}
+
+.get-started {
+	text-align: center;
+}
+
+.home-grid {
+    float: left;
+    margin: 20px 0;
+    width: 100%;
+}
+
+$mobile: new-breakpoint(max-width 500px 4);
+
+.home-grid .section {
+	@include span-columns(6);
+	@include media($mobile) {
+      @include span-columns(12);
+    }
+	
+	img {
+	    float: left;
+	    margin: 0 15px 0 0;
+	    width: 60px;
+	}
+	
+	.section-title {
+		margin: 4px 0 9px;
+		font-weight: bold;
+		color: #222; 
+	}
+	
+	&:hover .section-title {
+		text-decoration: none;
+	}
+}
+
+.usb-hw {
+    float: right;
+    margin: 0 0 5px 10px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

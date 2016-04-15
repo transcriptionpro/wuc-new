@@ -13,21 +13,21 @@ Although [Ethereum](/what-is-ethereum/) has one of the largest cryptocurrency ma
 
 With that said, there are still a few exchanges where you can buy ether without bitcoin: 
 
-* **[Kraken](https://www.kraken.com/)** - Kraken is a Bitcoin and cryptocurrency exchange based in Europe. Kraken offers six ether trading pairs: ETH/XBT, ETH/USD, ETH/EUR, ETH/CAD, ETH/JPY, and ETH/GBP. Because Kraken offers a wide range of payment methods--SEPA transfer, USD bank wire, GBP SEPA, Interac Online--it is the easiest way for most people to buy ether directly. 
-
-* **[Bittylicious](https://bittylicious.com/)** - Buy ether with GBP or Euros. 
-
-* **[Coinimal](https://www.coinimal.com/)** - Buy ether with NETELLER, Skrill, GIROPAY, SEPA, or OBT. 
+{% for exchange in site.data.buy_ether %}
+{% if exchange.tags == 'fiat' %}
+{% include buy-list.html %}
+{% endif %}
+{% endfor %} 
 
 ## Trading Bitcoins for Ether
 
 If using Kraken isn't an option, the second easiest way to get ether is to exchange bitcoins for ether. Many Bitcoin exchanges offer this trading pair:
 
-* **[Kraken](https://www.kraken.com/)** - ETH/XBT is one of Kraken's six ETH trading pairs. 
-
-* **[Poloniex](https://poloniex.com/)** - Poloniex is an altcoin exchange and has the highest ETH/BTC volume. 
-
-* **[ShapeShift](https://shapeshift.io/)** - Convert bitcoins to ether in less than a minute. 
+{% for exchange in site.data.buy_ether %}
+{% if exchange.tags == 'btc' %}
+{% include buy-list.html %}
+{% endif %}
+{% endfor %} 
 
 ## Completing your Purchase
 
