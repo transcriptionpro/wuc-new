@@ -18,6 +18,12 @@
    logo: coinhouse.png
    url: http://buybitcoinww.co/coinhouse
    
+ - exchange: Indacoin
+   description: <p>Our exchange lets its clients from all over the world buy bitcoins with a credit or debit card without registration.</p> <p>The first purchase won't take more than 20 minutes - you will have to enter 4 digits from your online card statement and 6 digits from a phone call.</p> <p> Since the card is verified, all transaction will go through instantly and you won't need to pass verification again. The limit for a new card is USD35 and the second purchase could be made in 4 days (USD 100 limit) and the third purchase could be made in 7 days (USD 500 limit). In one month you won't have any limits to buy bitcoins with your Visa or Mastercard.</p>
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   logo: indacoin.png
+   url: http://indacoin.com/change
+
  - exchange: Kraken
    description: Kraken is one of the world's largest Bitcoin exchanges. Residents of Europe and the UK can deposit and purchase bitcoins with same day SEPA transfer.  
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca, de
