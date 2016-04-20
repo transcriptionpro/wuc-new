@@ -20,7 +20,7 @@
    
  - exchange: Indacoin
    description: Clients can buy bitcoins with a credit or debit card without registration. The first purchase takes less than 20 minutes. Clients will have to enter 4 digits from your online card statement and 6 digits from a phone call. After the credit card is verified then all transaction go through instantly and clients will not need to verify again. A new card is limited to USD$35, the second purchase can be made in four days  with a USD$100 limit and the third purchase could be made in seven days USD$500 limit. After one month clients will not have any limits to buy bitcoins with Visa or Mastercard credit cards.
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: indacoin.png
    url: https://indacoin.com/change?discount=25609
 
