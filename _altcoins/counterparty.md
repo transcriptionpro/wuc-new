@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Counterparty
+name: Counterparty
 author: WeUseCoins
 authorurl: /
 published: true
+permalink: /what-is-counterparty/
+img: counterparty.png
+category: appcoin
+summary: Counterparty is a protocol built on top of Bitcoin. It enables anyone to create custom tokens and decentralized financial applications using the Bitcoin network.
 ---
 
 <p><h2>About Counterparty</h2>

@@ -2,8 +2,13 @@
 layout: post
 title: Mastercoin
 author: WeUseCoins
+name: Mastercoin
 authorurl: /
 published: true
+permalink: /what-is-mastercoin/
+img: mastercoin.png
+category: appcoin
+summary: Mastercoin is a digital currency and communications protocol built on the Bitcoin block chain. It is one of several efforts to enable complex financial functions in a cryptocurrency. 
 ---
 
 <p><h2>About Mastercoin</h2>

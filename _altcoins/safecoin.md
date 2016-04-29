@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is Safecoin on the Maidsafe Network?
+name: Safecoin
 author: WeUseCoins
 authorurl: /
 published: true
+permalink: /what-is-safecoin-maidsafe-network/
+img: safecoin.png
+category: appcoin
+summary: Safecoin is the token used on the Maidsafe Network, which is a decentralized data storage network.
 ---
 
 <p><h2  id="what-is-safecoin">What is Safecoin?</h2>

@@ -81,6 +81,9 @@ collections:
   companies:
     output: true
     permalink: /:title/
+  altcoins:
+    output: true
+    permalink: /:title/  
 
 defaults:
   -

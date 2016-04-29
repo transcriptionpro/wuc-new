@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is Reddcoin?
+name: Reddcoin
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
+permalink: /what-is-reddcoin/
+img: reddcoin.png
+category: altcoin
+summary: Reddcoin is the social currency that enriches people’s social lives and makes digital currency easy for the general public. 
 ---
 
 <img src="/images/reddcoin.png" alt="what is reddcoin" align="right">Reddcoin is the social currency that enriches people’s social lives and makes digital currency easy for the general public. Reddcoin achieves this by integrating a digital currency platform seamlessly with all major social networks to make the process of sending and receiving money fun and rewarding for everyone.

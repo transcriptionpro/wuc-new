@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Dogecoin?
+name: Dogecoin
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
@@ -8,6 +9,10 @@ toc:
   gs: Getting Started
   dm: Dogecoin Mining
   how: How to Mine Dogecoins
+permalink: /what-is-dogecoin/
+img: dogecoin.png
+category: altcoin
+summary: Dogecoin was created as a joke in December 2013. It is based on the Doge internet meme. Today, it is one of the most popular altcoins. 
 ---
 
 <img src="/images/dogecoin.png" alt="what is dogecoin" align="right">Dogecoin is a fun, new and rapidly growing form of digital currency. This form of digital currency is called "cryptocurrency"; a type of digital currency. Cryptocurrency is completely anonymous, decentralized, and extremely secure.

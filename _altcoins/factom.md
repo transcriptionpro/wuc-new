@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What Is Factom?
+name: Factom
 author: Nicola Minichiello
 authorurl: https://www.weusecoins.com/nicola-minichiello/
 published: true
+permalink: /what-is-factom/
+img: factom.png
+category: appcoin
+summary: Factom is the first usable blockchain technology to solve real-world business problems by providing an unalterable record-keeping system. 
 ---
 
 ## What is Factom?

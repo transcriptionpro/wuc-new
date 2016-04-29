@@ -1,5 +1,10 @@
 ---
 title: Bytecoin
+name: Bytecoin
+permalink: "/bytecoin/"
+img: bytecoin.png
+category: altcoin
+summary: Bytecoin is the private untraceable cryptocurrency launched in 2012 and is the first enterprise-ready solution.
 ---
 
 <p>Bytecoin is the private untraceable cryptocurrency launched in 2012 and is the first enterprise-ready solution.
