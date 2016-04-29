@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is the Hayek?
+name: Hayek
 author: Daniel Brown
 authorurl: http://youmeandbtc.com/
 published: true
+permalink: /what-is-the-hayek/
+img: hayek.png
+category: altcoin
+summary: The Hayek is an exciting new cryptographic gold receipt issued by Anthem Vault, a leading online retailer of vaulted and insured silver and gold bullion. 
 ---
 
 <p><iframe width="700" height="394" src="https://www.youtube.com/embed/CDnizFFRgU4?rel=0" frameborder="0" allowfullscreen></iframe></p>

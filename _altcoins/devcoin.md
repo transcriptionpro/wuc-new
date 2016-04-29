@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is Devcoin?
+name: Devcoin
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
+permalink: /what-is-devcoin/
+img: devcoin.png
+category: altcoin
+summary: Devcoin is an ethically inspired cryptocurrency created in 2011 to support open source programmers and writers worldwide.
 ---
 
 <img src="/images/devcoin.png" alt="what is devcoin" align="right">

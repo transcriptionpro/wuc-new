@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is Ripple?
+name: Ripple
 author: Bobby Ong
 authorurl: https://www.weusecoins.com/bobby-ong
 published: true
+permalink: /what-is-ripple/
+img: ripple.png
+category: altcoin
+summary: Ripple is an internet protocol developed by Ripple Labs to connect all the world's disparate financial systems to enable secure transfer of funds in any currency in real time. 
 ---
 
 <img src="/images/ripple.png" alt="what is ripple">

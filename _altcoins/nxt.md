@@ -1,9 +1,14 @@
 ---
 layout: post
 title: NXT
+name: NXT
 author: WeUseCoins
 authorurl: /
 published: true
+permalink: /what-is-nxt/
+img: nxt.png
+category: appcoin
+summary: Nxt is an open source cryptocurrency and payment network launched in November 2013 by anonymous software developer BCNext.
 ---
 
 <p><h2>About NXT</h2>

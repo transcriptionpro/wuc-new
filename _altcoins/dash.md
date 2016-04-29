@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Dash?
+name: Dash
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
@@ -12,6 +13,10 @@ toc:
   dm: What is DASH Mining?
   ix: What is InstantX?
   dgb: What is Decentralized Governance by Blockchain?
+permalink: /what-is-dash/
+img: dash.png
+category: altcoin
+summary: Dash calls itself an "open sourced, privacy-centric digital currency with instant transactions." It is currently a top five cryptocurrency by market cap.
 ---
 <br />
 <img src="/images/dash.png" alt="what is dashcoin" align="left">

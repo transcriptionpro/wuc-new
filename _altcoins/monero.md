@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is Monero?
+name: Monero
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
+permalink: /what-is-monero/
+img: monero.png
+category: altcoin
+summary: Monero is a privacy centric altcoin. It is a top ten cryptocurrency by market cap.
 ---
 
 <img src="/images/monero.png" alt="what is monero" align="right">

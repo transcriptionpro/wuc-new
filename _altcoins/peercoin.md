@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is Peercoin?
+name: Peercoin
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
+permalink: /what-is-peercoin/
+img: peercoin.png
+category: altcoin
+summary: Peercoin seeks to be the most secure cryptocoin at the lowest cost, by rewarding all users for strengthening the network. 
 ---
 
 <img src="/images/peercoin.png" alt="what is peercoin" align="right">

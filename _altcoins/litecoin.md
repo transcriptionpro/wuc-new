@@ -1,12 +1,17 @@
 ---
 layout: post
 title: What is Litecoin?
+name: Litecoin
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
+permalink: /what-is-litecoin/
 toc: 
   gs: Getting Started
   lm: Litecoin Mining
+img: litecoin.png
+category: altcoin
+summary: Litecoin is the most widely used altcoin. It was created in 2011 by Coinbase engineer <a href="/charlie-lee/">Charlie Lee</a> while he worked at Google. It is currently a top five altcoin in terms of market cap.
 ---
 
 <img src="/images/litecoin.png" alt="what is litecoin" align="right">

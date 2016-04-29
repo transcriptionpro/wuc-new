@@ -1,9 +1,14 @@
 ---
 layout: post
 title: What is Namecoin?
+name: Namecoin
 author: Trace Mayer, J.D.
 authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
 published: true
+permalink: /what-is-namecoin/
+img: namecoin.png
+category: altcoin
+summary:  Namecoin is a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency. 
 ---
 
 <img src="/images/namecoin.png" alt="what is namecoin" align="right">
