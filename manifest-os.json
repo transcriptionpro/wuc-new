@@ -1,8 +1,0 @@
-{
-  "name": "WeUseCoins",
-  "short_name": "WeUseCoins",
-  "start_url": "/",
-  "display": "standalone",
-  "gcm_sender_id": "854254592623",
-  "gcm_user_visible_only": true
-}
