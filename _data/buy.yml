@@ -164,6 +164,12 @@
 
 ############## Australia ##############
    
+ - exchange: BTC Markets
+   description: Australia's largest Bitcoin exchange. <a href="https://btcmarkets.net">Buy Bitcoins</a> today with POLi and EFT. Low trading fees and full API available.
+   countries: au
+   logo: btcmarkets.png
+   url: https://www.btcmarkets.net/
+   
  - exchange: buy-aBitcoin
    description: Buy bitcoins with cash in Australia. Only verification required is an email address and phone number
    countries: au
