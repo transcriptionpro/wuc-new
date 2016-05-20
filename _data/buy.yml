@@ -58,6 +58,12 @@
    countries: de, fr
    logo: bitcoinde.png
    url: https://www.bitcoin.de/
+   
+ - exchange: Bitrush
+   description: Bitrush is an exchange for Bitcoin, Litecoin and Ethereum in Belgium and the Netherlands.
+   countries: bg, nl
+   logo: bitrush.png
+   url: https://www.bitrush.nl
 
 ############## United Kingdom ##############  
    

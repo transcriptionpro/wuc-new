@@ -22,6 +22,11 @@
    url: https://www.kraken.com/         
    tags: btc
    
+ - exchange: Bitrush
+   description: Bitrush is an exchange for Bitcoin, Litecoin and Ethereum in Belgium and the Netherlands.
+   logo: bitrush.png
+   url: https://www.bitrush.nl
+   
  - exchange: Poloniex
    description: Poloniex is an altcoin exchange and has the highest ETH/BTC volume.
    logo: poloniex.png
