@@ -26,6 +26,7 @@
    description: Bitrush is an exchange for Bitcoin, Litecoin and Ethereum in Belgium and the Netherlands.
    logo: bitrush.png
    url: https://www.bitrush.nl
+   tags: fiat
    
  - exchange: Poloniex
    description: Poloniex is an altcoin exchange and has the highest ETH/BTC volume.
