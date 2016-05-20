@@ -48,6 +48,12 @@
    create: https://greenaddress.it/en/
    img: greenaddress
    
+    - wallet: SpectroCoin
+   description:   
+   category: web
+   create: https://Spectrocoin.com/en/
+   img: spectrocoin
+   
 ## Mobile - Android
 
  - wallet: Mycelium (Android)
