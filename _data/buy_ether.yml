@@ -3,11 +3,17 @@
    logo: kraken.png
    url: https://www.kraken.com/
    tags: fiat
-
+   
  - exchange: Coinimal
    description: Buy ether in Europe with credit card, debit card NETELLER, Skrill, GIROPAY, SEPA, or OBT.
    logo: coinimal.png
    url: http://buybitcoinww.co/coinimal
+   tags: fiat
+   
+ - exchange: ICONOMI
+   description: Buy ether in Europe with a SEPA transfer.
+   logo: iconomi.png
+   url: http://www.iconomi.net/
    tags: fiat
    
  - exchange: Bittylicious
