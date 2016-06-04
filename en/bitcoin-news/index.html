@@ -13,6 +13,7 @@ toc:
   security: Security
   finance: Finance
   legal: Legal
+  archive: Archive
 ---
 <!-- This is wrong! I think this is bad for SEO as it is invalid HTML. It is on many sites here. -->
 <link rel="canonical" href="https://www.weusecoins.com/en/bitcoin-expert-interviews/" />
@@ -140,4 +141,13 @@ toc:
 <li><p><a href="/bitcoin-isle-of-man/">Bitcoin in the Isle of Man</a></li>
 <li><p><a href="/uniform-commercial-code-bitcoin/">Bitcoin and the Uniform Commercial Code</a></li>
 <li><p><a href="/bitcoin-legal-issues/">Bitcoin criminal defense</a></li>
+</ul>
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+  <a name="archive" class="anchor"><h3 id="archive">Archive</h3></a>
+<h2>Archive of all posts on {{ site.name }}</h2>
+<ul>
+	{% for post in site.posts %}
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
 </ul>
