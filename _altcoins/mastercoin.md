@@ -2,7 +2,7 @@
 layout: post
 title: Mastercoin
 author: WeUseCoins
-name: Mastercoin
+name: Mastercoin or OMNI
 authorurl: /
 published: true
 permalink: /what-is-mastercoin/
@@ -11,8 +11,9 @@ category: appcoin
 summary: Mastercoin is a digital currency and communications protocol built on the Bitcoin block chain. It is one of several efforts to enable complex financial functions in a cryptocurrency. 
 ---
 
-<p><h2>About Mastercoin</h2>
+<p><h2>About Mastercoin or OMNI</h2>
 <p>Mastercoin is a digital currency and communications protocol built on the Bitcoin block chain. It is one of several efforts to enable complex financial functions in a cryptocurrency. Planned features include the development of a decentralized exchange and the implementation of smart property and savings wallets.
+<p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/VIrZMIj4glc" frameborder="0" allowfullscreen></iframe></center>
 <p>J. R. Willett published the first draft of the Mastercoin protocol in January 2012 as a white paper, in which he proposed that existing Bitcoin protocol “can be used as a protocol layer, on top of which new currency layers with new rules can be built without changing the foundation.”
 <p>The Mastercoin project officially launched on July 31, 2013, with a month-long fundraiser in which anyone could buy Mastercoins - the digital tokens that the protocol uses to conduct transactions – by sending bitcoins to a special “Exodus Address”. The idea was that as the platform was being developed, the tokens would become more valuable and investors could sell their Mastercoins to realize a return.
 <p>A nonprofit organization called the Mastercoin Foundation was formed to handle the funds sent to the address.[2]Despite warnings that Mastercoin might just be an elaborate scam, some 500 people invested, sending a total of about 5,000 bitcoins worth about US$500,000 at the time.
