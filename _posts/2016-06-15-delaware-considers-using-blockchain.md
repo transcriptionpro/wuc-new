@@ -21,7 +21,7 @@ The planned system is being made in cooperation with New York law firm Pillsbury
 
 In a public statement, Symbiont CEO Mark Smith said:
 
-> “Autonomous record-keeping is an important use case for how smart contracts can deliver a more transparent, efficient and level playing field to the public and private sectors.” 
+> Autonomous record-keeping is an important use case for how smart contracts can deliver a more transparent, efficient and level playing field to the public and private sectors.” 
 
 Delaware is also proceeding with a pilot program involving Symbiont that will move state archival records onto a blockchain. In this program Symbiont is going to store archival records from the Delaware Public Archives on a blockchain. 
 
