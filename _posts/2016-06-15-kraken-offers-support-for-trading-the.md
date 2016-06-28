@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Only two weeks after the DAO (Decentralized Autonomous Organization) stormed global headlines, digital currency exchange <a href="/kraken-bitcoin-exchange/">Kraken</a> has started to offer trading pairs for the DAO tokens. The DAO, as the first Decentralized Autonomous Organization based on the <a href="/what-is-ethereum/">Ethereum</a> blockchain, was funded by thousands of investors in May 2016, and its current value is more than $120 million, making it one of the largest currency tokens in the digital realm. 
+Only two weeks after the DAO (Decentralized Autonomous Organization) stormed global headlines, digital currency exchange <a href="/kraken-bitcoin-exchange/">Kraken</a> has started to offer trading pairs for the DAO tokens. The DAO, as the first Decentralized Autonomous Organization based on the <a href="/what-is-ethereum/">Ethereum</a> blockchain, was funded by thousands of investors in May 2016. Its current value is more than $120 million, making it one of the largest currency tokens in the digital realm. 
 
 Even as Kraken is offering support for trading in the DAO tokens, critics of the DAO are finding their voice amid the cacophony of support for it. There is continued discussion about the viability of the DAO, and its much-touted capability to become a vehicle of investment in third-party businesses. 
 
