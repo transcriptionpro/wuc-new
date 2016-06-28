@@ -15,17 +15,14 @@ The project is only in the planning stage for now, and it has not yet been decid
 
 The Governor mentioned at the conference that the state is thinking of creating a new type of corporate share called "distributed ledger share". He said in his speech:
 
-> "Distributed ledger shares hold the promise of immediate clearance, immediate settlement, and bring about a dramatic increase in efficiency and speed and an increase in commercial transactions of which Delaware is known."
+"Distributed ledger shares hold the promise of immediate clearance, immediate settlement, and bring about a dramatic increase in efficiency and speed and an increase in commercial transactions of which Delaware is known."
 
 The planned system is being made in cooperation with New York law firm Pillsbury Winthorp Shaw Pittman and startup Symbiont, which is focused on smart contracts. In the proposed system, company registration, share trading and shareholder communication would be done using a public ledger or blockchain. 
 
 In a public statement, Symbiont CEO Mark Smith said:
 
-> Autonomous record-keeping is an important use case for how smart contracts can deliver a more transparent, efficient and level playing field to the public and private sectors.” 
+Autonomous record-keeping is an important use case for how smart contracts can deliver a more transparent, efficient and level playing field to the public and private sectors.” 
 
 Delaware is also proceeding with a pilot program involving Symbiont that will move state archival records onto a blockchain. In this program Symbiont is going to store archival records from the Delaware Public Archives on a blockchain. 
 
-The advantages of the Bitcoin and the Bitcoin blockchain can be read <a href="/ten-reasons-hire-bitcoin/">here</a>. An interview with lawyer Marco Santori where he discusses the law regarding Bitcoin can be read <a href="/bitcoin-lawyer/">here</a>. 
-
- 
-
+The advantages of the Bitcoin and the Bitcoin blockchain can be read <a href="/ten-reasons-hire-bitcoin/">here</a>. An interview with lawyer Marco Santori where he discusses the law regarding Bitcoin can be read <a href="/bitcoin-lawyer/">here</a>.
