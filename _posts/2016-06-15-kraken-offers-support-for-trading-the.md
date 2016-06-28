@@ -2,13 +2,14 @@
 ---
 layout: post
 title: Kraken Offers Support for trading The DAO Tokens even as Criticism of the DAO gathers Steam
-author: We Use Coins
-authorurl: https://www.weusecoins.com/
+description: Leading currency exchange Kraken now allows trading in the DAO tokens even as the DAO faces new criticism from experts
+author: WeUseCoins
+authorurl: /
 published: true
 ---
 
 
-Only two weeks after the Dao( Dentralized Autonomous Organization) stormed global headlines, digital currency exchange Kraken has started to offer trading pairs for the DAO tokens. <a href="http://www.coindesk.com/the-dao-just-raised-50-million-but-what-is-it/"> The DAO </a>, as the first Decentralized Autonomous Organization based on Ethereum blockchain, was funded by thousands of investors in May 2016, and its current value is more than $150 million, making it one of the largest currency tokens in the digital realm. 
+Only two weeks after the Dao (Decentralized Autonomous Organization) stormed global headlines, digital currency exchange Kraken has started to offer trading pairs for the DAO tokens. <a href="http://www.coindesk.com/the-dao-just-raised-50-million-but-what-is-it/">The DAO</a>, as the first Decentralized Autonomous Organization based on Ethereum blockchain, was funded by thousands of investors in May 2016, and its current value is more than $150 million, making it one of the largest currency tokens in the digital realm. 
 
 Even as Kraken is offering support for trading in the DAO tokens, critics of the DAO are finding their voice amid the cacophony of support for it. There is continued discussion about the viability of the DAO, and its much-touted capability to become a vehicle of investment in third-party businesses. 
 
@@ -16,7 +17,7 @@ The biggest cause of concern for DAO investors and supporters is the call for a 
 
 However, all this has not stopped Kraken from offering support for trading of the DAO tokens. With a market value of more than $150 million, the DAO tokens carry a lot of value. Its stakeholders can now trade their DAO tokens for seven different currency pairs: bitcoins, ethers, US dollars, Euros, Canadians Dollars, Japanese Yen, and British Pound. 
 
-Kraken exchange also made a <a href="https://twitter.com/krakenfx/status/736507602855546880"> twitter post </a> on 28th May 2016, which said:
+Kraken exchange also made a <a href="https://twitter.com/krakenfx/status/736507602855546880">twitter post</a> on 28th May 2016, which said:
 
 "The DAO tokens @The_DAO_Project trading now live on @krakenfx"
 
