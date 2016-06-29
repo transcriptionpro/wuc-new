@@ -11,3 +11,24 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/social-shares.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/recommended-posts.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    var bannersConfig = [{
+        src:'/images/sponsor/bitmain/bitmain-antminer-s7-2-728x90.jpg',
+        href:'https://goo.gl/UZQIX5',
+        alt:'Bitmain Antminer S9',
+        title:'Bitmain Antminer S7'
+    },{
+        src:'/images/sponsor/bitmain/bitmain-antminer-test-728x90.jpg',
+        href:'http://bitkan.com',
+        alt:'bitkan',
+        title:'bitkan'
+    }];
+
+    var randomBanner = bannersConfig[Math.floor(Math.random()*bannersConfig.length)];
+    var bannerAnchor = $('#header-banner > a');
+    bannerAnchor.attr('href', randomBanner.href);
+    bannerAnchor.append('<img src="'+randomBanner.src+'" title="'+randomBanner.title+'" alt="'+randomBanner.alt+'" width="728" height="90" border="0">');
+});
+</script>
