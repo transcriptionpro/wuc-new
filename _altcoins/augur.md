@@ -3,11 +3,11 @@ layout: post
 title: What is Augur?
 name: Augur
 author: Bobby Ong
-authorurl: https://www.weusecoins.com/bobby-ong
+authorurl: /bobby-ong
 published: true
 permalink: /what-is-augur/
-img: augur1.jpg
-category: altcoin
+img: augur.jpg
+category: appcoin
 summary: Augur is a decentralised prediction market which can forecast the outcome of an event based on the 'wisdom of the crowd' principle. 
 
 ---
@@ -15,13 +15,16 @@ summary: Augur is a decentralised prediction market which can forecast the outco
 <img src="/images/augur1.jpg" alt="what is augur">
 
 <p>
-<a href="https://www.coingecko.com/en/coins/augur">Augur</a> is a decentralised prediction market which can forecast the outcome of an event based on the 'wisdom of the crowd' principle. With this method, information collected from the crowd is averaged into the most realistic possibility and therefore the most probable outcome. Correct predictions are rewarded by the network, while incorrect reporting is penalised - this incentivises truthful reporting. The <a href="https://www.augur.net/">Augur Project</a> aims to revolutionize prediction markets, and, in doing so, changing the way people receive and verify 'truth'. The main idea is to make more accurate predictions by large groups of people, rather than a small team of experts.
+<a href="https://www.coingecko.com/en/coins/augur">Augur</a> is a decentralised prediction market which can forecast the outcome of an event based on the 'wisdom of the crowd' principle. With this method, information collected from the crowd is averaged into the most realistic possibility and therefore the most probable outcome. Correct predictions are rewarded by the network, while incorrect reporting is penalised - this incentivises truthful reporting.
+
+<p>
+The <a href="https://www.augur.net/">Augur Project</a> aims to revolutionize prediction markets, and, in doing so, changing the way people receive and verify 'truth'. The main idea is to make more accurate predictions by large groups of people, rather than a small team of experts.
 
 <p>
 Augur is also the first major decentralised application (Dapp) developed using <a href="https://www.coingecko.com/en/price_charts/ethereum/usd">Ethereum</a>, and represents a major proof of concept for this underlying technology. Decentralisation ensures that Augur cannot be censored by governments that deem prediction markets as gambling, whilst ensuring the sustainability of the application. This decentralised nature ensures honesty in reporting the outcome of events, using crowd wisdom to cancel out individual frauds.
 
 <p>
-Augur's crowdsale raised more than 2000 BTC and 100,000 Ether on its first day. It ran from 17 August 2015 until 5 September 2015. The platform is currently in beta phase.
+Augur's crowdsale raised more than 2,000 BTC and 100,000 Ether on its first day. It ran from 17 August 2015 until 5 September 2015. The platform is currently in beta phase.
 
 <p>
 <img src="/images/augur2.jpg" alt="augur-ethereum">
