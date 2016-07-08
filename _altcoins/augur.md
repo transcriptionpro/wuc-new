@@ -8,7 +8,7 @@ published: true
 permalink: /what-is-augur/
 img: augur.jpg
 category: appcoin
-summary: Augur is a decentralised prediction market which can forecast the outcome of an event based on the 'wisdom of the crowd' principle. 
+summary: Augur is a decentralised prediction market to exchange value when forecasting event outcomes based on the 'wisdom of the crowd' principle.
 
 ---
 
