@@ -5,16 +5,6 @@ author: We Use Coins
 authorurl: /
 published: true
 
-toc:
-	step1: "ASIC Miner Vendor Support"
-	step2: "Data Center Photos"
-	step3: "Public Address or User Selectable Mining Pool"
-	step4: "Anonymous Domain Registration"
-	step5: "Social Networking"
-	step6: "Lack Withdraw Option"
-	step7: "Offer Guaranteed Profit"
-	step8: "Unlimited IPO"
-
 ---
 
 {% include page-toc.html %}
