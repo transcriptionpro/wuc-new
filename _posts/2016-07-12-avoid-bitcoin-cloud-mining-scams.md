@@ -4,6 +4,7 @@ title: How To Avoid Bitcoin Cloud Mining Scams
 author: We Use Coins
 authorurl: /
 published: true
+
 toc:
 	step1: "ASIC Miner Vendor Support"
 	step2: "Data Center Photos"
@@ -13,6 +14,7 @@ toc:
 	step6: "Lack Withdraw Option"
 	step7: "Offer Guaranteed Profit"
 	step8: "Unlimited IPO"
+
 ---
 
 {% include page-toc.html %}
