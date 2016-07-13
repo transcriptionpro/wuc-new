@@ -4,11 +4,9 @@ title: How To Avoid Bitcoin Cloud Mining Scams
 author: We Use Coins
 authorurl: /
 published: true
-toc:
-	asic: ASIC Miner Vendor Support
+
 ---
 
-{% include page-toc.html %}
 <p>Bitcoin investment has grown day by day with cloud mining increasing as the new and most efficient strategy to making sound profits. However, for you to invest in this area it requires dependence on Bitcoin cloud mining companies but very few are actually legit. Here is how you can know as well as avoid scamming Bitcoin cloud mining companies. 
 <p><h3><b>1. </b><a name="asic" class="anchor">ASIC Miner Vendor Support</a></h3>
 <p>It is true that most of these legit Bitcoins cloud mining companies’ hard-wares are expensive but worth noting its ASIC vendors will voluntarily and out of appreciation make not only acknowledgment but also public posts of the company they are dealing with. This is to point out that the company mentioned is one of their clients Worth noting is these advertisements are free, and as such, the Bitcoin cloud mining company in question acquires confidence.
