@@ -4,6 +4,15 @@ title: How To Avoid Bitcoin Cloud Mining Scams
 author: We Use Coins
 authorurl: /
 published: true
+toc:
+	step1: "ASIC Miner Vendor Support"
+	step2: "Data Center Photos"
+	step3: "Public Address or User Selectable Mining Pool"
+	step4: "Anonymous Domain Registration"
+	step5: "Social Networking"
+	step6: "Lack Withdraw Option"
+	step7: "Offer Guaranteed Profit"
+	step8: "Unlimited IPO"
 
 ---
 
@@ -27,7 +36,7 @@ published: true
 <p><h3><b>6. </b><a name="step6" class="anchor">Lack Withdraw Option</a></h3>
 <p>Since Bitcoin cloud mining then for any company that you engage with, it should allow you to both sell the GH as well as withdraw your earnings. However, scammers will always act opposite- they will allow you to sell the GH, buy on their website and there is no specific place you can withdraw your earning; that’s weird, and it should tell you that something is wrong and that’s why you will need to leave the site.
 <p>Also, if the cloud mining company doesn’t credit any trade or sale option of your GH, be assured it’s a scamming site- run run run away. 
-<p><h3><b>7. </b><a name="step7" class="anchor">Offer Guaranteed Profit/a></h3>
+<p><h3><b>7. </b><a name="step7" class="anchor">Offer Guaranteed Profit</a></h3>
 <p>Scammers use any sensible and attractive way to get you on their site and that’s why, you will find some Bitcoin cloud mining companies offering a denominated or guaranteed profit- this should put up a red flag and tell you to stay away, why? In the bitcoin mining world there is no such thing as certain profit- oh no!
 <p>Worth noting is, the bitcoin mining world is so hard to predict and as such, no one can even state tomorrow’s BTC price let alone weeks or months to come- so why are they guaranteed profits? It’s the incentive of scammers. 
 <p><h3><b>8. </b><a name="step8" class="anchor">Unlimited IPO</a></h3>
