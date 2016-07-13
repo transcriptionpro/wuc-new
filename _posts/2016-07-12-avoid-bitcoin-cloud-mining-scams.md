@@ -4,7 +4,8 @@ title: How To Avoid Bitcoin Cloud Mining Scams
 author: We Use Coins
 authorurl: /
 published: true
-
+toc:
+	asic: "ASIC Miner Vendor Support"
 ---
 
 {% include page-toc.html %}
