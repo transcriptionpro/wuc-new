@@ -4,15 +4,6 @@ title: How To Avoid Bitcoin Cloud Mining Scams
 author: We Use Coins
 authorurl: /
 published: true
-toc:
-	asic: "ASIC Miner Vendor Support"
-	datacenter: "Data Center Photos"
-	pool: "Public Address or User Selectable Mining Pool"
-	domain: "Anonymous Domain Registration"
-	social: "Social Networking"
-	withdraw: "Lack Withdraw Option"
-	profit: "Offer Guaranteed Profit"
-	ipo: "Unlimited IPO"
 
 ---
 
