@@ -16,6 +16,7 @@ toc:
 
 <p>Scams have long been part of the day to day lives of human beings. While today's scams are quite a bit more intricate, people have been trying to defraud each other since the beginning of currency as we know it.
 <p>In fact, even back in the renaissance days, the shell game was used by con-artists to fool people out of their hard earned money. With Bitcoin being a relatively new currency, yet a widely accepted one, scams revolving around the currency seem to be everywhere.
+<img width="700" height="247" src="/images/bitcoin-cloud-mining-scams.jpg" class="aligncenter" alt="bitcoin cloud mining scams"/>
 <p>Here are the top 5 scams you should watch for in order <a href="http://www.binaryscamsniffer.com/risks-of-engaging-in-bitcoin-option-plays/">to keep your money safe in today's cryptocurrency world</a>. 
 {% include page-toc.html %}
 <h2 id="ponzi">Scam #1: Bitcoin Ponzi Schemes</h2>
