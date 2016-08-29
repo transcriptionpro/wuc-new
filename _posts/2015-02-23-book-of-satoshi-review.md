@@ -405,7 +405,7 @@ But now with bitcoin we're able to lay down and define property rights with soft
 
 </p><p>
 
-<strong>Trace Mayer:</strong>  Well, thanks so much.  We've had Phil Champagne, compiler of the collected writings of bitcoin creator, Satoshi Nakamoto.  It's the <a href="http://www.runtogold.com/bookofsatoshi">Book of Satoshi</a>, available at Amazon.com and plenty of other places.  Thanks for being with us, Phil.
+<strong>Trace Mayer:</strong>  Well, thanks so much.  We've had Phil Champagne, compiler of the collected writings of bitcoin creator, Satoshi Nakamoto.  It's the <a href="http://geni.us/bookofsatoshi">Book of Satoshi</a>, available at Amazon.com and plenty of other places.  Thanks for being with us, Phil.
 
 </p><p>
 
