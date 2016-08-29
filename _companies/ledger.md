@@ -3,7 +3,7 @@ title: Ledger
 seotitle: Ledger - Trusted Bitcoin Hardware Solutions
 img: /images/company/ledger.png
 ---
-[Ledger](https://www.ledger.co/) is a Bitcoin security company known for its Bitcoin hardware wallets.
+[Ledger](http://geni.us/ledger) is a Bitcoin security company known for its Bitcoin hardware wallets.
 
 ## Products
 
