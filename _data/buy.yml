@@ -90,6 +90,12 @@
    
 ############## Asia ##############  
    
+ - exchange: BitKan
+   description: "BitKan is a tool and application platform focusing on bitcoin featuring OTC trading service, price viewing, news reading, mining monitoring, price alert, E-Wallet services and etc."
+   countries: asia
+   logo: bitkan.png
+   url: http://bitkan.com
+
  - exchange: BTCC
    description: "BTCC is one of China's three largest Bitcoin exchanges."
    countries: asia
