@@ -27,6 +27,12 @@
    category: hardware
    buy: http://geni.us/ledger
    img: trezor
+   
+   - wallet: OPENDIME
+   description: <p>The 1st Bitcoin Bearer Bond or just call it a "Bitcoin Stick". Opendime is a small USB stick that allows you to spend Bitcoin like a dollar bill. Pass it along multiple times. Connect to any USB to check balance. Unseal anytime to spend online. Trust no one. Acts like a read-only USB flash drive. Works with any computer, laptop, and phone. A QR Picture and Text file inside contain Bitcoin address and support. The private key is generated inside the device, and is never known to any human, not even you! The Bitcoin world changes fast but Opendime is built on the fundamental Bitcoin features that haven't changed in five years. Give an Opendime to anyone and they don't need to worry that you can take back the funds later. You've got the private keys in the device. This is physical Bitcoin as it was meant to be: just hand it to someone and they've got it. Pass it on multiple times! Simple as a handshake. No miner fees, no confirmation delays. Uses Bitcoin message signing, normal (non HD) bitcoin payment addresses and private keys in WIF format.</p> 
+   category: hardware
+   buy: https://opendime.com
+   img: opendime
 
  - wallet: Ledger HW.1
    description: The Ledger HW.1 is a more affordable version of the Ledger Nano. 
