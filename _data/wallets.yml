@@ -28,6 +28,12 @@
    buy: http://geni.us/ledger
    img: trezor
    
+ - wallet: OpenDime
+   description: The first Bitcoin Bearer Bond or called a Bitcoin Stick.
+   category: hardware
+   buy: https://opendime.com
+   img: opendime
+   
  - wallet: Ledger HW.1
    description: The Ledger HW.1 is a more affordable version of the Ledger Nano. 
    category: hardware
