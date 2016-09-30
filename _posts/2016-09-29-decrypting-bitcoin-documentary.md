@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decrypting Bitcoin: The Blockchain Technology Explained
+title: Decrypting Bitcoin - The Blockchain Technology Explained
 author: The Fifth Quill
 authorurl: /
 published: true
