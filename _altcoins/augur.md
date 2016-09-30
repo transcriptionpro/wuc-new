@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is Augur?
 name: Augur
 author: Bobby Ong

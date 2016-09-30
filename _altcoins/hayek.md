@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is the Hayek?
 name: Hayek
 author: Daniel Brown
