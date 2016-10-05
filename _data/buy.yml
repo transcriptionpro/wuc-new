@@ -193,6 +193,14 @@
    countries: au
    logo: buyabitcoin.png
    url: https://buyabitcoin.com.au/
+   
+ - exchange: HardBlock
+   description: No fee and low spread Australian buying and selling service. Buy Bitcoin using POLi. Phone number and ID verification required. 
+   countries: au
+   logo: hardblock.png
+   url: https://www.hardblock.net/   
+   
+   
 
 ############## South America ##############
 
