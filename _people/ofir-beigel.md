@@ -14,6 +14,6 @@ residence:
 cats: [ ]
 website: https://99Bitcoins.com/
 ---
-Jordan Tuwiner is the founder of [99Bitcoins](https://99Bitcoins.com/), a blog dedicated to "translating Bitcoin into plain English".
+Ofir Beigel is the founder of [99Bitcoins](https://99Bitcoins.com/), a blog dedicated to "translating Bitcoin into plain English".
 
-Jordan is also a Bitcoin advocate and contributor at We Use Coins, Bitcoin Magzine, Huffington Post and other publications.
+Ofir is also a Bitcoin advocate and contributor at We Use Coins, Bitcoin Magzine, Huffington Post and other publications.
