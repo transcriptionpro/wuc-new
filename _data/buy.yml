@@ -1,7 +1,7 @@
 ############## United States ##############  
 
  - exchange: Coinbase
-   description: <p>Coinbase is one of the world's largest Bitcoin exchanges. Users in the United States, Canada, most of Europe, and Singapore can buy bitcoins with a connected bank account or SEPA transfer.</p> <p>European users can purchase bitcoins with 3D secure credit or debit cards.</p>
+   description: <p>Coinbase is one of the world's largest Bitcoin exchanges. Users in the United States, Canada, most of Europe, and Singapore can buy bitcoins with a connected bank account or SEPA transfer.</p> <p>European users can purchase bitcoins with 3D secure credit or debit cards.</p> <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/8ReFJILZHZk" frameborder="0" allowfullscreen></iframe></center></p>
    countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: coinbase-small.png
    url: http://geni.us/coinbase
