@@ -50,8 +50,11 @@ You can <a href="https://99bitcoins.com/making-money-with-steemit-steem-dollars-
 
 **Steem Curation and Moderation**
 
-In addition, you can make money with Steem. Anyone can read content posted on Steem without an account, and users can be entirely anonymous if they choose. Steem governs its users behavior through Community moderation, Steemetiquette if you will. There are no set guidelines as of yet, like on Reddit, but they are being created organically and are self enforced by the Community through their combined voting power called Steem Power. These guiding principles in many ways encourage quality original content from fellow Steemians, otherwise the user is simply wasting their time since they will likely not earn any rewards for posting low quality, undesirable content or spam.
-Voters on Steem are called "curators" and are encouraged to evaluate content, sources and links to find high quality information, then vote and moderate based on on the information's factuality, relevance and quality, rather than on opinions. Giving credit where it's due and citing sources is encouraged, since the original poster is being rewarded for the content, original content is preferred when it comes to handing out rewards.
+In addition, you can make money with Steem. Anyone can read content posted on Steem without an account, and users can be entirely anonymous if they choose. Steem governs its users behavior through Community moderation, Steemetiquette if you will.
+There are no set guidelines as of yet, like on Reddit, but they are being created organically and are self enforced by the Community through their combined voting power called Steem Power.
+These guiding principles in many ways encourage quality original content from fellow Steemians, otherwise the user is simply wasting their time since they will likely not earn any rewards for posting low quality, undesirable content or spam.
+Voters on Steem are called "curators" and are encouraged to evaluate content, sources and links to find high quality information, then vote and moderate based on on the information's factuality, relevance and quality, rather than on opinions.
+Giving credit where it's due and citing sources is encouraged, since the original poster is being rewarded for the content, original content is preferred when it comes to handing out rewards.
 
 **Helpful Steem Resources**
 <ul>
