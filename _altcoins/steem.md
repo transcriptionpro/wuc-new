@@ -10,23 +10,21 @@ category: appcoin
 summary: Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards.
 ---
 
-## What is Steem?
-
+<p><h2>What is Steem?</h2>
 <img src="/images/steem_logo.jpg" alt="Steem Logo">
-
 <p><a href="http://steem.io/">Steem</a> is a cryptocurrency used to power the platform Steemit - an incentivized blockchain social media platform. 
 <p>Users create and curate content on Steemit just like other social news platforms (e.g. Reddit, Hacker News) and get rewarded in Steem for their work.
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/xZmpCAqD7hs" frameborder="0" allowfullscreen></iframe></center>
 
-**Steem**
+<p><b>Steem</b>
 <p>Steem is the fundamental unit of account on the Steem blockchain.  
 <p>All other units (Steem dollars and Steem power) derive their value from the value of Steem. 
 <p>There is no need to hold on to Steem in its cryptocurrency form, it should be used either to buy Steem power, Steem dollars or be converted to Bitcoins.
 <p>Steem increases in supply 100% each year. Steem was first <a href="https://steem.io/SteemWhitePaper.pdf">published as a whitepaper</a> in March 2016. 
 <p>The currency and platform were in Beta until July 4th 2016.
 
-**Steem Dollars**
+<p><b>Steem Dollars</b>
 
 <p>Steem dollars are the units used to reward users for posting and curating content. 
 <p>Each Steem dollar represents the amount of Steem equivalent to 1 USD. 
@@ -34,7 +32,7 @@ summary: Steem is a blockchain database that supports community building and soc
 <p>SMD are actually a promise, that when you come to cash out you will receive the USD equivalent in Steem of what you’ve earned. 
 <p>Steem dollars earn an interest rate of 10% annually.
 
-**Steem Power**
+<p><b>Steem Power</b>
 
 <p>Steem power (or SP) is a token symbolizing how much power you have inside the Steemit platform. 
 <p>When you have a lot of SP your votes count more in the system. In fact you can’t vote if you don’t have any SP. 
@@ -42,13 +40,13 @@ summary: Steem is a blockchain database that supports community building and soc
 <p>The way to power down is basically to cash your SP into Steem. 
 <p>This can be done over a preiod of 104 weeks (2 years) in order to insure that users don’t just cash out quickly and collapse the whole Steemit economy. 
 
-**Steemit Platform**
+<p><b>Steemit Platform</b>
 
 <p>Unlike other cryptocurrencies Steem has a built in inflation of 100% annualy and no coin limit. 
 <p>The platform itself (<a href="https://steemit.com">Steemit</a>) has grown considerably since the Coin launched on July 4th 2016 and currently has over 70,000 users however it seems that the number of active users <a href="https://steemit.com/steem-stats/@mata/steem-stats-total-vs-active-accounts">is much lower</a>.
 <p>You can <a href="https://99bitcoins.com/making-money-with-steemit-steem-dollars-and-steem-power-explained/">earn Steem dollars and Steem power</a> on Steemit by posting and curating articles.
 
-**Steem Curation and Moderation**
+<p><b>Steem Curation and Moderation</b>
 
 <p>In addition, you can make money with Steem. Anyone can read content posted on Steem without an account, and users can be entirely anonymous if they choose. Steem governs its users behavior through Community moderation, Steemetiquette if you will.
 <p>There are no set guidelines as of yet, like on Reddit, but they are being created organically and are self enforced by the Community through their combined voting power called Steem Power.
@@ -56,7 +54,7 @@ summary: Steem is a blockchain database that supports community building and soc
 <p>Voters on Steem are called "curators" and are encouraged to evaluate content, sources and links to find high quality information, then vote and moderate based on on the information's factuality, relevance and quality, rather than on opinions.
 <p>Giving credit where it's due and citing sources is encouraged, since the original poster is being rewarded for the content, original content is preferred when it comes to handing out rewards.
 
-**Helpful Steem Resources**
+<p><b>Helpful Steem Resources</b>
 <ul>
 <li><a href="https://steemit.com/steemhelp/@aem/steem-for-noobs">Steem for Noobs</a></li>
 <li><a href="https://steemit.com/steemit/@cryptogee/format-your-steemit-articles-and-gain-steem-power">Proper Formatting of Articles</a></li>
