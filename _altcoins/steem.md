@@ -46,7 +46,7 @@ summary: Steem is a blockchain database that supports community building and soc
 
 <p>Unlike other cryptocurrencies Steem has a built in inflation of 100% annualy and no coin limit. 
 <p>The platform itself (<a href="https://steemit.com">Steemit</a>) has grown considerably since the Coin launched on July 4th 2016 and currently has over 70,000 users however it seems that the number of active users <a href="https://steemit.com/steem-stats/@mata/steem-stats-total-vs-active-accounts">is much lower</a>.
-<p>You can <a href="https://99bitcoins.com/making-money-with-steemit-steem-dollars-and-steem-power-explained/">earn Steem dollars and Steem power<a/> on Steemit by posting and curating articles.
+<p>You can <a href="https://99bitcoins.com/making-money-with-steemit-steem-dollars-and-steem-power-explained/">earn Steem dollars and Steem power</a> on Steemit by posting and curating articles.
 
 **Steem Curation and Moderation**
 
