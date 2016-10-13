@@ -17,7 +17,7 @@ summary: Steem is a blockchain database that supports community building and soc
 <a href="http://steem.io/">Steem</a> is a cryptocurrency used to power the platform Steemit - an incentivized blockchain social media platform. 
 Users create and curate content on Steemit just like other social news platforms (e.g. Reddit, Hacker News) and get rewarded in Steem for their work.
 
-<center><iframe width="700" height="394" src="https://www.youtube.com/watch?v=xZmpCAqD7hs" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/xZmpCAqD7hs" frameborder="0" allowfullscreen></iframe></center>
 
 **Steem**
 Steem is the fundamental unit of account on the Steem blockchain.  
