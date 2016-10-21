@@ -3,7 +3,7 @@ layout: post
 title: How To Buy Bitcoin Using Poli In Australia
 author: Daniel Wilczynski
 authorurl: https://danielwilczynski.com/
-published: false
+published: true
 toc: 
   whatis: What Is POLi Pay
   how: How Does POLi Work
