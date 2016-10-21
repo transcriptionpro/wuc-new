@@ -27,9 +27,9 @@ toc:
 
 <h2 id="security">Security and Privacy</h2>
 
-<p>When paying with POLi you are redirected to a POLi domain to enter your bank credentials and complete the payment. POLi does not store your bank credentials, it uses them to call the banks API and complete the bank transfer. You can read more about <a href="https://www.polipayments.com/Security">POLi security here</a>. </p>
+<p>When paying with POLi you are redirected to a POLi domain to enter your bank credentials and complete the payment. POLi does not store your bank credentials, it uses them to call the banks API and complete the bank transfer. You can read more about <a href="https://www.polipayments.com/Security">POLi security here</a>.</p>
 
-<p>I emailed POLi to ask if they store any additional data such as the payer's bank balance, other transfers or other data and the response was no. They do store the payer's account number, account name and POLi transfer however. </p>
+<p>I emailed POLi to ask if they store any additional data such as the payer's bank balance, other transfers or other data and the response was no. They do store the payer's account number, account name and POLi transfer however.</p>
 
 <h2 id="why">Why Do Australian Bitcoin Exchanges Use POLi</h2>
 
