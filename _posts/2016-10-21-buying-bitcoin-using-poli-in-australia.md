@@ -11,6 +11,8 @@ toc:
   why: Why Is It Used
   walkthrough: Buying Bitcoin With POLi
 ---
+{% include page-toc.html %}
+
 <p id="whatis"><a href="https://www.polipayments.com/">POLi payments</a> is an Australian payment processor owned by Australia Post. It is commonly accepted by Australian Bitcoin exchanges as a way to send money to the exchanges and buy Bitcoin.</p>
 
 <p>Examples of other businesses that accept POLi are Twitch.tv, Skype, Jetstar, AirAsia etc.</p>
@@ -43,27 +45,27 @@ toc:
 
 <p>First you will need to create an account and confirm your email.</p>
 
-<img src="/images/poli-guide-1.png" width="800" height="430" alt="hardblock sign up">
+<img src="/images/poli-guide-1.png" width="700" height="376" alt="hardblock sign up">
 
 <p>After clicking on Fund Deposit you will be taken to the verification page. You will need to provide your phone number and ID documents. ID Verification should take less than a day.</p>
-<img src="/images/poli-guide-4.png" width="410" height="230" alt="hardblock verify phone">
-<img src="/images/poli-guide-5.png" width="410" height="230" alt="hardblock verify id">
+<img src="/images/poli-guide-4.png" width="700" height="393" alt="hardblock verify phone">
+<img src="/images/poli-guide-5.png" width="700" height="393" alt="hardblock verify id">
 
 <p>When you are verified you can go to the Fund Deposit page. Enter the amount of Australian Dollars you want to fund you HardBlock account with and click Pay With POLi.</p>
 
-<img src="/images/poli-guide-6.png" width="800" height="430" alt="hardblock cash transfer">
+<img src="/images/poli-guide-6.png" width="700" height="376" alt="hardblock cash transfer">
 <p>You should now be redirected to a POLi domain, you can check the address bar at top. It will say POLi Payments Ptd Ltd (AU) in green. Choose your bank, POLi works with most Australian banks.</p>
-<img src="/images/poli-guide-7.png" width="800" height="430" alt="poli pay">
+<img src="/images/poli-guide-7.png" width="700" height="376" alt="poli pay">
 
 <p>To confirm your transfer you need to login with your bank credentials. The credentials are never seen by the Bitcoin exchange. POLi does not store them it simply makes a call to the banks API to create a net bank transfer. </p>
-<img src="/images/poli-guide-8.png" width="800" height="430" alt="poli pay 2">
+<img src="/images/poli-guide-8.png" width="700" height="376" alt="poli pay 2">
 
 <p>Now you will need to do a final confirmation of the transfer. Its likely your bank will also require an sms confirmation. After your final confirmation your fund transfer is complete. You will now have to wait around an hour for your account to be credited with Australian Dollars.</p>
-<img src="/images/poli-guide-9.png" width="800" height="430" alt="poli completed">
+<img src="/images/poli-guide-9.png" width="700" height="376" alt="poli completed">
 
 <p> Once your account is credited click the Buy / Sell button. Enter the amount of Dollars you want to use to buy Bitcoin and press buy. You will then be shown a confirmation page showing your buy order. Press Confirm and you will instantly receive your Bitcoins.</p>
-<img src="/images/poli-guide-10.png" width="800" height="430" alt="hardblock buy bitcoin">
+<img src="/images/poli-guide-10.png" width="700" height="376" alt="hardblock buy bitcoin">
 
-<p>Finally, it is never a good idea to keep your Bitcoins on any centralised exchange. Get a <a href="https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/">desktop or mobile wallet</a> for smaller amounts or use paper or cold storage for larger amounts. Send the Bitcoin from the exchange to your wallet by providing your wallets address, and clicking send.</p>
+<p>Finally, it is never a good idea to keep your Bitcoins on any centralised exchange. Get a <a href="/en/find-the-best-bitcoin-wallet/">desktop or mobile wallet</a> for smaller amounts or use paper or cold storage for larger amounts. Send the Bitcoin from the exchange to your wallet by providing your wallets address, and clicking send.</p>
 
-<img src="/images/poli-guide-12.png" width="800" height="430" alt="hardblock send bitcoin">
+<img src="/images/poli-guide-12.png" width="700" height="376" alt="hardblock send bitcoin">
