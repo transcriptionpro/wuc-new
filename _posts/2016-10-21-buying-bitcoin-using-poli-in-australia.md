@@ -41,7 +41,7 @@ toc:
 
 <h2 id="walkthrough">Walkthrough Of Buying Bitcoin With POLi</h2>
 
-<p>Below is a walkthrough of how to purchase Bitcoins using POLi on <a href="https://www.hardblock.net/">HardBlock Australian Bitcoin Exchange</a>, but you can <a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/#au">shop around for different Australian exchanges</a>.</p>
+<p>Below is a walkthrough of how to purchase Bitcoins using POLi on <a href="https://www.hardblock.net/">HardBlock Australian Bitcoin Exchange</a>, but you can <a href="/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/#au">shop around for different Australian exchanges</a>.</p>
 
 <p>First you will need to create an account and confirm your email.</p>
 
