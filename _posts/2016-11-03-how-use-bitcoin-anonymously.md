@@ -48,7 +48,7 @@ published: true
 <p>The Tor will listen on TCP port 9050 after the installation. There is no need to change the default Tor settings, but don't forget to change the configuration of <b>Electrum - Tools Network</b> (for the proper configuration of network see Figure 2).
 </p>
 <p class="text-center">
-<img src="/static/mixer/images/manual/tor-config.png" alt="tor configuration in Electrum"/>
+<img src="/static/mixer/images/tor-config.png" alt="tor configuration in Electrum"/>
 <br/>
 <small>Figure 3: Tor configuration in Electrum</small>
 </p>
@@ -71,7 +71,7 @@ published: true
 <p>Electrum will challenge you to save the wallet generation seed in the next step (see Figure 5). You will need the seed if something bad happens to the wallet, so keep it in safe location and <b>private</b> (the seed on the picture is from empty wallet, so we can make it public, but you should not).
 </p>
 <p class="text-center">
-<img src="/images/anonymously/images/manual/electrum-seed.png" alt="electrum recovery seed"/>
+<img src="/images/anonymously/images/electrum-seed.png" alt="electrum recovery seed"/>
 <br/>
 <small>Figure 6: Save the wallet generation seed</small>
 </p>
