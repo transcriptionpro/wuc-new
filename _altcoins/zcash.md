@@ -11,6 +11,7 @@ summary: zCash calls itself an "open sourced, privacy-centric digital currency w
 ---
 
 <h3>What is Zcash?</h3>
+<img src="/zcash-logo-black.png" alt="what is zcash" align="center">
 <p>If Bitcoin is like http for money, Zcash is https. Zcash offers total payment confidentiality, while still maintaining a decentralized network using a public blockchain.
 <p>Unlike Bitcoin, Zcash transactions can be shielded to hide the sender, recipient, and value of all transactions on the blockchain. Only those with the correct view key can see the contents. Users have complete control and can opt-in to provide others with their view key at their discretion.
 <p>Zcash transactions do not depend on the cooperation of other parties.</p>
