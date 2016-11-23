@@ -6,7 +6,6 @@ authorurl: /
 published: true
 ---
 
-<h1>Segwit ELI5 Misinformation FAQ</h1>
 <p>Seeing as there is a lot of FUD and misinformation being spread about Segwit I thought it would be useful to address some of the “issues” and arguments some people bring up when talking about it.
 <p>For more detailed information check out the <a href="/what-are-segwit-benefits/">Segwit Benefits</a> and <a href="https://bitcoincore.org/en/2016/10/28/segwit-costs/">Segwit Costs and Risks</a>. <a href="/segregated-witness/">Many companies</a> are already planning on supporting Segregated Witness.
 <h2>Segwit is not really a block size increase</h2>
