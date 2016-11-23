@@ -8,7 +8,6 @@ published: true
 
 <p>Seeing as there is a lot of FUD and misinformation being spread about Segwit I thought it would be useful to address some of the “issues” and arguments some people bring up when talking about it.
 <p>For more detailed information check out the <a href="/what-are-segwit-benefits/">Segwit Benefits</a> and <a href="https://bitcoincore.org/en/2016/10/28/segwit-costs/">Segwit Costs and Risks</a>. <a href="/segregated-witness/">Many companies</a> are already planning on supporting Segregated Witness.
-<p><center><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = '//segwit.freedomnode.com/widget.min.js';fjs.parentNode.insertBefore(js, fjs);}(document, 'script'));</script></center>
 <h2>Segwit is not really a block size increase</h2>
 <p>It is a blocksize increase. Miners produce a block every ~10 minutes containing transactions. Before Segwit the maximum size of all the transactions combined was 1MB, after Segwit it can be a maximum of 4MB (1MB base + 3MB witness).
 <p><b>2.</b> 1.7 MB is theoretical, it’s still not 2 MB and it will take a long time before we see it being used.
