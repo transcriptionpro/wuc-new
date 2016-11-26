@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Scaling Bitcoin To Billions of Transactions Per Day
 author: Thaddeus Dryja
 authorurl: /thaddeus-dryja/
 published: true
@@ -8,9 +8,9 @@ published: true
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/8zVzw912wPo" frameborder="0" allowfullscreen></iframe></center>
 
-<p>We're doing a presentation on the lightning network and micropayments. Right now bitcoin faces some interesting problems, like transactions aren't instant, and micropayments don't work. The transaction fees are 1/10th of a cent or higher depending on the exchange rate. And, "bitcoin doesn't scale" especially if you have a lot of micropayments. One megabyte blocks? Well, let's increase them. What happens? Well, you go from 7 transactons per second with 1 megabyte with about 220 million transactions per year. With a 7 billion population on the planet, that's less than one transaction per year or substantially less.</p>
+<p>We're doing a presentation on the <a href="/lightning-network-dryja/">lightning network</a> and micropayments. Right now bitcoin faces some interesting problems, like transactions aren't instant, and micropayments don't work. The transaction fees are 1/10th of a cent or higher depending on the exchange rate. And, "bitcoin doesn't scale" especially if you have a lot of micropayments. One megabyte blocks? Well, let's increase them. What happens? Well, you go from 7 transactons per second with 1 megabyte with about 220 million transactions per year. With a 7 billion population on the planet, that's less than one transaction per year or substantially less.</p>
 
-<p>What does bitcoin look like with more than 1 billion transactions per day? Well that's 1.8 GB (1655 MB) and about 87 terabytes/year. You can store enough transactions from a year for a place maybe the size of San Francisco or another metro area. Well you might say okay, let's up it even more. Then what happens? Well you get some centralization, right.</p>
+<p>What does bitcoin look like with more than <a href="lightning-network-as-a-directed-graph-single-funded-channel-network-topology-dryja">1 billion transactions per day?</a> Well that's 1.8 GB (1655 MB) and about 87 terabytes/year. You can store enough transactions from a year for a place maybe the size of San Francisco or another metro area. Well you might say okay, let's up it even more. Then what happens? Well you get some centralization, right.</p>
 
 <p>Mining sort of doesn't work for this. You're going to end up with one or two mining pools. They sort of have an incentive to create bigger blocks and it causes more centralization. An individual running a bitcoin node at home can't do a full validation of all transactions. It's not really bitcoin. It doesn't work very well.</p>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: The Lightning Network by Thaddeus Dryja
 author: Thaddeus Dryja
 authorurl: /thaddeus-dryja/
 published: true
@@ -8,11 +8,11 @@ published: true
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/2QH5EV_Io0E" frameborder="0" allowfullscreen></iframe></center>
 
-<p>Great to have you guys. They are going to talk about bitcoin's scalability problems. There they are.</p>
+<p>Great to have you guys. They are going to talk about <a href="lightning-network-as-a-directed-graph-single-funded-channel-network-topology-dryja">bitcoin's scalability problems</a>. There they are.</p>
 
 <p>Okay, hi. So yeah, I titled it solutions because that sounds more positive than talking about problems. Joseph will go after that and talk about what needs to change and the economics and things like that. Okay, so I'll start.</p>
 
-<p>Bitcoin scalability. The thing that is on everyone's mind is line 10 of consensus.h which is static constant unsigned integer max blocksize is 1 million bytes. That's been in there for a number of years and hasn't budged. That's the current thing that people are focusing on. The discussion quickly becomes larger about scalabity. If each nodes create transactions and every transaction is stored by every node, that looks like a whole lot of n squared and that's not very scalable.</p>
+<p><a href="/scaling-bitcoin-to-billions-of-transactions-per-day-dryja/">Bitcoin scalability</a>. The thing that is on everyone's mind is line 10 of consensus.h which is static constant unsigned integer max blocksize is 1 million bytes. That's been in there for a number of years and hasn't budged. That's the current thing that people are focusing on. The discussion quickly becomes larger about scalabity. If each nodes create transactions and every transaction is stored by every node, that looks like a whole lot of n squared and that's not very scalable.</p>
 
 <p>So this is the problem. How do we get everyone to use bitcoin? How do we get lots of transactions? There are different solutions.</p>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Lightning Network As A Directed Graph Single Funded Channel Network Topology
 author: Thaddeus Dryja
 authorurl: /thaddeus-dryja/
 published: true
@@ -10,9 +10,9 @@ published: true
 
 <h1>Basic super quick summary of Lightning</h1>
 
-<p>I am going to re-cap lightning network real quick. The basic idea is to have channels between two nodes. A channel, from the perspective of the rest of the world, is just a 2-of-2 multisig output. You can't even tell it's multisig, you just see an address with a 3 in front of the address. Or in the case of segwit, we don't know what the addresses will look like yet, but a 32-byte address.</p>
+<p>I am going to re-cap <a href="/lightning-network-dryja/">lightning network</a> real quick. The basic idea is to have channels between two nodes. A channel, from the perspective of the rest of the world, is just a 2-of-2 multisig output. You can't even tell it's multisig, you just see an address with a 3 in front of the address. Or in the case of segwit, we don't know what the addresses will look like yet, but a 32-byte address.</p>
 
-<p>You make a channel with a counterparty. You keep updating the channel state with your counterparty. You can close cooperatively by interactively signing. You can close non-cooperatively by having these stored signatures from the previous updates. And then you can have multi-hops with HTLCs, timelock contracts. You can think of this as a connected graph of HTLCs. You can have these off-chain payments. In non-adversarial conditions, when people get along and are not jerks, you have big speed improvements. When people are being jerks (adversarial conditions), you fall under similar underlying security as the bitcoin network. You are not trusting them.</p>
+<p>You make a <a href="/scaling-bitcoin-to-billions-of-transactions-per-day-dryja/">channel</a> with a counterparty. You keep updating the channel state with your counterparty. You can close cooperatively by interactively signing. You can close non-cooperatively by having these stored signatures from the previous updates. And then you can have multi-hops with HTLCs, timelock contracts. You can think of this as a connected graph of HTLCs. You can have these off-chain payments. In non-adversarial conditions, when people get along and are not jerks, you have big speed improvements. When people are being jerks (adversarial conditions), you fall under similar underlying security as the bitcoin network. You are not trusting them.</p>
 
 <p>If you are getting along with your counterparty, you can go along much faster. And if this person is trying to take your money, they still can't. So that's great.</p>
 
