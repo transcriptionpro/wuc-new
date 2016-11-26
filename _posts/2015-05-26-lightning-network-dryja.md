@@ -8,7 +8,7 @@ published: true
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/2QH5EV_Io0E" frameborder="0" allowfullscreen></iframe></center>
 
-<p>Great to have you guys. They are going to talk about <a href="lightning-network-as-a-directed-graph-single-funded-channel-network-topology-dryja">bitcoin's scalability problems</a>. There they are.</p>
+<p>Great to have you guys. They are going to talk about <a href="/lightning-network-as-a-directed-graph-single-funded-channel-network-topology-dryja/">bitcoin's scalability problems</a>. There they are.</p>
 
 <p>Okay, hi. So yeah, I titled it solutions because that sounds more positive than talking about problems. Joseph will go after that and talk about what needs to change and the economics and things like that. Okay, so I'll start.</p>
 
