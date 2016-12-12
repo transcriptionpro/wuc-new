@@ -18,9 +18,10 @@ category: altcoin
 summary: Dash calls itself an "open sourced, privacy-centric digital currency with instant transactions." It is currently a top five cryptocurrency by market cap.
 ---
 
-<center><img src="/images/dash.png" alt="what is dashcoin" align="left"></center>
-<p><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/dash/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-<p>Dash (DASH) is a next-generation digital currency based on the Bitcoin software. Dash has solved many of the problems inherent in Bitcoin by speeding up transactions, offering enhanced financial privacy, and developing a decentralized governance and funding system. Watch the short video below for a little more information on what Dash is and how it works:</p>
+<p><center><img src="/images/dash.png" alt="what is dashcoin" align="left"></center>
+<p>Dash (DASH) is a next-generation digital currency based on the Bitcoin software.
+<p><center><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/dash/usd" style="border:none; height:250px; width: 550px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+<p>Dash has solved many of the problems inherent in Bitcoin by speeding up transactions, offering enhanced financial privacy, and developing a decentralized governance and funding system.</p>
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/0GACaNvBlwc" frameborder="0" allowfullscreen></iframe></center>
 
