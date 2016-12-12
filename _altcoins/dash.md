@@ -2,7 +2,7 @@
 title: What is Dash?
 name: Dash
 author: Trace Mayer, J.D.
-authorurl: https://www.weusecoins.com/trace-mayer-bitcoin-expert/
+authorurl: /trace-mayer-bitcoin-expert/
 published: true
 toc: 
   why: Why Choose Dash?
@@ -17,16 +17,12 @@ img: dash.png
 category: altcoin
 summary: Dash calls itself an "open sourced, privacy-centric digital currency with instant transactions." It is currently a top five cryptocurrency by market cap.
 ---
-<br />
-<img src="/images/dash.png" alt="what is dashcoin" align="left">
-<br /><br />
-<br />
 
-<p>
-Dash (DASH) is a next-generation digital currency based on the Bitcoin software. Dash has solved many of the problems inherent in Bitcoin by speeding up transactions, offering enhanced financial privacy, and developing a decentralized governance and funding system. Watch the short video below for a little more information on what Dash is and how it works:
-</p>
+<center><img src="/images/dash.png" alt="what is dashcoin" align="left"></center>
+<p><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/dash/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+<p>Dash (DASH) is a next-generation digital currency based on the Bitcoin software. Dash has solved many of the problems inherent in Bitcoin by speeding up transactions, offering enhanced financial privacy, and developing a decentralized governance and funding system. Watch the short video below for a little more information on what Dash is and how it works:</p>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0GACaNvBlwc" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/0GACaNvBlwc" frameborder="0" allowfullscreen></iframe></center>
 
 <h2 id="why">Why Choose Dash?</h2>
 
