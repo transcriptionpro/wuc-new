@@ -11,6 +11,12 @@
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
    logo: coinhouse.png
    url: http://geni.us/coinhouse
+
+ - exchange: CoinMama
+   description: CoinMama is a bitcoin broker that enables purchasing bitcoins with credit or debit cards. Fees are about 10% with limits of about $5,000 per day and $20,000 per month. After verification then bitcoins are received within a few minutes. CoinMama is available only in some US states.
+   countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk, sa, mx, asia, au, br, af
+   logo: coinmama.png
+   url: http://geni.us/coinmama
    
  - exchange: Indacoin
    description: Indacoin is a global platform enabling the quickest bitcoin purchases in more than 200 countires with a credit or debit card and <b>no registration</b>. <p>If it's the first time you use the card, you will receive a call from Indacoin with a 4-digit code, which should be entered on your order page. After that, you will have to enter a 3-digit code, which can be found on your online card statement next to the charge amount. <p>You will have the limit of $50 for the first transaction, $100 for the second transaction available after four days of the initial purchase and $500 after eight days of the first buy. The total limit for the first month will be $5,000 and then no limits at all. <p>Since your card is verified, cryptocurrency is sent automatically within ten minutes after the payment.
@@ -65,6 +71,12 @@
    countries: bg, nl
    logo: bitrush.png
    url: https://www.bitrush.nl
+
+ - exchange: BitPanda
+   description: BitPanda is an Austrian bitcoin broker that enables purchasing bitcoins with credit or debit cards. Fees are very low about 3-4% but not displayed separately.
+   countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk, sa, mx, asia, au, br, af
+   logo: bitpanda.png
+   url: http://geni.us/bitpanda
 
 ############## United Kingdom ##############  
    
