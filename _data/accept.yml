@@ -1,4 +1,9 @@
- 
+ - company: Bitaps
+   description: Bitaps provides Bitcoin processing RESTful API without registration and restrictions. API includes basic processing, affiliate and mass payments, Bitcoin smart contracts to keep distributed hot wallet and cold storage balances, standard Bitcoin ledger API, market prices and a lot of other tools for developers.
+   fees: Free / 0.0002 BTC
+   img: /images/bitaps_logo.svg 
+   url: https://bitaps.com/
+  
  - company: BitPay
    description: BitPay is the world's largest Bitcoin payment processor. It's used by major companies like Microsoft, Rakuten, and Newegg. Merchants on BitPay's starter plan can accept up to 30 transactions or $1,000 of Bitcoin payments per month for free. Larger merchants pay just 1% per transaction. 
    fees: Free / 1%
