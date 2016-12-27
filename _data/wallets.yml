@@ -57,7 +57,7 @@
  - wallet: SpectroCoin
    description: SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.  
    category: web
-   create: https://Spectrocoin.com/en/
+   create: http://geni.us/spectrocoin
    img: spectrocoin
    
 ## Mobile - Android
