@@ -54,6 +54,12 @@
    create: https://greenaddress.it/en/
    img: greenaddress
    
+ - wallet: SpectroCoin
+   description: SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.  
+   category: web
+   create: https://Spectrocoin.com/en/
+   img: spectrocoin
+   
 ## Mobile - Android
 
  - wallet: Mycelium (Android)
