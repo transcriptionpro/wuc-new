@@ -14,10 +14,12 @@ toc:
   coinbase: Coinbase Shift Card
   avoid: Services To Avoid
 ---
-<p>Bitcoin debit cards help bridge the Bitcoin world with traditional finance. By loading up a debit card with bitcoins, it becomes possible to spend bitcoins at almost any credit card accepting merchant.
+<p>Bitcoin debit cards help bridge the Bitcoin world with traditional finance and you can either buy Bitcoins with your debit card or load a debit card with bitcoins to then spend bitcoins at almost any credit card accepting merchant.
 {% include page-toc.html %}
-<p>While Bitcoin debit cards don't allow users to spend bitcoins directly, they at least allow people to store balances in bitcoin.
-<p>Since most debit card top ups only take a few seconds to confirm, bitcoin balances can be held up until the need to spend.
+<p>Buying bitcoins with a debit card is incredibly easy and we recommend <a href="http://geni.us/indacoin">Indacoin</a>.
+<p><center><a href="http://geni.us/indacoin"><img src="https://www.weusecoins.com/images/indacoin-250x250.jpg" alt="IndaCoin - Buy Bitcoins with Credit Card"/></a></center>
+<p>While Bitcoin debit cards do not allow users to spend bitcoins directly they at least allow people to store balances in bitcoin.
+<p>Since most debit card top ups only take a few seconds to confirm then bitcoin balances can be held up until the need to spend.
 
 <p><h2 id="cryptopay">Cryptopay Debit Card</h2>
 <p><center><img src="/images/cryptopay-debit-card.png" /></center>
