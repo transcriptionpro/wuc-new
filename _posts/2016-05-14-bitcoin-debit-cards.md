@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bitcoin Debit Cards
+title: How To Get A Bitcoin Debit Card
 author: WeUseCoins
 authorurl: /
-description: How to get a Bitcoin debit cards make it easy to spend bitcoins at any merchant. 
-seotitle: Five Best Bitcoin Debit Cards 
+description: The Five Best Bitcoin Debit Cards. Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
+seotitle: The Five Best Bitcoin Debit Cards - Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
 published: true
 toc: 
   cryptopay: Cryptopay VISA Debit Card
