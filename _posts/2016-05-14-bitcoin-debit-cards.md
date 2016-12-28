@@ -3,7 +3,7 @@ layout: post
 title: How To Get A Bitcoin Debit Card
 author: WeUseCoins
 authorurl: /
-description: The Five Best Bitcoin Debit Cards. Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
+description: The Five Best Bitcoin Debit Cards - Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
 seotitle: The Five Best Bitcoin Debit Cards - Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
 published: true
 toc: 
@@ -12,6 +12,7 @@ toc:
   bitpay: Bitpay VISA Debit Card
   xapo: Xapo Debit Card
   coinbase: Coinbase Shift Card
+  avoid: Services To Avoid
 ---
 <p>Bitcoin debit cards help bridge the Bitcoin world with traditional finance. By loading up a debit card with bitcoins, it becomes possible to spend bitcoins at almost any credit card accepting merchant.
 {% include page-toc.html %}
@@ -59,3 +60,9 @@ toc:
 <p><a href="https://www.shiftpayments.com/">Shift</a> was the first Bitcoin debit card available to U.S. residents. It is currently <a href="https://support.coinbase.com/customer/portal/articles/2228646">available to residents in 41 U.S. states</a>.
 <p>The Shift card connects to your Coinbase account. For each debit card purchase, it automatically withdrawals the necessary amount of bitcoins based on the dollar value of the transaction.
 <p>For now, the Shift card is completely free to use but costs $10 to purchase. Shift and Coinbase have both stated that in the future there will be transaction fees for each purchase.
+
+<p><h2 id="avoid">Services To Avoid</h2>
+<p><b>BitPlastic</b> - was among the first Bitcoin debit cards. However, they do not appear to be innovating much.
+<p>Supposedly they are TOR compatible but I get strange error messages whenever I try to use their services. <b>Perhaps I have too much cybersecurity on my computer for them!!</b>
+<p>Additionally, many websites may fail to process a card with no-name. And if you lose your card then you have lost your funds so be extra careful!
+<p><b>E-Coin/Wirexapp</b> - The signup process was extremely poor and required a phone verification. Then the account did not even function properly. So I am not sure they even offer a legitimate Bitcoin debit card at all. So just steer clear of these guys.
