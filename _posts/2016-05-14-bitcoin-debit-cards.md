@@ -56,6 +56,6 @@ toc:
 <p><h2 id="coinbase">Coinbase / Shift Card</h2>
 
 <p><center><img src="/images/shift-debit.jpg" /></center>
-<p><a href="https://www.shiftpayments.com/">Shift</a> was the first Bitcoin debit card available to U.S. residents. It is currently <a href="https://support.coinbase.com/customer/portal/articles/2228646">available to residents in 41 U.S. states.
+<p><a href="https://www.shiftpayments.com/">Shift</a> was the first Bitcoin debit card available to U.S. residents. It is currently <a href="https://support.coinbase.com/customer/portal/articles/2228646">available to residents in 41 U.S. states</a>.
 <p>The Shift card connects to your Coinbase account. For each debit card purchase, it automatically withdrawals the necessary amount of bitcoins based on the dollar value of the transaction.
 <p>For now, the Shift card is completely free to use but costs $10 to purchase. Shift and Coinbase have both stated that in the future there will be transaction fees for each purchase.
