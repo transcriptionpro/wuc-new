@@ -14,14 +14,13 @@ toc:
   coinbase: Coinbase Shift Card
 ---
 <p>Bitcoin debit cards help bridge the Bitcoin world with traditional finance. By loading up a debit card with bitcoins, it becomes possible to spend bitcoins at almost any credit card accepting merchant.
+{% include page-toc.html %}
 <p>While Bitcoin debit cards don't allow users to spend bitcoins directly, they at least allow people to store balances in bitcoin.
 <p>Since most debit card top ups only take a few seconds to confirm, bitcoin balances can be held up until the need to spend.
 
-{% include page-toc.html %}
-
-<p><h2 id="cryptopay">Cryptopay Debit Card<h2>
+<p><h2 id="cryptopay">Cryptopay Debit Card</h2>
 <p><center><img src="/images/cryptopay-debit-card.png" /></center>
-<p>The oldest and most established Bitcoin debit card, [Cryptopay's VISA card](http://geni.us/cryptopay) with over 23,000 issued. Cryptopay has made it simple for customers to spend bitcoins at millions of businesses around the world.
+<p>The oldest and most established Bitcoin debit card, <a href="http://geni.us/cryptopay">Cryptopay's VISA card</a> with over 23,000 issued. Cryptopay has made it simple for customers to spend bitcoins at millions of businesses around the world.
 <p>For purchases both online and offline, Cryptopay makes the process convenient for users and easier than ever for merchants.
 <p>There are both plastic and virtual debit cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
 <p>Costs range between €15.00, £15.00, $15.00 and €2.50, £2.50, $2.50 depending on currency, location and card limits.
