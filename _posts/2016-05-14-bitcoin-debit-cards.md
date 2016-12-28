@@ -25,7 +25,7 @@ toc:
 <p>There are both plastic and virtual debit cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
 <p>Costs range between €15.00, £15.00, $15.00 and €2.50, £2.50, $2.50 depending on currency, location and card limits.
 
-<p><h2 id="spectrocoin">SpectroCoin VISA Debit Card<h2>
+<p><h2 id="spectrocoin">SpectroCoin VISA Debit Card</h2>
 
 <p><center><img src="/images/spectrocoin-debit-card.png" /></center>
 <p><a href="http://geni.us/spectrocoin">SpectroCoin</a> offers Bitcoin prepaid cards, which can be used at any ATM around the globe or shops as an ordinary payment card.
@@ -40,20 +40,20 @@ toc:
 <p><strong>Low fees</strong> are guaranteed for SpectroCoin bitcoin debit card holders. The dollar, euro or pound denominated debit card costs 9 USD/8 EUR/6 GBP respectively. There is also <strong>no loading fee</strong>.
 <p><strong>Unlimited</strong> lifetime withdrawals and deposits to the bitcoin debit card for verified cardholders. Other limits also being high.
 
-<p><h2 id="bitpay">BitPay VISA Debit Card<h2>
+<p><h2 id="bitpay">BitPay VISA Debit Card</h2>
 
 <p><center><img src="/images/bitpay-debit.png" /></center>
 <p>Although the newest Bitcoin debit card, <a href="https://bitpay.com/visa/">BitPay's VISA card</a> is perhaps the most exciting of the bunch. It is the first Bitcoin debit card that is available to US residents from all 50 states.
 <p>BitPay's debit card costs $9.95 to order, and arrives 7-10 days after purchase. It can be used online, in-person, and also works with any ATM that works with VISA cards.
 <p>Unlike Shift's debit card (featured below), deposits lock in value in dollars. Shift's debit card spends directly from your Coinbase balance, which creates an accounting nightmare for capital gains taxes when it comes time to file. 
 
-<p><h2 id="xapo">Xapo Debit Card<h2>
+<p><h2 id="xapo">Xapo Debit Card</h2>
 
 <p><center><img src="/images/xapo-debit.jpg" /></center>
 <p><a href="https://xapo.com/card/">Xapo's debit card</a> was the first to market. It is available in most European countries, but not the United States.
 <p>The Xapo debit card costs $20 and also has an annual fee of $12. Once ordered, the card takes 10-25 days to be delivered. It debits funds directly from your Xapo web wallet.
 
-<p><h2 id="coinbase">Coinbase / Shift Card<h2>
+<p><h2 id="coinbase">Coinbase / Shift Card</h2>
 
 <p><center><img src="/images/shift-debit.jpg" /></center>
 <p><a href="https://www.shiftpayments.com/">Shift</a> was the first Bitcoin debit card available to U.S. residents. It is currently <a href="https://support.coinbase.com/customer/portal/articles/2228646">available to residents in 41 U.S. states.
