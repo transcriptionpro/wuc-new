@@ -1,11 +1,11 @@
 # Contribute Articles to We Use Coins (WUC)
 
-<p>WUC is one of the highest profile and visited websites in Bitcoin. Our video What Is Bitcoin? has had over 7.5 million views. We want WUC to be a classy resource to introduce people to the concept of crypto-currency.
+<p><a href="https://www.weusecoins.com/">WeUseCoins</a> is one of the highest profile and visited websites in Bitcoin. Our <a href="https://www.youtube.com/watch?v=Um63OQz3bjo">video</a> <a href="https://www.youtube.com/watch?v=Gc2en3nHxA4">What Is Bitcoin?</a> has had over 7.5 million views and <a href="https://www.youtube.com/watch?v=GmOzih6I1zs">What Is Bitcoin Mining?</a> has had over 2 million views. We want WUC and <a href="https://www.bitcoinmining.com/">BM</a> to be a classy resource to introduce people to the concept of crypto-currency.
 <h2>Earn Money Contributing</h2>
 <p>Due to a generous donation there is a budget for content creation. The goal is to pay about $25/hour of work for new articles. Want to earn money submitting new articles?
 <p>Follow the instructions below and submit an article. If the pull request gets merged then you will get paid $25 via bitcoins. To get paid you will need to contact Trace Mayer either in the WeUseCoins Slack (send an email request to advertising@weusecoins.com) or <a href="https://bitcoincore.slack.com/signup">Bitcoin Core Slack</a> channel (@TraceMayer). Future articles can then be assigned so you can earn more!
 <h3>Build Your Bitcoin Business</h3>
-<p>You can responsibly leverage WUC to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
+<p>You can responsibly leverage WUC to build your <a href="http://bitcoinminer.com/">Bitcoin</a> business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
 <img src="/images/optimized.png" align="center" alt="optimized"/>
 <p>
 WUC uses Github to manage version control with a fork and pull method. Watch this [video by Clay Shirky](https://www.youtube.com/watch?v=CEN4XNth61o) to understand why. <b>This means your articles and contributions should be submitted as a pull request.</b> Consequently,  If you are unfamiliar then you may need to learn how to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and how to [use pull requests](https://help.github.com/articles/using-pull-requests/) plus this [short video may be helpful](https://www.youtube.com/watch?v=YTbRzhQju4c).<p>
@@ -52,7 +52,7 @@ If you would like to work on a language where the folder structure has not been 
 
 <b>Example:</b> You want to translate to Spanish.<p>
 <ul>
-<li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary [only needed for fi, no and tl], (4) questions [FAQ] [only needed for fi, no and tl], (5) price, (6) mining guide, (7) merchant and (8) get free bitcoins.</li></ul><p>
+<li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary [only needed for fi, no and tl], (4) questions [FAQ] [only needed for fi, no and tl], (5) price, (6) <a href="">mining guide</a>, (7) merchant and (8) get free bitcoins.</li></ul><p>
 
 This order should help get useful content available most efficiently.
 
