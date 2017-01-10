@@ -33,15 +33,16 @@ third party can view its content.
 
 <p><strong>SHIVA S</strong>, CTO & FOUNDER</p>
 <p><a class="social-link" title="Shiva S" href="https://in.linkedin.com/in/shivaenigma" target="_blank">LinkedIn</a></p>
-<p><img src="/images/shiva_blockonomics.jpg" alt="Shiva S" style="float: right; margin-bottom: 20px;" />Paul is a proud Electrical Engineering and Computer Science graduate of UC Berkeley with a wide range of technical skills from low-level 3D graphics engineering to development of custom web CMS systems, even before people knew what a CMS was. He held lead engineering positions with Nvidia and Chromatic Research, but most recently owned and operated several non-technical small businesses throughout California. There he learned the importance of the intersection of people, business, and technology. Today, he aims to bring Bitcoin mainstream with software and products aimed at simplifying Bitcoin and making it insanely easy to send and secure this revolutionary currency while maintaining the highest level of privacy. When not converting people to bitcoin you’ll likely find him climbing a rock in Joshua Tree or at a local climbing gym.</p>
+<p><img src="/images/shiva_blockonomics.jpg" alt="Shiva S" style="float: right; margin-bottom: 20px;" />
+Shiva has experience of around 10 years in designing and implementing efficient distributed backend systems.
+He is a good python c/c++ developer with strong understanding  of linux / system internals and mathematics. He got interested in bitcoin as early as 2013 and dabbled in bitcoin visualization projects before venturing into blockonomics.  </p>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 
 <p><strong>SRINIVAS S</strong>, LEAD DEVELOPER</p>
 <p><a class="social-link" title="Srinivas S" href="https://in.linkedin.com/in/srinivasarao-sunkara-056a0a97" target="_blank">LinkedIn</a></p>
-<p><img src="/images/srinivas_blockonomics.jpg"  alt="Srinivas S" style="float: right; margin-bottom: 20px;" />Tim began working as a software developer in 2005 in the finance industry. In 2007, during the turbulent markets, his software and the engineering department was acquired. He continued working in the finance industry while receiving his masters in Computer Science from California State University of San Marcos, focusing on applying machine learning to problems in BioInformatics.
-In 2012, he co-founded Breadcrumbs, a mobile app to track your time and where you spend it. Breadcrumbs received awards at Uplinq 2012 conference, $50k in seed investment, and was accepted into the Qualcomm Labs EvoNexus startup incubator program in San Diego.
-Tim has no turned his interested to all things crypto. When he isn't hashing and twiddling bits, he also enjoys traveling, backpacking and playing guitar.
+<p><img src="/images/srinivas_blockonomics.jpg"  alt="Srinivas S" style="float: right; margin-bottom: 20px;" />
+Srinivas is an experienced frontend/backend developer. He has worked on medical image visualization for large scale data sets. Has done research for visualization techniques to display block chain information to the non technical people. Worked on building quick and responsive APIs for accessing block chain information.
 </p>
 
 <p><strong>PATRICK P</strong>, BUSINESS DEVELOPMENT</p>
