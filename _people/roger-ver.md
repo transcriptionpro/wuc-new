@@ -40,6 +40,8 @@ In his LinkedIn profile, [Ver claims](https://jp.linkedin.com/in/rogerver) to be
 
 ## Video
 
+<iframe width="700" height="394" src="https://www.youtube.com/embed/UP1YsMlrfF0" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="740" height="416" src="https://www.youtube.com/embed/Zm8wNqjmBwg" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="740" height="416" src="https://www.youtube.com/embed/I5clPxjrEIA" frameborder="0" allowfullscreen></iframe>
