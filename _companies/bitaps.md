@@ -1,3 +1,8 @@
+---
+title: Bitaps
+seotitle: Bitaps - About Page
+---
+
 <img align="center" alt="Bitaps.com" src="https://bitaps.com/static/img/bitaps_logo.svg">
 
 [https://bitaps.com](https://bitaps.com/)
