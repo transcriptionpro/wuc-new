@@ -12,6 +12,7 @@ toc:
   bitpay: Bitpay VISA Debit Card
   xapo: Xapo Debit Card
   coinbase: Coinbase Shift Card
+  bitwala: Bitwala VISA Debit Card
   avoid: Services To Avoid
 ---
 <p>Bitcoin debit cards help bridge the Bitcoin world with traditional finance and you can either buy Bitcoins with your debit card or load a debit card with bitcoins to then spend bitcoins at almost any credit card accepting merchant.
@@ -62,6 +63,15 @@ toc:
 <p><a href="https://www.shiftpayments.com/">Shift</a> was the first Bitcoin debit card available to U.S. residents. It is currently <a href="https://support.coinbase.com/customer/portal/articles/2228646">available to residents in 41 U.S. states</a>.
 <p>The Shift card connects to your Coinbase account. For each debit card purchase, it automatically withdrawals the necessary amount of bitcoins based on the dollar value of the transaction.
 <p>For now, the Shift card is completely free to use but costs $10 to purchase. Shift and Coinbase have both stated that in the future there will be transaction fees for each purchase.
+
+<p><h2 id="bitwala">Bitwala Visa Debit Card</h2>
+
+<p><center><img src="/images/bitwala-debit-card.jpg" /></center>
+<p><a href="https://www.bitwala.io/card/">Bitwala’s VISA debit card</a> is the most affordable bitcoin debit card on the market, both in terms of card price and the lowest, transparent fees that follow card usage.
+<p>The Bitwala debit cards are issued in both physical and virtual forms and costs €2.00. Customers can also enjoy a super low 0.5% (€1 min.) fee for card top ups using Bitcoin or Altcoins.
+<p>Denominated in Euros, the Bitwala debit card can be used to pay online and offline where VISA is accepted. Cardholders can also cash out at any ATM worldwide with the best rates and transparent fees.
+<p>Bitwala offers 2 shipping plans: Free of charge (Arrives 7-10 days after purchase, no tracking information) and express shipping that costs €69.00 (Arrives 3-5 days after purchase incl. tracking information). 
+
 
 <p><h2 id="avoid">Services To Avoid</h2>
 <p><b>BitPlastic</b> - was among the first Bitcoin debit cards. However, they do not appear to be innovating much.
