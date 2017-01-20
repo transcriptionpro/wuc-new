@@ -51,6 +51,14 @@
    countries: us
    logo: wallofcoins.png
    url: http://geni.us/localbitcoins   
+
+ - exchange: Remitano
+   description: Remitano is an escrow service that allow you to buy Bitcoin safely using Bank transfer and cash deposit.
+   countries: us, au, in, pk, vn, my, ng, kh, cn, ru
+   logo: remitano.png
+   url: http://remitano.com/
+   description_sa: Remitano offer friendly UI and no hidden fee. What you see is what you get.
+   getting_started: yes
  
 ############## Europe ##############  
    
