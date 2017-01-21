@@ -9,13 +9,12 @@ toc:
   lead: "Lead To Bitcoin Adoption"
   switzerland: "Adoption In Switzerland"
 ---
-{% include page-toc.html %}
 
 <center><img src="/images/banning-wont-stop-bitcoin-adoption/adoption-worldwide.jpg" alt="adoption worldwide" /></center>
 
 <p>Needham & Company LLC on Thursday released a note for investors which entitled ‘Economic and Financial Turmoil Driving Bitcoin Interest & Adoption’. The note actually tackles about variety of signs and indicators that would push forward the increase of bitcoin adoption, namely capital controls, demonetization, hyperinflation as well as bitcoin bans.
 <p>On first stages, some factors do have negative effect but Needham considered the possibility that they will ultimately drive <a href="/rich-famous-bitcoin/">bitcoin interest</a> and adoption in the long run.</p>
-
+{% include page-toc.html %}
 <p>The company acted as lead or co-manager in over 785 public offerings which made them a nationally recognized investment banking and asset management firm focused solely on growth companies and <a href="/confidential-transactions/">confidential transactions</a>.</p>
 
 <h3 id="banning">Banning Bitcoin Does Not Produce Results</h3>
