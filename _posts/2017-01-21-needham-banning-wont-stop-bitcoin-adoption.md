@@ -8,6 +8,7 @@ toc:
   banning: "Banning Bitcoin"
   lead: "Lead To Bitcoin Adoption"
   switzerland: "Adoption In Switzerland"
+  africa: "How To Buy Bitcoins in Africa"
 ---
 
 <center><img src="/images/banning-wont-stop-bitcoin-adoption/adoption-worldwide.jpg" alt="adoption worldwide" /></center>
@@ -57,3 +58,6 @@ toc:
 <p>Switzerland is one of those countries that have embraced <a href="/bitcoin-trading/">bitcoin trading</a>  while some countries have opted to ban it. They have already added the ability to buy bitcoin at any of the National Swiss Railway ticket kiosks, of which there are over a switzerlandthousand spread around the country. Paying utilities with bitcoin is also possible in the Swiss town Zug. Hence, the country is also reportedly developing a potential licensing of “crypto-banks” which would “create a new category of financial institutions that are able to handle cryptocurrencies such as Bitcoin,” Bogart described.</p>
 
 <p>According to the note, United States followed 20 other countries in bitcoin interest as revealed by bitcoin’s share of internet search queries. “While much of the initial venture activity and interest in bitcoin came from within the United States, international interest has surged,” the note reads. Caracas (Venezuela), Kuala Lumpur (Malaysia), Sandton (South Africa), and Lagos (Nigeria) all exceed the interest from San Francisco and New York, the note revealed.</p>
+
+<h2 id="africa">How To Buy Bitcoins in Africa</h2>
+{% include buy-list-checker.html country="af" %}
