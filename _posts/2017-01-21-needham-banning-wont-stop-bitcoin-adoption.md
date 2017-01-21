@@ -8,7 +8,7 @@ toc:
   banning: "Banning Bitcoin"
   lead: "Lead To Bitcoin Adoption"
   switzerland: "Adoption In Switzerland"
-  africa: "Africa"
+  africa: "How To Buy Bitcoins in Africa"
 ---
 {% include page-toc.html %}
 
@@ -60,5 +60,5 @@ toc:
 
 <p>According to the note, United States followed 20 other countries in bitcoin interest as revealed by bitcoin’s share of internet search queries. “While much of the initial venture activity and interest in bitcoin came from within the United States, international interest has surged,” the note reads. Caracas (Venezuela), Kuala Lumpur (Malaysia), Sandton (South Africa), and Lagos (Nigeria) all exceed the interest from San Francisco and New York, the note revealed.</p>
 
-<h2 id="africa">Buy Bitcoins in Africa</h2>
+<h2 id="africa">How To Buy Bitcoins in Africa</h2>
 {% include buy-list-checker.html country="af" %}
