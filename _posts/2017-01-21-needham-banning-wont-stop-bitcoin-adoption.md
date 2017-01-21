@@ -39,13 +39,15 @@ published: true
 
 <p>Bogart explained that an example for that is India which banned large bills last November and bitcoin’s interest, based on internet search volume and well as trading volume, surged and bitcoin usage has tripled since the ban.</p>
 
-<p>Among those reasons that may lead to bitcoin adoption discussed  in the note are capital controls, demonetization, and hyperinflation across several countries which Bogart claimed are India propelling bitcoin’s rising interest and adoption worldwide.</p>
+<p>Among those reasons that may lead to bitcoin adoption discussed in the note are capital controls, demonetization, and hyperinflation across several countries which Bogart claimed are India propelling bitcoin’s rising interest and adoption worldwide.</p>
 
 <p>Bogart explained that an example for that is India which banned large bills last November and bitcoin’s interest, based on internet search volume and well as <a href="/bitcoin-trading-with-binary-options/">bitcoin trading</a> volume, surged and bitcoin usage has tripled since the ban.</p>
 
 <p>In Nigeria, the rate of inflation has nearly doubled over the past year to 19% which is accompanied by “a rapid increase in search interest for Bitcoin within the country,” he said, adding that in Venezuela the hyperinflation (180%+) problem has been plaguing the economy and it is “driving a surge in Bitcoin interest and trading volume.” Overall, he concluded that:</p>
 
 <blockquote>"Driving global interest in bitcoin is also because of interference in the storage and flow of capital is driving global interest in bitcoin."</blockquote>
+
+<h3>Bitcoin Adoption In Switzerland</h3>
 
 <center><img src="/images/banning-wont-stop-bitcoin-adoption/switzerland-bitcoin-adoption.jpg" alt="switzerland-bitcoin-adoption" /></center>
 <p>Switzerland is one of those countries that have embraced <a href="/bitcoin-trading/">bitcoin trading</a>  while some countries have opted to ban it. They have already added the ability to buy bitcoin at any of the National Swiss Railway ticket kiosks, of which there are over a switzerlandthousand spread around the country. Paying utilities with bitcoin is also possible in the Swiss town Zug. Hence, the country is also reportedly developing a potential licensing of “crypto-banks” which would “create a new category of financial institutions that are able to handle cryptocurrencies such as Bitcoin,” Bogart described.</p>
