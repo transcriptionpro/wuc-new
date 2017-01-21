@@ -4,7 +4,12 @@ title: Needham Says Banning Wont Stop Bitcoin Adoption
 author: WeUseCoins
 authorurl: /
 published: true
+toc:
+  banning: "Banning Bitcoin"
+  lead: "Lead To Bitcoin Adoption"
+  switzerland: "Adoption In Switzerland"
 ---
+{% include page-toc.html %}
 
 <center><img src="/images/banning-wont-stop-bitcoin-adoption/adoption-worldwide.jpg" alt="adoption worldwide" /></center>
 
@@ -13,7 +18,7 @@ published: true
 
 <p>The company acted as lead or co-manager in over 785 public offerings which made them a nationally recognized investment banking and asset management firm focused solely on growth companies and <a href="/confidential-transactions/">confidential transactions</a>.</p>
 
-<h3>Banning Bitcoin Does Not Produce Results</h3>
+<h3 id="banning">Banning Bitcoin Does Not Produce Results</h3>
 
 <p>Needham analyst and author Spencer Bogart explained that some countries will inevitably ban or place onerous regulation on Bitcoin.</p>
 
@@ -31,7 +36,7 @@ published: true
 
 <p>The tremendous response Bogart describes on those countries where bitcoin has been outlawed is actually well explain by the Streisand effect, which states that censorship often has unintended consequences, and those who are censored from information will be likely to seek it out even more vigorously than before on <a href="/why-use-bitcoin/">using bitcoin</a>.</p>
 
-<h3>Some Other Reasons That May Lead To Bitcoin Adoption</h3>
+<h3 id="lead">Some Other Reasons That May Lead To Bitcoin Adoption</h3>
 
 <p>Among those reasons that may lead to bitcoin adoption discussed  in the note are capital controls, demonetization, and hyperinflation across several countries which Bogart claimed are  India propelling bitcoin’s rising interest and adoption worldwide.</p>
 
@@ -47,7 +52,7 @@ published: true
 
 <blockquote>"Driving global interest in bitcoin is also because of interference in the storage and flow of capital is driving global interest in bitcoin."</blockquote>
 
-<h3>Bitcoin Adoption In Switzerland</h3>
+<h3 id="switzerland">Bitcoin Adoption In Switzerland</h3>
 
 <center><img src="/images/banning-wont-stop-bitcoin-adoption/switzerland-bitcoin-adoption.jpg" alt="switzerland-bitcoin-adoption" /></center>
 <p>Switzerland is one of those countries that have embraced <a href="/bitcoin-trading/">bitcoin trading</a>  while some countries have opted to ban it. They have already added the ability to buy bitcoin at any of the National Swiss Railway ticket kiosks, of which there are over a switzerlandthousand spread around the country. Paying utilities with bitcoin is also possible in the Swiss town Zug. Hence, the country is also reportedly developing a potential licensing of “crypto-banks” which would “create a new category of financial institutions that are able to handle cryptocurrencies such as Bitcoin,” Bogart described.</p>
