@@ -12,7 +12,7 @@ twitter: bitcoinminer
 github: 
 residence: 
 cats: [ ]
-website: https://www.weusecoins.com/melvin-draupnir/
+website: 
 ---
 Melvin Draupnir is a cryptocurrency journalist.  
 
