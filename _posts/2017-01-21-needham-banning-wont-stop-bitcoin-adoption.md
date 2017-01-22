@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Needham Says Banning Wont Stop Bitcoin Adoption
-author: WeUseCoins
-authorurl: /
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 published: true
 toc:
   banning: "Banning Bitcoin"

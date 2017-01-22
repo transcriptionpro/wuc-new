@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Using Bitcoin and PayPal To Fund Online Casinos
-author: WeUseCoins
-authorurl: /
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How To Use A Bitcoin Hardware Wallet - Ledger Nano S
-author: WeUseCoins
-authorurl: /
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 published: true
 ---
 

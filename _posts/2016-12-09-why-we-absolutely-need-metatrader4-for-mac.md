@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Why We Absolutely Need MetaTrader 4 For Mac
-author: MetaTrader 4
-authorurl: /
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 published: true
 ---
 
