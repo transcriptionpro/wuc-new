@@ -2,21 +2,21 @@
 layout: post
 title: Tumbling Bitcoins Is A Path Through the Rinse Cycle
 author: Melvin Draupnir
-authorurl: https://www.weusecoins.com/melvin-draupnir/
+authorurl: /melvin-draupnir/
 published: true
 ---
 
 <center><img src="/images/tumbling-bitcoins-is-a-path-through-the-rinse-cycle/tumbling-bitcoins-a-guide-through-rinse-cycle-image.jpg" alt="tumbling bitcoins a guide through rinse cycle" /></center>
 
-<p>Due to their government's restrictions and strong disagreements in a type of exchange that Bitcoin can, privacy is a must to a lot of people using it for <a href="https://www.weusecoins.com/confidential-transactions/">confidential transactions</a>. Some speculation says certain Bitcoin-related businesses may blacklist you due to using gambling sites. You can find in this article what are those few pointers on the variety of techniques of tumbling Bitcoin by sending satoshis through the laundry.</p>
+<p>Due to their government's restrictions and strong disagreements in a type of exchange that Bitcoin can, privacy is a must to a lot of people using it for <a href="/confidential-transactions/">confidential transactions</a>. Some speculation says certain Bitcoin-related businesses may blacklist you due to using gambling sites. You can find in this article what are those few pointers on the variety of techniques of tumbling Bitcoin by sending satoshis through the laundry.</p>
 
 <h2>Why Tumble Bitcoins?</h2>
 
 <p>Complaints on forums about Coinbase arouse recently after using gambling sites, which already been  experienced a few years ago. It is clearly stated in Coinbase's user agreement that gambling sites are not acceptable. And to those who visited marketplaces and uses the Dark Net, which is not only frowned upon by some Bitcoin service providers, but also puts these users at risk of jail time and criminal penalty.</p>
 
-<p>There should be an extra safety measure when using Dark Net Markets (DNM) and visiting gambling sites by staying anonymous on a transparent and public blockchain. One can use by obfuscating their IP address, using a VPN, and surfing the net with an anonymizing browser in order to <a href="https://www.weusecoins.com/how-use-bitcoin-anonymously/">implement bitcoin anonymity</a>.</p>
+<p>There should be an extra safety measure when using Dark Net Markets (DNM) and visiting gambling sites by staying anonymous on a transparent and public blockchain. One can use by obfuscating their IP address, using a VPN, and surfing the net with an anonymizing browser in order to <a href="/how-use-bitcoin-anonymously/">implement bitcoin anonymity</a>.</p>
 
-<p>On the other hand, we will be discussing another <a href="https://www.weusecoins.com/bitcoin-privacy-technologies-zerocash-confidential-transactions/">bitcoin method of privacy</a> called coin tumbling, coinjoin, or coin shuffling today. Although some altcoins practice this natively within every transaction, we will focus on using tumblers with Bitcoin.</p>
+<p>On the other hand, we will be discussing another <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">bitcoin method of privacy</a> called coin tumbling, coinjoin, or coin shuffling today. Although some altcoins practice this natively within every transaction, we will focus on using tumblers with Bitcoin.</p>
 
 <p>Coin tumbling platforms basically shuffle a bunch of transactions together like a deck of cards where eventually everyone gets the money back while obfuscating the origin of the funds.</p>
 
@@ -48,8 +48,8 @@ published: true
 
 <p>Monero uses what’s called ring signatures which shuffle tokens in an entirely different manner, while Dash uses a coin-mixing method based on the CoinJoin protocol. But even the privacy-centric altcoins are not perfect and very admired mixing services for Bitcoin like JoinMarket have been known to be susceptible.</p>
 
-<p>Together with these platforms, other people have been using <a href="https://www.weusecoins.com/bitcoin-vpns/">bitcoin VPN</a> or Virtual Private Network to protect privacy and hopping or splitting funds among addresses. There's a report recently according to some software creators that a tracking service called BitCluster, can track user activity if all funds are sent to one address, even after tumbling.</p>
+<p>Together with these platforms, other people have been using <a href="/bitcoin-vpns/">bitcoin VPN</a> or Virtual Private Network to protect privacy and hopping or splitting funds among addresses. There's a report recently according to some software creators that a tracking service called BitCluster, can track user activity if all funds are sent to one address, even after tumbling.</p>
 
 <p>At the same time, Bitcoin tracking services are becoming more prevalent these days as companies like Elliptic and Chainalysis are building protocol that monitors the Bitcoin blockchain for illegal activities.</p>
 
-<p>WeUseCoins.com supports privacy and believes users should take precautions when using Bitcoin on DNMs or gambling platforms. Please perform due diligence and research prior to using any of the above-mentioned methods for mixing Bitcoins.</p>
+<p>Privacy is important and users should take precautions when using Bitcoin on DNMs or gambling platforms. Please perform due diligence and research prior to using any of the above-mentioned methods for mixing Bitcoins.</p>
