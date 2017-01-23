@@ -48,6 +48,6 @@ published: true
 
 <p>Most all of these services that ensure privacy and security use passphrases, mnemonic seeds, and PIN numbers to gain access. Backing up these details, so they don’t get lost or forgotten is a good idea. Users should keep copies of handwritten passwords and manage their entry data in a secure location typically offline. If a hardware wallets seed is lost or an account password is forgotten, sometimes people can be totally locked out from their accounts. There is a lot of debate over whether or not password managers are secure and if this type of application is used as a back a user should research with due diligence.</p>
 
-<p>With Research Privacy and Security Can Be Obtained Within the Online World</p>
+<h2>With Research Privacy and Security Can Be Obtained Within the Online World</h2>
 
 <p>There are many more methods of privacy and protection that can be used online and with cryptocurrencies. Researching and practicing these techniques will help ensure your digital footprint will not be tracked or attacked in an unfortunate way. There are many types of entities who find your digital data valuable. This means quite a bit of online experiences are manipulated in order to obtain your credentials and information. However protecting yourself from nosy governments and hackers looking to liquidate your wealth can be achieved.</p>
