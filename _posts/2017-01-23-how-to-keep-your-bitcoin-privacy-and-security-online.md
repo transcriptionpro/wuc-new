@@ -6,7 +6,7 @@ authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 ---
 
-<p><center><img src="images/how-tokeep-your-bitcoin-privacy-and-security-online/bitcoin-privacy-and-security-online-image.jpg" alt="Bitcoin Privacy And Security Online"/></center>
+<p><center><img src="/images/how-tokeep-your-bitcoin-privacy-and-security-online/bitcoin-privacy-and-security-online-image.jpg" alt="Bitcoin Privacy And Security Online"/></center>
 
 <p>In this day and age <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">online privacy and protecting digital data</a> is a pretty big deal. Privacy applies to bitcoin users even more so because they are storing wealth in the digital realm. Governments, hackers, and non-state actors are compromising global citizens private data daily, but there are many steps one can take to protect oneself.</p>
 
@@ -40,7 +40,7 @@ published: true
 
 <h2>Multi-factor authentication (MFA) and Two-factor authentication (2FA)</h2>
 
-<p><center><img src="images/how-tokeep-your-bitcoin-privacy-and-security-online/two-factor-authentication-2fa-image.jpg" alt="Two Factor Authentication 2FA"/></center>
+<p><center><img src="/images/how-tokeep-your-bitcoin-privacy-and-security-online/two-factor-authentication-2fa-image.jpg" alt="Two Factor Authentication 2FA"/></center>
 
 <p>MFA and 2FA are typical standard practices for most bitcoin users. The method confirms the identity of a user by using multiple verifications. Google Authenticator and Authy are well-known services that offer multiple validations. Bitcoin companies like <a href="/segregated-witness/">exchanges and wallet services</a> also offer SMS codes to use as 2FA to access their services. Adding MFA and 2FA features to bitcoin applications and accounts is highly recommended. Additionally securing your email that is tethered to an account also protects from malicious social engineering to accounts linked to your email.</p>
 
