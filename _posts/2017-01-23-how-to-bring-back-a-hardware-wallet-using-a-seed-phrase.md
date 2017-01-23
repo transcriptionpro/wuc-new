@@ -2,7 +2,7 @@
 layout: post
 title: How to Bring Back a Hardware Wallet Using a Seed Phrase
 author: Melvin Draupnir
-authorurl: https://www.weusecoins.com/melvin-draupnir/
+authorurl: /melvin-draupnir/
 published: true
 ---
 
