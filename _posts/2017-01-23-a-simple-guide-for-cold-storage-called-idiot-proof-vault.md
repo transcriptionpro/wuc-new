@@ -41,10 +41,10 @@ published: true
 
 <h2>Let’s Review:</h2>
 
-<p>&nbsp;<strong>1.</strong> Visit a paper wallet bitcoin address generator</p>
-<p>&nbsp;<strong>2.</strong> Generate random keys by moving the mouse or typing on your keyboard</p>
-<p>&nbsp;<strong>3.</strong> After the bitcoin public / private keys are created you can then print</p>
-<p>&nbsp;<strong>4.</strong> Add BIP38 passphrase (optional), load public address with bitcoins, store private key in a secure location</p>
-<p>&nbsp;<strong>5.</strong> Store your savings offline or give some bitcoin cash to friends!</p>
+<p><strong>1.</strong> Visit a paper wallet bitcoin address generator</p>
+<p><strong>2.</strong> Generate random keys by moving the mouse or typing on your keyboard</p>
+<p><strong>3.</strong> After the bitcoin public / private keys are created you can then print</p>
+<p><strong>4.</strong> Add BIP38 passphrase (optional), load public address with bitcoins, store private key in a secure location</p>
+<p><strong>5.</strong> Store your savings offline or give some bitcoin cash to friends!</p>
 
 
