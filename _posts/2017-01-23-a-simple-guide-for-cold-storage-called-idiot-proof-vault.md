@@ -2,7 +2,7 @@
 layout: post
 title: A Simple Guide For Cold Storage Called Idiot Proof Vault
 author: Jamie Redman
-authorurl: https://www.weusecoins.com/jamie-redman/
+authorurl: /jamie-redman/
 published: true
 ---
 <p><center><img src="/images/a-simple-guide-for-cold-storage-called-idiot-proof-vault/idiot-proof-vault.jpg" alt="idiot proof vault"/></center></p>
