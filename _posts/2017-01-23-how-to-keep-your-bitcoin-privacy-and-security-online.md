@@ -2,7 +2,7 @@
 layout: post
 title: How To Keep Your Bitcoin Privacy and Security Online
 author: Melvin Draupnir
-authorurl: https://www.weusecoins.com/melvin-draupnir/
+authorurl: /melvin-draupnir/
 published: true
 ---
 
