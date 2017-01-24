@@ -70,7 +70,7 @@ published: true
  
 <p><strong>5.</strong>Click Cardless ATM Instant Payout (24/7) and then eGiveCash.</p>
 
-<p><center><img src="/images/bc-1--5.png" alt=""/></center></p>
+<p><center><img src="/images/bc-1-5.png" alt=""/></center></p>
 
 <p><center><img src="/images/bc-1-5-2.png" alt=""/></center></p>
 
@@ -90,7 +90,7 @@ published: true
 
 <p><center><img src="/images/bc-1-7.jpg" alt=""/></center></p>
 
-<p><center><img src="/images/bc-1-7-2.png" alt=""/></center></p>
+<p><center><img src="/images/bc-1-7-2.jpg" alt=""/></center></p>
 
 <p>You will also receive an <strong>SMS with a 16-digit number and an email with a 4-digit passcode</strong>.</p>
 
