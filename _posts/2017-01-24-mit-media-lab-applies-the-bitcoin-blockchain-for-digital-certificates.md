@@ -18,7 +18,7 @@ published: true
 
 <blockquote><strong>“One important takeaway for us has been that the blockchain is a lot more complicated than most people make it out to be. Building applications on top of it–which is what we did–is getting easier, but there are still very few people who deeply understand its inner workings (and we don’t consider ourselves part of that group).” 
 <p></p>
-“The blockchain is not a simple solution that will fix everything that is wrong with today’s credentials. But it does offer some possibilities for improving the system we have today–and that’s what we are excited to explore.”<strong></blockquote>
+“The blockchain is not a simple solution that will fix everything that is wrong with today’s credentials. But it does offer some possibilities for improving the system we have today–and that’s what we are excited to explore.”</strong></blockquote>
 
 <p>Links to the source code and discussions about the project can be seen here and the team says the certificate architecture is “fairly simple.” The digital certificates framework includes the following repositories Cert-schema, Cert-issuer, and Cert-viewer which work together to broadcast the <a href="/delaware-considers-using-blockchain/">data into the Bitcoin blockchain</a>. </p>
 
@@ -30,7 +30,7 @@ published: true
 
 <blockquote><strong>“Some of our colleagues at MIT are working on systems that will provide more sophisticated ways of managing private data, but these are still in the early development stages. In our current solution, we try to balance obfuscation with usability so that institutions or learners that lack advanced technical sophistication will not be prevented from using the credentials. ”
 <p></p>
-“We do this by hashing the certificate and only placing the hash on the blockchain. If someone wants to verify the validity of a certificate, they need the learner to disclose both the certificate itself and where the hash of the certificate is located on the blockchain.”<strong></blockquote>
+“We do this by hashing the certificate and only placing the hash on the blockchain. If someone wants to verify the validity of a certificate, they need the learner to disclose both the certificate itself and where the hash of the certificate is located on the blockchain.”</strong></blockquote>
 
 <p>The right to curation is an important measure to the authors for people who like to pick and choose what certificates they would like to be publicized. The group says it is entirely up to the curator on how much they would like to share about themselves. For instance with the MIT blockchain verified certification an educator may want to look at a student’s academic records. </p>
 
