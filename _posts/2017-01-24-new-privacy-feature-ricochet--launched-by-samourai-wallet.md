@@ -2,7 +2,7 @@
 layout: post
 title: New Privacy Feature Ricochet  Launched By Samourai Wallet
 author: Jamie Redman
-authorurl: https://www.weusecoins.com/jamie-redman/
+authorurl: /jamie-redman/
 published: true
 ---
 
