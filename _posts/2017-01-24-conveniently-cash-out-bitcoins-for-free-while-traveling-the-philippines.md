@@ -48,7 +48,7 @@ published: true
 
 <p><strong>1.</strong>Swipe to the left to view the Bitcoin Wallet and click Receive.</p>
 
-<p><center><img src="/images/bc-1-1.png" alt=""/></center></p>
+<p><center><img src="/images/bc-1-1.PNG" alt=""/></center></p>
 
 <p><strong>2.</strong>Send bitcoins to the given wallet address.</p>
 
@@ -66,11 +66,11 @@ published: true
  
 <p><strong>4.</strong>Click Cash Out at the bottom navigation bar.</p>
  
-<p><center><img src="/images/bc-1-4.png" alt=""/></center></p>
+<p><center><img src="/images/bc-1-4.PNG" alt=""/></center></p>
  
 <p><strong>5.</strong>Click Cardless ATM Instant Payout (24/7) and then eGiveCash.</p>
 
-<p><center><img src="/images/bc-1-5.png" alt=""/></center></p>
+<p><center><img src="/images/bc-1-5.PNG" alt=""/></center></p>
 
 <p><center><img src="/images/bc-1-5-2.png" alt=""/></center></p>
 
@@ -78,7 +78,7 @@ published: true
   
 <p>The <strong>minimum is 500 pesos</strong>, the maximum depends on your verification level.</p>
 
-<p><center><img src="/images/bc-1-6.png" alt=""/></center></p>
+<p><center><img src="/images/bc-1-6.PNG" alt=""/></center></p>
 
 <p>Next, you'll be prompted to type in a receiver's (yours) information such as name, phone number, and email.</p>
 
@@ -115,8 +115,6 @@ published: true
 <p><strong>3.</strong>Type in the 16-digit eGC number followed by the 4-digit passcode.</p>
 
 <p><strong>4.</strong>Confirm the transaction and walk away with your pesos.</p>
-
-<p><center><img src="/images/.jpg" alt=""/></center></p>
 
 <p>I was very pleasantly surprised with the service.</p>
 
