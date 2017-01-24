@@ -7,11 +7,7 @@ published: true
 ---
 
 <p>Can the <a href="/en/bitcoin-price/">price of Bitcoin</a> reach two thousand dollars, ten thousand, or more?
-<p><center>
 <p>What is the current price of Bitcoin today?
-    <div id="btc-quote"></div>
-    <script type="text/javascript" src="https://www.weusecoins.com/embed.js"><script>
-</center>
 <p>Even if you consider the blockchain as the fundamental innovation of Bitcoin, the Bitcoin price matters, and indeed, the higher the Bitcoin price, the more Bitcoin is protected from nefarious actors.
 <p>In this video we focus on the Bitcoin price, specifically in the attempt to model the future price of Bitcoin.
 <p>Big investors make price models for assets but the trouble is they keep this information private.
