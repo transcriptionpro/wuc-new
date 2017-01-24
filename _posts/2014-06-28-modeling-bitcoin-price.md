@@ -7,6 +7,7 @@ published: true
 ---
 
 <p>Can the <a href="/en/bitcoin-price/">price of Bitcoin</a> reach two thousand dollars, ten thousand, or more?
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/g2nXgK34HIM" frameborder="0" allowfullscreen></iframe></center>
 <p>What is the current price of Bitcoin today?
 <p>Even if you consider the blockchain as the fundamental innovation of Bitcoin, the Bitcoin price matters, and indeed, the higher the Bitcoin price, the more Bitcoin is protected from nefarious actors.
 <p>In this video we focus on the Bitcoin price, specifically in the attempt to model the future price of Bitcoin.
@@ -16,8 +17,6 @@ published: true
 <p>In this video, James D'Angelo walks you through the concepts and challenges of modeling the future price of Bitcoin.
 <p>From velocity, transaction volume, supply, to all the big markets Bitcoin proposes to disrupt (hedge funds, gold, e-commerce, money supply, remittances etc).
 <p>Better still we walk you through the alpha version of our open-source model.
-
-<center><iframe width="700" height="394" src="https://www.youtube.com/embed/g2nXgK34HIM" frameborder="0" allowfullscreen></iframe></center>
 
 ### Transcript
 <p>Hello, this is James D'Angelo and welcome to the Bitcoin 101 Blackboard Series.  Today we're going to be looking at modeling the price of Bitcoin.  Specifically, we're going to be looking at trying to answer the question, could there be a 50,000, 100,000 or million dollar Bitcoin?  And when you go to model Bitcoin clearly it's important to realize that you cannot model Bitcoin accurately.  You will come up with no models that will predict the exact price of Bitcoin.  That's just plain impossible.  But models are really great for building understanding and indeed we've built a model that we're going to show you in a few minutes that really does help understanding how all these different variables might affect the price of Bitcoin.
