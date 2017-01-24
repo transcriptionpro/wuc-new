@@ -15,6 +15,7 @@ published: true
 <p>Even if you consider the blockchain as the fundamental innovation of Bitcoin, the Bitcoin price matters, and indeed, the higher the Bitcoin price, the more Bitcoin is protected from nefarious actors.
 <p>In this video we focus on the Bitcoin price, specifically in the attempt to model the future price of Bitcoin.
 <p>Big investors make price models for assets but the trouble is they keep this information private.
+<p>Will the Bitcoin price go up? How high will Bitcoin go if it does? These are all questions for speculators.
 <p>Models may not predict the future Bitcoin price, but the certainly provide a better understanding.
 <p>In this video, James D'Angelo walks you through the concepts and challenges of modeling the future price of Bitcoin.
 <p>From velocity, transaction volume, supply, to all the big markets Bitcoin proposes to disrupt (hedge funds, gold, e-commerce, money supply, remittances etc).
