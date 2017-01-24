@@ -22,6 +22,8 @@ Having worked with many executives and innovators within this industry he contin
 ## Links
 
 * Redmemes Co-Founder and Director Jamie Redman discuses [Idiot Proof Vault](/a-simple-guide-for-cold-storage-called-idiot-proof-vault/)
+* Redmemes Co-Founder and Director Jamie Redman tackles about [Libertarian Statements Of Satoshi](/the-libertarian-statements-of-satoshi-from-the-past-still-matters/)
+* Redmemes Co-Founder and Director Jamie Redman discuses [Bitcoin Blockchain For Digital Certificates](/mit-media-lab-applies-the-bitcoin-blockchain-for-digital-certificates/)
 
 ## Quotes
 
