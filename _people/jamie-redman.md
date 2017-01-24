@@ -7,7 +7,7 @@ education:
 experience:
 short_desc: Jamie Redman is the Co-Founder and Director at Redmemes.  
 long_desc:
-affiliations: Coin Gecko, Bitcoinist, Brave New Coin, 99 Bitcoins
+affiliations: [Coin Gecko, Bitcoinist, Brave New Coin, 99 Bitcoins]
 twitter:
 github:
 residence:
