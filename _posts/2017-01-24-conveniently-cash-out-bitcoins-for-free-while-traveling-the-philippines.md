@@ -46,11 +46,11 @@ published: true
 
 <p>Make sure to have <strong>at least 500 pesos</strong> worth of bitcoins which in the time of writing is around 0.012BTC.</p>
 
-<p><strong>1.</strong>Swipe to the left to view the Bitcoin Wallet and click Receive.</p>
+<p><strong>1.</strong> Swipe to the left to view the Bitcoin Wallet and click Receive.</p>
 
 <p><center><img src="/images/bc-1-1.PNG" alt=""/></center></p>
 
-<p><strong>2.</strong>Send bitcoins to the given wallet address.</p>
+<p><strong>2.</strong> Send bitcoins to the given wallet address.</p>
 
 <p>If you use breadwallet it will automatically offer to send bitcoins to a copied address.</p>
 
@@ -58,23 +58,23 @@ published: true
 
 <p>Coins.ph considers a transaction <strong>valid after 3 confirmations</strong> so you should have your <strong>funds ready within 30 minutes</strong>.</p>
 
-<p><strong>3.</strong>Go back to your Bitcoin Wallet and click Convert to <strong>sell your bitcoins</strong> for Filipino Pesos.</p>
+<p><strong>3.</strong> Go back to your Bitcoin Wallet and click Convert to <strong>sell your bitcoins</strong> for Filipino Pesos.</p>
 
 <p><center><img src="/images/bc-1-3.jpg" alt=""/></center></p>
 
 <p>This will fund your Peso Wallet, so swipe right to see the main screen.</p>
  
-<p><strong>4.</strong>Click Cash Out at the bottom navigation bar.</p>
+<p><strong>4.</strong> Click Cash Out at the bottom navigation bar.</p>
  
 <p><center><img src="/images/bc-1-4.PNG" alt=""/></center></p>
  
-<p><strong>5.</strong>Click Cardless ATM Instant Payout (24/7) and then eGiveCash.</p>
+<p><strong>5.</strong> Click Cardless ATM Instant Payout (24/7) and then eGiveCash.</p>
 
 <p><center><img src="/images/bc-1-5.PNG" alt=""/></center></p>
 
 <p><center><img src="/images/bc-1-5-2.png" alt=""/></center></p>
 
-<p><strong>6.</strong>Type in the amount in pesos that you want to cash out.</p>
+<p><strong>6.</strong> Type in the amount in pesos that you want to cash out.</p>
   
 <p>The <strong>minimum is 500 pesos</strong>, the maximum depends on your verification level.</p>
 
@@ -86,7 +86,7 @@ published: true
 
 <p>I used a <strong>SIM card from Globe network</strong> which you can get in almost every store for 40 pesos (or free at main airports).</p>
 
-<p><strong>7.</strong>After filling out the form you'll be taken to a summary page.</p>
+<p><strong>7.</strong> After filling out the form you'll be taken to a summary page.</p>
 
 <p><center><img src="/images/bc-1-7.jpg" alt=""/></center></p>
 
@@ -106,15 +106,15 @@ published: true
 
 <p>The process is however very easy:</p>
 
-<p><strong>1.</strong>Find the nearest Security Bank ATM in your area.</p>
+<p><strong>1.</strong> Find the nearest Security Bank ATM in your area.</p>
 
 <p><center><img src="/images/bc-2-1.jpg" alt=""/></center></p>
 
-<p><strong>2.</strong>Press Enter to activate the ATM menu and click EGIVECASH CASH-OUT.</p>
+<p><strong>2.</strong> Press Enter to activate the ATM menu and click EGIVECASH CASH-OUT.</p>
 
-<p><strong>3.</strong>Type in the 16-digit eGC number followed by the 4-digit passcode.</p>
+<p><strong>3.</strong> Type in the 16-digit eGC number followed by the 4-digit passcode.</p>
 
-<p><strong>4.</strong>Confirm the transaction and walk away with your pesos.</p>
+<p><strong>4.</strong> Confirm the transaction and walk away with your pesos.</p>
 
 <p>I was very pleasantly surprised with the service.</p>
 
