@@ -6,7 +6,7 @@ authorurl: /jamie-redman/
 published: true
 ---
 
-<p><center><img src="/images/new-privacy-feature-ricochet--launched-by-samourai-wallet.jpg" alt="samourai-wallet"/></center></p>
+<p><center><img src="/images/new-privacy-feature-ricochet-launched-by-samourai-wallet.jpg" alt="samourai-wallet"/></center></p>
 
 <p>The developers of the privacy-centric bitcoin wallet, Samourai, have announced a new feature that claims to “improve fungibility and frustrate blockchain spies.”</p>
 
@@ -34,7 +34,7 @@ Samourai Hopes to Curb the Growing Environment of Blockchain Spying
 
 <p>Ricochet collects the inputs and miner fees needed for the transaction, and the user also pays 0.001 BTC to Samourai to process the ricocheted transaction. Each hop transaction maintains one input and one output with the final transaction. The team explains the process does not eliminate blacklisting entirely but “fungibility is preserved by moving funds to an address out of the line-of-sight of ill-intentioned actors.”</p>
 
-<p><center><img src="/images/new-privacy-feature-ricochet--launched-by-samourai-wallet-ricochet.png" alt="Ricochet"/></center></p>
+<p><center><img src="/images/new-privacy-feature-ricochet-launched-by-samourai-wallet-ricochet.png" alt="Ricochet"/></center></p>
 
 <h2>Privacy Activism at the Forefront</h2>
 
