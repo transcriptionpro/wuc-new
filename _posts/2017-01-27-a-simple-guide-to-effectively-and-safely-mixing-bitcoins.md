@@ -58,11 +58,11 @@ published: true
 
 <p>Save the “Letter of Guarantee” if you are using Bitmixer. If you are using Helix, save the URL it sends you to after you enter your address(s). Make a backup of these, or your login details for the other mixers.</p>
 
-<p>Step #7: Send the coins from wallet #2, over Tor, to the address generated for you by the mixer.</p>
+<p><strong>Step #7:</strong> Send the coins from wallet #2, over Tor, to the address generated for you by the mixer.</p>
 
-<p>Step #8: Assuming these coins are going to be sent to a darknet market… if you don’t already have your deposit address, log in and get it while having JavaScript disabled. Never use any market that requires you to enable JS!</p>
+<p><strong>Step #8:</strong> Assuming these coins are going to be sent to a darknet market… if you don’t already have your deposit address, log in and get it while having JavaScript disabled. Never use any market that requires you to enable JS!</p>
 
-<p>Step #9: You can use Blockchain.info’s Tor hidden service to watch for your coins to arrive from the mixer. Once they have, restart Tor and then send the coins to your market address (or their eventually destination)!</p>
+<p><strong>Step #9:</strong> You can use Blockchain.info’s Tor hidden service to watch for your coins to arrive from the mixer. Once they have, restart Tor and then send the coins to your market address (or their eventually destination)!</p>
 
 <p>The reason you should create an extra wallet in between your mixer and market account, is in case you ever run in to any type of problem with your account (lost password, hacked/phished, lost PGP key, etc), you can use the fact that you control all of the recent deposit address as proof that you are the rightful owner of this account.</p>
 
