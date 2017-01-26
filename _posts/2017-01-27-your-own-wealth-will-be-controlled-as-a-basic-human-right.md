@@ -4,11 +4,11 @@ title: Your Own Wealth Will Be Controlled As A Basic Human Right
 author: Brian Armstrong
 authorurl: /brian-armstrong/
 published: true
---
+---
 
 <p><center><img src="/images/wealth.jpg" alt="wealth"/></center></p>
 
-<p>A few months ago, the Indian government withdrew 86% of banknotes in circulation. Ostensibly, it was to cut down on the black market economy and tax cheats, but it also wiped out a <a href="/the-seven-network-effects-of-bitcoin/"large percentage of the wealth</a> of the poorest people, who hold their wealth in cash. A few weeks later, Venezuela followed with a similar measure.</p>
+<p>A few months ago, the Indian government withdrew 86% of banknotes in circulation. Ostensibly, it was to cut down on the black market economy and tax cheats, but it also wiped out a <a href="/the-seven-network-effects-of-bitcoin/">large percentage of the wealth</a> of the poorest people, who hold their wealth in cash. A few weeks later, Venezuela followed with a similar measure.</p>
 
 <p>This got me thinking, to what degree do people control their own wealth today, and should they have more control?</p>
 
