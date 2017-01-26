@@ -93,7 +93,7 @@ published: true
 
 <p>A smartphone is all you need to access digital currency, and these are becoming ubiquitous in every corner of the world.</p>
 
-<p><center><img src="/images/universal-access.jpg" alt="universal access"/></center></p>
+<p><center><img src="/images/universal-access.png" alt="universal access"/></center></p>
 
 <h2>Cons</h2>
 
