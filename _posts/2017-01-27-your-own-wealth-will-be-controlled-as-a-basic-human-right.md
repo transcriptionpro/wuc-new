@@ -16,7 +16,7 @@ published: true
 
 <p>For most of human history, individuals had very little control of their own wealth. Warring tribes raided villages and all-powerful kings and emperors could seize your property on a whim. </p>
 
-<p>If you worked hard and managed to accumulate some wealth, it wasn’t entirely clear that you would be able to keep it, so most people were content to <a href="/isle-of-man-blockchain-cluster-expansion/">keep their head down, eke out a meager existence, and not draw too much attention.</p>
+<p>If you worked hard and managed to accumulate some wealth, it wasn’t entirely clear that you would be able to keep it, so most people were content to <a href="/isle-of-man-blockchain-cluster-expansion/">keep their head down</a>, eke out a meager existence, and not draw too much attention.</p>
 
 <p>But something important happened in the 17th century as property rights were established. In the Second Treatise on Civil Government (1689) John Locke wrote:</p>
 
