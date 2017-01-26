@@ -20,9 +20,7 @@ published: true
 
 <p>But something important happened in the 17th century as property rights were established. In the Second Treatise on Civil Government (1689) John Locke wrote:</p>
 
-<blockquote>everyman has a property in his person; this nobody has a right to but himself. The labor of his body and the work of his hand, we may say, are properly his
-
-<p>- John Locke</p><blockquote>
+<blockquote>everyman has a property in his person; this nobody has a right to but himself. The labor of his body and the work of his hand, we may say, are properly his - John Locke</blockquote>
 
 <p>This began a shift in society, where people could keep more of the proceeds from their work. It also meant that your position (class, caste, etc) was not set at birth. With hard work, you could be self made, and create a better life for yourself and your children.</p>
 
