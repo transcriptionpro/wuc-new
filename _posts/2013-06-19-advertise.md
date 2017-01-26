@@ -6,20 +6,7 @@ authorurl: /
 published: true
 ---
 
-<p><img src="/images/sponsor/premier-header-banner.png" alt="premier header banner" align="center">
-<p><a href="https://www.weusecoins.com">WeUseCoins</a> and <a href="https://www.bitcoinmining.com">Bitcoin Mining</a> are two premier resources for the industry. In order to ensure their sustainability sponsors can support the site with advertising.
-<p>We would really like to get more sponsors so we can create new content, translate existing content into to many languages and create additional useful resources.
-<p><h2>TRAFFIC</h2>
-<p>Traffic can <b>vary greatly</b> depending on the news cycle around Bitcoin. Therefore, to compensate we remove the bottom 20% and top 20%.
-<p>As a result, daily traffic for WeUseCoins is about 5,830 and for Bitcoin Mining is about 6,150.
-<p><b>Bitcoin Mining</b> traffic from Oct 31, 2013-Nov 30, 2015.
-<p><img src="/images/sponsor/bitcoin-mining-traffic.png" alt="bitcoin mining traffic" align="center">
-<p><b>WeUseCoins</b> traffic from Oct 31, 2013-Nov 30, 2015.
-<p><img src="/images/sponsor/weusecoins-traffic.png" alt="weusecoins traffic" align="center">
-<p><h2>HIGH TRAFFIC QUALITY</h2>
-<p>This traffic is <b>very high quality</b> and many are new Bitcoin users. For example, during one campaign in less than 45 days 750+ new accounts were sent to Coinbase. And over a six month period approximately 15,500 clicks per month were sent to Amazon resulting in about 325 ordered items per month.
-<p><img src="/images/sponsor/amazon-clicks.png" alt="amazon clicks" align="center">
-<p>That is a lot of Bitcoin mining machines!
+<p>WeUseCoins and Bitcoin Mining offer some of the highest quality traffic in the Bitcoin, blockchain and cryptocurrency niche. To ensure sustainability we accept advertising and sponsorship.
 <p><h2>RATES</h2>
 <p>We can be very flexible with whatever type of campaign you want to run. Almost all legal business will be considered although some niches will not. The site needs to be family friendly and professional. All advertising sponsorships must be paid in advance via Bitcoin.
 <p>Although spots can be custom tailored the rates will be similar to Coindesk: 
@@ -29,6 +16,6 @@ published: true
 <p><b>LARGE</b> If a large site-wide campaign were wanted then for the footer slot above the black email box on both sites would generate about 360,000 impressions per month and cost about $9,000.
 <p><b>LARGE and LONG</b> If you wanted to buy out the premier header banner spot (directly beneath the navigation bar and demoed on this page) for a 6 month period on both sites then we would probably do a deal for around $60,000. Talk about great exposure for your business!
 <p><h2>CONTACT</h2>
-<p>If you are serious about sponsoring with some advertising then please send an email with <b>(1)</b> what type of campaign you want to run, <b>(2)</b> where you would like the banners to appear and <b>(3)</b> your suggested rate.
+<p>If you are serious, a minimum $5,000 campaign paid in advance via bitcoins, about sponsoring with some advertising then please send an email with <b>(1)</b> what type of campaign you want to run, <b>(2)</b> where you would like the banners to appear and <b>(3)</b> your suggested rate.
 <p>We are also willing to do a content partnership or some other creative option you may want to discuss. We are easy to work with and commercially reasonable.
 <p><img src="/images/sponsor/advertise-contact-info.png" alt="advertise contact info" align="center">
