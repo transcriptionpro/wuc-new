@@ -6,8 +6,6 @@ authorurl: /melvin-draupnir/
 published: true
 ---
 
-a simple guide to safely and effectively tumbling (mixing) bitcoins.
-
 <p>Bitcoin tumbling, also referred to as Bitcoin mixing or Bitcoin laundering, is the process of using a third party service to break the connection between a <a href="/tumbling-bitcoins-is-a-path-through-the-rinse-cycle/">Bitcoin address sending coins</a> and the address(s) they are sent to. </p>
 
 <p>Since the Bitcoin blockchain is a public ledger that records every transaction, mixing coins is critical for anyone who doesn’t want the entire world to know exactly where they send and store their BTC, or from where they receive it.</p>
@@ -73,8 +71,6 @@ a simple guide to safely and effectively tumbling (mixing) bitcoins.
 <p>If you initiate a withdrawal from a market directly to a mixer’s bitcoin address, and the market runs into problems and doesn’t send your withdrawal for 48 hours, you face a very real risk of the mixer not forwarding your coins. This would not be the mixer’s fault, as they are open about how they work. They purge records every X hours for privacy.</p>
 
 <p>TIP: You can use Blockchain.info’s taint analysis to make sure that no trace remains between wallet #2 and wallet #3. Access it like this, replacing 1YOURBITCOINADDRESS (in blue) with yours:</p>
-
-<p>https://blockchainbdgpzk.onion/taint/1YOURBITCOINADDRESS</p>
 
 <p>Search this page for your address(s) from wallet #2. If they aren’t there, you’ve successfully performed a zero-taint mix of your Bitcoins! If an address from wallet #2 does show up, there is a problem with the mixer you are using, you should contact them and/or use a different one in the future.</p>
 
