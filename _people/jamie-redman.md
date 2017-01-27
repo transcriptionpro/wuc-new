@@ -19,12 +19,6 @@ Jamie Redman is a financial tech journalist from Florida thats been entrenched i
 
 Having worked with many executives and innovators within this industry he continues to promote the valuable aspects of financial tech and especially the great experiment Bitcoin.
 
-## Links
-
-* Redmemes Co-Founder and Director Jamie Redman discuses [Idiot Proof Vault](/a-simple-guide-for-cold-storage-called-idiot-proof-vault/)
-* Redmemes Co-Founder and Director Jamie Redman tackles about [Libertarian Statements Of Satoshi](/the-libertarian-statements-of-satoshi-from-the-past-still-matters/)
-* Redmemes Co-Founder and Director Jamie Redman discuses [Bitcoin Blockchain For Digital Certificates](/mit-media-lab-applies-the-bitcoin-blockchain-for-digital-certificates/)
-
 ## Quotes
 
 On [Satoshi Libertarian Statements](https://news.bitcoin.com/satoshis-libertarian-statements-past-matter-anymore/)
