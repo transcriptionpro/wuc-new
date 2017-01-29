@@ -27,7 +27,7 @@ toc:
 
 <p>If you are interested in trading Bitcoin then there are many online trading companies offering this product usually as a contract for difference or CFD.</p>
 
-<p>Avatrade offers 20 to 1 leverage and good trading conditions on its <a href="/bitcoin-trading-binary-options/">Bitcoin CFD trading program</a>.</p>
+<p>Avatrade offers 20 to 1 leverage and good trading conditions on its <a href="http://www.avatrade.com/trading-info/range-of-markets/bitcoin">Bitcoin CFD trading program</a>.</p>
 
 <h2 id="whytrade">Why Trade Bitcoin?</h2>
 
