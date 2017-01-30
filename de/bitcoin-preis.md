@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Kurs
+description : Der Bitcoin-Preis ist sehr volatil und kann nicht mit dem zugrunde liegenden Bitcoin-Wert und der vielversprechenden Blockchain-Technologie zusammenhängen, die erstmals in der Geschichte einen verteilten Konsens, eine dreifache Buchführung und programmierbares Vertrauen ermöglicht, indem sie Wert über einen Kommunikationskanal übertragen können Ist nach wie vor bewiesen.
 toc:
   20092012: 2009-2012 - Die frühen Tage
   2013: 2013 - Der unglaubliche Bitcoinpreis
