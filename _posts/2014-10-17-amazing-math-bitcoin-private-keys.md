@@ -2,8 +2,9 @@
 layout: post
 title: The Amazing Math of Bitcoin Private Keys
 author: James DeAngelo
-authorurl: https://www.weusecoins.com/james-deangelo/
+authorurl: /james-deangelo/
 published: true
+description : Bitcoin relies on these private keys to store value.
 ---
 
 <center><img src="/images/amazing-math-bitcoin.jpg" width="700" height="212"></center>
