@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Needham Says Banning Wont Stop Bitcoin Adoption
+description : Needham & Company LLC on Thursday released a note for investors which entitled Economic and Financial Turmoil Driving Bitcoin Interest & Adoption.
 author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true

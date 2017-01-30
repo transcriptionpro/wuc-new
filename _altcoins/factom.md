@@ -1,6 +1,7 @@
 ---
 title: What Is Factom?
 name: Factom
+description : Factom is the first usable blockchain technology to solve real-world business problems by providing an unalterable record-keeping system.
 author: Nicola Minichiello
 authorurl: /nicola-minichiello/
 published: true

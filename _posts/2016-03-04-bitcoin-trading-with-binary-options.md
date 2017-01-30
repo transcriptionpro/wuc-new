@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Latest Popular Way to Trade Bitcoin Using Binary Options
-description: Learn how to buy ether online, with cash, with bitcoin, or with PayPal.
 author: WeUseCoins
 authorurl: /
 published: true
@@ -12,6 +11,7 @@ toc:
   trading: "Trading with Binary Options"
   earn: "How much can you earn?"
   started: "Get started now!"
+description : Binary options refer to an all-or-nothing decision. Instead of buying and selling assets, with your trade hinging on the changing price of those options, you stake your money on whether the price will rise at all, or fall. 
 ---
 {% include page-toc.html %}
 
