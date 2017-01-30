@@ -1,4 +1,5 @@
 ---
+description : Bitcoin é uma rede que funciona de forma consensual onde foi possível criar uma nova forma de pagamento e também uma nova moeda completamente digital. 
 ---
 
 <title>What is Bitcoin? - We Use Coins Bitcoin Experts Can Help</title>
