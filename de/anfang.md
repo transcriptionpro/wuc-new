@@ -1,5 +1,6 @@
 ---
 title: Anfang
+description : Der Bitcoin-Preis ist höchst unvorhersehbar gewesen, hat sich aber als einer der besten Spekulationen mit mehrjährigen Renditen von über 5.000 Prozent erwiesen.
 toc:
   20092012: 2009-2012 - Die frühen Tage
   2013: 2013 - Der unglaubliche Bitcoinpreis
