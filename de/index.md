@@ -1,5 +1,6 @@
 ---
 title: Was ist Bitcoin? Einführungsvideo und aktueller Preis.
+description : Bitcoin ist ein konsensorientiertes Netzwerk, das ein neues Zahlungssystem und voll digitales Geld ermöglicht.
 toc:
   was-ist-bitcoin: Was ist Bitcoin?
   wer-hat-bitcoin-erfunden: Wer hat Bitcoin erfunden?
