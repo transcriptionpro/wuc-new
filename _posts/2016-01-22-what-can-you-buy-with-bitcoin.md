@@ -3,7 +3,7 @@ layout: post
 title: What Can You Buy with Bitcoin?
 author: Jordan Tuwiner
 authorurl: /jordan-tuwiner/
-description: What can you buy with bitcoin? Just about anything.  
+description : Bitcoins volatility created a nightmare for most merchants.   
 published: true
 ---
 ![what can you buy with bitcoin](/images/bitpremier-compressor.png)
