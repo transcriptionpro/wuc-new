@@ -4,6 +4,7 @@ title: Your Own Wealth Will Be Controlled As A Basic Human Right
 author: Brian Armstrong
 authorurl: /brian-armstrong/
 published: true
+description : Controlling your own wealth will be a basic human right.
 ---
 
 <p><center><img src="/images/wealth.jpg" alt="wealth"/></center></p>
