@@ -1,6 +1,6 @@
 ---
-title: Was ist Bitcoin? Anfangen mit Bitcoins ist einfach.
-description : Sie finden eine Vielzahl von Bitcoin Dienstleistungen auf der Bitcoin Wiki.
+title: Was kann ich mit meinen Bitcoins machen?
+description : Besorgen Sie sich eine Brieftasche
 toc:
   wallet-besorgen: Besorgen Sie sich eine Brieftasche
   bitcoins-erhalten: Erhalten Sie Bitcoins
