@@ -12,11 +12,6 @@ layout: default
   <div class="date">
     Written by <a href="{{ page.authorurl }}">{{page.author}}</a> on {{ page.date | date: "%B %e, %Y" }}.
   </div>
-  
-  <div class="date">
-  	{% assign date = page.date | date: "%B %e, %Y" %}
-  	{{ t.post.written-by | replace: '%author%', page.author | replace: '%authorurl%', page.authorurl | replace: '%date%', date }}
-  </div>
 
   {% unless page.disable_recommended %}{% include recommendedposts.html %}{% endunless %}
   {% unless page.disable_disqus %}{% include disqus.html %}{% endunless %}
