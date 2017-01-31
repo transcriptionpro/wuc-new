@@ -1,5 +1,6 @@
 ---
-title: Bitaps
+title: About Page of Bitaps
+description: About Page of Bitaps
 seotitle: Bitaps - About Page
 ---
 
