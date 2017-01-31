@@ -1,5 +1,5 @@
 ---
-title: Was ist Bitcoin? Einführungsvideo und aktueller Preis.
+title: Leer hoe u gratis Bitcoins krijgen
 description : Bitcoin ist ein konsensorientiertes Netzwerk, das ein neues Zahlungssystem und voll digitales Geld ermöglicht.
 toc:
   was-ist-bitcoin: Was ist Bitcoin?
