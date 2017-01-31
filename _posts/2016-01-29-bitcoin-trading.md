@@ -74,7 +74,7 @@ toc:
 
 <strong>Bitcoin Trading in China</strong>
 
-<p><a href="/bitcoin-trading/">Global Bitcoin trading data shows</a> that a very large percent of the global trading volume comes from China. It’s important to understand that the Chinese exchanges lead the market, while the exchanges above simply follow China’s lead.</p>
+<p><a href="/bitcoin-trading/">Global Bitcoin trading data shows</a> that a very large percent of the global price trading volume comes from China. It’s important to understand that the Chinese exchanges lead the market, while the exchanges above simply follow China’s lead.</p>
 
 <p>The main reason China dominates Bitcoin trading is because financial regulations in China are less strict than in other countries. Therefor, Chinese exchanges can offer leverage, lending, and futures options that exchanges in other countries can’t. Additionally, Chinese exchanges charge no fees so bots are free to trade back and forth to create volume.</p>
 
