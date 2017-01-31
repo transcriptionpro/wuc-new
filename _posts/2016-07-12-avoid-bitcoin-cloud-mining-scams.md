@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Avoid Bitcoin Cloud Mining Scams
+title: How To Avoid Bitcoin Cloud Mining Scams And Make Money
 author: We Use Coins
 authorurl: /
 published: true
