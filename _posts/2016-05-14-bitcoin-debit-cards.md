@@ -24,9 +24,9 @@ toc:
 
 <p><h2 id="cryptopay">Cryptopay Debit Card</h2>
 <p><center><img src="/images/cryptopay-debit-card.png" /></center>
-<p>The oldest and most established Bitcoin debit card, <a href="http://geni.us/cryptopay">Cryptopay's VISA card</a> with over 23,000 issued. Cryptopay has made it simple for customers to spend bitcoins at millions of businesses around the world.
+<p>The oldest and most established Bitcoin debit card, the <a href="http://geni.us/cryptopay">Cryptopay bitcoin debit VISA card</a> with over 23,000 issued. Cryptopay bitcoin cards have made it simple for customers to spend bitcoins at millions of businesses around the world.
 <p>For purchases both online and offline, Cryptopay makes the process convenient for users and easier than ever for merchants.
-<p>There are both plastic and virtual debit cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
+<p>There are both plastic and virtual Cryptopay Bitcoin cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
 <p>Costs range between €15.00, £15.00, $15.00 and €2.50, £2.50, $2.50 depending on currency, location and card limits.
 
 <p><h2 id="spectrocoin">SpectroCoin VISA Debit Card</h2>
