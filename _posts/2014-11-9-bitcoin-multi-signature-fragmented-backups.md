@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Bitcoin Security Expert - Andy O'Fiesh  
+title: Andy O'Fiesh - Bitcoin Multi Signature Fragmented Backups
 author: Andy O'Fiesh
 authorurl: /andy-ofiesh-bitcoin-security-expert/
-description: Andy O'Fiesh on bitcoin multi-signature transactions.
+description: Andy O'Fiesh - Bitcoin Multi Signature Fragmented Backups
 published: true
 ---
 
