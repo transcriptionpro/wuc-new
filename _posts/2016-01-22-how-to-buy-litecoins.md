@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Buy Litecoins
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: Learn how to buy litecoins online, with cash, with bitcoin, or with PayPal.  
 published: true
 seotitle: How to Buy Litecoins Online, with Cash, or PayPal

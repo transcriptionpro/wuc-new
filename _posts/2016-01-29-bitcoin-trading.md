@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 5 Easy Steps For Bitcoin Trading For Profit and Beginners
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description: Whether beginner or professional these 5 easy steps will help you trade bitcoins for profit and learn different strategies. 
 published: true
 permalink: /bitcoin-trading/

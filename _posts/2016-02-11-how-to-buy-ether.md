@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Buy Ether (Ethereum)
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description : In most cases buying bitcoins and trading for ether is the easiest way to get ether.
 published: true
 seotitle: How to Buy Ether (Ethereum)

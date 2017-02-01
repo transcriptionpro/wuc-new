@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What Can You Buy with Bitcoin?
-author: Jordan Tuwiner
-authorurl: /jordan-tuwiner/
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 description : Bitcoins volatility created a nightmare for most merchants.   
 published: true
 ---
