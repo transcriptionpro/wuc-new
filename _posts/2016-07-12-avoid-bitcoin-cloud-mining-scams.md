@@ -53,7 +53,7 @@ toc:
 <p>Scammers use any sensible and attractive way to get you on their site and that’s why, you will find some Bitcoin cloud hashing companies offering a denominated or guaranteed profit- this should put up a red flag and tell you to stay away, why?
 <p>In the bitcoin mining world there is no such thing as certain profit- oh no!
 <p>Worth noting is, the bitcoin mining world is so hard to predict and as such, no one can even state tomorrow’s BTC price let alone weeks or months to come- so why are they guaranteed profits? It’s the incentive of scammers. 
-<p><h3 id="unlimited">><b>8. </b><a name="ipo" class="anchor">Unlimited IPO</a></h3>
+<p><h3 id="unlimited"><b>8. </b><a name="ipo" class="anchor">Unlimited IPO</a></h3>
 <p>Did you know that the amount of GH that you can sell is always limited by your data centers- the amount of mining hardware in it?
 <p>Yes, as such legitimate companies will always have limitations particularly on the amount of GH one can sell besides stating how much GH they can access not to forget the amount that has been sold.
 <p>Worth noting is, the process of getting more hardware in a bid to sell more GH will always consume more time during the ordering and delivery process. As such, any company that doesn’t limit sales is very likely a scam- BEWARE!! 
