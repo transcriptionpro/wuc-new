@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lightning Network by Thaddeus Dryja
-description : If someone has a cycle, you could equalize the channels that way in the graph.
+description : The Lightning Network by Thaddeus Dryja
 author: Thaddeus Dryja
 authorurl: /thaddeus-dryja/
 published: true
