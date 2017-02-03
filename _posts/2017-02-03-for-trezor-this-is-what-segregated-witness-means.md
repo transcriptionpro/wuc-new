@@ -11,10 +11,11 @@ published: true
 
 <p>In other words, this article will not discuss the connotation of SegWit for the blocksize debate. This article will not delve deeply into the actual technology and code behind SegWit either; many articles have been written on the merits of SegWit, and I cannot explain it as well as them. Instead, I will focus exclusively on the positive effects of Segregated Witness on TREZOR, and Bitcoin wallets in general.</p>
 
-SegWit is a blessing for hardware wallets for many reasons. I actually think that rolling out SegWit will increase security, because it will reduce huge complexity in hardware wallets as it is today.
-— Marek “Slush” Palatinus, CEO of SatoshiLabs
+<blockquote>SegWit is a blessing for hardware wallets for many reasons. I actually think that rolling out SegWit will increase security, because it will reduce huge complexity in hardware wallets as it is today.
+<br/>
+— Marek “Slush” Palatinus, CEO of SatoshiLabs</blockquote>
 
-<p><center><img src="/images/trezor-0.jpg" alt="trezor"/></center></p>
+<p><center><img src="/images/trezor-0.jpeg" alt="trezor"/></center></p>
 
 <p>Too Long; Did Not Read version at the end of the article.</p>
 
