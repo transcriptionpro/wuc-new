@@ -7,7 +7,7 @@ published: true
 description : Bitcoin relies on these private keys to store value.
 ---
 
-<center><img src="/images/amazing-math-bitcoin.jpg" width="700" height="212"></center>
+<center><img src="/images/amazing-math-bitcoin.jpg" width="700" height="212" alt="amazing-math-bitcoin"/></center>
 
 How do you slow down hackers and provide equal access to everyone on earth? Not easy. But Bitcoin's solution is devilishly simple, employing outrageously big numbers. Bitcoin's private keys are made of numbers (called quindecillions) that are so large, they literally choke the best computers. In fact even if all the world's computers were able to work together, these numbers would still be too large. By using an analogy to drawers and pirates, James dives into this math, revealing not only how simple the idea is, but how well it works.
 
