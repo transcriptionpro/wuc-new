@@ -23,7 +23,7 @@ toc:
 <p>Since most debit card top ups only take a few seconds to confirm then bitcoin balances can be held up until the need to spend.
 
 <p><h2 id="cryptopay">Cryptopay Debit Card</h2>
-<p><center><img src="/images/cryptopay-debit-card.png" /></center>
+<p><center><img src="/images/cryptopay-debit-card.png" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
 <p>The oldest and most established Bitcoin debit card, the <a href="http://geni.us/cryptopay">Cryptopay bitcoin debit VISA card</a> with over 23,000 issued. Cryptopay bitcoin cards have made it simple for customers to spend bitcoins at millions of businesses around the world.
 <p>For purchases both online and offline, Cryptopay makes the process convenient for users and easier than ever for merchants.
 <p>There are both plastic and virtual Cryptopay Bitcoin cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
@@ -31,7 +31,7 @@ toc:
 
 <p><h2 id="spectrocoin">SpectroCoin VISA Debit Card</h2>
 
-<p><center><img src="/images/spectrocoin-debit-card.png" /></center>
+<p><center><img src="/images/spectrocoin-debit-card.png" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
 <p><a href="http://geni.us/spectrocoin">SpectroCoin</a> offers Bitcoin prepaid cards, which can be used at any ATM around the globe or shops as an ordinary payment card.
 <p>The card is funded instantly, so you do not have to worry about exchanging your bitcoins in advance.
 <p>The card can be denominated in dollars (USD), euros (EUR) or pounds (GBP).
@@ -46,27 +46,27 @@ toc:
 
 <p><h2 id="bitpay">BitPay VISA Debit Card</h2>
 
-<p><center><img src="/images/bitpay-debit.png" /></center>
+<p><center><img src="/images/bitpay-debit.png" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
 <p>Although the newest Bitcoin debit card, <a href="https://bitpay.com/visa/">BitPay's VISA card</a> is perhaps the most exciting of the bunch. It is the first Bitcoin debit card that is available to US residents from all 50 states.
 <p>BitPay's debit card costs $9.95 to order, and arrives 7-10 days after purchase. It can be used online, in-person, and also works with any ATM that works with VISA cards.
 <p>Unlike Shift's debit card (featured below), deposits lock in value in dollars. Shift's debit card spends directly from your Coinbase balance, which creates an accounting nightmare for capital gains taxes when it comes time to file. 
 
 <p><h2 id="xapo">Xapo Debit Card</h2>
 
-<p><center><img src="/images/xapo-debit.jpg" /></center>
+<p><center><img src="/images/xapo-debit.jpg" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
 <p><a href="https://xapo.com/card/">Xapo's debit card</a> was the first to market. It is available in most European countries, but not the United States.
 <p>The Xapo debit card costs $20 and also has an annual fee of $12. Once ordered, the card takes 10-25 days to be delivered. It debits funds directly from your Xapo web wallet.
 
 <p><h2 id="coinbase">Coinbase / Shift Card</h2>
 
-<p><center><img src="/images/shift-debit.jpg" /></center>
+<p><center><img src="/images/shift-debit.jpg" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
 <p><a href="https://www.shiftpayments.com/">Shift</a> was the first Bitcoin debit card available to U.S. residents. It is currently <a href="https://support.coinbase.com/customer/portal/articles/2228646">available to residents in 41 U.S. states</a>.
 <p>The Shift card connects to your Coinbase account. For each debit card purchase, it automatically withdrawals the necessary amount of bitcoins based on the dollar value of the transaction.
 <p>For now, the Shift card is completely free to use but costs $10 to purchase. Shift and Coinbase have both stated that in the future there will be transaction fees for each purchase.
 
 <p><h2 id="bitwala">Bitwala Visa Debit Card</h2>
 
-<p><center><img src="/images/bitwala-debit-card.jpg" /></center>
+<p><center><img src="/images/bitwala-debit-card.jpg" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
 <p><a href="https://www.bitwala.io/card/">Bitwala’s VISA debit card</a> is the most affordable bitcoin debit card on the market, both in terms of card price and the lowest, transparent fees that follow card usage.
 <p>The Bitwala debit cards are issued in both physical and virtual forms and costs €2.00. Customers can also enjoy a super low 0.5% (€1 min.) fee for card top ups using Bitcoin or Altcoins.
 <p>Denominated in Euros, the Bitwala debit card can be used to pay online and offline where VISA is accepted. Cardholders can also cash out at any ATM worldwide with the best rates and transparent fees.
