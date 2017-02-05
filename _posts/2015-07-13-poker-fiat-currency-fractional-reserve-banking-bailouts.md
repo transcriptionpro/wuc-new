@@ -6,7 +6,7 @@ authorurl: /poker-fiat-currency-fractional-reserve-banking-bailouts/
 published: true
 ---
 
-<center><img src="/images/poker.png"></center>
+<center><img src="/images/poker.png" alt="poker"></center>
 <h2>Satoshi Nakamoto and Monetary Ideology</h2>
 <p>We have a fun little <a href="#short-story">short story</a> but first we will set the stage for it with a little bit of Bitcoin history.
 <p>Satoshi Nakamoto, a pseudonym, released the Bitcoin on 3 January 2009. The first block in the Bitcoin blockchain is called the Genesis Block.
@@ -54,7 +54,7 @@ CBlock(hash=000000000019d6, ver=1, hashPrevBlock=00000000000000, hashMerkleRoot=
 <p><b>"To make our own game, a fair one."</b>
 <h2>Dr. Edwin Vieira, Jr., Ph.D., J.D. - Speech at <a href="https://www.gata.org">GATA</a> Washington Conference April 17-19 2008</h2>
 <p>Dr. Vieira holds four degrees from Harvard University including a Ph.D. in Chemistry and a law degree. He is licensed to practice law before the United States Supreme Court.
-<center><img src="/images/pieces-of-eight.png"></center>
+<center><img src="/images/pieces-of-eight.png" alt="poker of eight"></center>
 <p>Dr. Edwin Vieire's <a title="pieces of eight" href="http://www.runtogold.com/piecesofeightbook" target="_blank">Pieces of Eight</a> is a two volume, 1,700+ page, meticulously footnoted treatment of the monetary powers and disabilities of the United States Constitution. There are no other scholarly works of comparable quality in any topic. <strong>Pieces of Eight is a must have for the library of any serious monetary historian.</strong>
 <p>In this speech, which was given before Bitcoin was released, he helps us explain the nature of money, currency and their relationship with human and civil rights.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/Wj9Aj1RFqBI" frameborder="0" allowfullscreen></iframe></center>
