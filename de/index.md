@@ -16,7 +16,7 @@ toc:
 <h2>Warum Bitcoin?</h2>
 <table class="why-bitcoin">
 	<tr>
-		<td><img src="/images/icons/icon-why-easy.png"></td>
+		<td><img src="/images/icons/icon-why-easy.png" alt="why-bitcoin"></td>
 		<td>
 			<h3>Einfach</h3>
 			Person zu Person
@@ -26,7 +26,7 @@ toc:
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/icons/icon-why-secure.png"></td>
+		<td><img src="/images/icons/icon-why-secure.png" alt="why-bitcoin"></td>
 		<td>
 			<h3>Sicher</h3>
 			Starke Kryptographie
@@ -36,7 +36,7 @@ toc:
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/icons/icon-why-open.png"></td>
+		<td><img src="/images/icons/icon-why-open.png" alt="why-bitcoin"></td>
 		<td>
 			<h3>Offen</h3>
 			Vollkommen dezentralisiert
@@ -46,7 +46,7 @@ toc:
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/images/icons/icon-why-fair.png"></td>
+		<td><img src="/images/icons/icon-why-fair.png" alt="why-bitcoin"></td>
 		<td>
 			<h3>Fair</h3>
   		Minimale Gebühren
@@ -64,7 +64,7 @@ toc:
 			<p>I'm a big fan of Bitcoin... Regulation of money supply needs to be depoliticized.</p>
 		</div>
 		<div class="person">
-			<img src="/images/testimonials/al-gore.png">
+			<img src="/images/testimonials/al-gore.png" alt="why-bitcoin">
 			<h3>Al Gore</h3>
       Ehemaliger US Vizepräsident und Gewinner des Nobelfriedenspreis.
 		</div>
@@ -74,7 +74,7 @@ toc:
 			<p>Bitcoin is a technological tour de force.</p>
 		</div>
 		<div class="person">
-			<img src="/images/testimonials/bill-gates.png">
+			<img src="/images/testimonials/bill-gates.png" alt="why-bitcoin">
 			<h3>Bill Gates</h3>
 			Microsoft Mitgründer
 		</div>
@@ -84,7 +84,7 @@ toc:
 			<p>Every informed person needs to know about Bitcoin because it might be one of the world's most important developments.</p>
 		</div>
 		<div class="person">
-			<img src="/images/testimonials/leon-louw.png">
+			<img src="/images/testimonials/leon-louw.png" alt="why-bitcoin">
 			<h3>Leon Louw</h3>
 			Nominiert für den Nobelfriedenspreis
 		</div>

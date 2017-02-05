@@ -41,7 +41,7 @@ Advanced encryption and a trustless protocol for complete security in your payme
 <h3>- LOW - FEES</h3>
 <p>Most transactions only cost a few cents to send, which is considerably cheaper than services like Western Union, PayPal, or Moneygram. </p>
 <h3 id="debit">- HOW TO GET A DASH DEBIT CARD</H3>
-<p><center><img src="/images/spectrocoin-debit-card.png" /></center>
+<p><center><img src="/images/spectrocoin-debit-card.png" alt="what is dashcoin"/></center>
 <p><a href="http://geni.us/spectrocoin">SpectroCoin</a> offers Bitcoin prepaid cards, which can be used at any ATM around the globe or shops as an ordinary payment card.
 <p>The <a href="http://geni.us/spectrocoin">SpectroCoin VISA Debit Card</A> is funded instantly, so you do not have to worry about exchanging your bitcoins in advance.
 <p>The card can be denominated in dollars (USD), euros (EUR) or pounds (GBP).
