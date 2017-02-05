@@ -13,7 +13,7 @@ published: true
 <p>Nine years later, Bitcoin was born.</p>
 
 <blockquote><p>“The swarm is headed towards us”</p>
-<p>– Satoshi Nakamoto, when WikiLeaks started accepting Bitcoin donation</p></blockquote>
+<p><strong>– Satoshi Nakamoto, when WikiLeaks started accepting Bitcoin donation</strong></p></blockquote>
 
 <blockquote><p>“Bitcoin seems to be a very promising idea. I like the idea of basing security on the assumption that the CPU power of honest participants outweighs that of the attacker. It is a very modern notion that exploits the power of the long tail.”</p>
 <p>– Hal Finney</p></blockquote>
