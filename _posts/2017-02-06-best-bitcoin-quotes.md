@@ -40,7 +40,7 @@ published: true
 <p><strong>– Peter Diamandis</strong></p></blockquote>
 
 <blockquote><p>“Bitcoin is the currency of resistance.”1 </p>
-“If Satoshi had released Bitcoin 10 yrs. earlier, 9/11 would never have happened”</p>
+<p>“If Satoshi had released Bitcoin 10 yrs. earlier, 9/11 would never have happened”</p>
 <p><strong>– Max Keiser</strong></p></blockquote>
 
 <blockquote><p>“Bitcoin, and the ideas behind it, will be a disrupter to the traditional notions of currency. In the end, currency will be better for it.”</p>
@@ -61,8 +61,6 @@ published: true
 
 <blockquote><p>“Cryptocurrency is such a powerful concept that it can almost overturn governments”</p>
 <p><strong>– Charles Lee</strong></p></blockquote>
-
-<blockquote><p>“Spend some time with Bitcoin. Learn it, challenge it, and use it. You can assume no government wants you adopting this system in any capacity, and for that reason alone it’s worth consideration by honest, moral, and industrious people”</strong></p></blockquote>
 
 <blockquote><p>“Economists and journalists often get caught up in this question: Why does Bitcoin have value? And the answer is very easy. Because it is useful and scarce.” </p>
 <p><strong>– Erik Voorhees</strong></p></blockquote>
@@ -120,3 +118,72 @@ published: true
 
 <blockquote><p>“Instant transactions, no waiting for checks to clear, no chargebacks (merchants will like this), no account freezes (look out Paypal), no international wire transfer fee, no fees of any kind, no minimum balance, no maximum balance, worldwide access, always open, no waiting for business hours to make transactions, no waiting for an account to be approved before transacting, open an account in a few seconds, as easy as email, no bank account needed, extremely poor people can use it, extremely wealthy people can use it, no printing press, no hyper-inflation, no debt limit votes, no bank bailouts, completely voluntary. This sounds like the best payment system in the world!”</p>
 <p><strong>– Trace Mayer J.D., a Leading Monetary Expert on Bitcoin and Gold</strong></p></blockquote>
+
+<blockquote><p>“You can’t stop things like Bitcoin. It will be everywhere and the world will have to readjust. World governments will have to readjust” </p><p>
+<p><strong>– John McAfee, Founder of McAfee</strong></p></blockquote>
+
+<blockquote><p>“It’s money 2.0, a huge huge huge deal.” </p><p>
+<p><strong>– Chamath Palihapitiya, Previous head of AOL instant messenger</strong></p></blockquote>
+
+<blockquote><p>“We have elected to put our money and faith in a mathematical framework that is free of politics and human error.” </p><p>
+<p><strong>– Tyler Winklevoss, Co-creator of Facebook</strong></p></blockquote>
+
+<blockquote><p>“Entire classes of bugs are missing.” </p><p>
+<p><strong>– Dan Kaminsky, Security Penetration Expert for Cisco and Avaya</strong></p></blockquote>
+
+<blockquote><p>“There are 3 eras of currency: Commodity based, politically based, and now, math based.” </p><p>
+<p><strong>– Chris Dixon, Co-founder of Hunch now owned by Ebay, Co-founder of SiteAdvisor now owned by McAfee</strong></p></blockquote>
+
+<blockquote><p>“Right now Bitcoin feels like the Internet before the browser.” </p><p>
+<p><strong>– Wences Casares, Founder of Banco Lemon, aquired by Banco do Brazil, Won Xbox game of the year for his game Assault Heroes</strong></p></blockquote>
+
+<blockquote><p>“Bitcoin will do to banks what email did to the postal industry” </p><p>
+<p><strong>– Rick Falkvinge, Founder of the Swedish pirate party</strong></p></blockquote>
+
+<blockquote><p>“Bitcoin may be the TCP/IP of money.” </p><p>
+<p><strong>– Paul Buchheit, Creator of Gmail</strong></p></blockquote>
+
+<blockquote><p>“I am very intrigued by Bitcoin. It has all the signs. Paradigm shift, hackers love it, yet it’s derided as a toy. Just like microcomputers.” </p><p>
+<p><strong>– Paul Graham, Creator of Yahoo Store</strong></p></blockquote>
+
+<blockquote><p>“I really like Bitcoin. I own Bitcoins. It’s a store of value, a distributed ledger. It’s a great place to put assets, especially in places like Argentina with 40 percent inflation, where $1 today is worth 60 cents in a year, and a government’s currency does not hold value. It’s also a good investment vehicle if you have an appetite for risk. But it won’t be a currency until volatility slows down.” </p><p>
+<p><strong>– David Marcus, CEO of Paypal</strong></p></blockquote>
+
+<blockquote><p>”[Virtual Currencies] may hold long-term promise, particularly if the innovations promote a faster, more secure and more efficient payment system.”  </p><p>
+<p><strong>– Ben Bernanke, Chairman of the Federal Reserve</strong></p></blockquote>
+
+<blockquote><p>“Virgin Galactic is a bold entrepreneurial technology. It’s driving a revolution and Bitcoin is doing just the same when it comes to inventing a new currency.” </p><p>
+<p><strong>– Sir Richard Branson, Founder of Virgin Records, Virgin Galactic, and 400+ other businesses</strong></p></blockquote>
+
+<blockquote><p>“Bitcoin actually has the balance and incentives right, and that is why it is starting to take off” </p><p>
+<p><strong>– Julian Assange, Founder of Wikileaks</strong></p></blockquote>
+
+<blockquote><p>“[Bitcoin] is a very exciting development, it might lead to a world currency. I think over the next decade it will grow to become one of the most important ways to pay for things and transfer assets.” </p><p>
+<p><strong>– Kim Dotcom, CEO of MegaUpload</strong></p></blockquote>
+
+<blockquote><p>“At our venture firm, we continue to see an escalating stream of fascinating new Bitcoin uses cases and applications from entrepeneurs.”</p><p>
+<p><strong>- Marc Andreessen, Venture Capitalist, Founder of Netscape, Jan 5, 2015</strong></p></blockquote>
+
+<blockquote><p>“Bitcoin, and the ideas behind it, will be a disrupter to the traditional notions of currency. In the end, currency will be better for it.”</p><p>
+<p><strong>- Edmund Moy, 38th Director of the United States Mint, May 23, 2014</strong></p></blockquote>
+
+<blockquote><p>“The Federal Reserve simply does not have authority to supervise or regulate bitcoin in any way”</p><p>
+<p><strong>- Janet Yellen, Chair of the US Federal Reserve, Feb 27, 2014</strong></p></blockquote>
+
+<blockquote><p>“Stay away from it. It’s a mirage, basically”</p><p>
+<p><strong>- Warren Buffet, CEO of Berkshire Hathaway, Feb 14 2014</strong></p></blockquote>
+
+<blockquote><p>“Bitcoin is evil.”</p><p>
+<p><strong>- Paul Krugman, Nobel-prize winning economist, Dec 28, 2013</strong></p></blockquote>
+
+<blockquote><p>“EVERY informed person needs to know about Bitcoin because it might be one of the world’s most important developments.”</p><p>
+<p><strong>- Leon Louw, two-time Nobel Peace Prize nominee, Oct 23, 2013 </strong></p></blockquote>
+
+<blockquote><p>“Bitcoin, crypto currencies, solved this problem of coming to a consensus globally where you don’t trust anybody else. I’m a computer scientist, I thought that was impossible. These guys have proved it can be done.”</p><p>
+<p><strong>- Richard Brown, Executive Architect for IBM UK, Oct 22, 2013 </strong></p></blockquote>
+
+<blockquote><p>“It’s gold for nerds.”</p><p>
+<p><strong>- Stephan Colbert, Comedian, April 17, 2013</strong></p></blockquote>
+
+<blockquote><p>“Bitcoin is the beginning of something great: a currency without a government, something necessary and imperative.”</p><p>
+<p><strong>- Nassim Taleb, Author and Risk Analyst, March 20, 2013</strong></p></blockquote>
