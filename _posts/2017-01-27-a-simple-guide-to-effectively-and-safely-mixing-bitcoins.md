@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Simple Guide To Effectively And Safely Mixing Bitcoins
+title: A Simple Guide To Effectively And Safely Mixing Bitcoins - Melvin Draupnir
 author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
