@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aligning Economic Incentives With Resource Costs And Segregated Witness
+title: Aligning Economic Incentives With Resource Costs And Segregated Witness - Andreas Antonopoulos
 author: Andreas Antonopoulos
 authorurl: /andreas-antonopoulos-bitcoin-expert/
 published: true
