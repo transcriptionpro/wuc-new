@@ -8,7 +8,7 @@ published: true
 ---
 
 <blockquote><p>“I think the internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing but that will soon be developed, is a reliable e-cash.”</p></blockquote>
-<p><strong>- Professor Milton Friedman, a Nobel Prize winner in economics</strong></p>
+<p align="left"><strong>- Professor Milton Friedman, a Nobel Prize winner in economics</strong></p>
 <br/>
 <blockquote><p>“The swarm is headed towards us”</p></blockquote>
 <p><strong>– Satoshi Nakamoto, when WikiLeaks started accepting Bitcoin donation</strong></p>
