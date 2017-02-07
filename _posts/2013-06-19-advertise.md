@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Become A Sponsor and Advertise
+title: Become A Sponsor and Advertise - Sponsorships
 author: Sponsorships
 authorurl: /
 published: true
