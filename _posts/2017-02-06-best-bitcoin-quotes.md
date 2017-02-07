@@ -70,9 +70,9 @@ published: true
 <p align="center"><strong>- Rick Falkvinge, Founder of the Swedish pirate party</strong></p>
 <br/>
 <blockquote><p align="center">“I think the fact that within the bitcoin universe an algorithm replaces the functions of [the government] … is actually pretty cool. I am a big fan of Bitcoin”</p></blockquote>
-<p align="center"><strong>- Al Gore, 45th Vice President of the United States</strong></p></blockquote>
+<p align="center"><strong>- Al Gore, 45th Vice President of the United States</strong></p>
 <br/>
-<blockquote><p align="center">“I do think Bitcoin is the first [encrypted money] that has the potential to do something like change the world.”</p>
+<blockquote><p align="center">“I do think Bitcoin is the first [encrypted money] that has the potential to do something like change the world.”</p></blockquote>
 <p align="center"><strong>- Peter Thiel, Co-Founder of Paypal</strong></p>
 <br/>
 <blockquote><p align="center">“So bitcoin is cyber snob currency…”</p></blockquote>
