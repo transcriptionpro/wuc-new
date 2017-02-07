@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Amazing Math of Bitcoin Private Keys
+title: The Amazing Math of Bitcoin Private Keys - James DeAngelo
 author: James DeAngelo
 authorurl: /james-deangelo/
 published: true

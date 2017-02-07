@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Avoid Bitcoin Cloud Mining Scams And Make Money
+title: How To Avoid Bitcoin Cloud Mining Scams And Make Money - WeUseCoins
 description: Avoiding bitcoin mining scams is extremely important! Learn how to analyze the bitcoin cloud miner companies and where to make money!
 author: We Use Coins
 authorurl: /

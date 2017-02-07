@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Simple Guide For Cold Storage Called Idiot Proof Vault
+title: A Simple Guide For Cold Storage Called Idiot Proof Vault - Jamie Redman
 author: Jamie Redman
 authorurl: /jamie-redman/
 published: true
