@@ -7,7 +7,7 @@ authorurl: /melvin-draupnir/
 published: true
 ---
 
-<p><center><img src="/images/interference.jpg" alt=""/></center></p>
+<p><center><img src="/images/interference.jpg" alt="Bitcoin Takes a Dive"/></center></p>
 
 <p>We’re near the end of the week with the <a href="/for-trezor-this-is-what-segregated-witness-means/">price of Bitcoins</a> drastically different since our last update two days ago, a change reportedly once again due to Chinese exchanges, who after talks with the People’s Bank of China pulled the hand brake on Bitcoin sales. While some correction was expected from the bearish wave that started forming on Wednesday, nobody really expected the price to take such a dive.</p>
 
