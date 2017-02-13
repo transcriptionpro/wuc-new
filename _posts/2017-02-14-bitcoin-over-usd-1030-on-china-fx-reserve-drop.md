@@ -7,7 +7,7 @@ authorurl: /melvin-draupnir/
 published: true
 ---
 
-<p><center><img src="/images/drop.jpg" alt=""/></center></p>
+<p><center><img src="/images/drop.jpg" alt="Bitcoin Over USD 1,030"/></center></p>
 
 <p>We’re right at the middle of the week with the price of Bitcoin looking better than expected, thanks to increased interest that started forming yesterday afternoon. The volatility that has been frequently noted in the past days is going away while the price is currently looking to form support at the $1,030 mark. However, <a href="/a-simple-guide-to-effectively-and-safely-mixing-bitcoins/">current market trends</a> suggest that this would not be an easy job.</p>
 
