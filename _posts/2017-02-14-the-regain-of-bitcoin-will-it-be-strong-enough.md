@@ -7,7 +7,7 @@ authorurl: /melvin-draupnir/
 published: true
 ---
 
-<p><center><img src="/images/strong.jpg" alt=""/></center></p>
+<p><center><img src="/images/strong.jpg" alt="The Regain of Bitcoin"/></center></p>
 
 <p>We’re at the start of a new week with the price back at $1,000 after suffering another drop due to concerns of <a href="/best-bitcoin-quotes/">tighter trading policies</a> introduced by China’s largest Bitcoin exchanges. After a panic wave hit the market on Thursday, it seemed that losses were imminent, but once again the cryptocurrency was able to gain momentum and jump back to the $1,000 mark.</p>
 
