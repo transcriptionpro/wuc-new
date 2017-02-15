@@ -1,4 +1,11 @@
-Bitcoin Gambling Investments 2/12
+---
+layout: post
+title: Bitcoin Gambling Investments 2/12
+description: Bitcoin Gambling Investments 2/12
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
+published: true
+---
 
 <p><center><img src="/images/BItcoin-Gambling-Investment-212.jpg" alt="Bitcoin Gambling Investments"/></center></p>
 
