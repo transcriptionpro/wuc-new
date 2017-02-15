@@ -75,7 +75,7 @@ published: true
 
 <p><strong>Needham and Company</strong></p>
 <ul>
-<li><p><25% chance of success</p></li>
+<li><p>less than 25% chance of success</p></li>
 
 <li><p>$300m capital inject in the first week</p></li>
 
