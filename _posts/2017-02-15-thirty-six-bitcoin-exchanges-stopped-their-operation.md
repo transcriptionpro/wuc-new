@@ -6,7 +6,7 @@ author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
 ---
-
+<p><center><img src="/images/btc-trader.png" alt="Bitcoin Trader"/></center></p>
 <p>At the very least <a href="/the-regain-of-bitcoin-will-it-be-strong-enough/">36 bitcoin exchanges</a> have already thrown in the towel and folded up shop. You may only be able to count the number of bitcoin exchanges that you've heard of on one hand, but the world is absolutely full of defunct bitcoin exchanges, and they’re apparently quite hard to keep profitable.</p>
 
 <p>Does this mean that the industry is suffering, or that it’s getting hard to find a bitcoin exchange when you need one?</p>
