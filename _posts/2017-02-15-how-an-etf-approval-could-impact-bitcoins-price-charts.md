@@ -6,7 +6,6 @@ author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
 ---
-
 <p><center><img src="/images/btc-etf-story.png" alt="ETF Approval Could Impact Bitcoin"/></center></p>
 <p>In this guest feature, Woo explores how the <a href="/the-regain-of-bitcoin-will-it-be-strong-enough/">bitcoin market</a> might react if a long-awaited ETF was approved and millions in new capital were injected into the market overnight.</p>
 
