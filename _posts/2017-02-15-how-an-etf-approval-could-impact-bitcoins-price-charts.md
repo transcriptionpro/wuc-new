@@ -25,7 +25,7 @@ published: true
 </ul>
 <p>If this story is fundamentally correct, the picture it paints is quite useful.</p>
 
-<h2>Methodology<h2>
+<h2>Methodology</h2>
 
 <p><center><img src="/images/btc-etf-story-2.png" alt="ETF Approval Could Impact Bitcoin"/></center></p>
 
