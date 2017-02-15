@@ -45,7 +45,7 @@ published: true
 
 <p><center><img src="/images/btc-etf-story-3.png" alt="ETF Approval Could Impact Bitcoin"/></center></p>
 
-<h2>Results and comments<h2>
+<h2>Results and comments</h2>
 
 <p><strong>Fundamental price</strong></p>
 <ul>
@@ -71,7 +71,7 @@ published: true
 
 <p>** At 25% chance price should calculate as $900+$190*4 whereas at 33% probability the calculation would be $900+$190*3</p>
 
-<h2>How does this compare to other reports?<h2>
+<h2>How does this compare to other reports?</h2>
 
 <p><strong>Needham and Company</strong></p>
 <ul>
