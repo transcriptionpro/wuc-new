@@ -1,1 +1,0 @@
-bitcoin-economy-will-be-helpful-to-conceal-greeks-richness.md
