@@ -13,7 +13,7 @@ published: true
 
 <p>According to Chief Scientist Sergio Demián Lerner and co-founder of Rootstock’s (RSK), scaling Bitcoin is a new way introduced by Lumino and that is an upgrade of Bitcoin often called as New Approach to Scalibility charge of the project.</p>
 
-<p>In near the beginning of January,  while all observation were on the price charts, when during bitcoin’s sheer climb to the year-to-date high, Lerner unraveled  the project for the first time, saying in tweeter  that  “I’m working on a new <a href="/the-first-twenty-bitcoin-documentaries/">approach to scalability</a> on PoW-based blockchains. Allows 5K tps over home PCs. Very exciting! Soon I’ll publish!”</p>
+<p>In near the beginning of January,  while all observation were on the price charts, when during bitcoin’s sheer climb to the year-to-date high, Lerner unraveled  the project for the first time, saying in tweeter  that  He is working on a new <a href="/the-first-twenty-bitcoin-documentaries/">journey to scalability</a> on PoW-based blockchains. 5K tps over home Personal Computers will be allowed. Very awesome! He will publish soon!</p>
 
 <p><center><img src="/images/lerner-tweet-1.jpg" alt="Lumino for Better Scalability"/></center></p>
 
