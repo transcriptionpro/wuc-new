@@ -1,64 +1,46 @@
 ---
 layout: post
 title: Needham Says Banning Wont Stop Bitcoin Adoption
-description : Needham & Company LLC on Thursday released a note for investors which entitled Economic and Financial Turmoil Driving Bitcoin Interest & Adoption.
+description : Needham & Company LLC Release Note
 author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
-toc:
-  banning: "Banning Bitcoin"
-  lead: "Lead To Bitcoin Adoption"
-  switzerland: "Adoption In Switzerland"
-  africa: "How To Buy Bitcoins in Africa"
 ---
 
 <center><img src="/images/banning-wont-stop-bitcoin-adoption/adoption-worldwide.jpg" alt="adoption worldwide" /></center>
 
-<p>Needham & Company LLC on Thursday released a note for investors which entitled ‘Economic and Financial Turmoil Driving Bitcoin Interest & Adoption’. The note actually tackles about variety of signs and indicators that would push forward the increase of bitcoin adoption, namely capital controls, demonetization, hyperinflation as well as bitcoin bans.
-<p>On first stages, some factors do have negative effect but Needham considered the possibility that they will ultimately drive <a href="/rich-famous-bitcoin/">bitcoin interest</a> and adoption in the long run.</p>
-{% include page-toc.html %}
-<p>The company acted as lead or co-manager in over 785 public offerings which made them a nationally recognized investment banking and asset management firm focused solely on growth companies and <a href="/confidential-transactions/">confidential transactions</a>.</p>
+<p><a href="/rich-famous-bitcoin/">Economic and Financial Turmoil</a> Driving Bitcoin Interest & Adoption - this is the title of the note circulated by Needham & Company LLC on Thursday.  It tackles the  variety of signs which they believe that would push the increase of Bitcoin adoption onward which includes demonetization, capital controls, hyperinflation and last but not least, Bitcoin bans. </p>
 
-<h3 id="banning">Banning Bitcoin Does Not Produce Results</h3>
+<p>Looking at the perspective, it could be having negativity on first glance but the firm stands with the belief that they will bring Bitcoin interest to the next level.</p>
 
-<p>Needham analyst and author Spencer Bogart explained that some countries will inevitably ban or place onerous regulation on Bitcoin.</p>
+<p>Needham & Company LLC is well known to be focused on growth companies which made them recognized in <a href="/confidential-transactions/">asset management</a> and investment banking in national level.</p>
 
-<p>“While these actions certainly don’t benefit Bitcoin adoption, they typically don’t prevent it either,” he noted, adding that:</p>
+<h2>There's No Point On Banning Bitcoin</h2>
 
-<blockquote>"While some countries have either banned bitcoin or enacted prohibitive regulations, we note that the results appear to be the opposite of the intended effect: interest in bitcoin has skyrocketed in some countries that have banned bitcoin."</blockquote>
+<p>Spencer Bogart - author and <a href="/why-use-bitcoin/">analyst of Needham</a> discussed about some countries who strongly reject and ban Bitcoin.</p>
 
-<p>In his example, he cited Bangladesh particularly the Central Bank’s bitcoin ban in September 2014 which imposed 12 years of jail time for offenders. He iterated in 2016, due to consequently using bitcoin’s share of internet search queries as a proxy for interest in bitcoin, country Bangladesh map became number seven globally with the highest bitcoin interest.</p>
+<p>Even if that move isn't in favor of the Bitcoin adoption, they can't either stop it also.</p>
 
-<p>“Interestingly, the top rising related topics and queries all appear geared toward genuine usage (searches for popular wallets, conversion rates, etc) as opposed to activity related to scams/Ponzi schemes or regulatory news,” he added.</p>
+<center><img src="/images/needham-2.jpg" alt="adoption worldwide" /></center>
 
-<p>Similarly, Bolivia also saw an impale in bitcoin interest and ranks number eight overall for relevant search terms which banned bitcoin in mid-2014.</p>
+<p>He raised Bangladesh as an example particularly the Central Bank's which on September of 2014 jailed offenders for twelve years to impose Bitcoin ban.  With that kind of scenario, the country still on top to be number 7 globally in terms of topmost Bitcoin interest.</p>
 
-<center><img src="/images/banning-wont-stop-bitcoin-adoption/bangladesh-highest-bitcoin-interest.jpg" alt="bangladesh-highest-bitcoin-interest" /></center>
+<p>He also added : The most topic being queried over a proxied internet research were activity being imposed in Ponzi schemes - scams or regulatory news. </p>
 
-<p>The tremendous response Bogart describes on those countries where bitcoin has been outlawed is actually well explain by the Streisand effect, which states that censorship often has unintended consequences, and those who are censored from information will be likely to seek it out even more vigorously than before on <a href="/why-use-bitcoin/">using bitcoin</a>.</p>
+<p>On the same hand, Bolivia (banned BTC in mid of 2014), also triggered spikes in the graphs in terms of Bitcoin interest and ranks overall as number eight for relevant search terms.</p>
 
-<h3 id="lead">Some Other Reasons That May Lead To Bitcoin Adoption</h3>
+<p>This unbelievable pheonomenon of <a href="/bitcoin-trading-with-binary-options/">Bitcoin interest</a> explained by Bogart as the Streisand effect, which is the censorship of one thing has consequences and that strictness draws more interest by the citizens itself. Curiosity is the right term for that one.</p>
 
-<p>Among those reasons that may lead to bitcoin adoption discussed  in the note are capital controls, demonetization, and hyperinflation across several countries which Bogart claimed are  India propelling bitcoin’s rising interest and adoption worldwide.</p>
+<h2>Additional Factors Draws Bitcoin Adoption</h2>
 
-<center><img src="/images/banning-wont-stop-bitcoin-adoption/india-bitcoin-adoption.jpg" alt="india bitcoin adoption" /></center>
+<p>More factors like demonetization, capital controls and hyperinflation also fuels the rising on Bitcoin interests and worldwide adoption as per Bogart's discussion.</p>
 
-<p>Bogart explained that an example for that is India which banned large bills last November and bitcoin’s interest, based on internet search volume and well as trading volume, surged and bitcoin usage has tripled since the ban.</p>
+<p>He site India as an example after banning Bitcoin's large bills on November, Bitcoin's interest burst into the internet which is four times the number of the last time it has been counted before the ban. The trading volume become massive and Bitcoion usage tripled.</p>
 
-<p>Among those reasons that may lead to bitcoin adoption discussed in the note are capital controls, demonetization, and hyperinflation across several countries which Bogart claimed are India propelling bitcoin’s rising interest and adoption worldwide.</p>
+<p>When the inflation rate of 19% which doubles over the past year in Nigeria, there is a massive search interest for BTC within the country, he added. Categorically, same thing happen to Venezuela when the hyperflation of 180%+ problem occurred.</p>
 
-<p>Bogart explained that an example for that is India which banned large bills last November and bitcoin’s interest, based on internet search volume and well as <a href="/bitcoin-trading-with-binary-options/">bitcoin trading</a> volume, surged and bitcoin usage has tripled since the ban.</p>
+<center><img src="/images/needham-3.jpg" alt="adoption worldwide" /></center>
 
-<p>In Nigeria, the rate of inflation has nearly doubled over the past year to 19% which is accompanied by “a rapid increase in search interest for Bitcoin within the country,” he said, adding that in Venezuela the hyperinflation (180%+) problem has been plaguing the economy and it is “driving a surge in Bitcoin interest and trading volume.” Overall, he concluded that:</p>
+<p>In his note, he strongly stated that while other countries opted Bitcoin banning, citizens becoming more and more interested on Bitcoin options. One concrete example are the ticket Kiosks in Switzerland's National Swiss Railway which is scattered over the country and has the ability to buy Bitcoins.</p>
 
-<blockquote>"Driving global interest in bitcoin is also because of interference in the storage and flow of capital is driving global interest in bitcoin."</blockquote>
-
-<h3 id="switzerland">Bitcoin Adoption In Switzerland</h3>
-
-<center><img src="/images/banning-wont-stop-bitcoin-adoption/switzerland-bitcoin-adoption.jpg" alt="switzerland-bitcoin-adoption" /></center>
-<p>Switzerland is one of those countries that have embraced <a href="/bitcoin-trading/">bitcoin trading</a>  while some countries have opted to ban it. They have already added the ability to buy bitcoin at any of the National Swiss Railway ticket kiosks, of which there are over a switzerlandthousand spread around the country. Paying utilities with bitcoin is also possible in the Swiss town Zug. Hence, the country is also reportedly developing a potential licensing of “crypto-banks” which would “create a new category of financial institutions that are able to handle cryptocurrencies such as Bitcoin,” Bogart described.</p>
-
-<p>According to the note, United States followed 20 other countries in bitcoin interest as revealed by bitcoin’s share of internet search queries. “While much of the initial venture activity and interest in bitcoin came from within the United States, international interest has surged,” the note reads. Caracas (Venezuela), Kuala Lumpur (Malaysia), Sandton (South Africa), and Lagos (Nigeria) all exceed the interest from San Francisco and New York, the note revealed.</p>
-
-<h2 id="africa">How To Buy Bitcoins in Africa</h2>
-{% include buy-list-checker.html country="af" %}
+<p>The note also discuss about US which is trailing other twenty countries in Bitcoin interest over internet search queries. Malaysia (Kuala Lumpur), Nigeria (Lagos), Venezuela (Caracas) and South Africa (Sandton) all also exceed the Bitcoin interest from New York and Sanfrancisco, note detailed.  </p>

@@ -4,52 +4,65 @@ title: Tumbling Bitcoins Is A Path Through the Rinse Cycle
 author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
+toc:
+  tumbling: Why Tumbling Bitcoins Necessary
+  mix: How To Mix Coins Using Hidden Web
+  secure: One Hundred Percent Secure
 ---
 
 <center><img src="/images/tumbling-bitcoins-is-a-path-through-the-rinse-cycle/tumbling-bitcoins-a-guide-through-rinse-cycle-image.jpg" alt="tumbling bitcoins a guide through rinse cycle" /></center>
 
-<p>Due to their government's restrictions and strong disagreements in a type of exchange that Bitcoin can, privacy is a must to a lot of people using it for <a href="/confidential-transactions/">confidential transactions</a>. Some speculation says certain Bitcoin-related businesses may blacklist you due to using gambling sites. You can find in this article what are those few pointers on the variety of techniques of tumbling Bitcoin by sending satoshis through the laundry.</p>
+<p>In terms of Bitcoin, people tend to be more cautious particularly on privacy, and that is because their government disagrees on the type of exchange they are dealing with. Gambling sites also is one of the reason why some Bitcoin users were prompted when by <a href="/confidential-transactions/">Bitcoin-related business</a>.</p>
+{% include page-toc.html %}
+<p>Carrying Satoshis into the laundry - are one of the various techniques and pointers that this article is going to tackle about.</p>
 
-<h2>Why Tumble Bitcoins?</h2>
+<h2 id="tumbling">Why Tumbling Bitcoins Necessary? </h2>
 
-<p>Complaints on forums about Coinbase arouse recently after using gambling sites, which already been  experienced a few years ago. It is clearly stated in Coinbase's user agreement that gambling sites are not acceptable. And to those who visited marketplaces and uses the Dark Net, which is not only frowned upon by some Bitcoin service providers, but also puts these users at risk of jail time and criminal penalty.</p>
+<p>There have been <a href="/how-use-bitcoin-anonymously/">forum complaints recently</a> about Coinbase being used in gambling sites and it's already been happen for years. A strong statement from Coinbase that they are firm on what has been stated in their user agreement and it is not acceptable to use site like that. </p>
 
-<p>There should be an extra safety measure when using Dark Net Markets (DNM) and visiting gambling sites by staying anonymous on a transparent and public blockchain. One can use by obfuscating their IP address, using a VPN, and surfing the net with an anonymizing browser in order to <a href="/how-use-bitcoin-anonymously/">implement bitcoin anonymity</a>.</p>
+<p>Dark Net users also who visited marketplaces are not just being prompted by some Bitcoin service providers but also having the high risk of imprisonment for criminal penalties.</p>
 
-<p>On the other hand, we will be discussing another <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">bitcoin method of privacy</a> called coin tumbling, coinjoin, or coin shuffling today. Although some altcoins practice this natively within every transaction, we will focus on using tumblers with Bitcoin.</p>
+<p>Safety measure should be observe when using DNM or Dark Net Markets and gambling sites by having anonymity profile and public blockchain. There are lots of methods of how to become anonymous, one of it is by hiding IP addresses, or using Virtual Private Network or using incognito browsers.</p>
 
-<p>Coin tumbling platforms basically shuffle a bunch of transactions together like a deck of cards where eventually everyone gets the money back while obfuscating the origin of the funds.</p>
+<p>On the above options, we will be tackling about another way of <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">privacy called coin tumbling</a>, coin shuffling or coinjoin. Some altcoins also perform this method natively on every transaction but we will just be focusing on tumbling using Bitcoins.</p>
 
-<p>Your bitcoins on the clearnet or over the hidden web using Tor, for example, can  mix with a tons of websites. Some of them include Bitcoinlaundry, Bitmix, Bitlaundry, and even Blockchain.info which has a mixing service within their interface. Then DNM’s such as the Dream Market and Alphabay have coin tumblers at their marketplaces, among many other mixing services found on the deep web.</p>
+<p>Like a set of deck of cards, Bitcoin tumbling platform will be shuffling multiple transactions together with the assurance of everyone gets back their money while being cast in the shadow.</p>
 
-<h2>Mixing Coins via the Hidden Web</h2>
+<p>Lots of websites offers that kind of method where they will be mixing your BTC on the clearnet by using Tor in the hidden web for example. Example of those site are :</p>
+<ul>
+<li>1. Bitmix</li>
+<li>2. Bitlaundry</li>
+<li>3. Blockchain[dot]info</li>
+<li>4. Bitcoinlaundry</li>
+</ul>
+<p>They have interfaces that offers mixing of coin services. Then Dark Net Markets like Alphabay and Dream Market also having the tumblers on their  shops and many more offers the same services that you can found in the deep web.</p>
 
-<p>If you want to include more privacy to you transactions, you should probably do so over the deep web with multiple layers of obfuscation. You can send bitcoins to a wallet using clearnet first and also create a wallet under the cloak of Tor using wallets like Electrum.</p>
-
-<p>The method which is called first hop and adds just another layer of confusion is actually the second process which is sending the Bitcoin you want to mix from the clearnet wallet to the one created via the hidden web.</p>
-
-<p>And then, the last wallet you created you can continue creating a few wallets over Tor and completing hops depending on how far you want to go with privacy.</p>
-
-<p>And finally, a user simply chooses a trusted Bitcoin mixing service and takes precaution on making sure the URL is 100% correct.</p>
+<h2 id="mix">How To Mix Coins Using Hidden Web</h2>
 
 <center><img src="/images/tumbling-bitcoins-is-a-path-through-the-rinse-cycle/random-size-conjoin-transaction-image.jpg" alt="random-size-conjoin-transaction.jpg" /></center>
 
-<p>Most of all mixing services will charge fee for by means of their platform to do a mix, and some of them can be somewhat substantial. On the other hand, some could give you a high layer of anonymity with their premium services. Phishing sites are also threats that when using these services, you have to make sure on dealing with a correct and precise URL.</p>
+<p>For those who are interested in safe guarding more on their transactions, deep web has also manifold layers of obfuscation.  You just have to send Bitcoins into a certain wallet who uses clearnet and also creating a wallet with a cloak of Tor using Electrum.</p>
 
-<p>When the mixing is fully completed, sending of funds to the address created with Tor should be perform and some people would say you should send the funds to multiple addresses rather than just one. One can choose whatever methods they feel is best to protect themselves since everything is based on preference.</p>
+<p>The second method is by sending using the hidden web of Bitcoin you need to mix from a clearnet wallet to the one newly created. This process added another layer of confusion and is called the first hop.</p>
 
-<p>It is important to note what can happen when someone enters the wrong direction. A moment ago, after tumbling, one user sent the wrong fee of 291 bitcoin. That was a pretty big mistake, and ordinary users most likely don’t send an amount that large, but you never know.</p>
+<p>After that, you can create few more wallets using the wallet you created over Tor and depending on the privacy you want to implement for the hops you want to establish.</p>
 
-<p>Double checking every step you make is a good way to avoid mistakes like this when it comes to fee rates or website URLs.</p>
+<p>Finally, certain users can just trust Bitcoin mixing services by doing precautions that the URL being used is One Hundred percent correct.</p>
 
-<h2>Tumbling Still Not 100% Secure</h2>
+<p>Some of the mixing services are considerable in terms of fees and yes, most of them will charge you for using their platform to do mixing services. When you are interested on premium fees, then you can get a very good layer of anonymity services. Some phishing and scam site are also around the web so you have to be very vigilant on the right URL you are working on.</p>
 
-<p>There's no such software or cryptographic framework to date that is 100% anonymous, a very important thing to ponder. Users can play around with altcoins such as Dash or Monero if they believe these tokens do a better job at obfuscating transactions.</p>
+<p>After mixing of those coins, you should be able to send those Bitcoins to addresses created by Tor and most of the people are suggesting that sending it to multiple addresses is way more safety than just one. Hence, the above is just left as your freedom of choice for whatever convenience you have to part take in terms of protecting your privacy.</p>
 
-<p>Monero uses what’s called ring signatures which shuffle tokens in an entirely different manner, while Dash uses a coin-mixing method based on the CoinJoin protocol. But even the privacy-centric altcoins are not perfect and very admired mixing services for Bitcoin like JoinMarket have been known to be susceptible.</p>
+<p>One thing also needs to be considered is when someone enters a wrong information. Previously, one user just sent 291 BTC after tumbling. New users don't usually send that large of amount but it happens to ordinary users.</p>
 
-<p>Together with these platforms, other people have been using <a href="/bitcoin-vpns/">bitcoin VPN</a> or Virtual Private Network to protect privacy and hopping or splitting funds among addresses. There's a report recently according to some software creators that a tracking service called BitCluster, can track user activity if all funds are sent to one address, even after tumbling.</p>
+<p>Securing every details specially entering fees rates and URLs is the best way to get you out of trouble.</p>
 
-<p>At the same time, Bitcoin tracking services are becoming more prevalent these days as companies like Elliptic and Chainalysis are building protocol that monitors the Bitcoin blockchain for illegal activities.</p>
+<h2 id="secure">Bitcoin Tumbling Isn't One Hundred Percent Secure</h2>
 
-<p>Privacy is important and users should take precautions when using Bitcoin on DNMs or gambling platforms. Please perform due diligence and research prior to using any of the above-mentioned methods for mixing Bitcoins.</p>
+<p>One thing for sure these days is that there's no cryptographic framework or even software that is one hundred percent anonymous. Users can fool around with various altcoins like Monero and Dash if they are convince that these tokens are more safer in dealing with transactions.</p>
+
+<p>Ring signatures has been used by Monero while Dash is based on <a href="/bitcoin-vpns/">Coinjoin protocol mixing method</a>, both of them shuffles tokens in a completely different manner. But even this ideal privacy services of altcoins aren’t enough and very well known combination services for Bitcoins like JoinMarket which is known to be weak.</p>
+
+<p>VPN or Virtual Private Network is one way of protecting privacy of users when doing transactions or splitting funds towards multiple addresses. Recently, BitCluster has ben spotted as tracker for user's activity if one address has been a recipient even after tumbling, software creator says.</p>
+
+<p>On the otherhand, companies like Chainalysis and Elliptic are creating protocols that enables the monitoring of Bitcoin blockchain on not legal activities.</p>
