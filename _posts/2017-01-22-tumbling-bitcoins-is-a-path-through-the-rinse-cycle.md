@@ -13,7 +13,7 @@ toc:
 <center><img src="/images/tumbling-bitcoins-is-a-path-through-the-rinse-cycle/tumbling-bitcoins-a-guide-through-rinse-cycle-image.jpg" alt="tumbling bitcoins a guide through rinse cycle" /></center>
 
 <p>In terms of Bitcoin, people tend to be more cautious particularly on privacy, and that is because their government disagrees on the type of exchange they are dealing with. Gambling sites also is one of the reason why some Bitcoin users were prompted when by <a href="/confidential-transactions/">Bitcoin-related business</a>.</p>
-
+{% include page-toc.html %}
 <p>Carrying Satoshis into the laundry - are one of the various techniques and pointers that this article is going to tackle about.</p>
 
 <h2 id="tumbling">Why Tumbling Bitcoins Necessary? </h2>
