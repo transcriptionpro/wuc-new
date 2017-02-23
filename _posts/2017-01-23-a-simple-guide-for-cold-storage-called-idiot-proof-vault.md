@@ -7,52 +7,49 @@ published: true
 ---
 <p><center><img src="/images/a-simple-guide-for-cold-storage-called-idiot-proof-vault/idiot-proof-vault.jpg" alt="idiot proof vault"/></center></p>
 
-<p>Keeping bitcoins safe is one of the most important responsibilities in the world of digital assets. As the price of bitcoin continues to climb, <a href="/segregated-witness/">exchanges and wallet providers</a> become more susceptible to theft. The best way to keep your bitcoins safe is storing them yourself offline in what’s called cold storage.</p>
+<p>In the digital assets world, since the price of <a href="/segregated-witness/">bitcoin increases continuously</a>, hence making exchanges and wallet providers more vulnerable to theft, keeping them safe is one of the most vital things to keep in mind. Cold Storage – storing your bitcoins offline, is the best way to keep it safe.</p>
+ 
+<h2>Creating Cold Storage Using a Paper Wallet  </h2>
 
-<h2>Creating Cold Storage Using a Paper Wallet</h2>
+<p>Cold storage is just like any other practices of storing cryptocurrency offline but in the bitcoin world. Using encrypted devices, a bearer instrument (physical bitcoin), a hard drive or USB drive, a hardware wallet, and a paper wallet, bitcoin users can choose to store their bitcoins.  Paper wallet is one of the most well-known practices since it is significantly low cos and acts as a cash-like device.</p>
+ 
+<p>Now let’s discuss how to start a simple paper wallet for storing digital assets offline. Always double check your steps upon creating a paper wallet since using it still has various vulnerabilities. There are certain steps that can be done to reduce some risks. Start with hiding and keeping your paper wallet out of sight. </p>
 
-<p>In the bitcoin space, cold storage refers to various practices of storing cryptocurrency offline. Bitcoin users can opt to store their digital currency using encrypted media, a bearer instrument (physical bitcoin), a hard drive or USB drive, a hardware wallet, and a paper wallet. One of the most popular methods is the paper wallet because it’s significantly cheaper and acts as a cash-like medium.</p>
-
-<p>Today we’re going to discuss how to set up a <a href="/introduction-bitcoin-paper-wallets-cold-storage/">simple paper wallet</a> to store your digital assets offline. Storing your bitcoins using a paper wallet can still have various vulnerabilities so always double check your steps while creating one. There are a few methods to follow to mitigate certain risks.</p>
-
-<p>First and foremost is keeping your paper wallet hidden and out of sight. Second is using a quality printer that doesn’t let the ink bleed and is not connected to the internet. Lastly, paper can be damaged so laminating may help quite a bit and storing in a dry fireproof atmosphere is a very good idea.</p>
-
+<p>Next will be using a good printer that doesn’t make the ink bleed and not connected to the internet as well. Finally, laminating the paper is really a great help as well as keeping it a dry <a href="/introduction-bitcoin-paper-wallets-cold-storage/">fireproof environment</a> since paper can be easily damaged if stored otherwise.</p>
+ 
 <h2>Getting Started</h2>
 
-<p>The first things you will need to begin is some bitcoins, a printer, and a bitcoin wallet with QR reading capabilities. In WeUseCoin.com’s tool section, we have a paper wallet creator that is very easy to use and takes just a few minutes. There are other paper wallet providers that offer a similar experience for creating paper wallets.</p>
+<p>To begin, you will need some bitcoins, a printer and a bitcoin wallet with QR reading potential. We can find a user friendly paper wallet creator in Bitcoin.com’s tool section and it can be done in just a few minutes. Almost the same experience can be offered by other providers for making paper wallets.  </p>
 
-<p>When you access our paper wallet creator tool, you start by generating an address. To do this all one has to do is move their mouse around the screen and the application generates a random set of keys.</p>
+<p>You start by making an address upon accessing our paper wallet creator tool and to achieve this, just move the mouse around the monitor and the application makes a random set of keys.</p>
+ 
+<p>A public and private key will be seen on the monitor by the time the key generator gets to 100 percent. The creation of paper wallet is now ready to be paper printed, bitcoin-filled and can also be added with a BIP38 passphrase which encrypts your paper wallet securing the safety of your funds if wallet is stolen and somehow exposed.  </p>
 
 <p><center><img src="/images/a-simple-guide-for-cold-storage-called-idiot-proof-vault/randomgen.jpg" alt="random generator"/></center></p>
 
-<p>As soon as the key generator reaches 100 percent, a public and private key will be displayed on the screen. The paper wallet creation can now be printed on paper, loaded with bitcoins, and a BIP38 passphrase can also be added. A BIP38 passphrase encrypts your paper wallet ensuring your <a href="/bitcoin-scams-how-stay-safe/">funds will be safe</a> if the wallet was stolen or somehow exposed.</p>
+<p>An attacker needs to type in the paraphrase to get hold of the funds if the user has encrypted the wallet with BIP38 although it is not recommended to use with your first paper wallet except if you’re familiar with the process already. During instances where the passphrase is gone or forgotten, the funds will never be used. </p>
 
-<p>If a user decides to encrypt the wallet with BIP38 an attacker would need to enter the passphrase in order to obtain the funds. Using BIP38 encryption is not recommended for your first paper wallet unless you are comfortable with the process.</p>
-
-<p>If the passphrase is lost or forgotten the funds can never be spent. However, using BIP38 adds a second layer of protection on top of the safekeeping methods of storing your physical paper wallet.</p>
-
-<p>Keeping the private key hidden is critical because if someone has access to the private key the coins can be easily spent. <a href="/amazing-math-bitcoin-private-keys/">Backing up the private key</a> is a good idea because you will need this information yourself to spend the funds.</p>
+<p>But, on top of securing methods of storing the physical <a href="/bitcoin-scams-how-stay-safe/">paper wallet</a> safely, using BIP38 doubles the layer of protection.  </p>
 
 <p><center><img src="/images/a-simple-guide-for-cold-storage-called-idiot-proof-vault/keys.jpg" alt="keys"/></center></p>
 
-<p>The public key is used to load bitcoins into the storage address and to verify the funds using a block explorer. You can share your public key with anyone if you want bitcoin sent to you from someone else. If you decide to encrypt the paper wallet with a BIP38 passphrase, you will need the password to access your digital assets. Furthermore, you can also import your private key into a p2p client wallet at any time.</p>
+<p>It is very crucial to keep the private key in a safe place because if someone can get ahold of it, the coins can be spent easily. It is wise to back up your private key because this information is needed to use your funds.</p>
+ 
+<p>The public key can be used in a lot of ways; to put bitcoins into the storage address, to validate funds using block explorer and to make bitcoins sent to you from others by sharing it with them. </p>
 
-<p><center><img src="/images/a-simple-guide-for-cold-storage-called-idiot-proof-vault/paper.jpg" alt="paper wallet"/></center></p>
-
+<p>A password is required to gain entry to your digital assets if you opted to use BIP38 passphrase to encrypt the paper wallet. Additionally, your private key can be transferred into a p2p client wallet anytime.</p>
+ 
 <h2>Practice Makes Perfect</h2>
 
-<p>Creating a paper wallet is very simple. The hardest part is the responsibility of taking care of the paper responsibly by using safe storage locations, backing up your keys and remembering your BIP38 passphrase. If the paper wallet creation is perfected <a href="/bitcoin-cold-storage/">utilizing it for cold storage</a> is one of the safest methods possible.</p>
+<p>Although it is very easy to make a paper wallet but the most challenging part is making sure to secure the paper responsibly by the use of storage locations that are safe, backing keys up and taking note of your BIP38 passphrase. The most secured way possible of a perfect paper wallet creation is using it for cold storage.</p>
+ 
+ <p><center><img src="/images/a-simple-guide-for-cold-storage-called-idiot-proof-vault/paper.jpg" alt="paper wallet"/></center></p>
 
-<p>Paper wallets can be a pretty cool bearer bond instrument and its one of the closest ways a person can emulate the aspects of cash with cryptocurrency. Moreover, the practice described above can work with other physical mediums as well such as engraving a piece of metal, printing plastic cards, and if you’re confident enough you can hold the keys in your brain.</p>
+ 
+<p>Paper wallets can be used as a great bearer <a href="/bitcoin-cold-storage/">assurance tool</a> and it can be easily emulated by a person in the aspects of cash with cryptocurrency. Other physical instrument can also be used with the practice explained above like engraving a piece of metal, plastic card printing and storing the keys in your brain if you’re confident enough.</p>
+ 
+<p>Losing bitcoins by mistake won’t be significant if you always start using little amounts of it; hence making it the greatest way to practice improving cold storage. You will get used to and be comfortable with cold storage practices if you spend more time practicing it.</p>
+ 
+<p>Now let’s summarize the procedure. First is going to a paper wallet creator to generate an address. Second, move the mouse to generate random keys. Typing on your keyboard can be done as well. Next is printing after public/private key is created. </p>
 
-<p>The best way to practice perfecting cold storage is to always start with small amounts of bitcoins. This way if you suffer a loss from a mistake it won’t be that significant. The more you practice, the more comfortable you will be with cold storage practices.</p>
-
-<h2>Let’s Review:</h2>
-
-<p><strong>1.</strong> Visit a paper wallet bitcoin address generator</p>
-<p><strong>2.</strong> Generate random keys by moving the mouse or typing on your keyboard</p>
-<p><strong>3.</strong> After the bitcoin public / private keys are created you can then print</p>
-<p><strong>4.</strong> Add BIP38 passphrase (optional), load public address with bitcoins, store private key in a secure location</p>
-<p><strong>5.</strong> Store your savings offline or give some bitcoin cash to friends!</p>
-
-
+<p>Then you can decide to add a BIP38 passphrase, load public address with bitcoins and secure private key in a safe location. Lastly, storing your savings online or giving some bitcoin cash to friends.</p>

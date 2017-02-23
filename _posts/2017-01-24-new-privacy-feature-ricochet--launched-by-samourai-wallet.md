@@ -8,37 +8,43 @@ published: true
 
 <p><center><img src="/images/new-privacy-feature-ricochet-launched-by-samourai-wallet.jpg" alt="samourai-wallet"/></center></p>
 
-<p>The developers of the privacy-centric bitcoin wallet, Samourai, have announced a new feature that claims to “improve fungibility and frustrate blockchain spies.”</p>
+<p>"Frustrate spies and improve fungibility" - that how the <a href="/how-to-keep-your-bitcoin-privacy-and-security-online/">developers and creators of Samurai</a> - a private centric wallet for their new feature of their product and services</p>
 
-<h2>Samourai Unveils a Premium Bitcoin Transaction Hop Service</h2>
+<h2>Samourai's New Revelation - Transaction Hop Service Premium Bitcoin </h2>
 
-<p>Launched in the spring 2015, the creators of the Samourai bitcoin wallet have been staunch advocates of <a href="/how-to-keep-your-bitcoin-privacy-and-security-online/">bitcoin privacy and fungibility</a>. The Android-based wallet uses military grade AES-256 encryption and keeps private keys in the hands of the owner.</p> 
+<p>Primary objectives of the creators of the <a href="/how-banks-can-benefit-from-blockchain/">Bitcoin wallet named Samourai</a> is the fungibility and Bitcoin privacy which they have launched on spring of 2015. It is an Android-based wallet that has AES-256 - a military kind of encryption and only the owner can keep it in hand. </p>
 
-<p>The team recently revealed Ricochet, which is a feature that adds four additional hops to a transaction. The Samourai team explains that thousands of transactions are flagged and blacklisted by blockchain spies on a daily basis.</p>
+<p>The developers recently named Ricochet as a feature that adds 4 hops in addition to a transaction. The team of Samourai iterates that there are thousands of transactions everyday that has been blacklisted with blockchain spies.</p>
 
-<p>“<a href="/how-banks-can-benefit-from-blockchain/">Bitcoin banks and exchanges</a> freeze funds and suspend users based on blacklists published by blockchain spies,” explains the Samourai developers. “Blockchain spies look at the history of your coins around five hops deep. </p>
+<p>"Bitcoin banks and trades solidify supports and suspend clients in view of boycotts distributed by blockchain spies," clarifies the <a href="/bitcoin-cold-storage/">Samourai engineers</a>. "Blockchain spies take a gander at the historical backdrop of your coins around five bounces profound. </p>
 
-<p>Your coins can be frozen for their past activity. Even if they weren’t in your control. Ricochet adds four additional hops to a transaction—by adding additional hops before the coins reach their final destination, the blockchain spies would need to look ten hops backwards, increasing their costs and overheads.”</p>
+<p>Your coins can be solidified for their past action. Regardless of the possibility that they weren't in your control. </p>
 
-<h2>A New Way to Monetize a Wallet Project?</h2>
+<p>Ricochet adds four extra bounces to an exchange—by including extra jumps before the coins achieve their last goal, the blockchain spies would need to look ten jumps in reverse, expanding their expenses and overheads."</p>
 
-<p>Many have wondered in the past how a <a href="/bitcoin-cold-storage/">wallet company can sustain</a> itself offering a free service. One Reddit user commented during the announcement saying, “Interesting feature and one way that a small wallet team can monetize a wallet without resorting to an ICO scam. I think this is the type of revenue model that wallet devs should pursue.”</p>
+<h2>A New Technique To Earn A Wallet Project</h2>
 
-<p>The Samourai developers say that is exactly what they aim to accomplish rather than monetize by pushing users towards “the arms of Know Your Customer (KYC) merchants.” Some commentators said they didn’t appreciate the bold characterization of other wallet developers who abide by overarching KYC policies. Samourai explains that they have nothing personal against these programmers monetizing in this fashion. It is just something on which the team will never compromise.</p>
+<p>There are lots of questions before how <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">Bitcoin wallet companies</a> offering free services can sustain in their business.  One user comment on Reddit says how interesting feature and method that a little wallet firm can earn a wallet without moving in to an ICO scam. Which he thinks that it is the type of implementation that developer should follow.</p>
 
-<p>“We don’t see any KYC-related functionality as useful,” detail Samourai developers. “Those who disagree have plenty of options to choose from. As for revenue, it should be clear by now that we are not interested in monetizing via fiat.”</p>
-
-Samourai Hopes to Curb the Growing Environment of Blockchain Spying
-
-<p>Blockchain spying has increased significantly over the past two years, and some businesses are using tracing services. If there are connections to a frowned upon activity within the transaction hops analyzed, many companies may freeze your bitcoin account. The Samourai team views this as a <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">privacy problem for bitcoin</a>.</p>
-
-<p>Ricochet collects the inputs and miner fees needed for the transaction, and the user also pays 0.001 BTC to Samourai to process the ricocheted transaction. Each hop transaction maintains one input and one output with the final transaction. The team explains the process does not eliminate blacklisting entirely but “fungibility is preserved by moving funds to an address out of the line-of-sight of ill-intentioned actors.”</p>
+<p>In reply to that, Samourai developers actually said that their approach is similar to what has been in the comment and that they don’t want to push users towards KYC or Know Your Customers merchants. On this reply of the Samourai team, commentators reacted and didn’t appreciate gallant characterization of other wallet creators. </p>
 
 <p><center><img src="/images/new-privacy-feature-ricochet-launched-by-samourai-wallet-ricochet.png" alt="Ricochet"/></center></p>
 
+
+<p>Samourai give details that they have not anything personal in opposition to these developers monetizing in this way. It is just a bit on which the company will never give and take.</p>
+
+<p>Samourai developers says they don't see any useful means to implement KYC functionality. Those who opposes the idea have a lot of options to take on. For the moment they aren't interested on monetizing the services.</p>
+
+<h2>Samourai Wants to Control The Booming Environment of Spying Blockchain</h2>
+
+<p>Some businesses find blockchain spying to be more efficient and significance for the past two years in tracing their services. If there's something wrong with the transactions, these businesses can freeze BTC accounts specially if they detect transaction hops. The Samourai developers think of it as Bitcoin privacy problem.</p>
+
+<p>Ricochet collects the inputs and miner fees needed for the transaction, and the user also pays 0.001 BTC to Samourai to process the ricocheted transaction. Each hop transaction maintains one input and one output with the final transaction. The team explains the process does not eliminate blacklisting entirely but “fungibility is preserved by moving funds to an address out of the line-of-sight of ill-intentioned actors.”</p>
+
 <h2>Privacy Activism at the Forefront</h2>
 
-<p>Since the Samourai wallet was introduced, the project has always focused on privacy and believes it is a successor to the largely abandoned Dark Wallet project. The team has added numerous features to the platform, like the ability to swipe the app off the phone from a remote location. The team considers themselves activists on a mission to provide a more fungible bitcoin experience for users.</p>
+<p>Since the Samourai wallet was presented, the venture has constantly centered around security and trusts it is a successor to the to a great extent surrendered Dark Wallet extend. The group has added various components to the stage, similar to the capacity to swipe the application off the telephone from a remote area. The group views themselves as activists determined to give a more fungible bitcoin encounter for clients.</p>
 
-<p>“We are privacy activists who have dedicated our lives to creating the software that Silicon Valley will never build, the regulators will never allow, and the VC’s will never invest in. We build the software that Bitcoin deserves,” reads the Samourai developer’s motto.</p>
+<p>"We are protection activists who have devoted our lives to making the product that Silicon Valley will never construct, the controllers will never permit, and the VC's will never put resources into. We construct the product that Bitcoin merits," peruses the Samourai engineer's witticism.</p>
+
 
