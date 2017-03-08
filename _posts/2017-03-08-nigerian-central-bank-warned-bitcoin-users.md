@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Nigerian Central Bank Warned Bitcoin Users
 description: Nigerian Central Bank Warned Bitcoin Users
