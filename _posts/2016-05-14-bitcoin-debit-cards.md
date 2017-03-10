@@ -7,12 +7,12 @@ description: The Five Best Bitcoin Debit Cards - Learn how to get a Bitcoin debi
 seotitle: The Five Best Bitcoin Debit Cards - Learn how to get a Bitcoin debit card which makes spending bitcoins at any merchant easy.
 published: true
 toc: 
-  cryptopay: Cryptopay VISA Debit Card
   spectrocoin: SpectroCoin Debit Card
   bitpay: Bitpay VISA Debit Card
   xapo: Xapo Debit Card
   coinbase: Coinbase Shift Card
   bitwala: Bitwala VISA Debit Card
+  cryptopay: Cryptopay VISA Debit Card
   avoid: Services To Avoid
 ---
 <p>Bitcoin debit cards help bridge the Bitcoin world with traditional finance and you can either buy Bitcoins with your debit card or load a debit card with bitcoins to then spend bitcoins at almost any credit card accepting merchant.
@@ -21,13 +21,6 @@ toc:
 <p><center><a href="http://geni.us/indacoin"><img src="https://www.weusecoins.com/images/indacoin-250x250.jpg" alt="IndaCoin - Buy Bitcoins with Credit Card"/></a></center>
 <p>While Bitcoin debit cards do not allow users to spend bitcoins directly they at least allow people to store balances in bitcoin.
 <p>Since most debit card top ups only take a few seconds to confirm then bitcoin balances can be held up until the need to spend.
-
-<p><h2 id="cryptopay">Cryptopay Debit Card</h2>
-<p><center><img src="/images/cryptopay-debit-card.png" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
-<p>The oldest and most established Bitcoin debit card, the <a href="http://geni.us/cryptopay">Cryptopay bitcoin debit VISA card</a> with over 23,000 issued. Cryptopay bitcoin cards have made it simple for customers to spend bitcoins at millions of businesses around the world.
-<p>For purchases both online and offline, Cryptopay makes the process convenient for users and easier than ever for merchants.
-<p>There are both plastic and virtual Cryptopay Bitcoin cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
-<p>Costs range between €15.00, £15.00, $15.00 and €2.50, £2.50, $2.50 depending on currency, location and card limits.
 
 <p><h2 id="spectrocoin">SpectroCoin VISA Debit Card</h2>
 
@@ -72,6 +65,12 @@ toc:
 <p>Denominated in Euros, the Bitwala debit card can be used to pay online and offline where VISA is accepted. Cardholders can also cash out at any ATM worldwide with the best rates and transparent fees.
 <p>Bitwala offers 2 shipping plans: Free of charge (Arrives 7-10 days after purchase, no tracking information) and express shipping that costs €69.00 (Arrives 3-5 days after purchase incl. tracking information). 
 
+<p><h2 id="cryptopay">Cryptopay Debit Card</h2>
+<p><center><img src="/images/cryptopay-debit-card.png" alt="IndaCoin - Buy Bitcoins with Credit Card"/></center>
+<p>The oldest and most established Bitcoin debit card, the <a href="http://geni.us/cryptopay">Cryptopay bitcoin debit VISA card</a> with over 23,000 issued. Cryptopay bitcoin cards have made it simple for customers to spend bitcoins at millions of businesses around the world.
+<p>For purchases both online and offline, Cryptopay makes the process convenient for users and easier than ever for merchants.
+<p>There are both plastic and virtual Cryptopay Bitcoin cards issued. Cryptopay customers are not required to complete ID verification provided if they are happy to stay within the lower debit card limits. It is possible to stay anonymous where desired.
+<p>Costs range between €15.00, £15.00, $15.00 and €2.50, £2.50, $2.50 depending on currency, location and card limits.
 
 <p><h2 id="avoid">Services To Avoid</h2>
 <p><b>BitPlastic</b> - was among the first Bitcoin debit cards. However, they do not appear to be innovating much.
