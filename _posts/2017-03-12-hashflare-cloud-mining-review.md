@@ -77,3 +77,6 @@ toc:
 <h2 id="conclusion">Conclusion</h2>
 
 <p>HashFlare has a competitive price and a lot of offers like <a href="/dubai-to-host-a-new-world-blockchain-forum/">maintenance fees and bonuses</a>. They are not the most trusted cloud mining company though but they runs smoothly that in the future could gain more confidence from customers. </p>
+
+Feel Free to use my referral link to sign up for <a href="http://geni.us/hashflare">HashFlare’s Cloud Mining Service!</a>
+
