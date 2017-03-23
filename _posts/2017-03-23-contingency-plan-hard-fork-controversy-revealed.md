@@ -58,6 +58,8 @@ toc:
 
 <h2 id="topic">Community Topic Continuation</h2>
 
+<p><center><img src="/images/contingency-plan-4.jpg" alt="Hard Fork"/></center></p>
+
 <p>During press time <a href="/dubai-to-host-a-new-world-blockchain-forum/">BU or Bitcoin Unlimited</a> has approximately 35 % of mining bolster so despite everything it might be a while before any guessed split occasion happens. It's sheltered to state starting at right now nobody can foresee who will legitimately guarantee the BTC name and marking, particularly with a letter of plan that is debated by other surely understood exchanges.</p>
 
-<p><center><img src="/images/contingency-plan-4.jpg" alt="Hard Fork"/></center></p>
+
