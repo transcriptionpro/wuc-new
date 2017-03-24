@@ -866,7 +866,7 @@
   trial: No
   refund: 30
   desc: HideMyAss is perhaps one of the most well-known VPN providers. It offers an extensive network with 933 VPN servers in over 190 countries.
-  url: https://www.hidemyass.com
+  url: http://geni.us/hidemyass
   img: hma.png
 - service: Hotspot Shield
   country: Switzerland
