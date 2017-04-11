@@ -21,7 +21,7 @@ toc:
 
 {% include page-toc.html %}
 
-<h2 id="surveys">1. Fulfill surveys to score free Bitcoin<h2>
+<h2 id="surveys">1. Fulfill surveys to score free Bitcoin</h2>
 
 <p>You have probably tried to answer one survey or <a href="/bitcoin-etfs-not-likely-in-the-future/">several surveys in your lifetime</a>, however do you know that you could earn something from it?</p>
 
@@ -43,7 +43,7 @@ toc:
 <li>Bitcoin Reward</li>
 <li>BitcoinGet</li>
 </ul>
-<h2 id="click">2. View websites, try out Apps and click Bitcoin Ads<h2>
+<h2 id="click">2. View websites, try out Apps and click Bitcoin Ads</h2>
 
 <p>Another form of gaining free Bitcoin is to visit websites that offers “bonus programs”</p>
 
@@ -56,7 +56,7 @@ toc:
 <p>Bonus programs mostly don’t require users to create an account, but your Bitcoin address is required to be shared. </p>
 
 
-<h2 id="jobs">3. Apply for Bitcoin online jobs (i.e. freelance)<h2>
+<h2 id="jobs">3. Apply for Bitcoin online jobs (i.e. freelance)</h2>
 
 <p>Discover something you know enjoy as well as good at and propose your services online. </p>
 
@@ -71,7 +71,7 @@ toc:
 <li>Moneo.io</li>
 <li>BitcoinTalk's “Services” category</li>
 </ul>
-<h2 id="affiliate">4. Enter a Bitcoin Affiliate Course<h2>
+<h2 id="affiliate">4. Enter a Bitcoin Affiliate Course</h2>
 
 <p>People have been gaining money online via affiliate marketing throughout the years and due to revolution of Bitcoin taking place currently, it’s not a big deal that affiliate campaigns which are based on Bitcoin have also appeared. </p>
 
@@ -163,7 +163,7 @@ toc:
 <p>Shamelessly making myself again as an example, I have been promoting connected programs for 24 months now and I earn as much as one thousand bucks every week for doing it. </p>
 
 
-<h2 id="signature">5. Forum-based signature campaigns for Bitcoin<h2>
+<h2 id="signature">5. Forum-based signature campaigns for Bitcoin</h2>
 
 <p>If you are someone who enjoys staying in Bitcoin forums like Bitcoin Talk, it’s about time you enter a signature campaign. It is a source of additional bonus to the threads you have started and replies made – even if it’s very shitty. </p>
 
@@ -182,7 +182,7 @@ toc:
 <p>Be cautious of signature deals which sound too perfect to be true – except if the deal is escrow protected.  (I.e. the deal is middle-manned by a reliable member of the community)</p>
 
 
-<h2 id="money">6. Make money via Bitcoin faucets<h2>
+<h2 id="money">6. Make money via Bitcoin faucets</h2>
 
 <p>Typically in exchange for captcha or task completion, free Bitcoins are dispensed through a bitcoin faucet which is a form of a “reward system”. Consider it as a new way to bribe the web for additional web traffic.</p>
 
@@ -215,7 +215,7 @@ toc:
 <p>There are Bitcoin casinos that give out Bitcoin showers, which normally pay as much amount like a faucet. Bitcoin rain and Bitcoin faucet differs between rain money being is distributed to everyone at once. Aside from that, it’s just the same thing.</p>
 
 
-<h2 id="tips">7. Tips You Get with Bitcoin<h2>
+<h2 id="tips">7. Tips You Get with Bitcoin</h2>
 
 <p>In this day and age, tipping has turned out to be ordinary. </p>
 
@@ -235,7 +235,7 @@ toc:
 
 <p>Along these lines, in the event that you'd rather play a genuine diversion, then spend throughout the day entering captchas on conventional fixture sites, then maybe Bitcoin amusements are a superior answer for you.</p>
 
-<h2 id="mining">9. Get Bitcoin Thru Mining<h2>
+<h2 id="mining">9. Get Bitcoin Thru Mining</h2>
 
 <p>Before whatever else, it is imperative to know that mining Bitcoin won't be simple, and it'll likely require contributing both time and cash, bit I've included it at any rate. </p>
 
@@ -245,7 +245,7 @@ toc:
 
 <p>While you can hypothetically mine the computerized cash without a colossal speculation, the cash you'll make won't generally arrange as a benefit. Truth be told, you'll likely be spending significantly more on power every month than you will procure through mining Bitcoin. On the off chance that the esteem ends up expanding all the more, at exactly that point will the assets that you get order as benefit.</p>
 
-<h2 id="trading">10. Earn Bitcoin through trading<h2>
+<h2 id="trading">10. Earn Bitcoin through trading</h2>
 
 <p>Today, there are various strategies for exchanging Bitcoin that you can experiment with. For the most part, exchanging Bitcoin comprises of purchasing low and offering high, while anticipating the conceivable esteem changes in the computerized cash. In any case, turning into a dealer can be very troublesome, considering the way that you'll need to know pretty much everything there is to think about the computerized money, and how it carries on available. </p>
 
