@@ -89,7 +89,7 @@ toc:
 <p>After you have set up a decent following, you can start gaining decent money from programs connected with Bitcoin, you can use your experience to acquire a greater commission rate. Once they see and prove that you are reliable customer-source, you can bargain your way up until 50% or even higher so don’t be scared to contact business owners via Facebook or email. </p>
 
 <p>In order to make things easier, we’ve constructed a list of several most productive affiliate programs made available in 2017. The following websites listed below offer affiliate programs: </p>
-<table>
+<table align="center">
 <tr>
 <td>
 <ul>
@@ -101,6 +101,12 @@ toc:
 <li>CEX.IO</li>
 <li>HitBTC</li>
 <li>Bitcoin.de</li>
+<li>Bitcoin Wine</li>
+</ul>
+</td>
+
+<td>
+<ul>
 <li>Coins-e</li>
 <li>Cavirtex</li>
 <li>BitBat.net</li>
@@ -122,6 +128,11 @@ toc:
 <li>Local Bitcoin</li>
 <li>xCoins.io</li>
 <li>BTC Asia</li>
+</ul>
+</td>
+
+<td>
+<ul>
 <li>CoinMixer</li>
 <li>BitVisitor</li>
 <li>CoinURL</li>
@@ -131,14 +142,10 @@ toc:
 <li>Genesis Mining</li>
 <li>Namecheap</li>
 <li>CoinTracking</li>
-<li>Bitcoin Wine</li>
 </ul>
 </td>
 </tr>
 </table>
-
-
-
 <p>For those people who have weak moral compass, online gambling promotion can get you paid as well. Online Bitcoin casinos give some of the affiliate programs which are most productive. The lists below are numerous Bitcoin casino connected programs: </p>
 
 <ul>
