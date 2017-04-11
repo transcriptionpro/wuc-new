@@ -242,7 +242,7 @@ toc:
 
 <p>Simply attempt it: add a Bitcoin deliver to some substance that others may like. Regardless of the possibility that you think no one will mind enough to give, there's no mischief in attempting — you never know.</p>
 
-<h2 id="games">8. BTC Games For Free<h2>
+<h2 id="games">8. BTC Games For Free</h2>
 
 <p>Bitcoin amusements are some of the time alluded to as "fun fixtures". </p>
 
