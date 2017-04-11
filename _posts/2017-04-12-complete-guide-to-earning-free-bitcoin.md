@@ -148,6 +148,9 @@ toc:
 </table>
 <p>For those people who have weak moral compass, online gambling promotion can get you paid as well. Online Bitcoin casinos give some of the affiliate programs which are most productive. The lists below are numerous Bitcoin casino connected programs: </p>
 
+<table align="center">
+<tr>
+<td>
 <ul>
 <li>BetBit</li>
 <li>BitcoinRush.io</li>
@@ -157,6 +160,10 @@ toc:
 <li>Crypto Games</li>
 <li>Pocket Doice</li>
 <li>Seals with Clubs</li>
+</ul>
+</td>
+<td>
+<ul>
 <li>FairProof</li>
 <li>Betcoin</li>
 <li>mBitCasino</li>
@@ -166,6 +173,9 @@ toc:
 <li>FortuneJack</li>
 <li>Satoshi36</li>
 </ul>
+</td>
+</tr>
+</table>
 
 <p>Shamelessly making myself again as an example, I have been promoting connected programs for 24 months now and I earn as much as one thousand bucks every week for doing it. </p>
 
