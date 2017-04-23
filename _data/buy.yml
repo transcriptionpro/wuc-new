@@ -5,6 +5,7 @@
    countries: us, ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: coinbase-small.png
    url: http://geni.us/coinbase
+   getting_started: yes
 
  - exchange: Coinhouse
    description: Buy bitcoins in the UK and Europe with a 3D secure credit or debit card. Prepaid credit and debit cards are also accepted if 3D secure.
@@ -58,7 +59,6 @@
    logo: remitano.png
    url: http://geni.us/remitano
    description_sa: Remitano offer friendly UI and no hidden fee. What you see is what you get.
-   getting_started: yes
 
 ############## Europe ##############
 
@@ -113,14 +113,12 @@
    countries: ca
    logo: quickbt.png
    url: https://quickbt.com/ca/
-   getting_started: yes
 
  - exchange: Bitaccess
    description: Bitaccess is dedicated to helping Canadians buy bitcoin in Canada. You can pay with cash at thousands of convenient stores, pay online instantly with interac online, or visit one of our locally manufactured BTMs.
    countries: ca
    logo: bitaccess.png
    url: https://www.bitaccess.co/buy-bitcoin-in-canada
-   getting_started: yes
 
 ############## Asia ##############
 
