@@ -8,6 +8,7 @@ published: true
 ---
 
 <h2>Introduction to Buying</h2>
+<center><img src="/images/cc-btc-1.jpg" alt="buy bitcoin using credit card"/></center>
 <p>
 This is for a fact:
 <br/><br/>
@@ -27,6 +28,8 @@ Try to check our guide talking about the best wallets for Bitcoin.
 <h2>Bitcoin Exchanges Using Debit or Credit Card</h2>
 <p>
 <strong>Coinbase</strong>
+<br/>
+<center><img src="/images/cc-btc-2.jpg" alt="buy bitcoin using credit card"/></center>
 <br/><br/>
 Coinbase is the largest Bitcoin broker in the world. You can purchase up to €150 or $150 of bitcoin every week quickly in Coinbaseusing a debit or credit card in Europe, Canada, US, United Kingdom, Singapore and Australia.
 <br/><br/>
@@ -43,7 +46,9 @@ The advantages of Coinbase are high liquidity as well as buying limits, simple t
 The disadvantages however are bank transfer purchases made can require five days to complete and Coinbase can able to track where and how your bitcoins are spent. 
 <br/><br/>
 <strong>CoinMama</strong>
-<br/><br/>
+<br/>
+<center><img src="/images/cc-btc-3.jpg" alt="buy bitcoin using credit card"/></center>
+<br/>
 CoinMama is a broker of bitcoin which work in letting you buy bitcoin with a credit or debit card. 
 <br/><br/>
 You are gonna have to pay a seven (7) percent fee for the risk and for the processing fees that go with paying using a credit card.
@@ -63,7 +68,9 @@ The advantages ofCoinMama are can be used mostly in all countries, they have the
 The only disadvantage however is that it has the most-priced fees among debit card or credit card bitcoin brokers.
 <br/><br/>
 <strong>BitPanda</strong>
-<br/><br/>
+<br/>
+<center><img src="/images/cc-btc-4.jpg" alt="buy bitcoin using credit card"/></center>
+<br/>
 BitPanda is an Austria-based bitcoin broker. You can buy coins using a debit or credit card for just three to four percent fees.Remember that fees are not showed openly but is included in the buying price upon purchasing. 
 <br/><br/>
 This guide will help you know how to purchase bitcoin on BitPanda using a credit card.
@@ -73,7 +80,9 @@ The advantages ofBitPanda are it has some of the cheapest rates for bitcoin buyi
 The only disadvantage is that the fees are not showed in the website openly but is only covered in the purchasing price.
 <br/><br/>
 <strong>CEX.io</strong>
-<br/><br/>
+<br/>
+<center><img src="/images/cc-btc-5.jpg" alt="buy bitcoin using credit card"/></center>
+<br/>
 CEX.io enables you to purchase bitcoin using a debit or credit card. It is among the earliest Bitcoin exchanges which works in Europe, U.S. and some South American countries. Its process of verification is extensive and can be completed in 30 minutes.
 <br/><br/>
 CEX is available in some states in the U.S.; please visit this page for more details.
@@ -84,7 +93,9 @@ is low at 0.2%, and lastly it is a trusted and established exchange.
 The diasadvantage however are an extensive process that requires too much personal information (includes a photo) and incurs a long delay and GBP market doesn’t have liquidity
 <br/><br/>
 <strong>Coinhouse</strong>
-<br/><br/>
+<br/>
+<center><img src="/images/cc-btc-6.jpg" alt="buy bitcoin using credit card"/></center>
+<br/>
 Residents from Europe can purchase bitcoin using a debit or credit card which is a 3D secure at Coinhouse.The rates range from six to ten percent depending on the total volume you buy. Coinhouse is very famous choice because of its high limits.
 <br/><br/>
 The advantages ofCoinhouse are it has high limits which contributes to an easy buying of large amount of bitcoin quickly, it is also a trusted and reliable broker, and lastly it is run in Paris by Embassy of Bitcoin
