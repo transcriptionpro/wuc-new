@@ -248,8 +248,8 @@ We highly suggest keeping bitcoin you opt to keep safe in your own wallet. There
 <br/><br/>
 Among the exchanges we have given, there is only one which enables you to sell coins with your credit card, and that is CEX.io.
 <br/><br/>
-A Comparison of Exchanges
-<br/><br/>
+<h2>A Comparison of Exchanges</h2>
+
 A short and simple comparison of debit or credit card exchanges. These includes almost all countries in the world. 
 Purchase Bitcoin via Debit or Credit Card Through These Exchanges
 <br/><br/>
