@@ -72,7 +72,7 @@ The advantages ofBitPanda are it has some of the cheapest rates for bitcoin buyi
 <br/><br/>
 The only disadvantage is that the fees are not showed in the website openly but is only covered in the purchasing price.
 <br/><br/>
-CEX.io
+<strong>CEX.io</strong>
 <br/><br/>
 CEX.io enables you to purchase bitcoin using a debit or credit card. It is among the earliest Bitcoin exchanges which works in Europe, U.S. and some South American countries. Its process of verification is extensive and can be completed in 30 minutes.
 <br/><br/>
@@ -119,7 +119,7 @@ Input now the amount that you want to purchase and tick “Buy Bitcoin Instantly
 </p>
 <h2>B.	Tutorial for CoinMama Buying (Debit Card/Credit Card)</h2>
 This part will let you see how to purchase using CoinMama. (P.S. Please check out our review about CoinMama as well!)
-<br/><br/>
+<br/>
 <h2>Account Opening on CoinMama</h2>
 <p>
 After you have created and account and was able to verify email address, now you can start following these steps given below:
@@ -274,7 +274,7 @@ Aside from storage, there are several scam exchanges aiming to steal credit card
 In order to help you do away from scams, theft and other forms of funds loss, you can follow these two simple principles:
 <br/><br/>
 1.	Conduct some thorough research before purchasing on any exchange. Try to check for ratings, reviews and regulation information.
-2.	Do not ever keep your bitcoins on the exchange. Although it has been mentioned already above, this is really worth repeating over and over again. 
 <br/><br/>
-Secure Bitcoin Hardware Wallets:
+2.	Do not ever keep your bitcoins on the exchange. Although it has been mentioned already above, this is really worth repeating over and over again. 
+
 </p>
