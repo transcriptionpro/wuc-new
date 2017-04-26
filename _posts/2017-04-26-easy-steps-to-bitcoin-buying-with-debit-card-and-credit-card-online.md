@@ -92,7 +92,6 @@ The advantages ofCoinhouse are it has high limits which contributes to an easy b
 The disadvantages are it has themost high-costed fees included among trusted exchanges that accepts debit or credit cards and it has an intensive verification procedures.
 </p>
 <h2>How to Buy Bitcoins in Five Minutes or Less (Tutorial)</h2>
-<br/><br/>
 <h2>A.	Tutorial in Coinbase Buying (Debit /Credit Card)</h2>
 Coinbase enables you to purchase bitcoins quickly using a debit card or credit card. Follow these step-by-step procedures to assist you in an easier buying process.
 <p>
