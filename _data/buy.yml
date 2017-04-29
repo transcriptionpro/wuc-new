@@ -69,10 +69,11 @@
    url: https://www.bitcoin.de/
 
  - exchange: SpectroCoin
-   description: <p>SpectroCoin is an all-in-one solution for Bitcoin. Services offered include a wide range of Bitcoin solutions, from exchange to Bitcoin e-wallet.</p>
+   description: <p>SpectroCoin is an all-in-one solution for Bitcoin offering an exchange, debit card and ability to buy bitcoins with credit cards.</p>
    countries: ca, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg, uk
    logo: spectrocoin.png
    url: http://geni.us/spectrocoin
+   getting_started: yes
 
  - exchange: Cashila
    description: Cashila is a payment processor that enables users to transfer, hold and receive funds using bitcoin or euros.
