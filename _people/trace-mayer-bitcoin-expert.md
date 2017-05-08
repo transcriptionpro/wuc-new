@@ -26,15 +26,12 @@ He was among the first popular bloggers to publicly recommend Bitcoin in its inf
 <a href="http://www.bitcoinarmory.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/armory.png" alt="Armory"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
- <p>
 <a href="http://www.bitpay.com" align="middle" target="_blank"><img
  src="http://www.tracemayer.net/images/bitpay.png" alt="Bitpay"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
- <p>
 <a href="http://www.kraken.com" align="left" target="_blank"><img
  src="http://www.tracemayer.net/images/kraken.png" alt="Kraken"
  style="border: 0px solid ; width: 200px; height: 58px;"></a>
- <p>
 
 ## Bitcoin Articles by Trace Mayer
 
