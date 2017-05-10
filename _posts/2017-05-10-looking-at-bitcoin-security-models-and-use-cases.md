@@ -2,8 +2,8 @@
 layout: post
 title: Looking At Bitcoin Security Models And Use Cases
 description: Looking At Bitcoin Security Models And Use Cases
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: Matt Corrallo
+authorurl: /matt-corrallo/
 published: true
 ---
 
