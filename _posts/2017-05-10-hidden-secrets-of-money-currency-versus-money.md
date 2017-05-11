@@ -2,6 +2,8 @@
 layout: post
 title: Hidden Secrets Of Money - Currency Versus Money
 description: Hidden Secrets Of Money Ep.1 - Currency Versus Money
+author: Mike Maloney
+authorurl: /michael-maloney/
 published: true
 ---
 
