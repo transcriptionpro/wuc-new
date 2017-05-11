@@ -2,6 +2,8 @@
 layout: post
 title: Hidden Secrets Of Money - Death Of The US Dollar On A Timeline
 description: Hidden Secrets Of Money Ep.3 - Death Of The US Dollar On A Timeline
+author: Mike Maloney
+authorurl: /michael-maloney/
 published: true
 ---
 
