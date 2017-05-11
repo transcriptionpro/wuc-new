@@ -2,6 +2,8 @@
 layout: post
 title: Hidden Secrets Of Money - The Debt Ceiling Delusion
 description: Hidden Secrets Of Money Ep.4 - The Debt Ceiling Delusion
+author: Mike Maloney
+authorurl: /michael-maloney/
 published: true
 ---
 
