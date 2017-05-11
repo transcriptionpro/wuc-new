@@ -2,6 +2,8 @@
 layout: post
 title: Hidden Secrets Of Money - Seven Stages Of Empire
 description: Hidden Secrets Of Money Ep.2 - Seven Stages Of Empire
+author: Mike Maloney
+authorurl: /michael-maloney/
 published: true
 ---
 
