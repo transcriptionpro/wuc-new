@@ -6,7 +6,6 @@ authorurl: /
 published: true
 ---
 
-<p><h2>The Many Uses For Bitcoin</h2>
 <p>Bitcoin has revolutionized the financial world and the world of online commerce. A virtual currency with an incredibly high value, it has changed the way that people save, trade, invest, and purchase in the digital age.
 <p><img src="/images/the-many-uses-for-bitcoin.png" width="700" height="334"/>
 <p>When Bitcoin first burst onto the scene it was predicted by a cynical few that its power and value <a href="http://fortune.com/2015/09/21/bitcoin-here-to-stay/">would soon diminish</a>, but on the contrary, the opposite has in fact happened.
