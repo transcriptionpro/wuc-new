@@ -15,10 +15,10 @@ published: true
 <p><h2>1. The Trucking Industry</h2>
 <p>Did you know that <a href="https://www.truckdrivingjobs.com/itrucking.html">truckers pay one another with Bitcoin</a>? It makes sense if you think about it. If you’re working for a trucking company that has you on on the road for long periods of time, you don’t want to carry lots of cash while on the job
 <p>Or if you are hundreds of miles from an ATM then it is an obvious choice to use a virtual currency that can be transferred with a few clicks of a button. It is safe, secure, quick and efficient, so why wouldn’t you!
-<p><h2>Online retailers</h2>
+<p><h2>2. Online retailers</h2>
 <p>This came as a bit of a surprise to me as well! When I think of Bitcoin, I always think of tech-related purchases but nowadays even big online retailers accept it.
 <p>You can pic out a new outfit, get some new shoes, or do your weekly shop online with big household names like Nike, Amazon and Walmart signed up to this digital revolution, you can swap your digital coins for real life products with just a few clicks!
-<p><h2>Travel and Tourism Operators</h2>
+<p><h2>3. Travel and Tourism Operators</h2>
 <p>Did you know that you can now pay for your annual holiday with Bitcoin. Some airlines already accept it, some are planning to launch it soon, and lots of online accommodation providers already offer the service.
 <p>You can reserve and pay for your rooms from operators such as Expedia, Holiday Inn, and One Shot Hotels and some real estate agents are even allow people to purchase properties with Bitcoin! This is the start of something big and I am sure we will see a big increase in service providers offering payment in Bitcoin in the coming years.
 <p><img src="/images/more-uses-for-bitcoin.png" width="700" height="334"/>
