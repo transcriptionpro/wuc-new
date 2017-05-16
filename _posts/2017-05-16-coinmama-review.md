@@ -23,7 +23,7 @@ published: true
 
 <p>It is important for U.S. Citizens living abroad to see to it that the identification documents they have uploaded are in English. For instance where you use your water bill from your current address in Guangzhou, China and it happens that is it not in English, the document will not be taken as a <a href="/how-to-verify-paypal-with-debit-card-in-spectrocoin/">valid verification in Coinmama</a>. </p>
 
-<p>Buying limits. For purchases via debit/credit card, the limit is only of $520 BTC per day. However for purchases through cash, the limit per day is $1500 or $2500 which is dependent on the area of residence.</p>
+<p>Buying limits. For purchases via debit/credit card, the limit is only of USD 520 BTC per day. However for purchases through cash, the limit per day is USD 1,500 or USD 2,500 which is dependent on the area of residence.</p>
 
 <h2>A few bonuses:</h2>
 <ul>
