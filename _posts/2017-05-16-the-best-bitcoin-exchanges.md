@@ -130,7 +130,7 @@ published: true
 <ul>
 <li>Not always easy to find a nearby machine</li>
 <li>You definitely have to leave the house!</li>
-<ul>
+</ul>
 <h2>Paxful.com</h2>
 
 <p>Paxful can get as much as 2,000,000 visits monthly and half of it are from the U.S. It is a person to person Bitcoin marketplace uniting buyers to sellers almost the same to the one mentioned above. There are more than one hundred fifty (150) methods of payment that can be utilized. Very impressive!</p>
@@ -157,7 +157,7 @@ published: true
 <p><strong>Cons</strong></p>
 <ul>
 <li>Requires an advanced or higher level of IT comprehension</li>
-<ul>
+</ul>
 <h2>GDAX.com</h2>
 
 <p>GDAX is best for traders that are technical and also offers good liquidity. You can readily deposit in USD which can be processed as quickly as withdrawals. It is also considered to be the best exchange for Ethereum for serious players in this field. </p>
