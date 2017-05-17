@@ -6,17 +6,17 @@ author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
 toc:
-  hardware:THE HARDWARE REQUIREMENTS
-  initial:INITIAL SETUP
-  updating:UPDATING AND CONFIGURING THE SYSTEM
-  pidrive:GETTING THE PIDRIVE READY
-  adding:ADDING A SWAPFILE
-  allowing:ALLOWING SSH ACCESS FROM 
-  letting:LETTING BITCOIN CORE START 
-  open:OPEN PORT IN YOUR ROUTER
-  full:START YOUR NEW FULL NODE
-  download:DOWNLOAD AND USE MY ALMOST 
-  thanks:THANKS
+  hardware: THE HARDWARE REQUIREMENTS
+  initial: INITIAL SETUP
+  updating: UPDATING AND CONFIGURING THE SYSTEM
+  pidrive: GETTING THE PIDRIVE READY
+  adding: ADDING A SWAPFILE
+  allowing: ALLOWING SSH ACCESS FROM 
+  letting: LETTING BITCOIN CORE START 
+  open: OPEN PORT IN YOUR ROUTER
+  full: START YOUR NEW FULL NODE
+  download: DOWNLOAD AND USE MY ALMOST 
+  thanks: THANKS
 ---
 
 <p>For a long time the Raspberry <a href="/wordpress-bitcoin-payment-gateway-plugin-from-spectrocoin/">Pi has seemed tempting</a> for people who wanted to run a full node on the Bitcoin network because of its small size, low power use and cheap price-tag. With their relatively low performance specs, the first generations of the Pi were really not quite up to the task, though. Some people were able to compile and run Bitcoin Core (this very blog, for instance), but only barely, and others didn't succeed in making it work at all.</p>
