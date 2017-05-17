@@ -19,6 +19,8 @@ toc:
   thanks: THANKS
 ---
 
+{% include page-toc.html %}
+
 <p>For a long time the Raspberry <a href="/wordpress-bitcoin-payment-gateway-plugin-from-spectrocoin/">Pi has seemed tempting</a> for people who wanted to run a full node on the Bitcoin network because of its small size, low power use and cheap price-tag. With their relatively low performance specs, the first generations of the Pi were really not quite up to the task, though. Some people were able to compile and run Bitcoin Core (this very blog, for instance), but only barely, and others didn't succeed in making it work at all.</p>
 
 <p>This has changed to the better with the newer generations of the Pi. The Raspberry Pi 2 and especially the Raspberry Pi 3 have more RAM and multi-core processors. While we're still far from modern desktop computers, of course, you're much better off with the current specs than before. That being said, syncing the blockchain can still be quite painful on a Pi 3.</p>
