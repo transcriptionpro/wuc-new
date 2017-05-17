@@ -37,11 +37,17 @@ toc:
 
 <p>Raspberry Pi 3: This guide will be using the Raspberry Pi 3 model B, but the process should be the same on the Pi 2, if you have that laying around. If you're going to buy a new Pi for this project, I recommend going for the Pi 3, since its price-tag is the same, and the specs are higher.</p>
 
-<p>Micro SD card, min 4-8 GB (min 16 GB without PiDrive), class 10 or better: The Pi boots off an SD card. For that you'll need one that's fairly fast, so get a class 10 or better. 4 or 8 GB should be more than enough for setups with the PiDrive. This one is fine, but be aware that PiDrives often come with a 4 GB MicroSD card included, so you may not have to buy one separately. If you're planning on a pruned node without a harddisk, choose a fairly larger SD card, depending on how much of the blockchain you want to prune (also take into account the space taken up by the system plus a swapfile). 16 GB is probably the minimum without a PiDrive. Warning: Don't buy cheap SD cards off Ebay and elsewhere from China, as these are often small cards technically disguised as larger cards.</p>
+<p>Micro SD card, min 4-8 GB (min 16 GB without PiDrive), class 10 or better: The Pi boots off an SD card. For that you'll need one that's fairly fast, so get a class 10 or better. 4 or 8 GB should be more than enough for setups with the PiDrive. This one is fine, but be aware that PiDrives often come with a 4 GB MicroSD card included, so you may not have to buy one separately. </p>
+
+<p>If you're planning on a pruned node without a harddisk, choose a fairly larger SD card, depending on how much of the blockchain you want to prune (also take into account the space taken up by the system plus a swapfile). 16 GB is probably the minimum without a PiDrive. Warning: Don't buy cheap SD cards off Ebay and elsewhere from China, as these are often small cards technically disguised as larger cards.</p>
 
 <p>SD card reader: You'll need an SD card reader and a MicroSD card adapter or some other way to plug your Micro SD card into your ordinary computer during installation of the Pi's operating system.</p>
 
-<p>WD PiDrive (optional if you're going to run a pruned node): Since SD cards of the required size to <a href="/woocommerce-integration-to-your-wordpress-website-with-spectrocoin/">store the entire blockchain</a> are quite expensive still, we will be using a harddisk to store the space hungry blockchain files. Western Digital's PiDrive is very fit for the purpose; it comes in sizes of 250 GB, 314 GB and even 1 TB. In the spirit of Pi, I used the 314 GB version (π ≈ 3.14, get it?), a storage capacity that at the time of writing can hold the blockchain three times, so there's plenty of space left for the rapid growth the blockchain. At the same time, it comes with a USB plug that fits right into one of the Pi's USB slots, instead of a SATA connector as usual, and a nice lead that allows you to power both the Pi and the PiDrive from the same power supply. Alternatively, you could use an external USB-harddisk of any make and model, or an internal harddisk with a powered USB adapter. Also, if you want to save on power, an SSD or a USB pendrive instead of a physical harddrive will be a good option. And of course, if you plan on running a pruned node or on getting a huge MicroSD card, you won't need an extra drive at all.</p>
+<p>WD PiDrive (optional if you're going to run a pruned node): Since SD cards of the required size to <a href="/woocommerce-integration-to-your-wordpress-website-with-spectrocoin/">store the entire blockchain</a> are quite expensive still, we will be using a harddisk to store the space hungry blockchain files. Western Digital's PiDrive is very fit for the purpose; it comes in sizes of 250 GB, 314 GB and even 1 TB. </p>
+
+<p>In the spirit of Pi, I used the 314 GB version (π ≈ 3.14, get it?), a storage capacity that at the time of writing can hold the blockchain three times, so there's plenty of space left for the rapid growth the blockchain. At the same time, it comes with a USB plug that fits right into one of the Pi's USB slots, instead of a SATA connector as usual, and a nice lead that allows you to power both the Pi and the PiDrive from the same power supply. </p>
+
+<p>Alternatively, you could use an external USB-harddisk of any make and model, or an internal harddisk with a powered USB adapter. Also, if you want to save on power, an SSD or a USB pendrive instead of a physical harddrive will be a good option. And of course, if you plan on running a pruned node or on getting a huge MicroSD card, you won't need an extra drive at all.</p>
 
 <p>Micro USB power adapter, min 2.5 A: As the Pi models grow bigger in specs, so do their power requirements. Traditionally, Pi owners have used old phone chargers as a power supply. While you can still do that, you should be very cautious that the supply delivers enough power for the newer Pi models. A minimum of 2.5 A is the official recommendation. The easy route (and the safe bet) is to just get the official Pi 3 power supply which can power both the Pi 3 and the PiDrive at the same time.</p>
 
@@ -49,7 +55,9 @@ toc:
 
 <p>Raspberry Pi case (optional): In order not to risk damaging the electronics parts of your Pi, I recommend to get a case for it. This might be anything from one of the many different cases that are available, or you might make a case yourself that fits both the Pi and your PiDrive.</p>
 
-<p>Heatsink and/or fan for the Pi (optional): Either an inactive aluminium heatsink, a cooling fan (comes with some cases), or maybe both. The Raspberry Pi Foundation says cooling is not necessary on a Pi, and the Pi does throttle down performance when it gets too hot to prevent damage. However, especially when syncing with the blockchain, the Pi's CPU runs quite hot to a degree that I can't hold my finger on it for more than a couple of seconds. Also, I see the "thermometer" symbol on the screen (meaning performance is being throttled) quite often. After adding a heatsink and a fan I haven't noticed performance being throttled. It should be noted that after synchronisation is done, load on the CPU decreases drastically, and you will probably have no problems running without cooling day-to-day.</p>
+<p>Heatsink and/or fan for the Pi (optional): Either an inactive aluminium heatsink, a cooling fan (comes with some cases), or maybe both. The Raspberry Pi Foundation says cooling is not necessary on a Pi, and the Pi does throttle down performance when it gets too hot to prevent damage. However, especially when syncing with the blockchain, the Pi's CPU runs quite hot to a degree that I can't hold my finger on it for more than a couple of seconds. </p>
+
+<p>Also, I see the "thermometer" symbol on the screen (meaning performance is being throttled) quite often. After adding a heatsink and a fan I haven't noticed performance being throttled. It should be noted that after synchronisation is done, load on the CPU decreases drastically, and you will probably have no problems running without cooling day-to-day.</p>
 
 <p>A spare HDMI screen, USB keyboard and mouse: These will only be used during setup, so don't go out buying these.</p>
 
@@ -75,7 +83,9 @@ toc:
 
 <p>Now, reboot the Raspberry Pi and make sure that you are logged in to the text based command line interface (all black screen with white text).</p>
 
-<p>The next six commands will: 1: Tell the system from where it should fetch the Bitcoin software. 2: Update the system's information about which packages are available to download and install. 3: Download and install the text based <a href="/whmcs-bitcoin-merchant-payment-gateway-by-spectrocoin/">version of Bitcoin Core</a>, plus another tool that will be used next. 4+5: Remove the entire graphical desktop environment so that it doesn't take up space on the SD card. Run the last of these two remove commands repeatedly (maybe 4-5 times) until it doesn't remove any more packages. 6: Download and install all available updates to the entire system. Type them in one command at a time, as each command will ask you a question or two (typically just press Enter or Y to proceed). The last command will probably take quite some time to finish.</p>
+<p>The next six commands will: 1: Tell the system from where it should fetch the Bitcoin software. 2: Update the system's information about which packages are available to download and install. 3: Download and install the text based <a href="/whmcs-bitcoin-merchant-payment-gateway-by-spectrocoin/">version of Bitcoin Core</a>, plus another tool that will be used next. 4+5: Remove the entire graphical desktop environment so that it doesn't take up space on the SD card. </p>
+
+<p>Run the last of these two remove commands repeatedly (maybe 4-5 times) until it doesn't remove any more packages. 6: Download and install all available updates to the entire system. Type them in one command at a time, as each command will ask you a question or two (typically just press Enter or Y to proceed). The last command will probably take quite some time to finish.</p>
 
 <p>sudo add-apt-repository ppa:bitcoin/bitcoin</p>
 <p>sudo apt update</p>
@@ -89,7 +99,9 @@ toc:
 <p>mkdir ~/.bitcoin</p>
 <p>nano ~/.bitcoin/bitcoin.conf</p>
 
-<p>In the nano editor, write the four following lines. Omit the last line (prune) if you are connecting the PiDrive and want to keep the full blockchain. Otherwise change 1000 into however many megabytes of the blockchain that your want to store at all times (at least 550). Keep in mind, though, that this number only controls the space that the block files themselves (the ~/.bitcoin/blocks directory) take up. Other than those, expect a couple of gigabytes or more for other data in ~/.bitcoin. Also keep thought of the space that the Ubuntu system itself takes up. And finally you will most likely be creating a swapfile that will take up around 2-3 GB. See how much free space you have on the partition that will keep the blockchain with the command "df -h ~./bitcoin" and then subtract at least 5-8 GB from that. The following should work on a 16 GB SD card.</p>
+<p>In the nano editor, write the four following lines. Omit the last line (prune) if you are connecting the PiDrive and want to keep the full blockchain. Otherwise change 1000 into however many megabytes of the blockchain that your want to store at all times (at least 550). Keep in mind, though, that this number only controls the space that the block files themselves (the ~/.bitcoin/blocks directory) take up. </p>
+
+<p>Other than those, expect a couple of gigabytes or more for other data in ~/.bitcoin. Also keep thought of the space that the Ubuntu system itself takes up. And finally you will most likely be creating a swapfile that will take up around 2-3 GB. See how much free space you have on the partition that will keep the blockchain with the command "df -h ~./bitcoin" and then subtract at least 5-8 GB from that. The following should work on a 16 GB SD card.</p>
 
 <p>dbcache=800</p>
 <p>maxmempool=50</p>
@@ -124,7 +136,9 @@ toc:
 
 <p><center><img src="/images/pi-1.png" alt="bitcoin node on raspberry"/></center></p>
 
-<p>The first disk, named /dev/mmcblk0 is the SD card, so don't do anything to that, or you will lose the Ubuntu system that you just set up. On my system, the next disk is /dev/sda, and you can see that it has four partitions named /dev/sda1, 2, 5 and 6 that need to be removed. Maybe you want to write down the names of the existing partitions on your harddisk, if any. Notice that ALL DATA that might already be on the harddisk will be lost, so don't use a drive containing anything you don't want to lose. Write the following command to enter the fdisk utility, changing /dev/sda into your harddisk's name if it is different:</p>
+<p>The first disk, named /dev/mmcblk0 is the SD card, so don't do anything to that, or you will lose the Ubuntu system that you just set up. On my system, the next disk is /dev/sda, and you can see that it has four partitions named /dev/sda1, 2, 5 and 6 that need to be removed. Maybe you want to write down the names of the existing partitions on your harddisk, if any. </p>
+
+<p>Notice that ALL DATA that might already be on the harddisk will be lost, so don't use a drive containing anything you don't want to lose. Write the following command to enter the fdisk utility, changing /dev/sda into your harddisk's name if it is different:</p>
 
 <p>sudo fdisk /dev/sda</p>
 
@@ -169,7 +183,11 @@ toc:
 
 <h2 id="adding">ADDING A SWAPFILE</h2>
 
-<p>Now for an optional, but highly recommended step, namely adding a swapfile. The Pi 3 has 1 GB of RAM, which is an improvement to earlier Pi's, but still quite low for running Bitcoin Core as a full node, especially during synchronisation with the blockchain. A swapfile (or a swap partition) is a part of the harddrive (or in this case, the SD card) that acts as an addition to the RAM. The Ubuntu Mate system does not use a swapfile or swap partition by default. The reason that the step is optional is that swapfiles (and swap partitions) can be <a href="/opencart-bitcoin-merchant-extension-by-spectrocoin/">quite hard on an SD card</a> due to the many read/write operations being performed, and SD cards only last for a certain amount of read/write operations. It's not like it will wear out in a few days or weeks or anything like that; just be prepared to only use your SD card for this project. The reason that adding a swapfile is highly recommended anyway is that chances are you will not be able to synchronise with the blockchain without it, since 1 GB RAM may simply be too little. However, we will set up the system to only use the swapfile if strictly necessary.</p>
+<p>Now for an optional, but highly recommended step, namely adding a swapfile. The Pi 3 has 1 GB of RAM, which is an improvement to earlier Pi's, but still quite low for running Bitcoin Core as a full node, especially during synchronisation with the blockchain. A swapfile (or a swap partition) is a part of the harddrive (or in this case, the SD card) that acts as an addition to the RAM.</p>
+
+<p> The Ubuntu Mate system does not use a swapfile or swap partition by default. The reason that the step is optional is that swapfiles (and swap partitions) can be <a href="/opencart-bitcoin-merchant-extension-by-spectrocoin/">quite hard on an SD card</a> due to the many read/write operations being performed, and SD cards only last for a certain amount of read/write operations.</p>
+
+<p> It's not like it will wear out in a few days or weeks or anything like that; just be prepared to only use your SD card for this project. The reason that adding a swapfile is highly recommended anyway is that chances are you will not be able to synchronise with the blockchain without it, since 1 GB RAM may simply be too little. However, we will set up the system to only use the swapfile if strictly necessary.</p>
 
 <p>If you will be connecting a PiDrive, it is highly recommended to put the swapfile there instead of on the SD card. Just use /home/pinode/.bitcoin/swapfile instead of /swapfile in the rest of the commands in this section.</p>
 
@@ -223,7 +241,9 @@ toc:
 
 <h2 id="open">OPEN PORT IN YOUR ROUTER</h2>
 
-<p>In addition to your node making connections to other nodes, you will want other nodes to also be able to connect to your node. This is done by forwarding incoming traffic on port 8333 to the Raspberry Pi. How to do this varies from network to network, but typically involves entering the web interface of your network router or modem, and setting up "Port Forwarding" there. Typically this is done by simply adding the local IP address of the Raspberry Pi (which you found above, e.g. 192.168.1.199) along with port number 8333 to a list of forwarded ports. Refer to the documentation from your router/modem's manufacturer on how to do this exactly. Some routers even do this automatically so you don't need to do anything.</p>
+<p>In addition to your node making connections to other nodes, you will want other nodes to also be able to connect to your node. This is done by forwarding incoming traffic on port 8333 to the Raspberry Pi. How to do this varies from network to network, but typically involves entering the web interface of your network router or modem, and setting up "Port Forwarding" there. </p>
+
+<p>Typically this is done by simply adding the local IP address of the Raspberry Pi (which you found above, e.g. 192.168.1.199) along with port number 8333 to a list of forwarded ports. Refer to the documentation from your router/modem's manufacturer on how to do this exactly. Some routers even do this automatically so you don't need to do anything.</p>
 
 <p>You can verify that it works by using Bitnodes' "Join the network" feature. If it returns a line that includes the word "Satoshi", you have successfully forwarded traffic on port 8333 to your Pi. Notice that while your Pi is still synchronising the blockchain, it might be lagging so much that Bitnodes will report it as unreachable. Try again after synchronising is done.</p>
 
