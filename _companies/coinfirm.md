@@ -30,7 +30,7 @@ Utilizable for many applications of blockchain, the platform assesses risk and c
 
 Coinfirm is a clear safety blanket for blockchain-based transactions and solves the AML/CFT and counterparty risk management problem for entities operating in this area.
 
-##Increase effectiveness
+## Increase effectiveness
 
 Whether a bitcoin related company, using bitcoin commercially or want commercial access to our valuable structured data, you should have our API that we can tailor to your need.
 
