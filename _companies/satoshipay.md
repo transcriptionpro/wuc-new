@@ -1,7 +1,7 @@
 ---
 title: SatoshiPay 
 seotitle: SatoshiPay 
-img: /images/company/satoshipay .png
+img: /images/company/satoshipay.png
 ---
 
 <a href="https://satoshipay.io">SatoshiPay</a> is an innovative micro-payment service offering a cheap and frictionless way to pay for content on the internet (the, our Service). Producers and publishers of digital content (Content Providers) choose SatoshiPay to sell individual and even partial pieces of their content (Content) in return for small digital cash payments from their users (Customers). 
