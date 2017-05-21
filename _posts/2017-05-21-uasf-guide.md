@@ -18,10 +18,11 @@ toc:
   spender: "As A Spender"
   receiver: "As A Receiver"
   third-parties: "Warning About Third Parties"
+  as-third-party: "As A Third Party"
   conclusion: "Conclusion"  
 ---
 
-<p>In a few months, <b>beginning August 1, 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network. This guide will be frequently updated with the latest developments.
+<p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network. This guide will be frequently updated with the latest developments.
 
 {% include page-toc.html %}
 
@@ -29,7 +30,7 @@ toc:
 <p>Bitcoin Improvement Proposal (BIP) 148 is a User Activated Soft Fork (UASF) that requires that miners signal for Segregated Witness (SegWit). SegWit readiness is signalled by miners by setting the version number of blocks mined.
 <p>Signalling this bit does not mean miners support SegWit, but is a signal for readiness that miners are ready to enforce the rules.
 <p>Miners are still allowed to mine blocks that do not support SegWit and are only required to not mine non-standard blocks that spend SegWit transactions along with not building on top of blocks that do this.
-<p><b>Beginning August 1, 2017</b>, nodes that enforce BIP148 will reject any block from miners that do not signal SegWit readiness, along with any block that is built on top of a block that does not signal support.
+<p><b>Beginning 1 August 2017</b>, nodes that enforce BIP148 will reject any block from miners that do not signal SegWit readiness, along with any block that is built on top of a block that does not signal support.
 
 <h2 id="fork">Hard Fork v. Soft Fork</h2>
 <p>Bitcoin Core developer Eric Lombrozo can help you understand the <a href="http://www.bitcoin.kn/2016/04/ciphrex-ceo-eric-lombrozo-contrasts-hard-soft-forks/">differences between a hard fork and a soft fork</a>.
@@ -45,12 +46,12 @@ toc:
 <h2 id="support">Current BIP 148 Support</h2>
 <p>What really matters in a UASF situation is which chain the economic actors like users, institutions, exchanges, payment processors, etc. support. There is no easy way to quantify this with a decentralized peer-to-peer network.
 <p>This graph represents the total number of full nodes currently signaling BIP 148.
-<p><center><img src="uasf_bips_all.png"></center>
+<p><center><img src="http://uasf.saltylemon.org/uasf_bips_all.png"></center>
 <p>This graph represents the percentage of total number of full nodes currently signaling BIP 148.
-<p><center><img src="uasf_percent_all.png"></center>
+<p><center><img src="http://uasf.saltylemon.org/uasf_percent_all.png"></center>
 
 <h2 id="what-could-happen-on-august-1-2017">What could happen on August 1, 2017?</h2>
-<p>If miners activate SegWit prior to August 1, 2017, BIP148 will not be enforced.  All users of Bitcoin will remain on the same chain no matter what client they use.
+<p>If miners activate SegWit prior to 1 August 2017, BIP148 will not be enforced.  All users of Bitcoin will remain on the same chain no matter what client they use.
 <p>If miners do not activate SegWit, there may be a chain split.  A chain split will mean that some users will see a different set of transactions than others.  If  the majority of miners enforce BIP148, these chain splits will be temporary and eventually all clients will see the same chain, and SegWit will activate for all SegWit compatible clients (0.13.1+ for Bitcoin Core).
 <p>If the majority of miners do not enforce BIP148, users that enforce  BIP148 will diverge from users that do not enforce it.  If the majority of miners do start enforcing BIP148 at a later date, the legacy chain (without BIP148 enforcement) may be reorganized once the BIP148 chain has more work.
 <p>The users who are running BIP148 would be undisturbed, but users running legacy clients may see a large amount of history re-written and could lose funds.
@@ -66,9 +67,9 @@ toc:
 <p>Traders may have an opportunity to trade coins from one side to another.  If exchanges support both chains, then they could sell one and buy on the other.  If sufficient demand exists on the BIP148 chain, it may encourage miners to mine on that chain, which could eliminate any split.  Traders should excercise caution when trading on the legacy chain as it may be reorganized without warning.  Traders should also excercise caution on the BIP148 chain, as if interest in it is insufficient, it may not hold long term value.
 <p>The following is a list of exchanges that have or will support BIP 148.
 <p>The list is ordered by date of an unequivocal public announcement for support of BIP 148.
-< h3 id="exchanges">Exchanges Supporting BIP 148</h3>
+<h3 id="exchanges">Exchanges Supporting BIP 148</h3>
 <ol>
-<li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro</a><li>
+<li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro</a></li>
 </ol>
 
 <h3 id="spender">Spending Bitcoins</h3>
@@ -87,6 +88,9 @@ toc:
 <p>Some custodians may only honor one chain and you may not get the full value of your coins if they only honor on one side.
 <p>Under the <a href="https://en.wikipedia.org/wiki/Unjust_enrichment">theory of unjust enrichment</a>, significant legal issues could be raised if third-parties are accuring benefit to themselves that should accure to the benefit of users.
 <p>The <b>safest plan</b> for storing coins on August 1, 2017 is to gain control of your coins, operate your own full node<b>(s)</b> and evaluate your options after a potential chain split.
+
+<h3 id="as-third-party">As A Third Party</h3>
+<p>The safest route would be support both chains.
 
 <h2 id="conclusion">Conclusion</h2>
 <p>If BIP148 is successful then little to no action is needed from most users.
