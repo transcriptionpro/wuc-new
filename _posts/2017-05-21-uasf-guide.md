@@ -60,7 +60,8 @@ toc:
 <p>The users who are running BIP 148 would be undisturbed, but users running legacy clients may see a large amount of history re-written and could lose funds.
 
 <h2 id="prepare">How do I prepare for BIP 148 if there is a split?</h2>
-<p>The most important thing you can do is perform your own network consensus by running a full-node and creating and storing your own private keys. This will put you in firm control of all decisions related to how you interact instead of having some third-party make those decisions for you.
+<p>The most important thing you can do is perform your own network consensus by <a href="/bitcoin-core/">running a full-node</a> and <a href="/what-is-a-private-key/">creating and storing your own private keys</a>.
+<p>This will put you in <b>firm control</b> of all decisions related to how you interact instead of having some third-party make those decisions for you.
 
 <h3 id="hodler">As a Hodler (Long Term Investor)</h3>
 <p>If a chain split occurs then long term investors will have equal amounts of coins on both sides of the chain.  If a chain split is resolved then they will have their original balance on the unified chain and need to take no actions.
