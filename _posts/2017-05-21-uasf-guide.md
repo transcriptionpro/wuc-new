@@ -9,6 +9,7 @@ toc:
   what: "What Is BIP 148?"
   fork: "Hard v. Soft Fork"
   why: "Why BIP 148?"
+  support: "Current BIP 148 Support"
   what-could-happen-on-august-1-2017: "What could happen on August 1, 2017?"
   prepare: "How do I prepare?"
   hodler: "As A Hodler (Long Term Investor)"
@@ -20,7 +21,9 @@ toc:
   conclusion: "Conclusion"  
 ---
 
-<p>In a few months, there may be some turbulence ahead for the Bitcoin network. This guide will be frequently updated with the latest developments.
+<p>In a few months, <b>beginning August 1, 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network. This guide will be frequently updated with the latest developments.
+
+{% include page-toc.html %}
 
 <h2 id="what">What is BIP 148?</h2>
 <p>Bitcoin Improvement Proposal (BIP) 148 is a User Activated Soft Fork (UASF) that requires that miners signal for Segregated Witness (SegWit). SegWit readiness is signalled by miners by setting the version number of blocks mined.
@@ -38,6 +41,13 @@ toc:
 <h2 id="why">Why BIP 148?</h2>
 <p>This guide is about helping you protect your money by providing objective actionable things to do as a result of BIP 148 and not delving into the political, economic or other reasons.
 <p>If you want a quick background and reasoning then this <a href="https://medium.com/@rusty_lightning/i-support-uasf-for-segregated-witness-75d9ef286fe5">piece</a> by the extremely respected open-source Linux kernal developer, Rusty Russell, who has been working on the Lighting Network should hit the spot.
+
+<h2 id="support">Current BIP 148 Support</h2>
+<p>What really matters in a UASF situation is which chain the economic actors like users, institutions, exchanges, payment processors, etc. support. There is no easy way to quantify this with a decentralized peer-to-peer network.
+<p>This graph represents the total number of full nodes currently signaling BIP 148.
+<p><center><img src="uasf_bips_all.png"></center>
+<p>This graph represents the percentage of total number of full nodes currently signaling BIP 148.
+<p><center><img src="uasf_percent_all.png"></center>
 
 <h2 id="what-could-happen-on-august-1-2017">What could happen on August 1, 2017?</h2>
 <p>If miners activate SegWit prior to August 1, 2017, BIP148 will not be enforced.  All users of Bitcoin will remain on the same chain no matter what client they use.
@@ -68,7 +78,7 @@ toc:
 
 <h3 id="receiver">Receiving Bitcoins</h3>
 <p>If you are receiving Bitcoins then you need to pick which side of the chain you honor.
-<p><b>WARNING:</b>Since the legacy chain could be re-organized then you need to evaluate this risk when you receive coins on the legacy chain.
+<p><b>WARNING:</b> Since the legacy chain could be re-organized then you need to evaluate this risk when you receive coins on the legacy chain.
 <p>If there is a chain split then users should excercise extreme caution and closely monitor the split along with requiring more confirmations from normal six because the security of the chain may be weakened.
 <p>To be extremely safe we recommend having at least 100-200 confirmations before you rely on the transaction or block.
 
