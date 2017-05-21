@@ -32,7 +32,7 @@ toc:
 <p><b>Beginning August 1, 2017</b>, nodes that enforce BIP148 will reject any block from miners that do not signal SegWit readiness, along with any block that is built on top of a block that does not signal support.
 
 <h2 id="fork">Hard Fork v. Soft Fork</h2>
-<p>Bitcoin Core developer Eric Lombrozo can help you understand the <a href"http://www.bitcoin.kn/2016/04/ciphrex-ceo-eric-lombrozo-contrasts-hard-soft-forks/">differences between a hard fork and a soft fork</a>.
+<p>Bitcoin Core developer Eric Lombrozo can help you understand the <a href="http://www.bitcoin.kn/2016/04/ciphrex-ceo-eric-lombrozo-contrasts-hard-soft-forks/">differences between a hard fork and a soft fork</a>.
 <p>Many people do not fully understand the difference between hard and soft forks and the implications for the network and ecosystem.
 <p>Hard forks is a permanent divergence in the the block chain, commonly occurs when non-upgraded nodes can’t validate blocks created by upgraded nodes that follow newer consensus rules.
 <p>Soft forks is a temporary divergence in the block chain caused by non-upgraded nodes not following new consensus rules
