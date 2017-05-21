@@ -91,6 +91,8 @@ toc:
 <p>To be extremely safe we recommend having at <b>least 100-200 confirmations</b> before you rely on the transaction or block.
 
 <h3 id="third-parties">Storing Bitcoins with Third Parties</h3>
+<p>We highly recommend you contact any third-parties to determine whether they will be supporting the legacy chain, BIP 148 or both.
+<p>Be sure to get any commitments in writing so that, if needed, your lawyer will have it for any litigation. For example, when something similar happened with <a href="https://www.reddit.com/r/Bitcoin/comments/4ut2iz/coinbase_just_announced_that_they_are_pocketing/">Ethereum there was significant confusion at Coinbase</a>.
 <p>If you store your coins with a third party, such as an exchange, then you should understand their policy for which chain they support.
 <p>Some custodians may only honor one chain and you may not get the full value of your coins if they only honor on one side.
 <p>Under the <a href="https://en.wikipedia.org/wiki/Unjust_enrichment">theory of unjust enrichment</a>, significant legal issues could be raised if third-parties are accuring benefit to themselves that should accure to the benefit of users.
