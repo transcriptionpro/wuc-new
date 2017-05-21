@@ -22,7 +22,8 @@ toc:
   conclusion: "Conclusion"  
 ---
 
-<p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network. This guide will be frequently updated with the latest developments.
+<p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network.
+<p>To help you protect your money, this guide will be frequently updated with the latest developments.
 
 {% include page-toc.html %}
 
