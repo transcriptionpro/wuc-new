@@ -71,9 +71,9 @@ toc:
 <p>A listing of wallets here does not imply any endorsement of the quality or security of the software.
 <p>Put on your big boy or big girl pants and use at your own risk.
 <ol>
-<li>09 Apr 2017 - <a href="https://twitter.com/SamouraiWallet/status/851005717070917633"></a>Samourai Wallet</li>
-<li>11 Apr 2017 - <a href="https://twitter.com/coinkite/status/851822761794260992"></a>Coinkite</li>
-<li>12 Apr 2017 - <a href="https://twitter.com/CoinomiWallet/status/852130791362637825"></a>Coinomi</li>
+<li>09 Apr 2017 - <a href="https://twitter.com/SamouraiWallet/status/851005717070917633">Samourai Wallet</a></li>
+<li>11 Apr 2017 - <a href="https://twitter.com/coinkite/status/851822761794260992">Coinkite</a></li>
+<li>12 Apr 2017 - <a href="https://twitter.com/CoinomiWallet/status/852130791362637825">Coinomi</a></li>
 <li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li>
 </ol>
 
@@ -92,10 +92,10 @@ toc:
 <p>A listing of exchanges here does not imply any endorsement of the quality or security of the service.
 <p>Put on your big boy or big girl pants and use at your own risk.
 <ol>
-<li>11 Apr 2017 - <a href="https://twitter.com/bitrefill/status/851818821946048512"></a>Bitrefill</li>
-<li>12 Apr 2017 - <a href="https://twitter.com/prasosltd/status/852104011767566336"></a>Prasos</li>
-<li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569"></a>Bylls</li>
-<li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569"></a>Satoshi Counter</li>
+<li>11 Apr 2017 - <a href="https://twitter.com/bitrefill/status/851818821946048512">Bitrefill</a></li>
+<li>12 Apr 2017 - <a href="https://twitter.com/prasosltd/status/852104011767566336">Prasos</a></li>
+<li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569">Bylls</a></li>
+<li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569">Satoshi Counter</a></li>
 <li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
 <li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
 
