@@ -78,7 +78,8 @@ toc:
 
 <h3 id="exchanges">Exchanges Supporting BIP 148</h3>
 <ol>
-<li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro</a></li>
+<li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
+<li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
 </ol>
 
 <h3 id="spender">Spending Bitcoins</h3>
