@@ -71,6 +71,9 @@ toc:
 <p>A listing of wallets here does not imply any endorsement of the quality or security of the software.
 <p>Put on your big boy or big girl pants and use at your own risk.
 <ol>
+<li>09 Apr 2017 - <a href="https://twitter.com/SamouraiWallet/status/851005717070917633"></a>Samourai Wallet</li>
+<li>11 Apr 2017 - <a href="https://twitter.com/coinkite/status/851822761794260992"></a>Coinkite</li>
+<li>12 Apr 2017 - <a href="https://twitter.com/CoinomiWallet/status/852130791362637825"></a>Coinomi</li>
 <li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li>
 </ol>
 
@@ -89,8 +92,13 @@ toc:
 <p>A listing of exchanges here does not imply any endorsement of the quality or security of the service.
 <p>Put on your big boy or big girl pants and use at your own risk.
 <ol>
+<li>11 Apr 2017 - <a href="https://twitter.com/bitrefill/status/851818821946048512"></a>Bitrefill</li>
+<li>12 Apr 2017 - <a href="https://twitter.com/prasosltd/status/852104011767566336"></a>Prasos</li>
+<li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569"></a>Bylls</li>
+<li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569"></a>Satoshi Counter</li>
 <li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
 <li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
+
 </ol>
 
 <h3 id="spender">Spending Bitcoins</h3>
@@ -116,38 +124,37 @@ toc:
 
 <h3 id="saying">What are companies saying about BIP148?</h3>
 
-Company|Category|Support Type|ANN.|
- :--- | :--- | :--- | :---:
- [Abra](https://www.goabra.com) |  Worldwide payments | Support | [proof](https://twitter.com/billbarhydt/status/851855874855391232)
- [Bitcoin Embassy.io](https://bitcoinembassy.ca/) || Support |[proof](https://twitter.com/francispouliot_/status/852554864144109569)
- [BitCoinReminder](https://bitcoinreminder.com/)  | Tool | Support | [proof](https://www.reddit.com/r/Bitcoin/comments/642n66/bitcoinremindercom_supports_bip148_and_a_fix/)
- [Bitfury](http://bitfury.com/) | Miner | Support | [proof](https://news.bitcoin.com/bitfury-mines-block-signaling-uasf-segwit/)
- [BitKong](https://bitkong.com/) | Casino | Support | [proof](https://bitkong.com/segwit.txt)
- [BitPay](https://bitpay.com) | Payment processor | No support | [proof](https://twitter.com/spair/status/852160130296762369)
- [Bitrated](https://twitter.com/bitrated/status/852414265134907392) | Identity & consumer protection | Support | [proof](https://twitter.com/bitrated/status/852414265134907392)
- [Bitrefill](https://www.bitrefill.com) |Exchange| Support | [proof](https://twitter.com/bitrefill/status/851818821946048512)
- [Bitvest](https://bitvest.io/) | |Support | [proof](https://bitvest.io/segwit)
- [Blockonomics](https://www.blockonomics.co) |Explorer| Support|  [proof](https://twitter.com/blockonomics_co/status/851770427529670658)
- [Bustabit](#) | Casino|Interest|[proof](https://www.reddit.com/r/Bitcoin/comments/63otrp/gregory_maxwell_major_asic_manufacturer_is/dfw02tg/)
- [Bylls](https://bylls.com/) | Service | Support |[proof](https://twitter.com/francispouliot_/status/852554864144109569)
- [CoinGate](https://coingate.com) | Payment Processor | Support | [proof](https://blog.coingate.com/2017/04/coingate-supports-segwit-and-uasf/)
- [Coinkite](http://coinkite.com) | Hardware/Software | Support| [proof](https://twitter.com/coinkite/status/851822761794260992)
- [Coinomi](https://coinomi.com/) | Multi-currency Wallet | Support| [proof](https://twitter.com/CoinomiWallet/status/852130791362637825)
- [Freedom Node](https://freedomnode.com/) | Education | Support| [proof](https://freedomnode.com/bitcoin-core-support.txt)
- [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) | Mixer | Support| [proof](https://twitter.com/joinmarket/status/851177740900368385)
- [Microsoft](http://microsoft.com)| Decentralized Identity dpt.|Support|[proof](https://twitter.com/csuwildcat/status/851832163792150528)
- [Prasos](https://prasos.fi) | Bitcoin broker | Support | [proof](https://twitter.com/prasosltd/status/852104011767566336)
- [Samourai Wallet](https://samouraiwallet.com/) | Wallet| Support| [proof](https://twitter.com/SamouraiWallet/status/851005717070917633)
- [Satoshi Counter](https://satoshicounter.com/) | Broker | Support |[proof](https://twitter.com/francispouliot_/status/852554864144109569)
- [Satoshi Portal](http://satoshiportal.com) | Financial services | Support|[proof](https://twitter.com/francispouliot_/status/850474196635439105)
- [Stampery Inc.](https://stampery.com) | Timestamping| Support |[proof](https://twitter.com/StamperyCo/status/852097157951873025)
- [Trezor](https://trezor.io/) | Hardware Wallet | Ready | [proof](https://twitter.com/slushcz/status/851502735736418304)
- [Vaultoro](https://www.vaultoro.com) | Bitcoin & gold exchange | Support | [proof](https://twitter.com/Vaultoro/status/851370469018284034)
- [Walltime](https://walltime.info/)|| Support |[proof](https://pastebin.com/raw/FeNHqySX)
- [yogh.io](http://yogh.io) | Explorer| Support |[proof](http://srv1.yogh.io/#json:getnetworkinfo)
- 
- *[Add your business here by creating a pull request (must include public announcement link)](https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2017-05-21-uasf-guide.md)*
+<ol>
+<li><a href="https://twitter.com/billbarhydt/status/851855874855391232"></a>Abra</li>
+<li><a href="https://twitter.com/francispouliot_/status/852554864144109569"></a>Bitcoin Embassy.io</li>
+<li><a href="https://www.reddit.com/r/Bitcoin/comments/642n66/bitcoinremindercom_supports_bip148_and_a_fix/"></a>Bitcoin Reminder</li>
+<li><a href="https://news.bitcoin.com/bitfury-mines-block-signaling-uasf-segwit/"></a>Bitfury</li>
+<li><a href="https://bitkong.com/segwit.txt"></a>BitKong</li>
+<li><a href="https://twitter.com/spair/status/852160130296762369"></a>BitPay</li>
+<li><a href="https://twitter.com/bitrated/status/852414265134907392"></a>Bitrated</li>
+<li><a href="https://twitter.com/bitrefill/status/851818821946048512"></a>Bitrefill</li>
+<li><a href="https://bitvest.io/segwit"></a>Bitvest</li>
+<li><a href="https://twitter.com/blockonomics_co/status/851770427529670658"></a>Blockonomics</li>
+<li><a href="https://www.reddit.com/r/Bitcoin/comments/63otrp/gregory_maxwell_major_asic_manufacturer_is/dfw02tg/"></a>Bustabit</li>
+<li><a href="https://twitter.com/francispouliot_/status/852554864144109569"></a>Bylls</li>
+<li><a href="https://blog.coingate.com/2017/04/coingate-supports-segwit-and-uasf/"></a>CoinGate</li>
+<li><a href="https://twitter.com/coinkite/status/851822761794260992"></a>Coinkite</li>
+<li><a href="https://twitter.com/CoinomiWallet/status/852130791362637825"></a>Coinomi</li>
+<li><a href="https://freedomnode.com/bitcoin-core-support.txt"></a>Freedom Node</li>
+<li><a href="https://twitter.com/joinmarket/status/851177740900368385"></a>Join Market</li>
+<li><a href="https://twitter.com/csuwildcat/status/851832163792150528"></a>Microsoft</li>
+<li><a href="https://twitter.com/prasosltd/status/852104011767566336"></a>Prasos</li>
+<li><a href="https://twitter.com/SamouraiWallet/status/851005717070917633"></a>Samourai Wallet</li>
+<li><a href="https://twitter.com/francispouliot_/status/852554864144109569"></a>Satoshi Counter</li>
+<li><a href="https://twitter.com/francispouliot_/status/850474196635439105"></a>Satoshi Portal</li>
+<li><a href="https://twitter.com/StamperyCo/status/852097157951873025"></a>Stampery Inc.</li>
+<li><a href="https://twitter.com/slushcz/status/851502735736418304"></a>Trezor</li>
+<li><a href="https://twitter.com/Vaultoro/status/851370469018284034"></a>Vaultoro</li>
+<li><a href="https://pastebin.com/raw/FeNHqySX"></a>Walltime</li>
+<li><a href="http://srv1.yogh.io/#json:getnetworkinfo"></a>yogh.io</li>
+</ol>
 
+<p>[Add your business here by <a href="https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2017-05-21-uasf-guide.md">creating a pull request</a> (must include public announcement link).
 
 <h3 id="as-third-party">As A Third Party</h3>
 <p>The safest route would be support both chains.
