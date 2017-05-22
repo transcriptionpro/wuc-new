@@ -65,6 +65,13 @@ toc:
 <p>This will put you in <b>firm control</b> of all decisions related to how you interact instead of having some third-party make those decisions for you.
 <p>Additionally, it is unknown how the legacy chain or the BIP 148 chain will be labeled. This could lead to significant confusion in the marketplace so it is important for you to know exactly what you are buying or selling.
 
+<h3 id="wallets">Wallets Supporting BIP 148</h3>
+<p>A listing of wallets here does not imply any endorsement of the quality or security of the software.
+<p>Put on your big boy or big girl pants and use at your own risk.
+<ol>
+<li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li
+</ol>
+
 <h3 id="hodler">As a Hodler (Long Term Investor)</h3>
 <p>If a chain split occurs then long term investors will have equal amounts of coins on both sides of the chain.  If a chain split is resolved then they will have their original balance on the unified chain and need to take no actions.
 
@@ -77,6 +84,8 @@ toc:
 <p>The list is ordered by date of an unequivocal public announcement for support of BIP 148.
 
 <h3 id="exchanges">Exchanges Supporting BIP 148</h3>
+<p>A listing of exchanges here does not imply any endorsement of the quality or security of the service.
+<p>Put on your big boy or big girl pants and use at your own risk.
 <ol>
 <li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
 <li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
