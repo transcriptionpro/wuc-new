@@ -12,6 +12,7 @@ toc:
   support: "Current BIP 148 Support"
   what-could-happen-on-august-1-2017: "What could happen on August 1, 2017?"
   prepare: "How do I prepare?"
+  wallets: "Wallets Supporting BIP 148"
   hodler: "As A Hodler (Long Term Investor)"
   trader: "As A Bitcoin Trader"
   exchanges: "Exchanges Supporting BIP 148"
@@ -69,7 +70,7 @@ toc:
 <p>A listing of wallets here does not imply any endorsement of the quality or security of the software.
 <p>Put on your big boy or big girl pants and use at your own risk.
 <ol>
-<li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li
+<li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li>
 </ol>
 
 <h3 id="hodler">As a Hodler (Long Term Investor)</h3>
