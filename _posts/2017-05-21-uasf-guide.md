@@ -19,6 +19,7 @@ toc:
   spender: "As A Spender"
   receiver: "As A Receiver"
   third-parties: "Warning About Third Parties"
+  saying: "What Are Companies Saying About BIP148?"
   as-third-party: "As A Third Party"
   conclusion: "Conclusion"  
 ---
@@ -111,6 +112,42 @@ toc:
 <p>Some custodians may only honor one chain and you may not get the full value of your coins if they only honor on one side.
 <p>Under the <a href="https://en.wikipedia.org/wiki/Unjust_enrichment">theory of unjust enrichment</a>, significant legal issues could be raised if third-parties are accuring benefit to themselves that should accure to the benefit of users.
 <p>The <b>safest plan</b> for storing coins on August 1, 2017 is to gain control of your coins, operate your own full node<b>(s)</b> and evaluate your options after a potential chain split.
+
+
+<h3 id="saying">What are companies saying about BIP148?</h3>
+
+Company|Category|Support Type|ANN.|
+ :--- | :--- | :--- | :---:
+ [Abra](https://www.goabra.com) |  Worldwide payments | Support | [proof](https://twitter.com/billbarhydt/status/851855874855391232)
+ [Bitcoin Embassy.io](https://bitcoinembassy.ca/) || Support |[proof](https://twitter.com/francispouliot_/status/852554864144109569)
+ [BitCoinReminder](https://bitcoinreminder.com/)  | Tool | Support | [proof](https://www.reddit.com/r/Bitcoin/comments/642n66/bitcoinremindercom_supports_bip148_and_a_fix/)
+ [Bitfury](http://bitfury.com/) | Miner | Support | [proof](https://news.bitcoin.com/bitfury-mines-block-signaling-uasf-segwit/)
+ [BitKong](https://bitkong.com/) | Casino | Support | [proof](https://bitkong.com/segwit.txt)
+ [BitPay](https://bitpay.com) | Payment processor | No support | [proof](https://twitter.com/spair/status/852160130296762369)
+ [Bitrated](https://twitter.com/bitrated/status/852414265134907392) | Identity & consumer protection | Support | [proof](https://twitter.com/bitrated/status/852414265134907392)
+ [Bitrefill](https://www.bitrefill.com) |Exchange| Support | [proof](https://twitter.com/bitrefill/status/851818821946048512)
+ [Bitvest](https://bitvest.io/) | |Support | [proof](https://bitvest.io/segwit)
+ [Blockonomics](https://www.blockonomics.co) |Explorer| Support|  [proof](https://twitter.com/blockonomics_co/status/851770427529670658)
+ [Bustabit](#) | Casino|Interest|[proof](https://www.reddit.com/r/Bitcoin/comments/63otrp/gregory_maxwell_major_asic_manufacturer_is/dfw02tg/)
+ [Bylls](https://bylls.com/) | Service | Support |[proof](https://twitter.com/francispouliot_/status/852554864144109569)
+ [CoinGate](https://coingate.com) | Payment Processor | Support | [proof](https://blog.coingate.com/2017/04/coingate-supports-segwit-and-uasf/)
+ [Coinkite](http://coinkite.com) | Hardware/Software | Support| [proof](https://twitter.com/coinkite/status/851822761794260992)
+ [Coinomi](https://coinomi.com/) | Multi-currency Wallet | Support| [proof](https://twitter.com/CoinomiWallet/status/852130791362637825)
+ [Freedom Node](https://freedomnode.com/) | Education | Support| [proof](https://freedomnode.com/bitcoin-core-support.txt)
+ [JoinMarket](https://github.com/JoinMarket-Org/joinmarket) | Mixer | Support| [proof](https://twitter.com/joinmarket/status/851177740900368385)
+ [Microsoft](http://microsoft.com)| Decentralized Identity dpt.|Support|[proof](https://twitter.com/csuwildcat/status/851832163792150528)
+ [Prasos](https://prasos.fi) | Bitcoin broker | Support | [proof](https://twitter.com/prasosltd/status/852104011767566336)
+ [Samourai Wallet](https://samouraiwallet.com/) | Wallet| Support| [proof](https://twitter.com/SamouraiWallet/status/851005717070917633)
+ [Satoshi Counter](https://satoshicounter.com/) | Broker | Support |[proof](https://twitter.com/francispouliot_/status/852554864144109569)
+ [Satoshi Portal](http://satoshiportal.com) | Financial services | Support|[proof](https://twitter.com/francispouliot_/status/850474196635439105)
+ [Stampery Inc.](https://stampery.com) | Timestamping| Support |[proof](https://twitter.com/StamperyCo/status/852097157951873025)
+ [Trezor](https://trezor.io/) | Hardware Wallet | Ready | [proof](https://twitter.com/slushcz/status/851502735736418304)
+ [Vaultoro](https://www.vaultoro.com) | Bitcoin & gold exchange | Support | [proof](https://twitter.com/Vaultoro/status/851370469018284034)
+ [Walltime](https://walltime.info/)|| Support |[proof](https://pastebin.com/raw/FeNHqySX)
+ [yogh.io](http://yogh.io) | Explorer| Support |[proof](http://srv1.yogh.io/#json:getnetworkinfo)
+ 
+ *[Add your business here by creating a pull request (must include public announcement link)](https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2017-05-21-uasf-guide.md)*
+
 
 <h3 id="as-third-party">As A Third Party</h3>
 <p>The safest route would be support both chains.
