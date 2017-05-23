@@ -66,7 +66,8 @@ toc:
 <h2 id="prepare">How do I prepare for BIP 148 if there is a split?</h2>
 <p>The most important thing you can do is perform your own network consensus by <a href="/bitcoin-core/">running a full-node</a> and <a href="/what-is-a-private-key/">creating and storing your own private keys</a>.
 <p>This will put you in <b>firm control</b> of all decisions related to how you interact instead of having some third-party make those decisions for you.
-<p>Additionally, it is unknown how the legacy chain or the BIP 148 chain will be labeled. This could lead to significant confusion in the marketplace so it is important for you to know exactly what you are buying or selling.
+<p>Additionally, it is unknown how the legacy chain or the BIP 148 chain will be labeled.
+<p>This could lead to significant confusion in the marketplace so it is important for you to know exactly what you are buying or selling.
 
 <h3 id="wallets">Wallets Supporting BIP 148</h3>
 <p>A listing of wallets here does not imply any endorsement of the quality or security of the software.
@@ -77,10 +78,11 @@ toc:
 <li>12 Apr 2017 - <a href="https://twitter.com/CoinomiWallet/status/852130791362637825">Coinomi</a></li>
 <li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li>
 </ol>
-<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
+<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
 <h3 id="hodler">As a Hodler (Long Term Investor)</h3>
-<p>If a chain split occurs then long term investors will have equal amounts of coins on both sides of the chain.  If a chain split is resolved then they will have their original balance on the unified chain and need to take no actions.
+<p>If a chain split occurs then long term investors will have equal amounts of coins on both sides of the chain.
+<p>If a chain split is resolved then they will have their original balance on the unified chain and need to take no actions.
 
 <h3 id="trader">As A Bitcoin Trader</h3>
 <p>As a trader you will need to find an exchange that supports, preferrably, both the legacy chain and the BIP 148 chain.
@@ -101,10 +103,11 @@ toc:
 <li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
 <li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
 </ol>
-<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
+<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
 <h3 id="spender">Spending Bitcoins</h3>
-<p>If you are spending Bitcoins then you should protect yourself from accidentally spending on both chains.  Since many transactions are valid on both chains, the same transaction could be “replayed” on the other chain, thus making it you spend on the other side as well.
+<p>If you are spending Bitcoins then you should protect yourself from accidentally spending on both chains.
+<p>Since many transactions are valid on both chains, the same transaction could be “replayed” on the other chain, thus making it you spend on the other side as well.
 <p>Before you send a transaction, you should split your coins and be sure which chain your receiver honors.
 <p>You can either use a coin splitting service or you can split your own coins by creating and broadcasting your own transactions on both chains.
 
@@ -122,7 +125,6 @@ toc:
 <p>Some custodians may only honor one chain and you may not get the full value of your coins if they only honor on one side.
 <p>Under the <a href="https://en.wikipedia.org/wiki/Unjust_enrichment">theory of unjust enrichment</a>, significant legal issues could be raised if third-parties are accuring benefit to themselves that should accure to the benefit of users.
 <p>The <b>safest plan</b> for storing coins on August 1, 2017 is to gain control of your coins, operate your own full node<b>(s)</b> and evaluate your options after a potential chain split.
-
 
 <h3 id="saying">What are companies saying about BIP148?</h3>
 
@@ -160,7 +162,7 @@ toc:
 
 <h3 id="as-third-party">As A Third Party</h3>
 <p>The safest route would be support both chains.
-<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
+<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
 <h2 id="conclusion">Conclusion</h2>
 <p>If BIP 148 is successful then little to no action is needed from most users.
