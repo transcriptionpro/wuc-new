@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blockchain Use to to Allow Faster Overseas Remittance
-description: Blockchain Use to to Allow Faster Overseas Remittance
+title: Blockchain Use to Allow Faster Overseas Remittance
+description: Blockchain Use to Allow Faster Overseas Remittance
 author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
