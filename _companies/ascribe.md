@@ -1,4 +1,3 @@
-
 ---
 title: Ascribe
 seotitle: Ascribe
