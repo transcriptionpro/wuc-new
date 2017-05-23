@@ -21,7 +21,8 @@ toc:
   third-parties: "Warning About Third Parties"
   saying: "What Are Companies Saying About BIP148?"
   as-third-party: "As A Third Party"
-  conclusion: "Conclusion"  
+  conclusion: "Conclusion"
+  exchange-support: "How An Exchange Supports BIP 148"
 ---
 
 <p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network.
@@ -76,6 +77,7 @@ toc:
 <li>12 Apr 2017 - <a href="https://twitter.com/CoinomiWallet/status/852130791362637825">Coinomi</a></li>
 <li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li>
 </ol>
+<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
 <h3 id="hodler">As a Hodler (Long Term Investor)</h3>
 <p>If a chain split occurs then long term investors will have equal amounts of coins on both sides of the chain.  If a chain split is resolved then they will have their original balance on the unified chain and need to take no actions.
@@ -98,8 +100,8 @@ toc:
 <li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569">Satoshi Counter</a></li>
 <li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
 <li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
-
 </ol>
+<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
 <h3 id="spender">Spending Bitcoins</h3>
 <p>If you are spending Bitcoins then you should protect yourself from accidentally spending on both chains.  Since many transactions are valid on both chains, the same transaction could be “replayed” on the other chain, thus making it you spend on the other side as well.
@@ -158,8 +160,100 @@ toc:
 
 <h3 id="as-third-party">As A Third Party</h3>
 <p>The safest route would be support both chains.
+<p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
 <h2 id="conclusion">Conclusion</h2>
 <p>If BIP 148 is successful then little to no action is needed from most users.
 <p>However, around August 1, 2017 users should be cautious, especially when receiving coins.
 <p>Most users will likely wait until more clear information is available.
+
+<h3 id="exchange-support">How An Exchange Supports BIP 148</h3>
+<p><a href="https://np.reddit.com/r/Bitcoin/comments/6c7twv/solution_unbiased_trading_of_real_bitcoin/">Credit</a>: This guide to help exchanges support BIP 148.
+<p>UTTA - Underlying (or unbiased) Token Trading in Advance:</p>
+
+<p>An Exchange ABC could start trading (1) "Bitcoin-BIP148" SegWit-enabled tokens, as well as (2) "Bitcoin-Old" Non-SegWit tokens, starting 1st July 2017, i.e. one month before BIP148 flag day.
+<p>The exchange's customers will find the underlying coins, and not any future, derivative or bet, in their account balances, and can trade them exactly as if the two chains exist already!</p>
+<p>This would help gauge the economic support for both chains.
+
+<p>Here is an illustrative and exhaustive guidance on how trading will work for customers on an exchange:</p>
+<p>Technically, and practically, it works like this:</p>
+<p>Starting 1st July 2017, each customer on Exchange ABC will see 3 Bitcoin accounts:</p>
+
+<ul>
+<li><p>(a) The normal Bitcoin account</p></li>
+<li><p>(b) An account laballed "Bitcoin-Old-NonSegWit"</p></li>
+<li><p>(c) An account labelled "Bitcoin-BIP148-SegWit"</p></li>
+</ul>
+
+<p>By default, a customer having 1 BTC on his account will find the follwoing balances, when he logs in on 1st July 2017:</p>
+
+<ul>
+<li><p>(a) Bitcoin:     1.00000000 BTC</p></li>
+<li><p>(b) Bitcoin-Old: 0.00000000 BTC</p></li>
+<li><p>(c) Bitcoin-148: 0.00000000 BTC</p></li>
+</ul>
+
+<p>If the customer does nothing special, he can continue trading, withdrawing or loading bitcoins as usual and does not need to change anything. He can just ignore (b) and (c).</p>
+
+<p>Optionally, the customer can move back and forth the balances between (a) and (b) and (c), e.g. as follows:</p>
+
+<ul>
+<li><p>(a) Bitcoin:     0.60000000 BTC</p></li>
+<li><p>(b) Bitcoin-Old: 0.40000000 BTC</p></li>
+<li><p>(c) Bitcoin-148: 0.40000000 BTC</p></li>
+</ul>
+
+<p>This means, he now has moved 0.4 BTC from his "default" Bitcoin account (a) to his "new" Bitcoin accounts (b) and (c). This kind of account keeping respects the fact that after a chain split, i.e. after 1st August 2017, each Bitcoin that exists before the chain-split will duplicate into one "Bitcoin-Old" and one "Bitcoin-148".</p>
+<p>Let's assume that there are two customers on Exchange ABC, call them Alice and Bob, with the following account balances:</p>
+<p><center><img src="/images/uasf-exchange-1.png"></center>
+
+<p>Let's assume that Alice and Bob "re-arrange" their accounts in their account settings, as follows:</p>
+
+<p><center><img src="/images/uasf-exchange-2.png"></center>
+
+<p>Now, Alice and Bob can start trading. Let's assume, for the sake of simplicity and ease of understanding, that 1 BTC is valued == 1000 EUR.
+<p>Also, trading fees earned by the Exchange operator are assumed to be 0.00% here for simplicity.</p>
+<p>Alice and Bob can now place buy and sell orders for Bitcoin-Old (b) or Bitcoin-148 (c), exactly the same way as for normal Bitcoin (a), or for any other crypto-currency traded on Exchange ABC. For example, Alice places a buy-order for 0.25 tokens of "Bitcoin-148" for 300 EUR, and Bob accepts this order. After settlement, their account balances look like this:</p>
+
+<p><center><img src="/images/uasf-exchange-3.png"></center>
+
+<p>After another trade where Alice is selling 0.2 "Bitcoin Old" tokens to Bob for 150 EUR, their balances read:</p>
+
+<p><center><img src="/images/uasf-exchange-4.png"></center>
+
+<p>Now let's assume Alice wants to withdraw 0.7 BTC (0.8 BTC would be the maximum possible in the current situation for her) to her local Trezor wallet. For this she will first "re-arrange" her account (again via account settings) as follows:</p>
+
+<p><center><img src="/images/uasf-exchange-5.png"></center>
+
+<p>She will now withdraw 0.7 BTC:</p>
+
+<p><center><img src="/images/uasf-exchange-6.png"></center>
+
+<p>Alice couldn't withdraw her remaining 0.45 "Bitcoin-148" tokens, because they do not yet exist on any public blockchain. To withdraw them as well already now, she'd either have to sell the 0.45 Bitcoin-148 tokens on the Exchange ABC and buy legacy Bitcoin tokens from that Fiat money, or she'd buy 0.45 Bitcoin-Old tokens to match her "Bitcoin-148" tokens.
+<p>Thereafter she could again "re-arrange" her account and then withdraw all the BTC.</p>
+<p>Let's assume that no further activity occurs on Alice's and Bob's accounts for the rest of July 2017.</p>
+<p>On 1st August 2017, Bitcoin-BIP148 shall activate. As a result, the legacy account balance (a) ceases to exist, and the Bitcoin balances in the customers' accounts read:</p>
+
+<p><center><img src="/images/uasf-exchange-7.png"></center>
+
+<p>As we can see, Bob's former 0.6 BTC was moved (or "re-arranged") to his "Bitcoin-Old" and "Bitcin-148" balance. This reflects the fact that both chains (b) and (c) have the same pre-decessor chain (a).</p>
+<p>Now let's assume that first the "Bitcoin-Old" chain grows faster than the "Bitcoin-148 chain", such that there are indeed TWO public Bitcoin blockchains (in the other case we'd have only one common chain, and we'll come to that scenario later).</p>
+<p>From this moment on, trading of Bitcoin-Old tokens and Bitcoin-148 tokens on Exchange ABC works like tokens of any other crypto-currency, they are simply treated as what they are - separate chains.</p>
+<p>Alice or Bob could e.g. withdraw "Bitcoin-Old" or "Bitcin-148" tokens. Exchange ABC will make sure that no replay attacks are possible when their customers withdraw tokens.
+<p>It can easily guarantee this e.g. by a mechanism as described <a href="https://np.reddit.com/r/ethereum/comments/4t30ew/poloniex_announces_their_plans_regarding_upcoming/d5edz7r/">here</a>.</p>
+<p>Also, Alice and Bob can load their account balances with new coins. In this case, of course Exchange ABC cannot guarantee that no replay attack will occur. However, for fairness reasons, Exchange ABC will always monitor the receiving address on BOTH chains, and should coins arrive on the "other chain", the received amount will also be credited to the customer's balance, such that no coins get lost when a customer gets "replay-attacked" when loading coins onto his/her account at Exchange ABC.</p>
+<p>Now let's consider what happens if one of the two public blockchains disappears - let's look at different possible scenarios:</p>
+<p><b>1.)</b> The blockchain of BIP148 (UASF, SegWit) is not mined at all because of lack of interest, or is slower from the start then "Old-Chain", and gets slower and slower and gets less and less valuation and less and less miners and nodes operate this chain.
+<p>At some point, this chain "dies" because no more block is mined on this chain at all.
+<p>--> In this case, customer balances for Bitcoin-148 coins will not be withdrawable any more as the chain dies, Exchange ABC will quit support trading its tokens a short time later, and customers will lose their balances for this token, since the coin has become unusable and worthless.</p>
+<p><b>2.)</b> After a "slow start" on 1st August 2017, the tokens of Bitcoin-BIP148 (UASF, SegWit) become more and more valuable, more and more miners hence switch to mine them, the BIP-148 chain hence becomes longer and longer and at one point overtakes the "Old-Non-SegWit-Chain".
+<p>At this point, the "Old-Non-SegWit-Chain" reorganises and becomes identical to the "BIP148-SegWit-Chain". As a consequence, the "Bitcoin-Old" tokens cannot be withdrawn any more and cannot be traded any more - they will be displayed "grayed-out" in the account balance view, just for information, and will a few days afterwards be removed from the user accounts altogether.</p>
+<p><b>3.)</b> On 1st August 2017, if from the first moment on, the BIP-148 SegWit chain is faster than the other "Non-SegWit" chain, then no "Bitcoin-Old" chain will be created in the first place, and the customer balance for "Bitcoin-Old" tokens will not be withdrawable.
+<p>These tokens, however, will still be tradeable for the first time starting 1st August, because the initial faster block creation of BIP-148 SegWit blocks might well be a result of statistical coincidence, i.e. the "Bitcoin-Old" chain may still turn out faster and longer and fork-off from the BIP148-chain some time later.
+<p>Another reason why there don't immediately have to be two parallel chains is that the "Old-chain" will accept BIP148-blocks (because of the SOFT fork characteristics) such that there is no reason to immediately fork-off. However, injection of SegWit transaction into the "Old chain" that look like "anyone can spend" transactions to the "Old-chain miners", as well as old Non-BIP148 blocks that are rejected by BIP148-miners, should sooner cause a chain-split with Old-chain forking off from BIP148-chain, if "old-chain" miner hash power is greater than "BIP148-chain" hash power.
+<p>So trading of Old-Chain tokens will be possible for some time (maybe even some days) on Exchange ABC, in expectation that an Old-chain creation may still happen. In case the Old-Chain should indeed fork-off, as soon as it is [10] blocks longer than BIP148-chain, Exchange ABC will recognize the existence of this Old-Chain and will allow withdrawals of "Bitcoin-Old" tokens.
+<p>After this moment, the two chains will either coexist forever, or one of the cases 1.) or 2.) will occur at some point in time, sooner or later.</p>
+
+<p><h3>SUMMARY</h3>
+<p>By opening a fair and unbiased market for directly trading "Non-SegWit-Bitcoin" tokens and "BIP148-SegWit-Bitcoin" tokens well in advance before actual BIP148 activation, a market demand for a SegWit-disabled coin on the one hand, and for a SegWit-enabled Bitcoin on the other hand, can be determined in a fair and reliable way, before SegWit activation on 1st August 2017 happens.
+<p>This solves the dilemma that nobody knows in advance of 1st August what the actual market/user demand for SegWit is, because today's miner hashrate is not representing real market demands.
