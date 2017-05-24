@@ -1,7 +1,7 @@
 ---
 title: Chronicled
 seotitle: Chronicled
-img: /images/company/Chronicled.png
+img: /images/company/chronicled.png
 ---
 
 <a href="https://www.chronicled.com/">Chronicled</a> has Secure identities, trusted IoT data, and automated business logic.
