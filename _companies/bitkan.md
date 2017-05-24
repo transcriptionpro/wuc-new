@@ -1,7 +1,7 @@
 ---
 title: BitKan
 seotitle: BitKan
-img: /images/company/BitKan.png
+img: /images/company/bitkan.png
 ---
 
 <a href="https://bitkan.com/">BITKAN</a> is founded in 2013 with its headquarter in SHENZHEN, CHINA. It owns the largest number of users within the industry in China. It features OTC trading service, as well as price viewing, news reading, mining monitoring, price alert and E-Wallet services, etc. The founding team is made up with experienced former HUAWEI employees, dedicated to provide the most professional and safest services to its users.
