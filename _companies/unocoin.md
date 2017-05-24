@@ -1,7 +1,7 @@
 ---
 title: Unocoin  
 seotitle: Unocoin  
-img: /images/company/Unocoin.png
+img: /images/company/unocoin.png
 ---
 
 <a href="https://www.unocoin.com">Unocoin</a> is India’s leading bitcoin company. It enables Indians to buy, sell, store, use and accept bitcoin.
