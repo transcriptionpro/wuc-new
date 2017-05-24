@@ -1,7 +1,7 @@
 ---
 title: Rootstock 
 seotitle: Rootstock
-img: /images/company/Rootstock.png
+img: /images/company/rootstock.png
 ---
 
 <a href="http://www.rsk.co/">RSK</a> is the first open-source smart contract platform with a 2-way peg to Bitcoin that also rewards the Bitcoin miners via merge-mining, allowing them to actively participate in the Smart Contract revolution. RSK goal is to add value and functionality to the Bitcoin ecosystem by enabling smart-contracts, near instant payments and higher-scalability.
