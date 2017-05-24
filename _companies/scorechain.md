@@ -1,7 +1,7 @@
 ---
 title: Score Chain
 seotitle: Score Chain
-img: /images/company/ScoreChain.png
+img: /images/company/scorechain.png
 ---
 
 SCORECHAIN is a Luxembourgish company started in 2015 and providing Bitcoin and Blockchain services to the Bitcoin stakeholders.
