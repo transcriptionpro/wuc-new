@@ -1,7 +1,7 @@
 ---
 title: Stratumn  
 seotitle: Stratumn  
-img: /images/company/Stratumn.png
+img: /images/company/stratumn.png
 ---
 
 Global organizations need to work together to deliver the best products and services to their customers, while at the same time satisfying requirements of regulatory authorities.
