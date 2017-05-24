@@ -102,6 +102,7 @@ toc:
 <li>13 Apr 2017 - <a href="https://twitter.com/francispouliot_/status/852554864144109569">Satoshi Counter</a></li>
 <li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
 <li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
+<li>23 May 2017 - <a href="https://twitter.com/Bittylicious_/status/867305106668224513">Bittylicious</a></li>
 </ol>
 <p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
