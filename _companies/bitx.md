@@ -1,7 +1,7 @@
 ---
 title: bitX
 seotitle: bitX
-img: /images/company/bitX.png
+img: /images/company/bitx.png
 ---
 
 BitX has a pretty small marketcap according to CoinMarketCap, with trading often below a half million dollars. Still, BitX enjoys a generally high industry reputation, and has generally received favorable reviews. Unlike many other exchanges, BitX focuses only on bitcoin, so there’s not a ton of flexibility with this platform. Still, the BitX exchange and wallet are both great options for bitcoin.
