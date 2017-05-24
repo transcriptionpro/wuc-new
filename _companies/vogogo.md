@@ -1,7 +1,7 @@
 ---
 title: Vogogo
 seotitle: Vogogo
-img: /images/company/Vogogo.png
+img: /images/company/vogogo.png
 ---
 
 <a href="https://www.vogogo.com/">Vogogo</a> is a publicly traded technology company on the TSX.V.
