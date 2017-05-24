@@ -1,7 +1,7 @@
 ---
 title: Zebpay
 seotitle: Zebpay
-img: /images/company/Zebpay.png
+img: /images/company/zebpay.png
 ---
 
 Zebpay is the fastest and easiest way to Buy and Sell Bitcoins.
