@@ -1,7 +1,7 @@
 ---
 title: Custos Media Technologies  
 seotitle: Custos Media Technologies 
-img: /images/company/CustosMediaTechnologies.png
+img: /images/company/custosmediatechnologies.png
 ---
 
 <a href="https://custostech.com/">Custos Media Technologies</a> develops cutting edge digital content distribution solutions that allows content owners to distribute, manage, and protect sensitive media. The innovative core technology gives a new level of protection to the owners of any project – whether a large ebook publisher, a small indie film producer, or anything in between. Anywhere sensitive digital media moves, Custos can protect it.
