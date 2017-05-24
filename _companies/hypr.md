@@ -1,7 +1,7 @@
 ---
 title: HYPR 
 seotitle: HYPR 
-img: /images/company/HYPR.png
+img: /images/company/hypr.png
 ---
 
 <a href="https://www.hypr.com/">HYPR</a> provides enterprises an end-to-end solution for deploying decentralized biometric authentication securely across millions of users. Our software is integrated into employee and customer-facing applications to deliver secure password-less experiences across all mobile, desktop and IoT systems.
