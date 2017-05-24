@@ -1,7 +1,7 @@
 ---
 title: Mediachain  
 seotitle: Mediachain  
-img: /images/company/Mediachain.png
+img: /images/company/mediachain.png
 ---
 
 Building a more connected world for creators and audiences.
