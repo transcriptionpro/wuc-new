@@ -1,7 +1,7 @@
 ---
 title: Tierion  
 seotitle: Tierion  
-img: /images/company/Tierion.png
+img: /images/company/tierion.png
 ---
 
 Tierion turns the blockchain into a global platform for verifying any data, file, or business process. We see a future where the blockchain is used to verify everything from medical records to online purchases. We’ve started by making an API and tools to collect data and anchor it in the blockchain.

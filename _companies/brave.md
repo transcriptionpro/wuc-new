@@ -1,7 +1,7 @@
 ---
 title: Brave  
 seotitle: Brave
-img: /images/company/Brave.png
+img: /images/company/brave.png
 ---
 
 ##  What is Brave Payments?

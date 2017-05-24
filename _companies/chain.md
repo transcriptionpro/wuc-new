@@ -1,7 +1,7 @@
 ---
 title: Chain
 seotitle: Chain
-img: /images/company/Chain.png
+img: /images/company/chain.png
 ---
 
 <a href="https://chain.com/">Chain Core</a> is enterprise-grade blockchain infrastructure that enables organizations to build better financial services from the ground up.

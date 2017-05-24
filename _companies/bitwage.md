@@ -1,7 +1,7 @@
 ---
 title: Bitwage
 seotitle: Bitwage
-img: /images/company/Bitwage.png
+img: /images/company/bitwage.png
 ---
 
 <a href="https://www.bitwage.com">Bitwage</a> offers programmatic Access to its resources including Tickers, User, Worker, and Employer.

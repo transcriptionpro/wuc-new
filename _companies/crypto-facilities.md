@@ -1,7 +1,7 @@
 ---
 title: Crypto Facilities
 seotitle: Crypto Facilities 
-img: /images/company/CryptoFacilities.png
+img: /images/company/cryptofacilities.png
 ---
 
 <a href="https://www.cryptofacilities.com">Crypto Facilities</a> is the first and only digital assets trading venue to insure bitcoin deposits and settle accounts on the blockchain. We partner with Elliptic, the KPMG-accredited blockchain security firm.

@@ -1,7 +1,7 @@
 ---
 title: Ethcore  
 seotitle: Ethcore  
-img: /images/company/Ethcore.png
+img: /images/company/ethcore.png
 ---
 
 <a href="https://github.com/ethcore">ETHCORE’s</a> mission is to enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents. We develop cutting-edge software solutions for enterprises and industries to unlock the full value of decentralised technology. 

@@ -1,7 +1,7 @@
 ---
 title: TabTrader
 seotitle: TabTrader
-img: /images/company/TabTrader.png
+img: /images/company/tabtrader.png
 ---
 
 

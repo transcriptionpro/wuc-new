@@ -1,7 +1,7 @@
 ---
 title: Gem
 seotitle: Gem
-img: /images/company/Gem.png
+img: /images/company/gem.png
 ---
 
 <a href="https://gem.co/">GemOS</a> transforms how companies capture, control, and interact with critical data across an industry of connected services via a blockchain network.

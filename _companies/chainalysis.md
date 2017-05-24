@@ -1,7 +1,7 @@
 ---
 title: Chainalysis
 seotitle: Chainalysis
-img: /images/company/Chainalysis.png
+img: /images/company/chainalysis.png
 ---
 
 ## ACTIVITY MONITORING REPORTS

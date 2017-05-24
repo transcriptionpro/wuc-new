@@ -1,7 +1,7 @@
 ---
 title: LBRY  
 seotitle: LBRY  
-img: /images/company/LBRY.png
+img: /images/company/lbry.png
 ---
 
 <a href="https://lbry.io">LBRY</a> is a free, open, and community-run digital marketplace.

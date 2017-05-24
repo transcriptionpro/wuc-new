@@ -1,7 +1,7 @@
 ---
 title: Coinplug
 seotitle: Coinplug
-img: /images/company/Coinplug.png
+img: /images/company/coinplug.png
 ---
 
 <a href="https://www.coinplug.com">Coinplug</a> was founded by engineers from both the Silicon Valley and Korea.

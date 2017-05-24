@@ -1,7 +1,7 @@
 ---
 title: Block  
 seotitle: Block  
-img: /images/company/Block.png
+img: /images/company/block.png
 ---
 
 Block.io is the most versatile and secure wallet for all your coins.

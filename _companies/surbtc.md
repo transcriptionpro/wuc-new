@@ -1,8 +1,9 @@
 ---
 title: SURBTC
 seotitle: SURBTC
-img: /images/company/SURBTC.png
+img: /images/company/surbtc.png
 ---
+
 
 ## What
 

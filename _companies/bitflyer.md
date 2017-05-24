@@ -1,7 +1,7 @@
 ---
 title: bitFlyer
 seotitle: bitFlyer
-img: /images/company/bitFlyer.png
+img: /images/company/bitflyer.png
 ---
 
 <a href="https://bitflyer.jp">bitFlyer</a> is a Bitcoin exchange and marketplace that enables its customers to buy, sell, and spend bitcoins. The site offers an Application Programming Interface which allows the clients to access and control their accounts, using custom written software. 

@@ -1,7 +1,7 @@
 ---
 title: Bitso
 seotitle: Bitso
-img: /images/company/Bitso.png
+img: /images/company/bitso.png
 ---
 
 ## ABOUT US

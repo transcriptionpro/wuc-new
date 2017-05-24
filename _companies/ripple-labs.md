@@ -1,7 +1,7 @@
 ---
 title: Ripple Labs 
 seotitle: Ripple Labs
-img: /images/company/RippleLabs.png
+img: /images/company/ripplelabs.png
 ---
 
 Global commerce is rapidly changing. Businesses are increasingly global from day one and consumers are programmed to expect on demand delivery of services and information. Yet, the current infrastructure for payments is woefully inadequate to meet these needs.

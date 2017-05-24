@@ -1,7 +1,7 @@
 ---
 title: Symbiont
 seotitle: Symbiont
-img: /images/company/Symbiont.png
+img: /images/company/symbiont.png
 ---
 
 Symbiont is bridging the gap between the emerging blockchain ecosystem and Wall Street, with the first issuance and trading platform for Smart Securities.

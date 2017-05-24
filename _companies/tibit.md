@@ -1,7 +1,7 @@
 ---
 title: Tibit 
 seotitle: Tibit 
-img: /images/company/Tibit.png
+img: /images/company/tibit.png
 ---
 
 The web has amazing content, but right now it's hard for creative people to support their work financially.

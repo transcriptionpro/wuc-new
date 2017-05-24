@@ -1,7 +1,7 @@
 ---
 title: BigchainDB
 seotitle: BigchainDB 
-img: /images/company/BigchainDB.png
+img: /images/company/bigchaindb.png
 ---
 
 With high throughput, sub-second latency and powerful functionality to automate business processes, <a href="https://www.bigchaindb.com/">BigchainDB</a> looks, acts and feels like a database with added blockchain characteristics.

@@ -1,7 +1,7 @@
 ---
 title: Netki  
 seotitle: Netki  
-img: /images/company/Netki.png
+img: /images/company/netki.png
 ---
 
 ## PAST

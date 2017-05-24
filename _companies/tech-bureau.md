@@ -1,7 +1,7 @@
 ---
 title: TechBureau  
 seotitle: TechBureau  
-img: /images/company/TechBureau.png
+img: /images/company/techbureau.png
 ---
 
 Cryptographic currency and block chain technology born from it. It is a technology lab that supports your company by making use of them.

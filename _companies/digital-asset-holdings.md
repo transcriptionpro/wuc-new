@@ -1,7 +1,7 @@
 ---
 title: Digital Asset Holdings
 seotitle: Digital Asset Holdings
-img: /images/company/DigitalAssetHoldings.png
+img: /images/company/digitalassetholdings.png
 ---
 
 <a href="https://digitalasset.com/">Digital Asset</a> builds distributed, encrypted straight through processing tools. our technology improves efficiency, security, compliance and settlement speed.

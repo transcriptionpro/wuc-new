@@ -1,7 +1,7 @@
 ---
 title: SafeCash
 seotitle: SafeCash
-img: /images/company/SafeCash.png
+img: /images/company/safecash.png
 ---
 
 <a href="https://safe.cash/">Safe Cash</a> technology powers banks, merchants and consumers.
