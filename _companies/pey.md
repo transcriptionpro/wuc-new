@@ -1,7 +1,7 @@
 ---
 title: PEY 
 seotitle: PEY
-img: /images/company/PEY.png
+img: /images/company/pey.png
 ---
 
 PEY's commitment to dividend stability“employs one of the segment's most robust dividend viability screens” makes it an attractive option in the dividend-seeking space. PEY employs one of the segment's most robust dividend viability screens, only including firms with 10 straight years of dividend increases. The 50 highest-yielding firms above $2 billion in market cap that fit this bill are then weighted by dividend yield. 
