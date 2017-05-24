@@ -1,7 +1,7 @@
 ---
 title: Elliptic  
 seotitle: Elliptic  
-img: /images/company/Elliptic.png
+img: /images/company/elliptic.png
 ---
 
 ## Actionable intelligence
