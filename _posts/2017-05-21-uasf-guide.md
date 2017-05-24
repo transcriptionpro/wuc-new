@@ -11,7 +11,8 @@ toc:
   why: "Why BIP 148?"
   favor: "Those in favor of BIP 148"
   opposed: "Those in opposed to BIP 148"
-  support: "Current BIP 148 Support"
+  ambivalent: "Those ambivalent towards BIP 148"
+  support: "Those in support of BIP 148"
   what-could-happen-on-august-1-2017: "What could happen on August 1, 2017?"
   prepare: "How do I prepare?"
   additional: "Where can I get more information?"
@@ -56,6 +57,8 @@ toc:
 <p><h2 id="in-favor">Those in favor of BIP 148</h2>
 <p>The infamous <a href="https://pastebin.com/Lp5Djs5R">bearwhale is in favor of BIP 148</a>.
 
+<p><h2 id="ambivalent">Those ambivalent towards BIP 148</h2>
+<p>It seems that most community members are ambivalent towards BIP 148.
 
 <p><h2 id="opposed">Those in opposed to BIP 148</h2>
 <p><a href="https://bitcointalk.org/index.php?topic=1870015.0">Greg Maxwell</a>
