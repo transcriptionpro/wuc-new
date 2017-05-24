@@ -1,7 +1,7 @@
 ---
 title: Paymium
 seotitle: Paymium
-img: /images/company/Paymium.png
+img: /images/company/paymium.png
 ---
 
 Quick and secure, <a href="https://www.paymium.com/">Paymium</a> is your Bitcoin partner for all your transactions.
