@@ -184,6 +184,7 @@ toc:
 <li><a href="https://blog.coingate.com/2017/04/coingate-supports-segwit-and-uasf/">CoinGate</a></li>
 <li><a href="https://twitter.com/coinkite/status/851822761794260992">Coinkite</a></li>
 <li><a href="https://twitter.com/CoinomiWallet/status/852130791362637825">Coinomi</a></li>
+<li><a href="https://www.reddit.com/r/Bitcoin/comments/6cna2s/notice_the_debate_is_now_only_about_the_way_of/dhwez9b/">Dark Net Heroes League (DHL)</a></li>
 <li><a href="https://freedomnode.com/bitcoin-core-support.txt">Freedom Node</a></li>
 <li><a href="https://twitter.com/joinmarket/status/851177740900368385">oin Market</a>J</li>
 <li><a href="https://twitter.com/csuwildcat/status/851832163792150528">Microsoft</a></li>
