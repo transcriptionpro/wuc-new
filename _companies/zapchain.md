@@ -1,7 +1,7 @@
 ---
 title: ZapChain
 seotitle: ZapChain
-img: /images/company/ZapChain.png
+img: /images/company/zapchain.png
 ---
 
 ZapChain is a community platform for bitcoin professionals. It is based in the United States.
