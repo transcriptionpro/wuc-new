@@ -1,7 +1,7 @@
 ---
 title: Bitwala 
 seotitle: Bitwala  
-img: /images/company/Bitwala.png
+img: /images/company/bitwala.png
 ---
 
 <a href="https://www.bitwala.io">Bitwala</a> was built on the importance of having financial freedom and the possibility to live off of Bitcoin exclusively.
