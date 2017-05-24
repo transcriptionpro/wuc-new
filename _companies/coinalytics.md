@@ -1,10 +1,10 @@
 ---
 title: Coinalytics
 seotitle: Coinalytics
-img: /images/company/Coinalytics.png
+img: /images/company/coinalytics.png
 ---
 
-<a href="coinalytics.co">Coinalytics is a venture-backed startup based in Palo Alto pursuing the mission of “providing real-time intelligence for decentralized blockchain platforms”.
+<a href="coinalytics.co">Coinalytics</a> is a venture-backed startup based in Palo Alto pursuing the mission of “providing real-time intelligence for decentralized blockchain platforms”.
 
 Coinalytics’ unique approach applies advanced machine learning and state-of-the-art distributed systems to cryptographic platforms, enabling enterprises to derive real-time business intelligence and risk assessment from blockchains and decentralized applications.
 
