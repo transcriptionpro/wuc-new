@@ -1,7 +1,7 @@
 ---
 title: Utocat  
 seotitle: Utocat  
-img: /images/company/Utocat.png
+img: /images/company/utocat.png
 ---
 
 Since 2015, Utocat has offered Blockchainiz, the access platform for blockchain technology dedicated to banking and insurance .
