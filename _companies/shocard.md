@@ -1,7 +1,7 @@
 ---
 title: Shocard
 seotitle: Shocard
-img: /images/company/Shocard.png
+img: /images/company/shocard.png
 ---
 
 <a href="https://shocard.com/">ShoCard</a> is digital identity that protects consumer privacy and is as easy to use as showing a;driver’s license. It’s optimized for mobile and so secure that a bank can rely on it.
