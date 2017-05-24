@@ -1,7 +1,7 @@
 ---
 title: Bitt
 seotitle: Bitt  
-img: /images/company/Bitt.png
+img: /images/company/bitt.png
 ---
 
 
