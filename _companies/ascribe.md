@@ -1,7 +1,7 @@
 ---
 title: Ascribe
 seotitle: Ascribe
-img: /images/company/Ascribe.png
+img: /images/company/ascribe.png
 ---
 
 <a href="https://www.ascribe.io">Ascribe</a> is a service that empowers creators to truly own, securely share and track the history of a digital work. We do this by giving creators the tools to lock in authorship, set the intent and gain visibility into where their work spreads. By doing this, creators can be recognized while giving buyers an easier way to discover and reward them.
