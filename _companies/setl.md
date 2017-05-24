@@ -1,7 +1,7 @@
 ---
 title: SETL 
 seotitle: SETL  
-img: /images/company/SETL.png
+img: /images/company/setl.png
 ---
 
 London 15 February 2017: <a href="https://setl.io/">SETL</a>, the financial blockchain specialist, today announced the opening of its Global Engineering Centre in Ipswich, UK. Ten new staff have been recruited to work in the new office and to support SETL’s international expansion, bringing SETL’s total worldwide workforce to 24. The centre was officially opened by Ben Gummer, Member of Parliament for Ipswich and Minister for the Cabinet Office and Paymaster General and by Chairman of the SETL board Sir David Walker.
