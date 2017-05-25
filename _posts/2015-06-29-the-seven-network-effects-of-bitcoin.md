@@ -20,7 +20,7 @@ published: true
 ---
 
 {% include page-toc.html %}
-<p><strong>Trace Mayer, J.D., a long-time Bitcoin Guru and Investor in Bitcoin companies such as Armory, Bitpay and Kraken, explains impromptu when the scheduled speaker failed to show up the network effects that will lead to Bitcoin's continued success.</strong></p>
+<p>When the scheduled speaker failed to show up Trace Mayer, Host of the <a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> and investor in Bitcoin companies such as Armory, Bitpay and Kraken, explained impromptu the seven network effects that will lead to Bitcoin's unrivaled dominance and success.</p>
 <p style="padding-left: 30px;"><em>From his talk hosted by CRYPSA at LaGuardia Community College on June 29, 2015.</em><br />
 <p><iframe width="700" height="394" src="https://www.youtube.com/embed/YAVIgXguUoU" frameborder="0" allowfullscreen></iframe>
 <p><em> See the full video at the bottom of this post or listen to the audio: <a href="http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/">http://www.bitcoin.kn/2015/06/crypsa-event-with-trace-mayer/</a></em></p>
