@@ -9,7 +9,7 @@ toc:
   what: "What Is BIP 148?"
   fork: "Hard v. Soft Fork"
   why: "Why BIP 148?"
-  favor: "Those in favor of BIP 148"
+  optimistic: "Those optimistic towards BIP 148"
   ambivalent: "Those ambivalent towards BIP 148"
   pessimistic: "Those pessimistic towards BIP 148"
   support: "Those in support of BIP 148"
@@ -54,7 +54,7 @@ toc:
 <p>This guide is about helping you protect your money by providing objective actionable things to do as a result of BIP 148 and not delving into the political, economic or other reasons.
 <p>If you want a quick background and reasoning then this <a href="https://medium.com/@rusty_lightning/i-support-uasf-for-segregated-witness-75d9ef286fe5">piece</a> by the extremely respected open-source Linux kernal developer, Rusty Russell, who has been working on the Lighting Network should hit the spot.
 
-<p><h2 id="in-favor">Those in favor of BIP 148</h2>
+<p><h2 id="optimistic">Those optimistic towards BIP 148</h2>
 <p>LukeJR.
 <p>The infamous <a href="https://pastebin.com/Lp5Djs5R">bearwhale is in favor of BIP 148</a>.
 
