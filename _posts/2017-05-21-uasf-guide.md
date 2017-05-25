@@ -10,8 +10,8 @@ toc:
   fork: "Hard v. Soft Fork"
   why: "Why BIP 148?"
   favor: "Those in favor of BIP 148"
-  opposed: "Those in opposed to BIP 148"
   ambivalent: "Those ambivalent towards BIP 148"
+  pessimistic: "Those pessimistic towards BIP 148"
   support: "Those in support of BIP 148"
   what-could-happen-on-august-1-2017: "What could happen on August 1, 2017?"
   prepare: "How do I prepare?"
@@ -55,12 +55,13 @@ toc:
 <p>If you want a quick background and reasoning then this <a href="https://medium.com/@rusty_lightning/i-support-uasf-for-segregated-witness-75d9ef286fe5">piece</a> by the extremely respected open-source Linux kernal developer, Rusty Russell, who has been working on the Lighting Network should hit the spot.
 
 <p><h2 id="in-favor">Those in favor of BIP 148</h2>
+<p>LukeJR.
 <p>The infamous <a href="https://pastebin.com/Lp5Djs5R">bearwhale is in favor of BIP 148</a>.
 
 <p><h2 id="ambivalent">Those ambivalent towards BIP 148</h2>
 <p>It seems that most community members are ambivalent towards BIP 148.
 
-<p><h2 id="opposed">Those in opposed to BIP 148</h2>
+<p><h2 id="pessimistic">Those pessimistic towards BIP 148</h2>
 <p><a href="https://bitcointalk.org/index.php?topic=1870015.0">Greg Maxwell</a>
 
 <p><h2 id="support">Current BIP 148 Support</h2>
