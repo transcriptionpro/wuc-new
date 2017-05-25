@@ -55,7 +55,7 @@ toc:
 <p>If you want a quick background and reasoning then this <a href="https://medium.com/@rusty_lightning/i-support-uasf-for-segregated-witness-75d9ef286fe5">piece</a> by the extremely respected open-source Linux kernal developer, Rusty Russell, who has been working on the Lighting Network should hit the spot.
 
 <p><h2 id="optimistic">Those optimistic towards BIP 148</h2>
-<p><a href="https://www.reddit.com/r/Bitcoin/comments/6bryvu/bitpay_show_any_shred_of_evidence_for_accusation/dhp5zhr/">LukeJR</a>.
+<p><a href="https://www.reddit.com/r/Bitcoin/comments/6bryvu/bitpay_show_any_shred_of_evidence_for_accusation/dhp5zhr/">Luke Dashjr</a>.
 <p>The infamous <a href="https://pastebin.com/Lp5Djs5R">bearwhale is in favor of BIP 148</a>.
 
 <p><h2 id="ambivalent">Those ambivalent towards BIP 148</h2>
