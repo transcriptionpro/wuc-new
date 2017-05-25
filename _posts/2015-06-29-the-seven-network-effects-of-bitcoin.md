@@ -14,7 +14,8 @@ toc:
   developers: "Developers"
   financialization: "Financialization"
   worldreservecurrency: "World Reserve Currency"
-  video: "The Full Video"
+  short-video: "The Short Video"
+  full-video: "The Full Video"
 
 published: true
 ---
@@ -36,5 +37,7 @@ published: true
 </ol>
 <p>Bitcoin is a strong currency: it thrives on the internet; it frees its users from 3rd parties; it saves merchants money; it is deflationary; its code can be audited by all; its developers work tirelessly to improve upon it; the list goes on. The above-listed network effects can only serve to strengthen it. Competitors beware.</p>
 <p>Trace Mayer explaining the Future of Bitcoin and why it will succeed. This event was hosted by CRYPSA at LaGuardia Community College is one example of what a P2P community can achieve.
-<p><h2 id="video">The Full Video</h2>
+<p><h2 id="short-video">The Short Video</h2>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/D3n6lLeuPQA" frameborder="0" allowfullscreen></iframe>
+<p><h2 id="full-video">The Full Video</h2>
 <p><iframe width="700" height="394" src="https://www.youtube.com/embed/TCU-soMs1wY" frameborder="0" allowfullscreen></iframe>
