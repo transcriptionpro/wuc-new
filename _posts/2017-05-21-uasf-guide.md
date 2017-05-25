@@ -12,7 +12,7 @@ toc:
   optimistic: "Those optimistic towards BIP 148"
   ambivalent: "Those ambivalent towards BIP 148"
   pessimistic: "Those pessimistic towards BIP 148"
-  support: "Those in support of BIP 148"
+  support: "Current BIP 148 Support"
   what-could-happen-on-august-1-2017: "What could happen on August 1, 2017?"
   prepare: "How do I prepare?"
   additional: "Where can I get more information?"
