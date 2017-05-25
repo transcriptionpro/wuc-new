@@ -143,6 +143,7 @@ toc:
 <li>21 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6chx7s/i_have_decided_that_my_node_will_run_bip_148_im/dhuspz3/">Vaultoro - Gold dealer</a></li>
 <li>21 May 2017 - <a href="https://twitter.com/MojBitcoin/status/866308792568479745">MojBitcoin - European ATM</a></li>
 <li>23 May 2017 - <a href="https://twitter.com/Bittylicious_/status/867305106668224513">Bittylicious</a></li>
+<li>25 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6dbsn8/bitfinex_will_list_bip148_chain_after_uasf/">Bitfinex</a> - supposedly will list <b>after</b> UASF takes effect</li>
 </ol>
 <p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
