@@ -31,7 +31,7 @@ toc:
   exchange-support: "How An Exchange Supports BIP 148"
 ---
 
-<p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network.
+<p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network. If you run a <a href="https://bitcoin.org/en/bitcoin-core/">Bitcoin Core full-node</a> then you should be 99.9% safe!
 <p>To help you protect your money, this guide will be frequently updated with the latest developments.
 <p>Share this guide with your friends by directing them to: <b>www.uasfguide.com</b>
 
@@ -81,6 +81,7 @@ toc:
 
 <p><h2 id="prepare">How do I prepare for BIP 148 if there is a split?</h2>
 <p>The most important thing you can do is perform your own network consensus by <a href="/bitcoin-core/">running a full-node</a> and <a href="/what-is-a-private-key/">creating and storing your own private keys</a>.
+<p>This means you will need to run a full-node for the legacy chain, likely <a href="https://bitcoin.org/en/bitcoin-core/">Bitcoin Core</a>, and a full-node for the BIP 148 chain, likely a fork of Bitcoin Core with the BIP 148 rules enforced.
 <p>This will put you in <b>firm control</b> of all decisions related to how you interact instead of having some third-party make those decisions for you.
 <p>Additionally, it is unknown how the legacy chain or the BIP 148 chain will be labeled.
 <p>This could lead to significant confusion in the marketplace so it is important for you to know exactly what you are buying or selling.
