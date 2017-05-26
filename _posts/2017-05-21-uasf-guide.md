@@ -54,6 +54,7 @@ toc:
 
 <p><h2 id="why">Why BIP 148?</h2>
 <p>This guide is about helping you protect your money by providing objective actionable things to do as a result of BIP 148 and not delving into the political, economic or other reasons.
+<p>Additionally, <a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014419.html">BIP 148 would patch the Critical Vulnerability Exploit 2017-9230</a> that is currently active in the Bitcoin Core software.
 <p>If you want a quick background and reasoning then this <a href="https://medium.com/@rusty_lightning/i-support-uasf-for-segregated-witness-75d9ef286fe5">piece</a> by the extremely respected open-source Linux kernal developer, Rusty Russell, who has been working on the Lighting Network should hit the spot.
 
 <p><h2 id="optimistic">Those optimistic towards BIP 148</h2>
