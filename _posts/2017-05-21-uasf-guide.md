@@ -33,7 +33,7 @@ toc:
 
 <p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network.
 <p>Bitcoin Core full-nodes compromise more than 95% of the Bitcoin network and is susceptible to <a href="https://nvd.nist.gov/vuln/detail/CVE-2017-9230">CVE-2017-9230</a>. 
-<p>If you run and rely on a <a href="https://bitcoin.org/en/bitcoin-core/">Bitcoin Core full-node</a> then you should be 99.9% safe!
+<p>If you run and rely on the most recent version of a <a href="https://bitcoin.org/en/bitcoin-core/">Bitcoin Core full-node</a> then you should be 99.9% safe!
 <p>The UASF will result from a fork of Bitcoin Core that enforces BIP 148 rules so be sure to run and rely on it also for the <a href="/uasf-guide/#exchanges">BIP 148 coins that will be listed by Bitfinex</a>.
 <p>To help you protect your money, this guide will be frequently updated with the latest developments.
 <p>Share this guide with your friends by directing them to: <b>www.uasfguide.com</b>
