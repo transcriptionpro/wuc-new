@@ -32,6 +32,7 @@ toc:
 ---
 
 <p>In a few months, <b>beginning 1 August 2017</b>, there <i>may</i> be some turbulence ahead for the Bitcoin network.
+<p>Bitcoin Core full-nodes compromise more than 95% of the Bitcoin network and is susceptible to <a href="https://nvd.nist.gov/vuln/detail/CVE-2017-9230">CVE-2017-9230</a>. 
 <p>If you run and rely on a <a href="https://bitcoin.org/en/bitcoin-core/">Bitcoin Core full-node</a> then you should be 99.9% safe!
 <p>The UASF will result from a fork of Bitcoin Core that enforces BIP 148 rules so be sure to run and rely on it also for the <a href="/uasf-guide/#exchanges">BIP 148 coins that will be listed by Bitfinex</a>.
 <p>To help you protect your money, this guide will be frequently updated with the latest developments.
@@ -54,7 +55,7 @@ toc:
 
 <p><h2 id="why">Why BIP 148?</h2>
 <p>This guide is about helping you protect your money by providing objective actionable things to do as a result of BIP 148 and not delving into the political, economic or other reasons.
-<p>Additionally, <a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014419.html">BIP 148 would patch the Critical Vulnerability Exploit 2017-9230</a> that is currently active in the Bitcoin Core software.
+<p>Additionally, <a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014419.html">BIP 148 would patch the CVE-2017-9230</a> that is currently active in the Bitcoin Core software.
 <p>If you want a quick background and reasoning then this <a href="https://medium.com/@rusty_lightning/i-support-uasf-for-segregated-witness-75d9ef286fe5">piece</a> by the extremely respected open-source Linux kernal developer, Rusty Russell, who has been working on the Lighting Network should hit the spot.
 
 <p><h2 id="optimistic">Those optimistic towards BIP 148</h2>
