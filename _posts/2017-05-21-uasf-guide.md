@@ -123,6 +123,7 @@ toc:
 <li>12 Apr 2017 - <a href="https://twitter.com/CoinomiWallet/status/852130791362637825">Coinomi</a></li>
 <li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li>
 <li>24 May 2017 - <a href="https://twitter.com/LedgerHQ/status/867438968270450698">Ledger Wallet</a></li>
+<li>24 May 2017 - <a href="https://twitter.com/electrumwallet/status/868845430947401729">Electrum - one of the most popular desktop wallets</a></li>
 </ol>
 <p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
