@@ -126,6 +126,7 @@ toc:
 <li>22 May 2017 - <a href="https://github.com/greenaddress/abcore/issues/40#issuecomment-303118439">GreenAddress</a></li>
 <li>24 May 2017 - <a href="https://twitter.com/LedgerHQ/status/867438968270450698">Ledger Wallet</a></li>
 <li>24 May 2017 - <a href="https://twitter.com/electrumwallet/status/868845430947401729">Electrum - one of the most popular desktop wallets</a></li>
+<li>24 May 2017 - <a href="https://play.google.com/store/apps/details?id=com.mycelium.wallet&reviewId=Z3A6QU9xcFRPR2QxMjZmN2hPZ2dRMGFlV0lQNW5SRUdiZnFlLWlJWVpJQnRnaW5abEJzRVZYYWFXLVlpS3FiM2xId0RPaFFaUHZQbGd1T05nQ1ZNeTduM3c&hl=en">Mycelium - one of the most popular mobile wallets</a></li>
 </ol>
 <p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
