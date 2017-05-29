@@ -60,13 +60,15 @@ toc:
 <p>If you want a quick background and reasoning then this <a href="https://medium.com/@rusty_lightning/i-support-uasf-for-segregated-witness-75d9ef286fe5">piece</a> by the extremely respected open-source Linux kernal developer, Rusty Russell, who has been working on the Lighting Network should hit the spot.
 
 <p><h2 id="optimistic">Those optimistic towards BIP 148</h2>
-<p><a href="https://www.reddit.com/r/Bitcoin/comments/6bryvu/bitpay_show_any_shred_of_evidence_for_accusation/dhp5zhr/">Luke Dashjr</a>.
+<p><a href="https://www.reddit.com/r/Bitcoin/comments/6bryvu/bitpay_show_any_shred_of_evidence_for_accusation/dhp5zhr/">Long-time Bitcoin Core developer Luke Dashjr</a>.
+<p><a href="https://medium.com/@elombrozo/why-i-support-bip148-4b4c0a9feb4d">Long-time Bitcoin Core developer Eric Lombrozo</a>.
 <p>The infamous <a href="https://pastebin.com/Lp5Djs5R">bearwhale is in favor of BIP 148</a>.
 
 <p><h2 id="ambivalent">Those ambivalent towards BIP 148</h2>
 <p>It seems that most community members are ambivalent towards BIP 148.
 <p>Trace Mayer and Jeff Berwick discuss BIP 148 and both are ambivalent towards it but think and feel it is important to be prepared for it.
 <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/QjZk7N7RXfA" frameborder="0" allowfullscreen></iframe></center>
+<p>Here is an interesting analysis by <a href="https://medium.com/@jimmysong/bitcoin-uasf-and-skin-in-the-game-7695031c5689">Jimmy Song on how BIP 148</a> impacts various actors in the Bitcoin ecosystem.
 
 <p><h2 id="pessimistic">Those pessimistic towards BIP 148</h2>
 <p><a href="https://bitcointalk.org/index.php?topic=1870015.0">Greg Maxwell</a>
