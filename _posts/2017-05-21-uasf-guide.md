@@ -24,6 +24,7 @@ toc:
   exchanges: "Exchanges Supporting BIP 148"
   spender: "As A Spender"
   receiver: "As A Receiver"
+  miner: "As A Miner"
   third-parties: "Warning About Third Parties"
   saying: "What Are Companies Saying About BIP148?"
   as-third-party: "As A Third Party"
@@ -75,6 +76,7 @@ toc:
 
 <p><h2 id="support">Current BIP 148 Support</h2>
 <p>What really matters in a UASF situation is which chain the economic actors like users, institutions, exchanges, payment processors, etc. support. There is no easy way to quantify this with a decentralized peer-to-peer network.
+<p>The <a href="http://www.uasfpool.com">UASF Mining Pool</a> is BIP 148 ready.
 <p>This graph represents the total number of full nodes currently signaling BIP 148.
 <p><center><img src="http://uasf.saltylemon.org/uasf_bips_all.png"></center>
 <p>This graph represents the percentage of total number of full nodes currently signaling BIP 148.
@@ -173,6 +175,11 @@ toc:
 <p>The common security practice is to wait at least six confirmations before relying on a transaction or block.
 <p>If there is a chain split then users should excercise extreme caution and closely monitor the split along with requiring more confirmations because the security of the chain may be weakened.
 <p>To be extremely safe we recommend having at <b>least 100-200 confirmations</b> before you rely on the transaction or block.
+
+<p><h3 id="miner">As A Miner</h3>
+<p>BIP can easily and cheaply be supported by users, businesses, exchanges, wallets, etc.
+<p>However, miners have to <b>make a choice</b> between the legacy chain and the BIP 148 chain and this directly impacts their revenue.
+<p>The <a href="http://www.uasfpool.com">UASF Mining Pool</a> is BIP 148 ready.
 
 <p><h3 id="third-parties">Storing Bitcoins with Third Parties</h3>
 <p>We highly recommend you contact any third-parties to determine whether they will be supporting the legacy chain, BIP 148 or both.
