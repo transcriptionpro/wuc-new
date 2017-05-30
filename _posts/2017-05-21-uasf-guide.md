@@ -121,7 +121,7 @@ toc:
 <p>A listing of wallets here does not imply any endorsement of the quality or security of the software.
 <p>Put on your big boy or big girl pants and use at your own risk.
 <ol>
-<li>09 Apr 2017 - <a href="https://segwit.org/user-activated-soft-forks-the-bip-148-alternative-28e87ffdb76f">Electrum</a> - Satoshi Portal Electrum Server for UASF: 158.69.102.114 port 50002</li>
+<li>09 Apr 2017 - <a href="https://segwit.org/user-activated-soft-forks-the-bip-148-alternative-28e87ffdb76f">Electrum</a> - UASF Server: 158.69.102.114 port 50002</li>
 <li>09 Apr 2017 - <a href="https://twitter.com/SamouraiWallet/status/851005717070917633">Samourai Wallet</a></li>
 <li>11 Apr 2017 - <a href="https://twitter.com/coinkite/status/851822761794260992">Coinkite</a></li>
 <li>12 Apr 2017 - <a href="https://twitter.com/CoinomiWallet/status/852130791362637825">Coinomi</a></li>
