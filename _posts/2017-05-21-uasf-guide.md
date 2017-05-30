@@ -36,7 +36,7 @@ toc:
 <p>Bitcoin Core full-nodes comprise <a href="http://luke.dashjr.org/programs/bitcoin/files/charts/software.html">more than 95% of the Bitcoin network</a> and are susceptible to <a href="https://nvd.nist.gov/vuln/detail/CVE-2017-9230">CVE-2017-9230</a>. BIP 148 upgraded nodes would fix this security vulnerability.
 <p>Don't be scared though since this serious CVE bug and security vulnerability is being intensively reviewed by the technical community. If you run and rely on the most recent version of a <a href="https://bitcoin.org/en/bitcoin-core/">Bitcoin Core full-node</a> then you should be 99% safe (<a href="https://www.reddit.com/r/Bitcoin/comments/6dfz0y/bip_148_the_beginners_guide_to_a_user_activated/di2i6a8/">but for the 1% chance</a>)!
 <p>The UASF will result from a fork of Bitcoin Core and <a href="/uasf-guide/#exchanges">BIP 148 coins that will be listed by Bitfinex</a>.
-<p>To be clear, you will need to be running <b>two</b> full-nodes: <b>(1)</b> legacy Bitcoin Core and <b>(2)</b> BIP 148 enforcing Bitcoin Core fork.
+<p>To be clear, you will need to be running <b>two</b> full-nodes: <b>(1)</b> legacy Bitcoin Core and <b>(2)</b> BIP 148 enforcing Bitcoin Core fork. We assume you have an understanding of best practices as outlined in the <a href="https://glacierprotocol.org/">Glacier Protocol</a>.
 <p>To help you protect your money, this guide will be frequently updated with the latest developments.
 <p>Share this guide with your friends by directing them to: <b>www.uasfguide.com</b>
 
