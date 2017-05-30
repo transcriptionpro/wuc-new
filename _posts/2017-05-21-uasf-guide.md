@@ -179,7 +179,10 @@ toc:
 <p><h3 id="miner">As A Miner</h3>
 <p>BIP can easily and cheaply be supported by users, businesses, exchanges, wallets, etc.
 <p>However, miners have to <b>make a choice</b> between the legacy chain and the BIP 148 chain and this directly impacts their revenue.
-<p>The <a href="http://www.uasfpool.com">UASF Mining Pool</a> is BIP 148 ready.
+<ol>
+<li><a href="http://www.uasfpool.com">UASF Mining Pool</a></li>
+<li><a href="http://pa.xro.ca/">Pa.Xro.Ca</a></li>
+</ol>
 
 <p><h3 id="third-parties">Storing Bitcoins with Third Parties</h3>
 <p>We highly recommend you contact any third-parties to determine whether they will be supporting the legacy chain, BIP 148 or both.
