@@ -73,6 +73,7 @@ toc:
 
 <p><h2 id="pessimistic">Those pessimistic towards BIP 148</h2>
 <p><a href="https://bitcointalk.org/index.php?topic=1870015.0">Greg Maxwell</a>
+<p><a href="https://botbot.me/freenode/bitcoin-core-dev/2017-05-25/?msg=86145297&page=4">Bitcoin Core Dev Meeting</a>
 
 <p><h2 id="support">Current BIP 148 Support</h2>
 <p>What really matters in a UASF situation is which chain the economic actors like users, institutions, exchanges, payment processors, etc. support. There is no easy way to quantify this with a decentralized peer-to-peer network.
