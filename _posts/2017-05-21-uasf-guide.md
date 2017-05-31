@@ -82,6 +82,7 @@ toc:
 <p><center><img src="http://uasf.saltylemon.org/uasf_bips_all.png"></center>
 <p>This graph represents the percentage of total number of full nodes currently signaling BIP 148.
 <p><center><img src="http://uasf.saltylemon.org/uasf_percent_all.png"></center>
+<p><a href="http://uasf.snel.it/">Block Height Differences</a>
 
 <p><h2 id="what-could-happen-on-august-1-2017">What could happen on 1 August 2017?</h2>
 <p>If miners activate SegWit prior to 1 August 2017 then BIP 148 will not be enforced. All users of Bitcoin will remain on the same chain no matter what client they use.
