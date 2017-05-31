@@ -18,7 +18,7 @@ toc:
   think: Do You Think It Will Happen
 ---
 
-<center><img src="/images/bitcoin-etf-01.jpg" /></center>
+<center><img src="/images/bitcoin-etf-01.jpg" alt="Bitcoin ETF" /></center>
 
 {% include page-toc.html %}
 
