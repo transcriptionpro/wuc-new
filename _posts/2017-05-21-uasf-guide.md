@@ -185,6 +185,7 @@ toc:
 <ol>
 <li><a href="http://www.uasfpool.com">UASF Mining Pool</a></li>
 <li><a href="http://pa.xro.ca/">Pa.Xro.Ca</a></li>
+<li><a href="https://slushpool.com/news/new-voting-option-bip148-has-been-deployed-feel-free-to-vote/">Slush Pool</a></li>
 </ol>
 
 <p><h3 id="third-parties">Storing Bitcoins with Third Parties</h3>
