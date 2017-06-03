@@ -70,6 +70,9 @@ toc:
 <p>Trace Mayer and Jeff Berwick discuss BIP 148 and both are ambivalent towards it but think and feel it is important to be prepared for it.
 <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/QjZk7N7RXfA" frameborder="0" allowfullscreen></iframe></center>
 <p>Here is an interesting analysis by <a href="https://medium.com/@jimmysong/bitcoin-uasf-and-skin-in-the-game-7695031c5689">Jimmy Song on how BIP 148</a> impacts various actors in the Bitcoin ecosystem.
+<p>MadBitcoins interviews Jimmy Song about the UASF and BIP 148.
+<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/63baLa1GoX4" frameborder="0" allowfullscreen></iframe></center>
+
 
 <p><h2 id="pessimistic">Those pessimistic towards BIP 148</h2>
 <p><a href="https://bitcointalk.org/index.php?topic=1870015.0">Greg Maxwell</a>
