@@ -7,13 +7,14 @@ authorurl: /melvin-draupnir/
 published: true
 ---
 
+ 
+<center><img src="/images/bitcoin-no-verification.jpg" alt="bitcoin no verification" /></center>
+
 The <a href="/wordpress-bitcoin-payment-gateway-plugin-from-spectrocoin/">ruling administration</a> have been expanding their efforts to monitor and regulate the operations of the digita currency. Numerous worldwide exchanges now necessitates any form of identification to sign up on their websites. With the government officials presently organizing research groups on blockchain as well as creating Bitcoin legislation, we can really conclude that regulatory actions will prosper. 
  
 ## Bitcoin Exchanges Requiring Less or No Verification Requirements
 
 Despite the fact that a huge number of famous Bitcoin exchanges necessitates identification, a few still exists that allows selling and buying without verifying the identification. 
- 
-<center><img src="/images/bitcoin-no-verification.jpg" alt="bitcoin no verification" /></center>
  
 ## Localbitcoins
  
