@@ -11,7 +11,7 @@
     region: US & Canada
     img: filament.png
     description: Filament lets you build a connected business without becoming an expert on security, scalability, or network stacks.
-    url: 
+    url: https://filament.com/
 -
     date: 30-Mar-2017   
     company: Ledger
@@ -39,7 +39,7 @@
     region: Europe
     img: shapeshift.png
     description: The Safest, Fastest Asset Exchange on Earth
-    url:
+    url: https://www.ledgerwallet.com/
 -
     date: 15-Mar-2017
     company: Creativechain
@@ -67,7 +67,7 @@
     region: US & Canada
     img: veem.png
     description: Veem is a next generation platform for business to business payments. We enable businesses to send and receive payments in local currency via a simple and inexpensive manner by using our unique multi-rail technology across several global networks.
-    url:
+    url: https://www.veem.com/
 -
     date: 23-Feb-2017   
     company: Storj
@@ -81,7 +81,7 @@
     region: US & Canada
     img: storj.png
     description: Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
-    url: 
+    url: https://storj.io/
 -
     date: 22-Feb-2017   
     company: Bitbond
@@ -95,7 +95,7 @@
     region: Europe
     img: bitbond.png
     description: Bitbond is the first global marketplace lending platform for small business loans. 
-    url: 
+    url: https://www.bitbond.com/
 -
     date: 9-Feb-2017    
     company: Coinfirm
@@ -109,7 +109,7 @@
     region: Europe
     img: coinfirm.png
     description: The Coinfirm platform provides and easy to use solution with valuable structured data that puts entities on the safe side in terms of regulatory and fraud risk.
-    url: 
+    url: https://www.coinfirm.io/
 -
     date: 7-Feb-2017    
     company: Hashed Health  
@@ -123,7 +123,7 @@
     region: US & Canada
     img: hashed-health.png
     description: Hashed Health is leading a consortium of healthcare companies focused on accelerating meaningful innovation using blockchain and distributed ledger technologies.
-    url: 
+    url: https://hashedhealth.com/
 -
     date: 31-Jan-2017   
     company: Storj
@@ -137,7 +137,7 @@
     region: US & Canada
     img: storj.png
     description: Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
-    url: 
+    url: https://storj.io/
 -
     date: 30-Jan-2017   
     company: Bitfury
@@ -151,7 +151,7 @@
     region: US & Canada
     img: bitfury.png
     description: Your leading full service Blockchain technology company.
-    url: 
+    url: http://bitfury.com/
 -
     date: 30-Jan-2017   
     company: Bitpesa
@@ -165,7 +165,7 @@
     region: Africa
     img: bitpesa
     description: Importers and Exporters
-    url: 
+    url: https://www.bitpesa.co/
 -
     date: 24-Jan-2017   
     company: Cambridge Blockchain   
@@ -179,7 +179,7 @@
     region: US & Canada
     img: cambridge-blockchain.png
     description: Cambridge Blockchain puts control of personal identity data back in the hands of the end user. 
-    url: 
+    url: http://cambridge-blockchain.com/
 -
     date: 19-Jan-2017   
     company: CoolBitX
@@ -193,7 +193,7 @@
     region: 
     img: coolbitx.png
     description: Leading FinTech Platforms.
-    url: 
+    url: https://www.coolbitx.com/
 -
     date: 17-Jan-2017   
     company: SatoshiPay 
@@ -207,7 +207,7 @@
     region: Europe
     img: satoshiPay
     description: Pocket Change for the Web. Login-free, 1-click nanopayments everywhere.
-    url: 
+    url: https://satoshipay.io/
 -
     date: 17-Jan-2017   
     company: NeuFund
