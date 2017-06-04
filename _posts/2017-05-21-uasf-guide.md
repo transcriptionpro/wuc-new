@@ -72,7 +72,7 @@ toc:
 <p>Here is an interesting analysis by <a href="https://medium.com/@jimmysong/bitcoin-uasf-and-skin-in-the-game-7695031c5689">Jimmy Song on how BIP 148</a> impacts various actors in the Bitcoin ecosystem.
 <p>MadBitcoins interviews Jimmy Song about the UASF and BIP 148.
 <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/63baLa1GoX4" frameborder="0" allowfullscreen></iframe></center>
-
+<p>An article by Nicolas Dorier why all users and businesses should <a href="https://medium.com/@nicolasdorier/love-or-hate-it-but-do-not-ignore-it-52f8dd3c72e9">prepare for BIP 148</a> and a <a href="/images/bip148-decision-tree.png">great decision tree</a>.
 
 <p><h2 id="pessimistic">Those pessimistic towards BIP 148</h2>
 <p><a href="https://bitcointalk.org/index.php?topic=1870015.0">Greg Maxwell</a>
