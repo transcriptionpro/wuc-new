@@ -33,9 +33,9 @@ LocalBitcoins dealers or purchasers utilize diverse payment methods. The fundame
 <li>COD or Cash on Delivery </li>
 <li>Cash via mail</li>
 </ul>
-Since you’re <a href="/how-to-order-bitcoin-debit-card-with-spectrocoin/">purchasing and selling</a> to individual people, a credit card cannot be utilized. The Paypal alternative though can be utilized to pay via your credit card during instances where you don’t have Paypal balance. 
- 
-Various fees are necessary to pay which depends on the payment method you have chosen. One specific example is during Paypal usage to purchase LocalBitcoins that gives the seller a considerably more risk. 
+<p>Since you’re <a href="/how-to-order-bitcoin-debit-card-with-spectrocoin/">purchasing and selling</a> to individual people, a credit card cannot be utilized. The Paypal alternative though can be utilized to pay via your credit card during instances where you don’t have Paypal balance. </p>
+
+<p>Various fees are necessary to pay which depends on the payment method you have chosen. One specific example is during Paypal usage to purchase LocalBitcoins that gives the seller a considerably more risk. </p>
  
 <h2 id="why">Why?</h2>
  
@@ -63,7 +63,7 @@ Various measures are utilized in LocalBitcoins in order to have a secure and saf
  </ul>
 <h2 id="opinion">Community Opinion about LocalBitcoins</h2>
  
-When I tried to check Bitcoin’s major community group like <a href="/how-to-unload-bitcoin-debit-card-with-spectrocoin/">Reddit and Bitcointalk</a>, you can observe various opinions regarding LocalBitcoins. However, to sum up what I’ve read from the fifteen reviews (15) and more, similar things were coined by most individuals; that its platform is considered awesome but we cannot make certain of the general population. One remark in Redditor mentioned that exchanges are as dependable as the individual you’re having deals with.
+<p>When I tried to check Bitcoin’s major community group like <a href="/how-to-unload-bitcoin-debit-card-with-spectrocoin/">Reddit and Bitcointalk</a>, you can observe various opinions regarding LocalBitcoins. However, to sum up what I’ve read from the fifteen reviews (15) and more, similar things were coined by most individuals; that its platform is considered awesome but we cannot make certain of the general population. One remark in Redditor mentioned that exchanges are as dependable as the individual you’re having deals with.</p>
  
 That’s the purpose why I will show you how to safely and securely do exchanges on the platform.
  
@@ -83,9 +83,9 @@ Check the seller’s profile and verify if he or she is suitable for the criteri
 <li>Regarded as verified merchant (company account ,phone number, email</li>
 <li>There's no less than ten individuals who considers him trustworthy</li>
  </ul>
-In the event that you can take after these criteria then you’ll most likely be incredible. Given the situation wherein you can’t find a <a href="/how-to-verify-paypal-with-debit-card-in-spectrocoin/">seller that suits all</a> the given criteria mentioned, then search for the following best alternative. The idea is simply doing an intensive investigation and making sure that the merchant has a lot of outstanding trades that were totally completed before. 
+<p>In the event that you can take after these criteria then you’ll most likely be incredible. Given the situation wherein you can’t find a <a href="/how-to-verify-paypal-with-debit-card-in-spectrocoin/">seller that suits all</a> the given criteria mentioned, then search for the following best alternative. The idea is simply doing an intensive investigation and making sure that the merchant has a lot of outstanding trades that were totally completed before. </p>
  
-From that point onward, inspect through the LocalBitcoins' discussion and then check the seller’s username. In the event that any issues come up, you'll most positively read it there. Or else, you would have found yourself a seller now. 
+<p>From that point onward, inspect through the LocalBitcoins' discussion and then check the seller’s username. In the event that any issues come up, you'll most positively read it there. Or else, you would have found yourself a seller now. </p>
  
 <h2 id="seller">Corresponding With The Seller</h2>
  
@@ -98,8 +98,8 @@ Make and send a message to a seller to ask for an exchange and wait patiently fo
 <li>Give out your payment information in other ways besides the <a href="/magento-bitcoin-payment-gateway-plugin-integration-by-spectrocoin/">LocalBitcoins message box</a>. Try to avoid sending emails, having phone calls as well as text messages. Only the Localbitcoin’s interface should be solely utilized.</li>
 <li>The moment you have sent your payment already, that’s the time you tick payment as made or done, because if not, you’ll be probably denied from the exchange.</li>
   </ul>
-Presently, you simply need to sit tight for the BTC to appear in your own LocalBitcoins account. In the event that there's any issue, try to solve it first together with the dealer. You shouldn't stress over the possibility of losing your cash, if you have just utilized the LocalBitcoins' framework then you are protected by the escrow service. 
+<p>Presently, you simply need to sit tight for the BTC to appear in your own LocalBitcoins account. In the event that there's any issue, try to solve it first together with the dealer. You shouldn't stress over the possibility of losing your cash, if you have just utilized the LocalBitcoins' framework then you are protected by the escrow service. </p>
  
-Observe that in the event that you are totally unfamiliar to LocalBitcoins, there's a major possibility for "power sellers" to deny you exchange with them since you don't have sufficient feedback yet. It implies that you need to do two or three little exchanges with a not all that dependable merchant first keeping in mind the end goal is for feedback raising and have the capacity to execute with the <a href="/opencart-bitcoin-merchant-extension-by-spectrocoin/">profoundly respectable ones</a>. 
+<p>Observe that in the event that you are totally unfamiliar to LocalBitcoins, there's a major possibility for "power sellers" to deny you exchange with them since you don't have sufficient feedback yet. It implies that you need to do two or three little exchanges with a not all that dependable merchant first keeping in mind the end goal is for feedback raising and have the capacity to execute with the <a href="/opencart-bitcoin-merchant-extension-by-spectrocoin/">profoundly respectable ones</a>. </p>
  
-Therefore, those are some points you basically have to remember to securely utilize Localbitcoins. Simply take after the steps and you’ll 99% percent avoid scams. For any added inquiries, simply go to the LocalBitcoin’s FAQ page.. I wish you luck!
+<p>Therefore, those are some points you basically have to remember to securely utilize Localbitcoins. Simply take after the steps and you’ll 99% percent avoid scams. For any added inquiries, simply go to the LocalBitcoin’s FAQ page.. I wish you luck!</p>
