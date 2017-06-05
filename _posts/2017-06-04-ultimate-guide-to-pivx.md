@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Anonymous Cryptocurrency - DASH, PIVX, ZCash and Monero
-description: An analysis of the anonymous cryptocurrencies DASH, PIVX, ZCash and Monero. What to beware of!
+title: The Ultimate Guide to PIVX
+description: The ultimate guide to PIVX the Private Instant Verified Transaction cryptocurrency. Learn how PIVX staking works.
 author: Trace Mayer
 authorurl: /trace-mayer-bitcoin-expert/
 published: true
@@ -24,7 +24,7 @@ toc:
 </ol>
 
 <p><h2 id="pivx">PIVX</h2>
-<p><img class="aligncenter src="/images/pivx-logo-300x300.png" alt="PIVX" width="300" height="300"/></p>
+<img class="aligncenter src="/images/pivx-logo-300x300.png" alt="PIVX" width="300" height="300"/></p>
 <p>The ecosystem has an very interesting blend of governance. Like DASH it has masternodes but it also implements Proof of Stake.
 <p><h3 id="staking">Optimized PIVX Staking</h3>
 <p>When staking, the <b>larger the address balance the more will be earned</b>.
@@ -34,6 +34,6 @@ toc:
 <p>The wallet needs to be opened and unlocked while connected to the Internet; so be careful with security.
 <p>Addresses need to have at least 100 confirmations.
 <p>Crazy Pro Tip - After an address gets 100 confirmations then restart the wallet and unlock it. Then the staking should be active for that balance.
-<p><img class="aligncenter src="/images/pivx-utxo-splitter.png" alt="PIVX" width="700" height="857"/></p>
+<img class="aligncenter src="/images/pivx-utxo-splitter.png" alt="PIVX" width="700" height="857"/></p>
 <p><h3 id="dash-pivx">The DASH v. PIVX Comparision</h3>
-<p><img class="aligncenter src="/images/DASH-PIVX-large.png" alt="DASH" width="700" height="1036"/></p>
+<img class="aligncenter src="/images/DASH-PIVX-large.png" alt="DASH" width="700" height="1036"/></p>
