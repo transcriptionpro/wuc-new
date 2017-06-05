@@ -25,7 +25,7 @@ toc:
 <li>PIVX - $1.66 - $89m</li>
 </ol>
 
-<img class="aligncenter src="/images/DASH-PIVX-large.png" alt="DASH" width="700" height="1036"/></p>
+<img class="aligncenter src="/images/DASH-PIVX-large.jpg" alt="DASH" width="700" height="1036"/></p>
 
 <p><h2 id="dash">DASH</h2>
 <img class="aligncenter src="/images/dash-logo-300x300.png" alt="DASH" width="300" height="300"/></p>
