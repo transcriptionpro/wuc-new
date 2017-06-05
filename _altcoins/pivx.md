@@ -30,7 +30,7 @@ toc:
 <p><strong>POS:</strong> Pos 3.0 (Bitcoin core 0.10.x code base)
 <p><strong>Masternodes:</strong> Tor-Masternodes (10K PIVX/node)
 <p><strong>No Premine.</strong>
-<p><img src="/images/altcoins/pivx.png" alt="DASH v. PIVX" align="center" />
+<p><center><img src="/images/altcoins/pivx.png" alt="DASH v. PIVX" /></center>
 <p><h1 id="introduction"><b>PIVX INTRODUCTION</b></h1>
 <p>PIVX is a multifaceted community-centric endeavor in the blockchain tech and cryptocurrency realms.
 <p>There are many components of what and who PIVX is and why PIVX was manifested.
