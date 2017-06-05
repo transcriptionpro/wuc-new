@@ -22,7 +22,6 @@ toc:
 <p><center><a href='https://www.coingecko.com/en/price_charts/pivx/usd?id=pivx' target='_blank'><img alt='pivx price' src='https://www.coingecko.com/en/widget_component/ticker/pivx/usd.jpg'></a> <a href='https://www.coingecko.com/en/price_charts/pivx/btc?id=pivx' target='_blank'><img alt='pivx price' src='https://www.coingecko.com/en/widget_component/ticker/pivx/btc.jpg'></a></center>
 <p>The PIVX ecosystem has an very interesting blend of governance. Like DASH it has masternodes but it also implements Proof of Stake.
 <p>This creates some very interesting financial and economic incentives.
-<p><img src="/images/altcoins/pivx.png" alt="DASH v. PIVX" align="center" />
 <p>{% include page-toc.html %}
 <p><h2 id="pivx">What is PIVX?</h2>
 <p><strong>PIVX</strong>: <strong>P</strong>rivate <strong>I</strong>nstant <strong>V</strong>erified <strong>T</strong>ransaction (<strong>X</strong>)
@@ -31,6 +30,7 @@ toc:
 <p><strong>POS:</strong> Pos 3.0 (Bitcoin core 0.10.x code base)
 <p><strong>Masternodes:</strong> Tor-Masternodes (10K PIVX/node)
 <p><strong>No Premine.</strong>
+<p><img src="/images/altcoins/pivx.png" alt="DASH v. PIVX" align="center" />
 <p><h1 id="introduction"><b>PIVX INTRODUCTION</b></h1>
 <p>PIVX is a multifaceted community-centric endeavor in the blockchain tech and cryptocurrency realms.
 <p>There are many components of what and who PIVX is and why PIVX was manifested.
