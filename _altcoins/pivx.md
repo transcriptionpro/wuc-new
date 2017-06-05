@@ -13,6 +13,7 @@ toc:
 
 <p>The PIVX ecosystem has an very interesting blend of governance. Like DASH it has masternodes but it also implements Proof of Stake.
 <p>This creates some very interesting financial and economic incentives.
+<p><right><img src="/images/DASH-PIVX-large.jpg" alt="DASH v. PIVX" /></right></p>
 {% include page-toc.html %}
 <p><h3 id="staking">Optimized PIVX Staking</h3>
 <p>When staking, the <b>larger the address balance the more will be earned</b>.
