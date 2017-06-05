@@ -19,7 +19,7 @@ website: https://www.tracemayer.net
 
 An entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in accounting and law and has studied Austrian economics focusing on Rothbard and Mises.
 
-He was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $27.5B in May 2017 and hosts the extremely popular <a title="Bitcoin Knowledge" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
+He was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $40B in June 2017 and hosts the extremely popular <a title="Bitcoin Knowledge" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
 
 ### Crypto-currency related investments include:
 
