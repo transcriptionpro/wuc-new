@@ -91,7 +91,7 @@ Check the seller’s profile and verify if he or she is suitable for the criteri
  
 Make and send a message to a seller to ask for an exchange and wait patiently for their response. 
  
-<h4>DON’T:</h2>
+<h4>DON’T:</h4>
  <ul>
 <li>Send more of your details before you are able to receive a reply from the seller.</li>
 <li>Permit having a trade with a seller that’s beyond the Localbitcoins scope because their escrow service won’t be able to protect you.</li>
