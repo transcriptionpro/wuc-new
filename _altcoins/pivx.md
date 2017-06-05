@@ -19,7 +19,7 @@ toc:
 ---
 
 <p>PIVX, Private Instant Verified Transactions, is built to ensure your store of value, transactional security, privacy and fungibility.
-<p><center><iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/pivx/usd" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe> <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/pivx/btc" style="border:none; height:125px; width: 275px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+<p><center><a href='https://www.coingecko.com/en/price_charts/pivx/usd?id=pivx' target='_blank'><img alt='pivx price' src='https://www.coingecko.com/en/widget_component/ticker/pivx/usd.jpg'></a> <a href='https://www.coingecko.com/en/price_charts/pivx/btc?id=pivx' target='_blank'><img alt='pivx price' src='https://www.coingecko.com/en/widget_component/ticker/pivx/btc.jpg'></a></center>
 <p>The PIVX ecosystem has an very interesting blend of governance. Like DASH it has masternodes but it also implements Proof of Stake.
 <p>This creates some very interesting financial and economic incentives.
 <p><img src="/images/altcoins/pivx.png" alt="DASH v. PIVX" align="center" />
