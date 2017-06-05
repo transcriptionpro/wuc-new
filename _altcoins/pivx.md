@@ -1,6 +1,6 @@
 ---
-title: PIVX
-name: PIVX
+title: PIVX - Private Instant Verified Transactions
+name: PIVX - Private Instant Verified Transactions
 permalink: "/pivx/"
 img: pivx.png
 category: altcoin
@@ -14,7 +14,7 @@ toc:
 
 <p>The PIVX ecosystem has an very interesting blend of governance. Like DASH it has masternodes but it also implements Proof of Stake.
 <p>This creates some very interesting financial and economic incentives.
-<p><right><img src="/images/altcoins/pivx.png" alt="DASH v. PIVX" /></right></p>
+<p><img src="/images/altcoins/pivx.png" alt="DASH v. PIVX" align="right" /></p>
 {% include page-toc.html %}
 <p><h2 id="pivx">What is PIVX?</h2>
 <p><strong>PIVX</strong>: <strong>P</strong>rivate <strong>I</strong>nstant <strong>V</strong>erified <strong>T</strong>ransaction (<strong>X</strong>)
