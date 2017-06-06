@@ -1,4 +1,5 @@
-## Understanding and Predicting Changes in Bitcoin Price
+Understanding and Predicting Changes in Bitcoin Price
+=====================================================
 
 Bitcoin is digital currency, so it's subject to go up or down in value just like any other currency. Read on to learn how you can predict Bitcoin price changes.
 
