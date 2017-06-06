@@ -303,7 +303,7 @@
     headquartered: 
     country:     
     region: 
-    img: openbazaar.png
+    img: openbazaar.jpg
     description: OpenBazaar is a different way to do online commerce. Its a peer to peer application that doesn’t require middlemen, which means no fees & no restrictions.
     url: https://www.openbazaar.org/
 -
@@ -359,7 +359,7 @@
     headquartered: 
     country: Belgium    
     region: Europe
-    img: 
+    img: settlemint.png
     description: SettleMint is a Belgium-based software company that provides high quality distributed middleware and solutions to companies that want to take advantage of the blockchain technology.
     url: https://settlemint.io/
 -
@@ -443,7 +443,7 @@
     headquartered: Atlanta
     country: Georgia    
     region: United States
-    img: 
+    img: truststamp.png
     description: Trust Stamp uses social media and other publicly available data to verify your identity and provide a unique FICO-like trust score.
     url: https://truststamp.net/
 -
@@ -513,7 +513,7 @@
     headquartered: Shanghai
     country: China  
     region: Asia
-    img: 
+    img: juzhen-financials.png
     description: Juzhen has long been working to determine how distributed technologies could offer solutions to problems in Chinas financial markets, even before Lilin said it shifted its focus to blockchain technology.
     url: 
 -
@@ -751,7 +751,7 @@
     headquartered: New York 
     country: United States      
     region: US & Canada
-    img: 
+    img: fluent.png
     description: 
     url: 
 -
@@ -933,7 +933,7 @@
     headquartered: San Francisco    
     country: United States  
     region: US & Canada
-    img: 
+    img: keza.png
     description: Keza is an app that enables you to invest in US and other international stock markets in the most convenient way.
     url: https://getkeza.com/
 -
@@ -947,7 +947,7 @@
     headquartered: New York 
     country: United States  
     region: US & Canada
-    img: ribbit.png
+    img: ribbitme.png
     description: 
     url: http://ribbit.me/
 -
@@ -965,7 +965,7 @@
     description: Chainalysis products are targeted at spotting connections between entities on the Bitcoin blockchain. Chainalysis help Bitcoin businesses detect fraud and prevent money laundering, they help banks put in place adequate controls to bank Bitcoin businesses.
     url: https://www.chainalysis.com/
 -
-    date: 4-Feb-16    
+    date: 4-Feb-2016    
     company: Simplex
     classification: Financial Services  
     roundsize: 7.00
@@ -979,7 +979,7 @@
     description: Simplex provides Bitcoin exchanges, broker websites and wallet applications with a fully protected fraud-free platform for selling Bitcoins via credit card.
     url: https://www.simplex.com/
 -
-    date: 4-Feb-16    
+    date: 4-Feb-2016    
     company: SurBTC
     classification: Exchange    
     roundsize: 0.30 
@@ -993,7 +993,7 @@
     description: SurBTC buy and sell Bitcoins in Chili and Colombia.
     url: https://www.surbtc.com/
 -
-    date: 3-Feb-16    
+    date: 3-Feb-2016    
     company: Blockstream
     classification: Infrastructure
     roundsize: 55.00    
@@ -1007,7 +1007,7 @@
     description: Blockstream is the leading provider of blockchain technologies, on the forefront of work in cryptography and distributed systems. From fraud to counterfeiting, from security to confidentiality, from accountability to transparency, our mission is to solve problems that undermine trust in todays financial systems.
     url: https://blockstream.com/
 -
-    date: 1-Feb-16
+    date: 1-Feb-2016
     company: Civic
     classification: Identity
     roundsize: 2.75
@@ -1021,7 +1021,7 @@
     description: Civic executive team brings excellence and industry expertise to our identity verification and identity theft protection service organization.
     url: https://www.civic.com
 -
-    date: 25-Jan-16
+    date: 25-Jan-2016
     company: SatoshiPay
     classification: Financial Services
     roundsize: 0.39
@@ -1035,7 +1035,7 @@
     description: SatoshiPay is a Bitcoin micropayment service. 
     url: https://satoshipay.io/
 -
-    date: 22-Jan-16
+    date: 22-Jan-2016
     company: Digital Asset Holdings
     classification: Financial Services
     roundsize: 50.0
@@ -1049,7 +1049,7 @@
     description: Blockchain technology company founded by Blythe Masters, a former executive at JPMorgan Chase.
     url: https://digitalasset.com/
 -
-    date: 6-Jan-16
+    date: 6-Jan-2016
     company: Gem
     classification: Financial services
     roundsize: 7.10
@@ -1063,7 +1063,7 @@
     description: Gem is a blockchain API service, aiming to bring blockchain technology and smart contracts into the mainstream. 
     url: https://gem.co/
 -
-    date: 6-Jan-16
+    date: 6-Jan-2016
     company: Zebpay
     classification: Wallet
     roundsize: 1.0
@@ -1077,7 +1077,7 @@
     description: Zebpay is an online Bitcoin wallet. It provides buy and sell brokerage services in India. 
     url: https://www.zebpay.com/
 -
-    date: 24-Dec-15
+    date: 24-Dec-2015
     company: Streami
     classification: Financial Services
     roundsize: 2.00
@@ -1091,7 +1091,7 @@
     description: 
     url: https://streami.co/
 -
-    date: 22-Dec-15
+    date: 22-Dec-2015
     company: BTCS
     classification: Mining
     roundsize: 1.45
@@ -1105,7 +1105,7 @@
     description:  BTCS Inc. operates a beta ecommerce marketplace. It hosts an online ecommerce marketplace where consumers could purchase merchandise using digital currencies, such as bitcoin, <a href="/what-is-litecoin/">litecoin</a>, and <a href="/what-is-dogecoin/">dogecoin</a>. The company was formerly known as Bitcoin Shop, Inc. and changed its name to BTCS Inc. in July 2015. BTCS Inc. is headquartered in Arlington, Virginia.
     url: 
 -
-    date: 7-Dec-15
+    date: 7-Dec-2015
     company: Purse.io
     classification: Payment processor
     roundsize: 1
@@ -1119,7 +1119,7 @@
     description: Purse raised $1 million for its secret project "Tritium".  
     url: 
 -
-    date: 19-Nov-15
+    date: 19-Nov-2015
     company: Bitwage
     classification: Financial Services
     roundsize: 0.76
@@ -1133,7 +1133,7 @@
     description: Bitwage create solutions for remote workers looking for work and to optimally receive their wages. Bitwage offer unique jobs, flexible distributions, reduced payroll costs and increased fulfillment speeds.
     url: https://www.bitwage.com/
 -
-    date: 17-Nov-15
+    date: 17-Nov-2015
     company: Align Commerce
     classification: Financial Services
     roundsize: 12.5
@@ -1147,7 +1147,7 @@
     description: 
     url: 
 -
-    date: 6-Nov-15
+    date: 6-Nov-2015
     company: Zapchain
     classification: Payment processor
     roundsize: 0.35
@@ -1161,7 +1161,7 @@
     description: 
     url: 
 -
-    date: 14-Oct-15
+    date: 14-Oct-2015
     company: Factom
     classification: Infrastructure
     roundsize: 0.4
@@ -1175,7 +1175,7 @@
     description: 
     url: 
 -
-    date: 12-Oct-15
+    date: 12-Oct-2015
     company: ScoreChain
     classification: Financial Services
     roundsize: 0.57
@@ -1189,7 +1189,7 @@
     description: Scorechain is a Luxembourgish company started in 2015 and providing Bitcoin and Blockchain services to the Bitcoin stakeholders.
     url: https://www.scorechain.com/
 -
-    date: 6-Oct-15
+    date: 6-Oct-2015
     company: Orb
     classification: Financial Services
     roundsize: 2.3
@@ -1203,7 +1203,7 @@
     description: 
     url: 
 -
-    date: 2-Oct-15
+    date: 2-Oct-2015
     company: Coinplug
     classification: Universal
     roundsize: 5
@@ -1217,7 +1217,7 @@
     description: Coinplug provides various Bitcoin exchange platforms such as a Bitcoin exchange marketplace, electronic wallet service, and online POS Point-of-Sales service. 
     url: https://www.coinplug.com/
 -
-    date: 29-Sep-15
+    date: 29-Sep-2015
     company: Safe Cash Payment Technologies
     classification: Financial Services
     roundsize: 1.12
@@ -1231,7 +1231,7 @@
     description: Safe Cash is a state-of-the-art digital payment technology that is available to banks, merchants and consumers, worldwide.
     url: https://safe.cash/
 -
-    date: 17-Sep-15
+    date: 17-Sep-2015
     company: Pey
     classification: Infrastructure
     roundsize: 0.34
@@ -1245,7 +1245,7 @@
     description: 
     url: 
 -
-    date: 10-Sep-15
+    date: 10-Sep-2015
     company: Coinalytics
     classification: Financial Services
     roundsize: 1.1
@@ -1259,7 +1259,7 @@
     description: Coinalytics is a venture-backed startup based in Palo Alto pursuing the mission of providing real-time intelligence for decentralized blockchain platforms.
     url: 
 -
-    date: 10-Sep-15
+    date: 10-Sep-2015
     company: Abra
     classification: Financial Services
     roundsize: 12
@@ -1273,7 +1273,7 @@
     description: Abra is making cash mobile. Send money to any smartphone instantly, privately, and securely, with or without a bank account.
     url: https://www.goabra.com/
 -
-    date: 10-Sep-15
+    date: 10-Sep-2015
     company: Case
     classification: Wallet
     roundsize: 1
@@ -1287,7 +1287,7 @@
     description: Case is the worlds most secure and easy-to-use bitcoin wallet.
     url: https://choosecase.com/
 -
-    date: 9-Sep-15
+    date: 9-Sep-2015
     company: Chain
     classification: Infrastructure
     roundsize: 30
@@ -1301,7 +1301,7 @@
     description: Chain Core is enterprise-grade blockchain infrastructure that enables organizations to build better financial services from the ground up.
     url: https://chain.com/
 -
-    date: 8-Sep-15
+    date: 8-Sep-2015
     company: ShapeShift
     classification: Exchange
     roundsize: 1.6
@@ -1315,7 +1315,7 @@
     description: Trade any leading blockchain asset for any other. Protection by design. No account needed.
     url: https://shapeshift.io/
 -
-    date: 2-Sep-15
+    date: 2-Sep-2015
     company: Paymium
     classification: Payment Processor
     roundsize: 1.12
@@ -1329,7 +1329,7 @@
     description: Paymium is the first European Bitcoin marketplace compliant with EU regulations on payment services.
     url: https://www.paymium.com/
 -
-    date: 18-Aug-15
+    date: 18-Aug-2015
     company: Filament
     classification: Infrastructure
     roundsize: 5
@@ -1343,7 +1343,7 @@
     description: Filament lets you build a connected business without becoming an expert on security, scalability, or network stacks.
     url: https://filament.com/
 -
-    date: 12-Aug-15
+    date: 12-Aug-2015
     company: BitFlyer
     classification: Exchange
     roundsize: 4
@@ -1357,7 +1357,7 @@
     description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
     url: https://bitflyer.jp/
 -
-    date: 23-Jul-15
+    date: 23-Jul-2015
     company: Challenger Deep (Kaiko)
     classification: Infrastructure
     roundsize: 1.86
@@ -1371,7 +1371,7 @@
     description: 
     url: 
 -
-    date: 21-Jul-15
+    date: 21-Jul-2015
     company: BitX
     classification: Universal
     roundsize: 4
@@ -1385,7 +1385,7 @@
     description: 
     url: 
 -
-    date: 17-Jul-15
+    date: 17-Jul-2015
     company: ShoCard
     classification: Infrastructure
     roundsize: 1.5
@@ -1399,7 +1399,7 @@
     description: 
     url: 
 -
-    date: 16-Jul-15
+    date: 16-Jul-2015
     company: TabTrader
     classification: Financial Services
     roundsize: 0.1
@@ -1413,7 +1413,7 @@
     description: 
     url: 
 -
-    date: 9-Jul-15
+    date: 9-Jul-2015
     company: BitFury
     classification: Mining
     roundsize: 20
@@ -1423,11 +1423,11 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: bitfury.jpg
+    img: bitfury.png
     description: 
     url: 
 -
-    date: 24-Jun-15
+    date: 24-Jun-2015
     company: Ascribe
     classification: Financial Services
     roundsize: 2
@@ -1441,7 +1441,7 @@
     description: 
     url: 
 -
-    date: 24-Jun-15
+    date: 24-Jun-2015
     company: Vogogo
     classification: Payment Processor
     roundsize: 12.5
@@ -1455,7 +1455,7 @@
     description: 
     url: 
 -
-    date: 18-Jun-15
+    date: 18-Jun-2015
     company: Case
     classification: Wallet
     roundsize: 1.25
@@ -1469,7 +1469,7 @@
     description: 
     url: 
 -
-    date: 16-Jun-15
+    date: 16-Jun-2015
     company: Reveal
     classification: Financial Services
     roundsize: 1.5
@@ -1483,7 +1483,7 @@
     description: 
     url: 
 -
-    date: 11-Jun-15
+    date: 11-Jun-2015
     company: OpenBazaar
     classification: Financial Services
     roundsize: 1
@@ -1497,7 +1497,7 @@
     description: 
     url: 
 -
-    date: 9-Jun-15
+    date: 9-Jun-2015
     company: Symbiont
     classification: Financial Services
     roundsize: 1.25
@@ -1511,7 +1511,7 @@
     description: 
     url: 
 -
-    date: 3-Jun-15
+    date: 3-Jun-2015
     company: Mirror
     classification: Financial Services
     roundsize: 8.8
@@ -1525,7 +1525,7 @@
     description: 
     url: 
 -
-    date: 20-May-15
+    date: 20-May-2015
     company: Bitbond
     classification: Financial Services
     roundsize: 0.67
@@ -1539,7 +1539,7 @@
     description: Bitbond is the first global marketplace lending platform for small business loans. 
     url: 
 -
-    date: 19-May-15
+    date: 19-May-2015
     company: Ripple Labs
     classification: Financial services
     roundsize: 32
@@ -1553,7 +1553,7 @@
     description: 
     url: 
 -
-    date: 7-May-15
+    date: 7-May-2015
     company: itBit
     classification: Exchange
     roundsize: 25
@@ -1567,7 +1567,7 @@
     description: 
     url: 
 -
-    date: 7-May-15
+    date: 7-May-2015
     company: Cryex
     classification: Exchange
     roundsize: 10
@@ -1581,7 +1581,7 @@
     description: 
     url: 
 -
-    date: 6-May-15
+    date: 6-May-2015
     company: Satoshi Citadel Industries Inc.
     classification: Universal
     roundsize: 0.1
@@ -1595,7 +1595,7 @@
     description: 
     url: 
 -
-    date: 30-Apr-15
+    date: 30-Apr-2015
     company: Hedgy
     classification: Financial services
     roundsize: 1.2
@@ -1609,7 +1609,7 @@
     description: 
     url: 
 -
-    date: 30-Apr-15
+    date: 30-Apr-2015
     company: Circle Internet Financial
     classification: Universal
     roundsize: 50
@@ -1623,7 +1623,7 @@
     description: 
     url: 
 -
-    date: 2-Apr-15
+    date: 2-Apr-2015
     company: Gem
     classification: Financial services
     roundsize: 1.3
@@ -1637,7 +1637,7 @@
     description: 
     url: 
 -
-    date: 31-Mar-15
+    date: 31-Mar-2015
     company: PeerNova
     classification: Infrastructure
     roundsize: 5
@@ -1651,7 +1651,7 @@
     description: 
     url: 
 -
-    date: 30-Mar-15
+    date: 30-Mar-2015
     company: Bitt
     classification: Exchange
     roundsize: 1.5
@@ -1665,7 +1665,7 @@
     description: 
     url: 
 -
-    date: 20-Mar-15
+    date: 20-Mar-2015
     company: TabTrader
     classification: Financial services
     roundsize: 0.07
@@ -1679,7 +1679,7 @@
     description: 
     url: 
 -
-    date: 19-Mar-15
+    date: 19-Mar-2015
     company: Coinigy
     classification: Exchange
     roundsize: 0.1
@@ -1693,7 +1693,7 @@
     description: 
     url: 
 -
-    date: 10-Mar-15
+    date: 10-Mar-2015
     company: 21 Inc (21e6)
     classification: Universal
     roundsize: 116
@@ -1707,7 +1707,7 @@
     description: 
     url: 
 -
-    date: 10-Mar-15
+    date: 10-Mar-2015
     company: ShapeShift
     classification: Exchange
     roundsize: 0.53
@@ -1721,7 +1721,7 @@
     description: Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.
     url: https://shapeshift.io/
 -
-    date: 1-Mar-15
+    date: 1-Mar-2015
     company: Simplex
     classification: Financial Services
     roundsize: 0.4
@@ -1735,7 +1735,7 @@
     description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
     url: 
 -
-    date: 19-Feb-15
+    date: 19-Feb-2015
     company: Ledger
     classification: Wallet
     roundsize: 1.5
@@ -1749,7 +1749,7 @@
     description: Security solutions for cryptocurrencies and blockchains.
     url: 
 -
-    date: 9-Feb-15
+    date: 9-Feb-2015
     company: BitPesa
     classification: Payment Processor
     roundsize: 1.1
@@ -1763,7 +1763,7 @@
     description: 
     url: 
 -
-    date: 4-Feb-15
+    date: 4-Feb-2015
     company: HashRabbit
     classification: Infrastructure
     roundsize: 0.5
@@ -1777,7 +1777,7 @@
     description: 
     url: 
 -
-    date: 3-Feb-15
+    date: 3-Feb-2015
     company: KnCMiner
     classification: Mining
     roundsize: 15
@@ -1791,7 +1791,7 @@
     description: 
     url: 
 -
-    date: 3-Feb-15
+    date: 3-Feb-2015
     company: NeuCoin
     classification: Financial Services
     roundsize: 1.25
@@ -1805,7 +1805,7 @@
     description: 
     url: 
 -
-    date: 3-Feb-15
+    date: 3-Feb-2015
     company: Ziftr
     classification: Financial Services
     roundsize: 0.85
@@ -1819,7 +1819,7 @@
     description: 
     url: 
 -
-    date: 2-Feb-15
+    date: 2-Feb-2015
     company: Bonafide (Bonifide.io)
     classification: Financial Services
     roundsize: 0.85
@@ -1833,7 +1833,7 @@
     description: 
     url: 
 -
-    date: 28-Jan-15
+    date: 28-Jan-2015
     company: BitFlyer
     classification: Exchange
     roundsize: 1.1
@@ -1847,7 +1847,7 @@
     description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
     url: https://bitflyer.jp/
 -
-    date: 27-Jan-15
+    date: 27-Jan-2015
     company: Colu
     classification: Infrastructure
     roundsize: 2.5
@@ -1861,7 +1861,7 @@
     description: 
     url: 
 -
-    date: 21-Jan-15
+    date: 21-Jan-2015
     company: Anycoin Direct
     classification: Exchange
     roundsize: 0.56
@@ -1875,7 +1875,7 @@
     description: 
     url: 
 -
-    date: 20-Jan-15
+    date: 20-Jan-2015
     company: Coinbase
     classification: Universal
     roundsize: 75
@@ -1885,11 +1885,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: coinbase-logo.png
+    img: coinbase.png
     description: Founded in June of 2012, Coinbase is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.<p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.<p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
     url: /coinbase-review/
 -
-    date: 20-Jan-15
+    date: 20-Jan-2015
     company: Trustatom
     classification: Financial Services
     roundsize: 0.1
@@ -1903,7 +1903,7 @@
     description: 
     url: 
 -
-    date: 15-Jan-15
+    date: 15-Jan-2015
     company: Ciphrex
     classification: Wallet
     roundsize: 0.5
@@ -1917,7 +1917,7 @@
     description: 
     url: 
 -
-    date: 14-Jan-15
+    date: 14-Jan-2015
     company: BlockCypher
     classification: Infrastructure
     roundsize: 3.1
@@ -1931,7 +1931,7 @@
     description: 
     url: 
 -
-    date: 12-Jan-15
+    date: 12-Jan-2015
     company: Airbitz
     classification: Infrastructure
     roundsize: 0.03
@@ -1945,7 +1945,7 @@
     description: 
     url: https://airbitz.co/af/9TZ
 -
-    date: 7-Jan-15
+    date: 7-Jan-2015
     company: LibertyX
     classification: Financial Services
     roundsize: 0.4
@@ -1959,7 +1959,7 @@
     description: 
     url: 
 -
-    date: 5-Jan-15
+    date: 5-Jan-2015
     company: GetGems
     classification: Financial Services
     roundsize: 0.4
@@ -1973,7 +1973,7 @@
     description: 
     url: 
 -
-    date: 1-Jan-15
+    date: 1-Jan-2015
     company: CoinOutlet
     classification: Financial Services
     roundsize: 0.1
@@ -1987,7 +1987,7 @@
     description: 
     url: 
 -
-    date: 30-Dec-14
+    date: 30-Dec-2014
     company: Bitreserve (Uphold)
     classification: Wallet
     roundsize: 9.6
@@ -2001,7 +2001,7 @@
     description: 
     url: 
 -
-    date: 24-Dec-14
+    date: 24-Dec-2014
     company: BitGold
     classification: Financial Services
     roundsize: 3.5
@@ -2015,7 +2015,7 @@
     description: 
     url: 
 -
-    date: 17-Dec-14
+    date: 17-Dec-2014
     company: PeerNova
     classification: Mining
     roundsize: 8.6
@@ -2029,7 +2029,7 @@
     description: 
     url: 
 -
-    date: 5-Dec-14
+    date: 5-Dec-2014
     company: BitGold
     classification: Financial Services
     roundsize: 0.8
@@ -2043,7 +2043,7 @@
     description: 
     url: 
 -
-    date: 2-Dec-14
+    date: 2-Dec-2014
     company: ChangeTip
     classification: Financial Services
     roundsize: 3.5
@@ -2057,7 +2057,7 @@
     description: 
     url: 
 -
-    date: 2-Dec-14
+    date: 2-Dec-2014
     company: DigiByte_
     classification: Financial Services
     roundsize: 0.25
@@ -2071,7 +2071,7 @@
     description: 
     url: 
 -
-    date: 1-Dec-14
+    date: 1-Dec-2014
     company: GetGems
     classification: Financial Services
     roundsize: 0.6
@@ -2085,7 +2085,7 @@
     description: 
     url: 
 -
-    date: 27-Nov-14
+    date: 27-Nov-2014
     company: Purse.io
     classification: Financial Services
     roundsize: 0.3
@@ -2099,7 +2099,7 @@
     description: 
     url: 
 -
-    date: 17-Nov-14
+    date: 17-Nov-2014
     company: Blockstream
     classification: Infrastructure
     roundsize: 21
@@ -2113,7 +2113,7 @@
     description: 
     url: 
 -
-    date: 16-Nov-14
+    date: 16-Nov-2014
     company: OneName
     classification: Financial Services
     roundsize: 1.5
@@ -2127,7 +2127,7 @@
     description: 
     url: 
 -
-    date: 5-Nov-14
+    date: 5-Nov-2014
     company: Dogetipbot
     classification: Financial Services
     roundsize: 0.45
@@ -2141,7 +2141,7 @@
     description: 
     url: 
 -
-    date: 1-Nov-14
+    date: 1-Nov-2014
     company: CoinOutlet
     classification: Financial Services
     roundsize: 0.05
@@ -2155,7 +2155,7 @@
     description: 
     url: 
 -
-    date: 24-Oct-14
+    date: 24-Oct-2014
     company: Spondoolies-Tech
     classification: Mining
     roundsize: 5
@@ -2169,7 +2169,7 @@
     description: 
     url: 
 -
-    date: 24-Oct-14
+    date: 24-Oct-2014
     company: BitLendingClub
     classification: Financial Services
     roundsize: 0.25
@@ -2183,7 +2183,7 @@
     description: 
     url: 
 -
-    date: 20-Oct-14
+    date: 20-Oct-2014
     company: Bitnet
     classification: Payment Processor
     roundsize: 14.5
@@ -2197,7 +2197,7 @@
     description: 
     url: 
 -
-    date: 17-Oct-14
+    date: 17-Oct-2014
     company: AlphaPoint
     classification: Financial Services
     roundsize: 1.35
@@ -2211,7 +2211,7 @@
     description: 
     url: 
 -
-    date: 16-Oct-14
+    date: 16-Oct-2014
     company: Coinsetter (now Kraken)
     classification: Exchange
     roundsize: 1.4
@@ -2225,7 +2225,7 @@
     description: 
     url: 
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: BitFlyer
     classification: Exchange
     roundsize: 0.24
@@ -2239,7 +2239,7 @@
     description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
     url: https://bitflyer.jp/
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: Libra
     classification: Financial Services
     roundsize: 0.5
@@ -2253,7 +2253,7 @@
     description: 
     url: 
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: Melotic
     classification: Exchange
     roundsize: 1.18
@@ -2267,7 +2267,7 @@
     description: 
     url: 
 -
-    date: 10-Oct-14
+    date: 10-Oct-2014
     company: Swarm
     classification: Financial Services
     roundsize: 0.12
@@ -2281,7 +2281,7 @@
     description: 
     url: 
 -
-    date: 9-Oct-14
+    date: 9-Oct-2014
     company: Devign Lab
     classification: Universal
     roundsize: 0.2
@@ -2295,7 +2295,7 @@
     description: 
     url: 
 -
-    date: 9-Oct-14
+    date: 9-Oct-2014
     company: BitFury
     classification: Mining
     roundsize: 20
@@ -2305,11 +2305,11 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: bitfury.jpg
+    img: bitfury.png
     description: 
     url: 
 -
-    date: 8-Oct-14
+    date: 8-Oct-2014
     company: Coinplug
     classification: Universal
     roundsize: 2.5
@@ -2323,7 +2323,7 @@
     description: 
     url: 
 -
-    date: 7-Oct-14
+    date: 7-Oct-2014
     company: Ciphrex
     classification: Wallet
     roundsize: 0.3
@@ -2337,7 +2337,7 @@
     description: 
     url: 
 -
-    date: 7-Oct-14
+    date: 7-Oct-2014
     company: Blockchain
     classification: Wallet
     roundsize: 30.5
@@ -2351,7 +2351,7 @@
     description: 
     url: 
 -
-    date: 7-Oct-14
+    date: 7-Oct-2014
     company: SolidX
     classification: Financial Services
     roundsize: 3
@@ -2365,7 +2365,7 @@
     description: 
     url: 
 -
-    date: 6-Oct-14
+    date: 6-Oct-2014
     company: SNAPCARD
     classification: Payment Processor
     roundsize: 1.5
@@ -2379,7 +2379,7 @@
     description: 
     url: 
 -
-    date: 1-Oct-14
+    date: 1-Oct-2014
     company: HashRabbit
     classification: Infrastructure
     roundsize: 0.2
@@ -2393,7 +2393,7 @@
     description: 
     url: 
 -
-    date: 1-Oct-14
+    date: 1-Oct-2014
     company: Bonafide (Bonifide.io)
     classification: Financial Services
     roundsize: 
@@ -2407,7 +2407,7 @@
     description: 
     url: 
 -
-    date: 30-Sep-14
+    date: 30-Sep-2014
     company: Coinapult
     classification: Wallet
     roundsize: 0.78
@@ -2421,7 +2421,7 @@
     description: 
     url: 
 -
-    date: 25-Sep-14
+    date: 25-Sep-2014
     company: Coinify
     classification: Universal
     roundsize: 0.34
@@ -2435,7 +2435,7 @@
     description: 
     url: 
 -
-    date: 18-Sep-14
+    date: 18-Sep-2014
     company: CoinPlus
     classification: Payment Processor
     roundsize: 0.22
@@ -2449,7 +2449,7 @@
     description: 
     url: 
 -
-    date: 17-Sep-14
+    date: 17-Sep-2014
     company: Koinify
     classification: Financial Services
     roundsize: 1
@@ -2463,7 +2463,7 @@
     description: 
     url: 
 -
-    date: 17-Sep-14
+    date: 17-Sep-2014
     company: Gem
     classification: Financial Services
     roundsize: 2
@@ -2477,7 +2477,7 @@
     description: 
     url: 
 -
-    date: 4-Sep-14
+    date: 4-Sep-2014
     company: BitGo
     classification: Infrastructure
     roundsize: 
@@ -2491,7 +2491,7 @@
     description: 
     url: 
 -
-    date: 4-Sep-14
+    date: 4-Sep-2014
     company: KnCMiner
     classification: Mining
     roundsize: 14
@@ -2505,7 +2505,7 @@
     description: 
     url: 
 -
-    date: 25-Aug-14
+    date: 25-Aug-2014
     company: Korbit
     classification: Universal
     roundsize: 3
@@ -2519,7 +2519,7 @@
     description: 
     url: 
 -
-    date: 20-Aug-14
+    date: 20-Aug-2014
     company: Chain
     classification: Infrastructure
     roundsize: 9.5
@@ -2533,7 +2533,7 @@
     description: 
     url: 
 -
-    date: 20-Aug-14
+    date: 20-Aug-2014
     company: Chain
     classification: Infrastructure
     roundsize: 4.2
@@ -2547,7 +2547,7 @@
     description: 
     url: 
 -
-    date: 19-Aug-14
+    date: 19-Aug-2014
     company: BitX
     classification: Universal
     roundsize: 0.82
@@ -2561,7 +2561,7 @@
     description: 
     url: 
 -
-    date: 18-Aug-14
+    date: 18-Aug-2014
     company: BlockTrail
     classification: Infrastructure
     roundsize: 0.65
@@ -2575,7 +2575,7 @@
     description: 
     url: 
 -
-    date: 13-Aug-14
+    date: 13-Aug-2014
     company: Bitbond
     classification: Financial Services
     roundsize: 0.27
@@ -2589,7 +2589,7 @@
     description: Bitbond is the first global marketplace lending platform for small business loans. 
     url: 
 -
-    date: 11-Aug-14
+    date: 11-Aug-2014
     company: Unocoin
     classification: Universal
     roundsize: 0.25
@@ -2603,7 +2603,7 @@
     description: 
     url: 
 -
-    date: 5-Aug-14
+    date: 5-Aug-2014
     company: Vogogo
     classification: Payment Processor
     roundsize: 8.5
@@ -2617,7 +2617,7 @@
     description: 
     url: 
 -
-    date: 23-Jul-14
+    date: 23-Jul-2014
     company: Volabit
     classification: Exchange
     roundsize: 0.75
@@ -2631,7 +2631,7 @@
     description: 
     url: 
 -
-    date: 22-Jul-14
+    date: 22-Jul-2014
     company: BitFlyer
     classification: Exchange
     roundsize: 1.6
@@ -2645,7 +2645,7 @@
     description: BitFlyer allows you to easily trade virtual currency bit coins at a transparent price. Market checking is also possible on the chart. BitFlyer supports every transaction on your bit coin and contributes to the spread of bit coins.
     url: https://bitflyer.jp/
 -
-    date: 16-Jul-14
+    date: 16-Jul-2014
     company: OneName
     classification: Financial Services
     roundsize: 0.12
@@ -2659,7 +2659,7 @@
     description: 
     url: 
 -
-    date: 16-Jul-14
+    date: 16-Jul-2014
     company: Elliptic
     classification: Wallet
     roundsize: 2
@@ -2673,7 +2673,7 @@
     description: 
     url: 
 -
-    date: 16-Jul-14
+    date: 16-Jul-2014
     company: TradeBlock
     classification: Financial Services
     roundsize: 2.8
@@ -2687,7 +2687,7 @@
     description: 
     url: 
 -
-    date: 14-Jul-14
+    date: 14-Jul-2014
     company: BitGold
     classification: Financial Services
     roundsize: 1
@@ -2701,7 +2701,7 @@
     description: 
     url: 
 -
-    date: 10-Jul-14
+    date: 10-Jul-2014
     company: Safello
     classification: Exchange
     roundsize: 0.25
@@ -2715,7 +2715,7 @@
     description: 
     url: 
 -
-    date: 8-Jul-14
+    date: 8-Jul-2014
     company: Xapo
     classification: Wallet
     roundsize: 20
@@ -2729,7 +2729,7 @@
     description: 
     url: 
 -
-    date: 1-Jul-14
+    date: 1-Jul-2014
     company: Expresscoin
     classification: Financial Services
     roundsize: 0.15
@@ -2743,7 +2743,7 @@
     description: 
     url: 
 -
-    date: 26-Jun-14
+    date: 26-Jun-2014
     company: BlockScore
     classification: Financial Services
     roundsize: 2
@@ -2757,7 +2757,7 @@
     description: 
     url: 
 -
-    date: 17-Jun-14
+    date: 17-Jun-2014
     company: BitPagos
     classification: Payment Processor
     roundsize: 0.6
@@ -2771,7 +2771,7 @@
     description: 
     url: https://www.bitpagos.com/en/
 -
-    date: 16-Jun-14
+    date: 16-Jun-2014
     company: BitGo
     classification: Infrastructure
     roundsize: 12
@@ -2785,7 +2785,7 @@
     description: 
     url: 
 -
-    date: 12-Jun-14
+    date: 12-Jun-2014
     company: HashPlex
     classification: Mining
     roundsize: 0.4
@@ -2799,7 +2799,7 @@
     description: 
     url: 
 -
-    date: 6-Jun-14
+    date: 6-Jun-2014
     company: Coinfloor
     classification: Exchange
     roundsize: 0.2
@@ -2813,7 +2813,7 @@
     description: 
     url: 
 -
-    date: 1-Jun-14
+    date: 1-Jun-2014
     company: BlockScore
     classification: Financial Services
     roundsize: 0.03
@@ -2827,7 +2827,7 @@
     description: 
     url: 
 -
-    date: 30-May-14
+    date: 30-May-2014
     company: BitFury
     classification: Mining
     roundsize: 20
@@ -2837,11 +2837,11 @@
     headquartered: Amsterdam
     country: The Netherlands
     region: Europe
-    img: bitfury.jpg
+    img: bitfury.png
     description: 
     url: 
 -
-    date: 30-May-14
+    date: 30-May-2014
     company: Bitex.la
     classification: Exchange
     roundsize: 2
@@ -2855,7 +2855,7 @@
     description: 
     url: 
 -
-    date: 28-May-14
+    date: 28-May-2014
     company: Simplex
     classification: Financial Services
     roundsize: 1.0
@@ -2869,7 +2869,7 @@
     description: Simplex focuses on fraud prevention in Bitcoin purchases made with credit cards. It's currently partnered with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/#best-bitcoin-cloud-mining-services">Genesis Mining</a>, CoinMama, and Bits of Gold.
     url:
 -
-    date: 27-May-14
+    date: 27-May-2014
     company: Huobi
     classification: Exchange
     roundsize: 10
@@ -2883,7 +2883,7 @@
     description: 
     url: 
 -
-    date: 13-May-14
+    date: 13-May-2014
     company: BitPay
     classification: Payment Processor
     roundsize: 30
@@ -2897,7 +2897,7 @@
     description: 
     url: 
 -
-    date: 7-May-14
+    date: 7-May-2014
     company: Mirror
     classification: Financial Services
     roundsize: 4
@@ -2911,7 +2911,7 @@
     description: 
     url: 
 -
-    date: 7-May-14
+    date: 7-May-2014
     company: Vaurum (Mirror)
     classification: Financial Services
     roundsize: 4
@@ -2925,7 +2925,7 @@
     description: 
     url: 
 -
-    date: 5-May-14
+    date: 5-May-2014
     company: ChangeTip
     classification: Financial Services
     roundsize: 0.75
@@ -2939,7 +2939,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: GogoCoin
     classification: Financial Services
     roundsize: 0.1
@@ -2953,7 +2953,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Bonafide (Bonifide.io)
     classification: Financial Services
     roundsize: 0.1
@@ -2967,7 +2967,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Coinalytics
     classification: Financial Services
     roundsize: 0.1
@@ -2981,7 +2981,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Neuroware
     classification: Wallet
     roundsize: 0.1
@@ -2995,7 +2995,7 @@
     description: 
     url: 
 -
-    date: 21-Apr-14
+    date: 21-Apr-2014
     company: Monetsu
     classification: Payment Processor
     roundsize: 0.1
@@ -3009,7 +3009,7 @@
     description: 
     url: 
 -
-    date: 4-Apr-14
+    date: 4-Apr-2014
     company: ChangeTip
     classification: Financial Services
     roundsize: 
@@ -3023,7 +3023,7 @@
     description: 
     url: 
 -
-    date: 3-Apr-14
+    date: 3-Apr-2014
     company: Coinplug
     classification: Universal
     roundsize: 0.4
@@ -3037,7 +3037,7 @@
     description: 
     url: 
 -
-    date: 2-Apr-14
+    date: 2-Apr-2014
     company: PayStand
     classification: Payment Processor
     roundsize: 1
@@ -3051,7 +3051,7 @@
     description: 
     url: 
 -
-    date: 1-Apr-14
+    date: 1-Apr-2014
     company: BTC.sx (Magnr)
     classification: Financial Services
     roundsize: 0.3
@@ -3065,7 +3065,7 @@
     description: 
     url: 
 -
-    date: 31-Mar-14
+    date: 31-Mar-2014
     company: Bitreserve (Uphold)
     classification: Wallet
     roundsize: 5
@@ -3079,7 +3079,7 @@
     description: 
     url: 
 -
-    date: 26-Mar-14
+    date: 26-Mar-2014
     company: GoCoin
     classification: Payment Processor
     roundsize: 1.5
@@ -3093,7 +3093,7 @@
     description: 
     url: 
 -
-    date: 26-Mar-14
+    date: 26-Mar-2014
     company: Circle Internet Financial
     classification: Universal
     roundsize: 17
@@ -3107,7 +3107,7 @@
     description: 
     url: 
 -
-    date: 26-Mar-14
+    date: 26-Mar-2014
     company: Hive
     classification: Wallet
     roundsize: 0.19
@@ -3121,7 +3121,7 @@
     description: 
     url: 
 -
-    date: 25-Mar-14
+    date: 25-Mar-2014
     company: Payward, Inc. (Kraken)
     classification: Exchange
     roundsize: 5
@@ -3135,7 +3135,7 @@
     description: 
     url: 
 -
-    date: 25-Mar-14
+    date: 25-Mar-2014
     company: Koinify
     classification: Financial Services
     roundsize: 0.45
@@ -3149,7 +3149,7 @@
     description: 
     url: 
 -
-    date: 18-Mar-14
+    date: 18-Mar-2014
     company: Exchange of the Americas (meXBT)
     classification: Exchange
     roundsize: 0.34
@@ -3163,7 +3163,7 @@
     description: 
     url: 
 -
-    date: 16-Mar-14
+    date: 16-Mar-2014
     company: OKCoin
     classification: Exchange
     roundsize: 10
@@ -3177,7 +3177,7 @@
     description: 
     url: 
 -
-    date: 13-Mar-14
+    date: 13-Mar-2014
     company: Xapo
     classification: Wallet
     roundsize: 20
@@ -3191,7 +3191,7 @@
     description: 
     url: 
 -
-    date: 12-Mar-14
+    date: 12-Mar-2014
     company: Tembusu
     classification: Financial Services
     roundsize: 0.24
@@ -3205,7 +3205,7 @@
     description: 
     url: 
 -
-    date: 7-Mar-14
+    date: 7-Mar-2014
     company: CoinSimple
     classification: Payment Processor
     roundsize: 0.18
@@ -3219,7 +3219,7 @@
     description: 
     url: 
 -
-    date: 1-Mar-14
+    date: 1-Mar-2014
     company: Expresscoin
     classification: Financial Services
     roundsize: 
@@ -3233,7 +3233,7 @@
     description: 
     url:  
 -
-    date: 18-Feb-14
+    date: 18-Feb-2014
     company: Coinsetter (now Kraken)
     classification: Exchange
     roundsize: 0.5
@@ -3247,7 +3247,7 @@
     description: 
     url: 
 -
-    date: 17-Feb-14
+    date: 17-Feb-2014
     company: Safello
     classification: Exchange
     roundsize: 0.6
@@ -3261,7 +3261,7 @@
     description: 
     url: 
 -
-    date: 10-Feb-14
+    date: 10-Feb-2014
     company: Elliptic
     classification: Wallet
     roundsize: 
@@ -3275,7 +3275,7 @@
     description: 
     url: 
 -
-    date: 4-Feb-14
+    date: 4-Feb-2014
     company: BitSim
     classification: Universal
     roundsize: 0.5
@@ -3289,7 +3289,7 @@
     description: 
     url: 
 -
-    date: 4-Feb-14
+    date: 4-Feb-2014
     company: Cryptopay
     classification: Payment processor
     roundsize: 0.08
@@ -3303,7 +3303,7 @@
     description: 
     url: 
 -
-    date: 1-Feb-14
+    date: 1-Feb-2014
     company: Spondoolies-Tech
     classification: Mining
     roundsize: 1.5
@@ -3317,7 +3317,7 @@
     description: 
     url: 
 -
-    date: 31-Jan-14
+    date: 31-Jan-2014
     company: Gliph
     classification: Financial Services
     roundsize: 0.03
@@ -3331,7 +3331,7 @@
     description: 
     url: 
 -
-    date: 21-Jan-14
+    date: 21-Jan-2014
     company: Tangible Cryptography (BitSimple)
     classification: Exchange
     roundsize: 0.6
@@ -3345,7 +3345,7 @@
     description: 
     url: 
 -
-    date: 20-Jan-14
+    date: 20-Jan-2014
     company: Korbit
     classification: Universal
     roundsize: 0.4
@@ -3359,7 +3359,7 @@
     description: 
     url: 
 -
-    date: 15-Jan-14
+    date: 15-Jan-2014
     company: Exchange of the Americas (meXBT)
     classification: Exchange
     roundsize: 0.15
@@ -3373,7 +3373,7 @@
     description: 
     url: 
 -
-    date: 15-Jan-14
+    date: 15-Jan-2014
     company: Bitex.la
     classification: Exchange
     roundsize: 2
@@ -3387,7 +3387,7 @@
     description: 
     url: 
 -
-    date: 1-Jan-14
+    date: 1-Jan-2014
     company: Bitnet
     classification: Payment Processor
     roundsize: 
@@ -3401,7 +3401,7 @@
     description: 
     url: 
 -
-    date: 31-Dec-13
+    date: 31-Dec-2013
     company: COINFIRMA
     classification: Financial Services
     roundsize: 0.5
@@ -3415,7 +3415,7 @@
     description: 
     url: 
 -
-    date: 20-Dec-13
+    date: 20-Dec-2013
     company: Payward, Inc. (Kraken)
     classification: Exchange
     roundsize: 1.5
@@ -3429,7 +3429,7 @@
     description: 
     url: 
 -
-    date: 18-Dec-13
+    date: 18-Dec-2013
     company: Gliph
     classification: Financial Services
     roundsize: 0.13
@@ -3443,7 +3443,7 @@
     description: 
     url: 
 -
-    date: 12-Dec-13
+    date: 12-Dec-2013
     company: Coinbase
     classification: Universal
     roundsize: 25
@@ -3453,11 +3453,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: coinbase.png
     description: 
     url: /coinbase-review/
 -
-    date: 2-Dec-13
+    date: 2-Dec-2013
     company: CoinJar Pty
     classification: Wallet
     roundsize: 0.5
@@ -3471,7 +3471,7 @@
     description: 
     url: 
 -
-    date: 1-Dec-13
+    date: 1-Dec-2013
     company: SNAPCARD
     classification: Payment processor
     roundsize: 0.06
@@ -3485,7 +3485,7 @@
     description: 
     url: 
 -
-    date: 1-Dec-13
+    date: 1-Dec-2013
     company: Bex.io / Spawngrid
     classification: Financial Services
     roundsize: 0.5
@@ -3499,7 +3499,7 @@
     description: 
     url: 
 -
-    date: 25-Nov-13
+    date: 25-Nov-2013
     company: Coinplug
     classification: Universal
     roundsize: 0.4
@@ -3513,7 +3513,7 @@
     description: 
     url: 
 -
-    date: 18-Nov-13
+    date: 18-Nov-2013
     company: BTC China (Shanghai Satuxi Network)
     classification: Exchange
     roundsize: 5
@@ -3527,7 +3527,7 @@
     description: 
     url: 
 -
-    date: 17-Nov-13
+    date: 17-Nov-2013
     company: 21 Inc (21e6)
     classification: Universal
     roundsize: 5.05
@@ -3541,7 +3541,7 @@
     description: 
     url: 
 -
-    date: 12-Nov-13
+    date: 12-Nov-2013
     company: Ripple Labs
     classification: Financial Services
     roundsize: 3.5
@@ -3555,7 +3555,7 @@
     description: 
     url: 
 -
-    date: 11-Nov-13
+    date: 11-Nov-2013
     company: itBit
     classification: Exchange
     roundsize: 3.25
@@ -3569,7 +3569,7 @@
     description: 
     url: 
 -
-    date: 7-Nov-13
+    date: 7-Nov-2013
     company: GoCoin
     classification: Payment Processor
     roundsize: 0.55
@@ -3583,7 +3583,7 @@
     description: 
     url: 
 -
-    date: 31-Oct-13
+    date: 31-Oct-2013
     company: Bitstamp
     classification: Exchange
     roundsize: 10
@@ -3597,7 +3597,7 @@
     description: 
     url: 
 -
-    date: 31-Oct-13
+    date: 31-Oct-2013
     company: Circle Internet Financial
     classification: Universal
     roundsize: 9
@@ -3611,7 +3611,7 @@
     description: 
     url: 
 -
-    date: 9-Oct-13
+    date: 9-Oct-2013
     company: GogoCoin
     classification: Financial Services
     roundsize: 0.11
@@ -3625,7 +3625,7 @@
     description: 
     url: 
 -
-    date: 1-Oct-13
+    date: 1-Oct-2013
     company: GogoCoin
     classification: Financial Services
     roundsize: 0.01
@@ -3639,7 +3639,7 @@
     description: 
     url: 
 -
-    date: 19-Sep-13
+    date: 19-Sep-2013
     company: Gliph
     classification: Financial Services
     roundsize: 0.2
@@ -3653,7 +3653,7 @@
     description: 
     url: 
 -
-    date: 8-Sep-13
+    date: 8-Sep-2013
     company: Coinfloor
     classification: Exchange
     roundsize: 0.1
@@ -3667,7 +3667,7 @@
     description: 
     url: 
 -
-    date: 4-Sep-13
+    date: 4-Sep-2013
     company: OKCoin
     classification: Exchange
     roundsize: 1
@@ -3681,7 +3681,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: Vaurum (Mirror)
     classification: Exchange
     roundsize: 2
@@ -3695,7 +3695,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: BitPagos
     classification: Payment Processor
     roundsize: 0.03
@@ -3709,7 +3709,7 @@
     description: 
     url: https://www.bitpagos.com/en/
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: Buttercoin
     classification: Infrastructure
     roundsize: 1.25
@@ -3723,7 +3723,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-13
+    date: 1-Sep-2013
     company: Armory Technologies
     classification: Wallet
     roundsize: 0.6
@@ -3737,7 +3737,7 @@
     description: 
     url: 
 -
-    date: 19-Aug-13
+    date: 19-Aug-2013
     company: Digital Currencies FinTech 
     classification: Financial Services
     roundsize: 1.25
@@ -3747,11 +3747,11 @@
     headquartered: Palo Alto
     country: United States
     region: US & Canada
-    img: ## could not find company or logo
+    img: fintech.png
     description: 
     url: 
 -
-    date: 1-Aug-13
+    date: 1-Aug-2013
     company: Spondoolies-Tech
     classification: Mining
     roundsize: 4
@@ -3765,7 +3765,7 @@
     description: 
     url: 
 -
-    date: 22-Jul-13
+    date: 22-Jul-2013
     company: Avalon Clones
     classification: Mining
     roundsize: 3
@@ -3779,7 +3779,7 @@
     description: 
     url: 
 -
-    date: 18-May-13
+    date: 18-May-2013
     company: Gliph
     classification: Financial Services
     roundsize: 0.02
@@ -3793,7 +3793,7 @@
     description: 
     url: 
 -
-    date: 16-May-13
+    date: 16-May-2013
     company: BitPay
     classification: Payment Processor
     roundsize: 2
@@ -3807,7 +3807,7 @@
     description: 
     url: 
 -
-    date: 14-May-13
+    date: 14-May-2013
     company: Ripple Labs
     classification: Financial Services
     roundsize: 3
@@ -3821,7 +3821,7 @@
     description: 
     url: 
 -
-    date: 1-May-13
+    date: 1-May-2013
     company: CoinJar Pty
     classification: Wallet
     roundsize: 0.02
@@ -3835,7 +3835,7 @@
     description: 
     url: 
 -
-    date: 26-Apr-13
+    date: 26-Apr-2013
     company: Coinbase
     classification: Universal
     roundsize: 6.11
@@ -3845,11 +3845,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: coinbase.png
     description: 
     url: 
 -
-    date: 11-Apr-13
+    date: 11-Apr-2013
     company: Ripple Labs
     classification: Financial Services
     roundsize: 2.5
@@ -3863,7 +3863,7 @@
     description: 
     url: 
 -
-    date: 1-Mar-13
+    date: 1-Mar-2013
     company: TradeHill
     classification: Exchange
     roundsize: 0.4
@@ -3877,7 +3877,7 @@
     description: 
     url: 
 -
-    date: 1-Mar-13
+    date: 1-Mar-2013
     company: BitGo
     classification: Infrastructure
     roundsize: 2
@@ -3891,7 +3891,7 @@
     description: 
     url: 
 -
-    date: 7-Jan-13
+    date: 7-Jan-2013
     company: BitPay
     classification: Payment Processor
     roundsize: 0.51
@@ -3905,7 +3905,7 @@
     description: 
     url: 
 -
-    date: 31-Oct-12
+    date: 31-Oct-2012
     company: Bitinstant
     classification: Payment Processor
     roundsize: 1.5
@@ -3919,7 +3919,7 @@
     description: 
     url: 
 -
-    date: 1-Sep-12
+    date: 1-Sep-2012
     company: Coinbase
     classification: Universal
     roundsize: 0.6
@@ -3929,11 +3929,11 @@
     headquartered: San Francisco
     country: United States
     region: US & Canada
-    img: 
+    img: coinbase.png
     description: 
     url: 
 -
-    date: 3-Jan-12
+    date: 3-Jan-2012
     company: Gliph
     classification: Financial Services
     roundsize: 0.03
