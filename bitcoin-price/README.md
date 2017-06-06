@@ -3,8 +3,6 @@ Understanding and Predicting Changes in Bitcoin Price
 
 Bitcoin is digital currency, so it's subject to go up or down in value just like any other currency. Read on to learn how you can predict Bitcoin price changes.
 
-### Keyword(s): bitcoin price
-
 Who hasn't heard about Bitcoin?
 
 Early in March of 2017, the so-called "crypto-currency" was [more valuable than gold in the world markets](/what-is-an-application-coin/).
