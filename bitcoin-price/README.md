@@ -156,7 +156,7 @@ One example is the wide acceptance in China of bitcoin. This foundation has give
 
 As China is an international powerhouse in terms of population and economic power the country's wide use of Bitcoin helps overall value.
 
-#### China Bitcoin Facts
+### China Bitcoin Facts
 
 If you need to understand [the role of China in impacting Bitcoin price](/ten-reasons-hire-bitcoin/) take a look at the facts:
 
