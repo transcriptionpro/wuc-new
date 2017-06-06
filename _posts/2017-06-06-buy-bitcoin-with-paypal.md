@@ -104,7 +104,7 @@ It's recommended that you transfer Bitcoins to your personal wallet after this t
 
 So... what if you want to try a different method?
 
-<h2><a href="/anonymous-cryptocurrency-dash-pivx-monero/">Alternative Platforms to Buy Bitcoin</a> with Paypal</h2>
+<h2>Alternative Platforms to Buy Bitcoin with Paypal</h2>
 
 VirWox isn't the only player in town.
 
