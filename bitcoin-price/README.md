@@ -23,7 +23,8 @@ Master this list and you might just get rich.
 
 Let's go:
 
-### Software, Hardware & Apps
+Software, Hardware & Apps
+=========================
 
 Since the fixed supply of Bitcoin impacts price, how does somebody get to the supply? 
 
@@ -41,7 +42,8 @@ The more people who are comfortable using and exchanging Bitcoin, the higher the
 
 Conversely, if people are uncomfortable or intimidated by the tools trading can decline.
 
-### Major Investors
+Major Investors
+===============
 
 Just as average users become comfortable trading Bitcoin through the many tools available can cause prices to increase, so can the involvement of major investors.
 
@@ -65,7 +67,8 @@ Major investors include:
 <br/><br/>
 As more large companies, financial institutions and venture capitalists invest, the value of Bitcoin, or Bitcoin technology, will likely rise.
 
-### Bitcoin ETFs 
+Bitcoin ETFs 
+============
 
 Because there are so many major investments in Bitcoin and Bitcoin technology there are efforts underway to create ETFs for Bitcoin.
 
@@ -85,7 +88,8 @@ However, as there are still outstanding applications pending, the formation of a
 
 Clearly, [staying informed about current events and news](/the-four-bitcoin-exchanges-with-lenient-identity-verification-process/) is important for any Bitcoin miner. Major market fluctuations can occur based on the headlines alone.
 
-### Perception Impacts Price
+Perception Impacts Price
+========================
 
 Just as the public having access to investing in Bitcoin can impact Bitcoin price, so does public perception.  
 
@@ -105,7 +109,8 @@ As some people then started to associate Bitcoin with crime, this type of news c
 
 Public perception of price is important to consider when investing in Bitcoin. 
 
-### Acceptance Impacts Bitcoin Price
+Acceptance Impacts Bitcoin Price
+================================
 
 Just as public perception impacts price, the more people who accept Bitcoin lifts the value of the currency.
 
@@ -123,7 +128,8 @@ This database is used by the largest banks in the world.
 
 IBM will lead the project for the D.T.C.C. The project is expected to be fully functioning by early 2018.
 
-### Shifts in the Global Economy 
+Shifts in the Global Economy
+============================
 
 Acceptance by institutions affects Bitcoin price. So does the acceptance of people from different countries. The instability of global markets and politics can have a major impact on Bitcoin price. 
 
@@ -142,7 +148,8 @@ Many economic experts note this trend toward lack of government trust and nation
 
 This offer of a solution can increase Bitcoin price.
 
-### The Role of China
+The Role of China
+=================
 
 But cataclysmic events don't have to happen in the global economy to effect Bitcoin price. 
 
@@ -171,7 +178,8 @@ Bitcoin is an easily transferable, portable, international solution.
 
 Part of the appeal of Bitcoin is its ability to provide a more reliable alternative to traditional currencies and financial networks. [Although other critics exist](/the-seven-network-effects-of-bitcoin/) who still question using Bitcoin at all.
 
-### Expert Opinions 
+Expert Opinions 
+===============
 
 You can probably tell, there are some who believe in Bitcoin as a great investment, and others who think Bitcoin is little more than an investing fad.
 
@@ -179,7 +187,8 @@ But as more experts support using Bitcoin as currency, the more price can increa
 
 However, just as with venture capitalists and billionaire investors, expert opinions can be biased. They know their public opinion drives up Bitcoin price. 
 
-### Get Mining!
+Get Mining!
+===========
 
 Then again, if the venture capitalists and experts are betting on Bitcoin, shouldn't you?Now that you've got the techniques down for understanding and predicting changes in the price of Bitcoin you're ready to begin .
 
