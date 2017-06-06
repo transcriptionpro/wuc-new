@@ -64,7 +64,7 @@ Major investors include:
 <li>The New York Life Insurance Company</li>
 <li>The New York Stock Exchange</li>
 </ul>
-<br/><br/>
+
 As more large companies, financial institutions and venture capitalists invest, the value of Bitcoin, or Bitcoin technology, will likely rise.
 
 Bitcoin ETFs 
@@ -142,7 +142,6 @@ Take for example:
 <li>[India's decision to ban large currency](/blockchain-use-to-allow-faster-overseas-remittance/) in an attempt to curb crime.</li>
 <li>[European isolationism and the recent US Presidential election](/rich-famous-bitcoin/) have also given world markets increasing uncertainty.</li>
 </ul>
-<br/>
 
 Many economic experts note this trend toward lack of government trust and national isolationism as a problem for the global economy. As Bitcoin is an international currency it offers a stable possible solution. 
 
@@ -169,7 +168,7 @@ If you need to understand [the role of China in impacting Bitcoin price](/ten-re
 <li>For a portion of 2016, 42 percent of all Bitcoin transactions were performed in China.</li>
 <li>Chinese internet company Baidu joined with three banks to invest in an American Bitcoin company.</li>
 </ul>
-<br/>
+
 Some critics fear that this level of concentration in China dilutes the currency's ability to act in a truly international way. Others see heavy Chinese investments and interest as a sign of stability.
 
 But in the world economy, the fact that there is so much uncertainty has led some experts to believe a more stable, international solution is preferable. 
