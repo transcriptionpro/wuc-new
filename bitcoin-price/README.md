@@ -138,9 +138,9 @@ In addition, the instability of global markets and politics can have a major imp
 Take for example: 
 
 <ul>
-<li>The volatile economic climate in Venezuela where the [government actually outlawed its own currency in 2016](/fintech-will-be-merged-sooner-than-we-think-bitcoin-etf/).</li>
-<li>[India's decision to ban large currency](/blockchain-use-to-allow-faster-overseas-remittance/) in an attempt to curb crime.</li>
-<li>[European isolationism and the recent US Presidential election](/rich-famous-bitcoin/) have also given world markets increasing uncertainty.</li>
+<li>The volatile economic climate in Venezuela where the <a href="/fintech-will-be-merged-sooner-than-we-think-bitcoin-etf/">government actually outlawed its own currency in 2016</a>.</li>
+<li><a href="/blockchain-use-to-allow-faster-overseas-remittance/">India's decision to ban large currency</a> in an attempt to curb crime.</li>
+<li><a href="/rich-famous-bitcoin/">European isolationism and the recent US Presidential election</a> have also given world markets increasing uncertainty.</li>
 </ul>
 
 Many economic experts note this trend toward lack of government trust and national isolationism as a problem for the global economy. As Bitcoin is an international currency it offers a stable possible solution. 
