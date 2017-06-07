@@ -114,8 +114,8 @@ Alternative platforms include:
 <li><strong>Paxful</strong> - Paxful is an emerging exchange and conversion option which hasn't been quite proven now. The process is like others in which you create an account, select your payment options, seller, and then exchange money for <li>Bitcoin using the Paypal account. Paxful uses an escrow account to provide buyer protection. It's quick and easy but isn't quite established as the other options.</li>
 <li><strong>E-Coin</strong> - A new account/card can be accessed to buy via Paypal by connecting a debit card to the PP account and processing verification. A basic balance of $3 is required. E-coin will provide a 4-digit code which will allow you to withdraw funds from the account. Once money has been transferred -- it's a matter of using the 'Buy Bitcoin' option. This may take up to several business days to complete.</li>
 <li><strong>Personal</strong> - A local Bitcoin exchange may be the best option since you are able to feel the person in a face-to-face manner. Meetup.com and other forums centered around Bitcoin and cryptocurrency will provide you with information about users and the gatherings. Here you could exchange cash or through Paypal to start transfers. Viable options as long as you understand the locals.</li>
-<li><strong>LocalBitcoins</strong> - Think of LocalBitcoins as doing the local meetup but in a virtual setting. Here you're almost completely on your own. You have to vet the individual to find credible sellers. </li>
 <li><strong>Cryptonit</strong> - This service offers low fees which start as a great contender to VirWox. There are buyer protections through the service because of verification through ID's and addresses which may off-put certain individuals that aim for privacy in their use of cryptocurrency. Turn around is quick (12 hours) while the platform easy-to-use.</li>
+<li><strong>LocalBitcoins</strong> - Think of LocalBitcoins as doing the local meetup but in a virtual setting. Here you're almost completely on your own. You have to vet the individual to find credible sellers. </li>
 </ul>
 
 <p>Keep your eyes peeled for new, up-and-coming platforms but DO take the time to read reviews, research, and vet these services before jumping head first into them to be on the safe side.
@@ -128,7 +128,7 @@ Protect your Bitcoin wallet with your life.
 
 You have the ability to store your wallet on your personal computer or use online wallet services. The personal route is often best as long as you're careful with the hardware and avoiding troublesome software which may hijack your efforts and hard-earned finances.
 
-There are many <a href="/where-and-how-to-purchase-sell-btc-instantly-with-cash/">different ways to buy Bitcoins</a>.
+<p>There are many <a href="/where-and-how-to-purchase-sell-btc-instantly-with-cash/">different ways to buy Bitcoins</a>.
 
 Paypal in tandem with VirWox is one of the easiest for those already accustomed to using the payment processing service.
 
