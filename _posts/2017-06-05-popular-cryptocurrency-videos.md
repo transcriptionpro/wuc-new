@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Post
+title: Popular Cryptocurrency Videos
 author: WeUseCoins
 authorurl: /
 published: true
