@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - The Nightmare of a 51 Percent Attack - Part 1 - Calculating the Costs
 description: Video - Bitcoin 101 - The Nightmare of a 51 Percent Attack - Part 1 - Calculating the Costs
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
