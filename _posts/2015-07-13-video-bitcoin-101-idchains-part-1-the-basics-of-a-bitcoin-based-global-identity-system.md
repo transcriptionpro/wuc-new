@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - idchains - Part 1 - The Basics Of A Bitcoin-Based Global Identity System
 description: Video - Bitcoin 101 - idchains - Part 1 - The Basics Of A Bitcoin-Based Global Identity System
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
