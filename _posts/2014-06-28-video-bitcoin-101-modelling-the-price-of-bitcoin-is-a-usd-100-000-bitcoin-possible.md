@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - Modelling the Price of Bitcoin - Is a USD 100,000 bitcoin possible?
 description: Video - Bitcoin 101 - Modelling the Price of Bitcoin - Is a USD 100,000 bitcoin possible?
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
