@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - Understanding Bitcoin pt. 1 of 3 - A Beginners Guide With Help from Wikipedia
 description: Video - Bitcoin 101 - Understanding Bitcoin pt. 1 of 3 - A Beginners Guide With Help from Wikipedia
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
