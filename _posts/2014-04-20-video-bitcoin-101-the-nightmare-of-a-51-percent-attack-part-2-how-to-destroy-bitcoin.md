@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - The Nightmare of a 51 Percent Attack - Part 2 - How to Destroy Bitcoin
 description: Video - Bitcoin 101 - The Nightmare of a 51 Percent Attack - Part 2 - How to Destroy Bitcoin
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
