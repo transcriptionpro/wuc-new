@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - How To Buy Get Your First Bitcoins
 description: Video - Bitcoin 101 - How To Buy Get Your First Bitcoins
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
