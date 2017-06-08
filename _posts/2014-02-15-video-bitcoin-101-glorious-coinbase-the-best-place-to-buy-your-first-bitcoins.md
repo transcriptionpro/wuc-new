@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - Glorious Coinbase - The Best Place to Buy Your First Bitcoins
 description: Video - Bitcoin 101 - Glorious Coinbase - The Best Place to Buy Your First Bitcoins
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
