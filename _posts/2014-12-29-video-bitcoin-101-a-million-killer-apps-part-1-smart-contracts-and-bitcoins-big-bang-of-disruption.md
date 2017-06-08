@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - A Million Killer Apps - Part 1 - Smart Contracts And Bitcoins Big Bang of Disruption
 description: Video - Bitcoin 101 - A Million Killer Apps - Part 1 - Smart Contracts And Bitcoins Big Bang of Disruption
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
