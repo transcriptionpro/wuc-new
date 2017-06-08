@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - Why Bitcoins Growth is Normal And The S-Curves You Could Never See
 description: Video - Bitcoin 101 - Why Bitcoins Growth is Normal And The S-Curves You Could Never See
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
