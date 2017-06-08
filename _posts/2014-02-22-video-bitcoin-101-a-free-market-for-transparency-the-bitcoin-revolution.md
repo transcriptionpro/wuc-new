@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - A Free Market for Transparency The Bitcoin Revolution
 description: Video - Bitcoin 101 - A Free Market for Transparency The Bitcoin Revolution
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
