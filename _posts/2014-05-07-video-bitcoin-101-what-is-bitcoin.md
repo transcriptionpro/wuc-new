@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - What is Bitcoin?
 description: Video - Bitcoin 101 - What is Bitcoin?
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
