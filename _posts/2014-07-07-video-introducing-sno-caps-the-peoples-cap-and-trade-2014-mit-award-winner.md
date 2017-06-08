@@ -2,8 +2,8 @@
 layout: post
 title: Video - Introducing Sno-Caps - The Peoples Cap-And-Trade 2014 MIT Award Winner
 description: Video - Introducing Sno-Caps - The Peoples Cap-And-Trade 2014 MIT Award Winner
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
