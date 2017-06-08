@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin Nodes vs. Noses - An Axiom For Discussing Bitcoins Scaling And Centralization Problem
 description: Video - Bitcoin Nodes vs. Noses - An Axiom For Discussing Bitcoins Scaling And Centralization Problem
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
