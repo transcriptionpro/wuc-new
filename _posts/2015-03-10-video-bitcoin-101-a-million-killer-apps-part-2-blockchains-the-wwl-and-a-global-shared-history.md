@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - A Million Killer Apps - Part 2 - Blockchains, The WWL And A Global Shared History
 description: Video - Bitcoin 101 - A Million Killer Apps - Part 2 - Blockchains, The WWL And A Global Shared History
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
