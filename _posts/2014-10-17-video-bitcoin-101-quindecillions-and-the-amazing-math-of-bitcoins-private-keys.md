@@ -2,8 +2,8 @@
 layout: post
 title: Video - Bitcoin 101 - Quindecillions And The Amazing Math Of Bitcoins Private Keys
 description: Video - Bitcoin 101 - Quindecillions And The Amazing Math Of Bitcoins Private Keys
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: James DeAngelo
+authorurl: /james-deangelo/
 published: true
 ---
 
