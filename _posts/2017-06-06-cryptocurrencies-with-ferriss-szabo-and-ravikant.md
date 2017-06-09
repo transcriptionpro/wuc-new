@@ -2,12 +2,12 @@
 layout: post
 title: Cryptocurrencies With Ferriss, Szabo and Ravikant
 description: Cryptocurrencies With Ferriss, Szabo and Ravikant
-author: 
+author: Nick Szabo
 authorurl: 
 published: true
 ---
 
-<p>The following is a transcript from Episode 244 of the <strong>Tim Ferriss Show</strong>: The Quiet <a href="/bitcoin-changetip/">Master of Cryptocurrency</a> with supporting documents and diagrams added to improve the learning experience. It was created using our Podcast to Blog tool. The affiliate links were changed to Tim’s to support his content. Manual changes were made for clarity where multiple people were talking at the same time. Many niche words in the crypto realm weren’t transcribed correctly and had to be manually corrected.</p>
+<p>The following is a transcript from <a href="http://traffic.libsyn.com/timferriss/The_Tim_Ferriss_Show_-_Nick_Szabo.mp3">Episode 244</a> of the <strong>Tim Ferriss Show</strong>: The Quiet <a href="http://tim.blog/2017/06/04/nick-szabo/">Master of Cryptocurrency</a> with supporting documents and diagrams added to improve the learning experience. It was created using our Podcast to Blog tool. The affiliate links were changed to Tim’s to support his content. Manual changes were made for clarity where multiple people were talking at the same time. Many niche words in the crypto realm weren’t transcribed correctly and had to be manually corrected.</p>
 
 <center><img src="/images/ethereum-market-cap.png" alt="ethereum market cap" /></center>
 
