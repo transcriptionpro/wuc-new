@@ -319,8 +319,6 @@ published: true
 
 <p>So I’m going to give you a dime and a nickel back and the soda you selected. So you can think of writing this in a contract tediously that you know if if the party of the first puts in a quarter you know the party of the second it will get them back. But of course you want to do this in a machine or I guess so ….</p>
 
-<center><img src="/images/scale-of-smart-contracts.png" alt="Scale of Smart Contracts" /></center>
-
 <p><strong>Naval:</strong> Don’t give the lawyers any ideas.</p>
 
 <p><strong>Nick:</strong> It’s verifying a performance on the one hand somebody else observing that somebody did their payment or are there other performance. Of a contractual deal on the other hand its automating and performance it’s expensing dispensing the goods. So that was kind of the two basic things smart contracts can do. They verify somebody’s performance and they automate performance. </p>
@@ -561,7 +559,7 @@ published: true
 
 <p>Trusted third parties are security holes.</p>
 
-<center><img src="/images/trusted third parties tweet.png" alt="trusted-third parties tweet" /></center>
+<center><img src="/images/trusted-third-parties-tweet.png" alt="trusted-third parties tweet" /></center>
 
 <p>Now I think relates to this very nicely. And there is a bit on block chain computers and I think is relevant so why. Why make the tradeoff. Why allow all of this inefficiency. And I’m not going to read this entire thing but it’s the block chain computer that’s distributed block chain computers much slower more costly than a web server. </p>
 
@@ -1290,3 +1288,5 @@ published: true
 <p><strong>Naval:</strong> Thank you for having us. Fantastic. And everybody listening.</p>
 
 <p>We will have show notes links to everything we mentioned. Nick’s blog books as many resources as we can think up probably cryptocurrency 101 a handful of articles will recommend in sequence as well in the show notes you can find those at Tim blog at forward slash podcast. And that will take you to join us for every other episode as well. And until next time. As always thank you for listening.</p>
+
+
