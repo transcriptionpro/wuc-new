@@ -7,15 +7,15 @@ authorurl:
 published: true
 ---
 
-<p>The following is a transcript from Episode 244 of the Tim Ferriss Show: The Quiet <a href="/bitcoin-changetip/">Master of Cryptocurrency</a> with supporting documents and diagrams added to improve the learning experience. It was created using our Podcast to Blog tool. The affiliate links were changed to Tim’s to support his content. Manual changes were made for clarity where multiple people were talking at the same time. Many niche words in the crypto realm weren’t transcribed correctly and had to be manually corrected.</p>
+<p>The following is a transcript from Episode 244 of the <strong>Tim Ferriss Show</strong>: The Quiet <a href="/bitcoin-changetip/">Master of Cryptocurrency</a> with supporting documents and diagrams added to improve the learning experience. It was created using our Podcast to Blog tool. The affiliate links were changed to Tim’s to support his content. Manual changes were made for clarity where multiple people were talking at the same time. Many niche words in the crypto realm weren’t transcribed correctly and had to be manually corrected.</p>
 
-<img src="/images/ethereum-market-cap.png" alt="ethereum market cap" />
+<center><img src="/images/ethereum-market-cap.png" alt="ethereum market cap" /></center>
 
 <p>Tim Ferriss boys and girls.</p>
 
 <p>This is Tim Ferriss and welcome to another episode of the Tim Ferriss show where it is always my job to tease out the habits routines philosophies favorite books etc. from world class performers so that you can test each of those in your own life and guests range from say those in business sports military all the way to the esoteric and sometimes very unexpected. And this guest checks a lot of boxes. His name is Nick Szabo.</p>
 
-<img src="/images/nick-szabo-photo.png" alt="nick szabo photo" />
+<center><img src="/images/nick-szabo-photo.png" alt="nick szabo photo" /></center>
 
 <p>That’s S-Z-A-B-O. So many of you may not recognize his name but hopefully by the end you’ll want to know everything that he puts out and read every essay that he puts on the Internet. He is a polymath. The breadth and depth of his interests and knowledge are truly astounding and I mean jaw dropping. It’s just beyond belief what this guy can cover. </p>
 
@@ -23,13 +23,13 @@ published: true
 
 <p>Nick for instance developed the phrase and concept of smart contracts with the goal of bringing what he calls the highly evolved practice’s of contract law and practice to the design of electronic commerce protocols between strangers on the internet.</p>
 
-<img src="/images/concept-of-smart-contracts.png" alt="concept of smart contracts" />
+<center><img src="/images/concept-of-smart-contracts.png" alt="concept of smart contracts" /></center>
 
 <p>Nick also designed bit gold which many consider the precursor to bitcoin. This particular conversation is co-hosted by one of my favorite people Naval Ravikant a mutual friend and one of the most successful investors in Silicon Valley who also happens to be one of Nick’s biggest admirers.</p>
 
-<img src="/images/naval-ravikant-photo.png" alt="naval ravikant photo" />
+<center><img src="/images/naval-ravikant-photo.png" alt="naval ravikant photo" /></center>
 
-<img src="/images/nick-szabo-invenstments.png" alt="nick szabo invenstments" />
+<center><img src="/images/nick-szabo-invenstments.png" alt="nick szabo invenstments" /></center>
 
 <p>And for those who enjoy Naval here you may also enjoy his first episode with me from 2015 which was voted on product hunt the second best podcast episode of the year across all podcasts with the exception of my Jamie Foxx episode.</p>
 
@@ -57,13 +57,13 @@ published: true
 
 <p><strong>Naval:</strong> Yeah like most of my close relationships these days I formed them on Twitter.</p>
 
-<img src="/images/naval-ravikant-tweet.png" alt="naval ravikant tweet" />
+<center><img src="/images/naval-ravikant-tweet.png" alt="naval ravikant tweet" /></center>
 
 <p>And I think of Twitter as the place where I go to to have a great conversation when I can’t have one locally which seems to be all the time and the more time that I spend on Twitter the more I sort of curate this incredible group of very intelligent people that I just get to know purely through the quality of their thoughts. And so I think when I was getting into <a href="/bitcoin-charity/">cryptocurrencies and blockchains</a> doing my homework on it I stumbled across a blog called unenumerated and maybe Nick can go into it the origins of that word are.</p>
 
 <p>But it was obviously written by a polymath someone who wrote about everything I got into the blog and then I started following the author which was Nick on Twitter retweeted a few tweets and got into little bite size 160 character conversations and here we are.</p>
 
-<img src="/images/naval-ravikant-tweets.png" alt="naval ravikant tweets" />
+<center><img src="/images/naval-ravikant-tweets.png" alt="naval ravikant tweets" /></center>
 
 <p><strong>Tim:</strong> How is that relationship developed. In other words how are we here today. And you could take a stab at that. Yeah Nick’s going to do plenty of talking And certainly have him chime in. But if you want to if you want to lead us to how we ended up here today.</p>
 
@@ -77,15 +77,15 @@ published: true
 
 <p><strong>Tim:</strong> Nick could you maybe help us with some definitions. Cryptocurrency there are a number of other words they’re going to come up a lot and these are words that. I feel at many dinner parties in say Silicon Valley. People will not ask about because they’re afraid they’re the only ones at the table who don’t actually know how to define it. Since I can’t play the part of knowing what I don’t know in this case what is cryptocurrency And how did you become interested in it or start thinking about it.</p>
 
-<img src="/images/cryptocurrency-word-meaning.png" alt="cryptocurrency word meaning" />
+<center><img src="/images/cryptocurrency-word-meaning.png" alt="cryptocurrency word meaning" /></center>
 
 <p><strong>Nick:</strong> Cryptocurrency as the name suggests it’s protected by cryptography and in particular the modern cryptocurrency like Bitcoin and Ethereum so forth are protected by their integrity is protected by cryptography a structure called a Merkle Tree that you can think of it as a fly getting trapped in amber.</p>
 
-<img src="/images/dr-ian-malcom.png" alt="dr ian malcom" />
+<center><img src="/images/dr-ian-malcom.png" alt="dr ian malcom" /></center>
 
 <p>You say I shot JFK and then put it through this process of the Merkle Tree putting it on the block chain. Then it’s there you can’t. And you’ve signed it with your with your private key then you can’t later deny. Oh I didn’t say that. That allows you to like make a statement. You know I’m paying such and such amount of Bitcoin to somebody else and then put it there. After a few cycles called block times which takes about 10 minutes each gets exponentially more difficult to deny or take back that that this transaction took place.</p>
 
-<img src="/images/binary-merkle-tree.png" alt="binary merkle tree" />
+<center><img src="/images/binary-merkle-tree.png" alt="binary merkle tree" /></center>
 
 <p><strong>Tim:</strong> How did you first begin thinking about this. These types of constructs or. Any of this really. Where did the interests begin?</p>
 
@@ -101,17 +101,17 @@ published: true
 
 <p><strong>Naval:</strong> Yeah I would say it’s like basically keeping secrets through mathematics. And there are many many breakthroughs that enable crypto currencies. But one of the key things to <a href="/book-of-satoshi-review/">understand in cryptography</a> is this concept of one way encoding one way hash functions. Basically I can take some data run it through a mathematical transformation and what comes out of the other side is really hard to undo it’s really hard to work backwards. It’s kind of a one way thing.</p>
 
-<img src="/images/cryptographic-hash-function-diagram.png" alt="cryptographic hash function diagram" />
+<center><img src="/images/cryptographic-hash-function-diagram.png" alt="cryptographic hash function diagram" /></center>
 
 <p><strong>Tim:</strong> So is when people send encrypted email through say PGP or something. Yeah. Is that an example of that.</p>
 
-<img src="/images/pgp-encryption.png" alt="pgp encryption" />
+<center><img src="/images/pgp-encryption.png" alt="pgp encryption" /></center>
 
 <p><strong>Naval:</strong> Basically what I’ve done in the old days if I was encrypting something we would both have the same key. Right. And so I would have a key that I would take your key, I would encrypt with your key send it to you. You have the key you can decrypt with a key but the problem is how do I figure out what your key is how to figure out how to encrypt it and because your key can both encrypt and decrypt. </p>
 
 <p>So if I had a hold of your key then I could open the message. So was very unsafe to transmit that key. And so one of the innovations that came along with this idea of splitting the key into a public key and a private key so private keys what you hold onto that can decrypt and encrypt stuff your public key on the other hand other people can encrypt to it for you but they can’t use it.</p>
 
-<img src="/images/diffie-hellman-key-exchange-diagram.png" alt="Diffie-Hellman Key Exchange Diagram" />
+<center><img src="/images/diffie-hellman-key-exchange-diagram.png" alt="Diffie-Hellman Key Exchange Diagram" /></center>
 
 <p><strong>Tim:</strong> I got it write only it’s a write only</p>
 
@@ -125,7 +125,7 @@ published: true
 
 <p>Right because before this computer is kind of untrusted. Like if I send you money from my computer to your computer we’re really relying on Visa and the banks and a bunch of intermediaries to actually say yes the money got to you and the money is no longer mine.</p>
 
-<img src="/images/old-vs-new.png" alt="Old vs New" />
+<center><img src="/images/old-vs-new.png" alt="Old vs New" /></center>
 
 <p>But computers don’t like to operate like that computers you know computer code especially stuff that’s running in the cloud on its own shouldn’t have to rely on an off line wet space meatspace institution to enforce that kind of thing. So cryptocurrency currencies take the concept of money and they take it native into computers where everything is settled with computers and doesn’t require external institutions or trusted third parties to validate things</p>
 
@@ -141,13 +141,13 @@ published: true
 
 <p><strong>Naval:</strong> I see Nick’s earlier analogy of fly getting trapped in amber is kind of brilliant. Like if you see a fly in amber and it’s got you know a millimeter of Amber around it. Well that could have been done yesterday or you know a year ago but if you see the fly is trapped in a huge block of Amber you know it’s been there for a long long time it’s been accumulating.</p>
 
-<img src="/images/enveloped-fly-amber.png" alt="enveloped fly amber" />
+<center><img src="/images/enveloped-fly-amber.png" alt="enveloped fly amber" /></center>
 
 <p>So a block chain is a series of blocks. Each block is a series of computations done by computers all over the world using serious cryptography in a way that’s very hard to undo.</p>
 
 <p>So each block is like another thin layer of Amber. I see. And the chain of blocks represents the depth of that Amber or how long that fly has been trapped in and therefore how you can trust that on a signal anything deep down in the blockchain is mathematically cryptographically and just economically impossible to undo.</p>
 
-<img src="/images/diagram-of-ethereum-blockchain.png" alt="Diagram of Ethereum Blockchain" />
+<center><img src="/images/diagram-of-ethereum-blockchain.png" alt="Diagram of Ethereum Blockchain" /></center>
 
 <p><strong>Tim:</strong> Got it. OK.</p>
 
@@ -169,7 +169,7 @@ published: true
 
 <p>So the euro Indians for example use shells too and they would have tattoo marks on their arm. There are serious about their shells they would have tattoo marks on their arm to measure the length of shells and that told you the denomination the value of how valuable that shell was which corresponds how scarce it was in nature. And they would use these for inheritance for injury compensation for bride wealth and so forth.</p>
 
-<img src="/images/collectible-continuum.png" alt="collectible continuum" />
+<center><img src="/images/collectible-continuum.png" alt="collectible continuum" /></center>
 
 <p><strong>Naval Ravikant:</strong> Yes it sounds like you know. So I think that the common theory is that humans have only been using money for a few thousand years. But I think some of the work you’ve done on origins of money shows that actually it’s hundred thousand years.</p>
 
@@ -177,7 +177,7 @@ published: true
 
 <p>Why people do something so frivolous as you know adorn themselves with shell necklaces. Yet those are among the most common artifacts right up there with axes practical axes that you use to cut things in the archaeological record.</p>
 
-<img src="/images/thumb-to-shoulder.png" alt="thumb to shoulder" />
+<center><img src="/images/thumb-to-shoulder.png" alt="thumb to shoulder" /></center>
 
 <p><strong>Naval:</strong> Yeah. So I mean the money thing like I’ve also tried to wrap my head around this. And as Nick said economists would say it’s a medium of exchange as the historical record shows it’s a store of value. So even if you’re not exchanging it you just want to store value. You may not want to store bread or rocks or houses so you store…</p>
 
@@ -199,13 +199,13 @@ published: true
 
 <p><strong>Naval:</strong> And this may seem a little bubbly which is as you kind of say well it’s only money because everyone believed this money But one definition I really liked of money is money is the bubble that never pops.</p>
 
-<img src="/images/non-bitcoin-tokens.png" alt="non-Bitcoin tokens" />
+<center><img src="/images/non-bitcoin-tokens.png" alt="non-Bitcoin tokens" /></center>
 
 <p>So if we had if if the tulip bubble had never popped we’d probably be dealing in tulips today. Now pop for fairly good reasons which has to make for lousy money that are hard to store or that are hard to transport they’re hard to subdivide but crypto currencies actually are the exact opposite end of that scale. They are easier to store easy to transport easier to subdivide cheaper in many ways and more defensible than almost any other form of <a href="/bitcoin-documentary-review/">money or gold or commodity</a>.</p>
 
 <p><strong>Tim:</strong> Now what makes since we’re talking about money or currency what makes money valuable. I think this might be interesting to dig into for a second because you have say it at certain points in time paper pegged to gold. Right. And then reading today because it’s another word that I’ve seen a lot but aside from the car company I was not sure what Fiat really meant.</p>
 
-<img src="/images/commodity-money.png" alt="commodity money" />
+<center><img src="/images/commodity-money.png" alt="commodity money" /></center>
 
 <p>So if we’re talking about don’t even know they’re even around anymore. What distinguishes say cryptocurrency or makes cryptocurrency valuable. Is it the rarity? What are the factors that determine that?</p>
 
@@ -265,7 +265,7 @@ published: true
 
 <p>Now the problem is who maintains the sanctity of that ledger. Can you just forge that Ledger. So historically the central bank would maintain the sanctity of the ledger or the fact that you have a certain dollar bill with the serial number and it maintains the sanctity of the ledger. But now Bitcoin has the craziest answer you can imagine. But it turns out to work which is everybody has a copy of the ledger.</p>
 
-<img src="/images/reachable-bitcoin-nodes.png" alt="Reachable Bitcoin Nodes" />
+<center><img src="/images/reachable-bitcoin-nodes.png" alt="Reachable Bitcoin Nodes" /></center>
 
 <p>So every one of the bitcoin network who is running a node keeps a copy of the ledgers from the dawn of Bitcoin till now. And that is a testament to the computing power and memory that we have available in modern computers that people can do this at home. You can run a full Bitcoin node where you keep a copy of every <a href="/what-are-sidechains/">single bitcoin transaction</a> from the dawn of time till now. </p>
 
@@ -275,7 +275,7 @@ published: true
 
 <p>So like you can think of signature authority in office where multiple people have to sign off on something you can set up your bitcoin to do that using one of these smart contracts when these pieces of code replicated.</p>
 
-<img src="/images/smart-contracts.png" alt="smart contracts" />
+<center><img src="/images/smart-contracts.png" alt="smart contracts" /></center>
 
 <p><strong>Tim:</strong> Might be taken back or taken us ahead or neither.</p>
 
@@ -319,7 +319,7 @@ published: true
 
 <p>So I’m going to give you a dime and a nickel back and the soda you selected. So you can think of writing this in a contract tediously that you know if if the party of the first puts in a quarter you know the party of the second it will get them back. But of course you want to do this in a machine or I guess so ….</p>
 
-<img src="/images/scale-of-smart-contracts.png" alt="Scale of Smart Contracts" />
+<center><img src="/images/scale-of-smart-contracts.png" alt="Scale of Smart Contracts" /></center>
 
 <p><strong>Naval:</strong> Don’t give the lawyers any ideas.</p>
 
@@ -367,17 +367,17 @@ published: true
 
 <p><strong>Naval:</strong> Joel Monegro.</p>
 
-<img src="/images/joel-monegro-tweets.png" alt="Joel Monegro tweets" />
+<center><img src="/images/joel-monegro-tweets.png" alt="Joel Monegro tweets" /></center>
 
 <p><strong>Tim:</strong> There we go. And the the the before and after example that was given or one of them was you have these thin protocols HTTP et cetera and then you have these services built on top of them that become silos of information whether that’s Facebook Google whatever it might be.</p>
 
-<img src="/images/web-diagram.png" alt="Web Diagram" />
+<center><img src="/images/web-diagram.png" alt="Web Diagram" /></center>
 
 <p>And then they develop their own means of authentication and so on. So you have these captive stores of information you have security risks on top of that. And now perhaps you’re doing your banking through a web server. And conversely when you then have the and I hate to use this word but sort of the democratised data that is built into the protocol itself say in the case of Bitcoin We’re now you have all these nodes that have for the purposes of illustration every transaction start to finish. </p>
 
 <p>It’s more secure. You’re less captive and conforms to the libertarian slash Ayn Rand ideals are we talking about earlier and the illustration that was given that I thought was fascinating and may or may not hold true for for decades but was that you have protocols that are necessary but not valuable.</p>
 
-<img src="/images/blockchain-diagram.png" alt="blockchain diagram" />
+<center><img src="/images/blockchain-diagram.png" alt="blockchain diagram" /></center>
 
 <p>Right. They’re available. They’re like a utility to the public. And then you have these billion dollar multibillion dollar companies built on top of it Facebook Google etc.. Then you have conversely Bitcoin which has a market cap of X I don’t know what it is.</p>
 
@@ -387,13 +387,13 @@ published: true
 
 <p><strong>Naval:</strong> The value is getting captured by the fat protocol. Yeah I do recommend this article it’s actually Joel. So Joel Monegro that his last name wrong. But he wrote a brilliant piece on this but the thesis is that because these protocols are storing your identity and data on that on the protocol and the protocol itself the applications don’t capture you as much. You’re not stuck in the applications and the value is captured by the tokens in the protocol.</p>
 
-<img src="/images/the-fat-protocol-argument.png" alt="The Fat Protocol Argument" />
+<center><img src="/images/the-fat-protocol-argument.png" alt="The Fat Protocol Argument" /></center>
 
 <p><strong>Tim:</strong> Does that mean this is this is just putting on the investor hat for a second that people are going to be incentivized to just create more and more different types of cryptocurrency and then Reserve to try to capture..</p>
 
 <p><strong>Naval:</strong> That is exactly what’s happening. So I wrote a post on this called the Bitcoin model for crowdfunding and this is a couple of years back. And I thought these things called app coins would show up but for every application rather than going and raising VC money you attach a token to it and you crowdfunded. And that’s kind of what’s happening now with what they call ICOs initial coin offerings. And there have been hundreds and hundreds of these and you know it’s a little bubbly.</p>
 
-<img src="/images/website-for-tracking-icos.png" alt="Website for tracking ICOs" />
+<center><img src="/images/website-for-tracking-icos.png" alt="Website for tracking ICOs" /></center>
 
 <p>In fact it’s very bubbly a lot of them getting bid up out of control. Some of it comes from the fact that a few of these protocols do need their own token. They can’t use bitcoin but most of the times it’s really just the developers have an incentive to create a token bolted on and try and capture the value. But it’s a it’s an interesting model for funding open source software and protocols that didn’t really exist before.</p>
 
@@ -423,7 +423,7 @@ published: true
 
 <p>Then there’s only a few thousand large players then down to 5 people who can store the entire history. Then you’re basically back to central banks.</p>
 
-<img src="/images/block-is-increasing.png" alt="block is increasing" />
+<center><img src="/images/block-is-increasing.png" alt="block is increasing" /></center>
 
 <p>So the debate is should we keep allowing more and more transactions. Because what if everyone wants to buy a Starbucks using Bitcoin. Or should be only limited to very high value transactions and instead preserve the diversity of people who can who can run the code.</p>
 
@@ -433,13 +433,13 @@ published: true
 
 <p>Nick had this great tweet that I liked the best way to destroy your investment in Bitcoin is to gather an Internet mob to go and redesign Bitcoin. Right. And that’s a little bit of what’s happening right now.</p>
 
-<img src="/images/redesign-bitcoin.png" alt="redesign bitcoin" />
+<center><img src="/images/redesign-bitcoin.png" alt="redesign bitcoin" /></center>
 
 <p><strong>Tim:</strong> Well you were saying you know before we start recording that a lot of you’ve you’ve never seen so many scientists be uncivil towards one another.</p>
 
 <p><strong>Naval:</strong> Yeah I think the worst Twitter is Trump Twitter everyone’s getting outraged over politics all the time.</p>
 
-<img src="/images/pow-based-tweet" alt="pow based blockchain" />
+<center><img src="/images/pow-based-tweet" alt="pow based blockchain" /></center>
 
 <p>But the second worst Twitter right now is blockchain Twitter where you will have Ph.D.s from Cornell and University of Maryland all kinds of credential places literally calling each other horrific names online casting aspersions other people’s moral moral character calling them trolls dragging them through the mud. And they each have their little local tribal mob behind them over things like the blocks debate which says you know it’s actually in the parameter settings in a nuclear reactor.</p>
 
@@ -483,7 +483,7 @@ published: true
 
 <p><strong>Nick:</strong> OK so proof of work is a mathematical puzzle a computation that the computer does that says OK you have to solve this and we know from computer science it’ll take so long to solve.</p>
 
-<img src="/images/proof-of-work-system.png" alt="Proof of Work System" />
+<center><img src="/images/proof-of-work-system.png" alt="Proof of Work System" /></center>
 
 <p>But we also know from computer science that it’s it’s a kind of a problem that you can improve the hardware which is why everybody use designed specialized hardware for it. Got it now because unlike normal cryptography it’s not that it’s not even unlike normal cryptography in that way. But it’s something that you can do a lot faster if you have hardware.</p>
 
@@ -535,7 +535,7 @@ published: true
 
 <p><strong>Naval:</strong> They cited your social scalability article. And so the social skills of the argument I thought is a really powerful one I don’t know if you want to try and summarize that for the listeners.</p>
 
-<img src="/images/social-scability-tweet.png" alt="social scability tweet" />
+<center><img src="/images/social-scability-tweet.png" alt="social scability tweet" /></center>
 
 <p><strong>Nick:</strong> Sure. So the idea basic idea is that if you look at a graph of human capabilities it’s basically flat were the same IQs we had you know. So there’s a small thing called the Flynn effect but other than that you know a hundred thousand years ago our brains were roughly the same size they are today and computers on the other hand have been you know doubling every few years or capabilities in various ways their memory their CPU power network bandwidth and so forth and so and you can think of this in the future and get into all sorts of speculation about the future.</p>
 
@@ -561,7 +561,7 @@ published: true
 
 <p>Trusted third parties are security holes.</p>
 
-<img src="/images/trusted third parties tweet.png" alt="trusted-third parties tweet" />
+<center><img src="/images/trusted third parties tweet.png" alt="trusted-third parties tweet" /></center>
 
 <p>Now I think relates to this very nicely. And there is a bit on block chain computers and I think is relevant so why. Why make the tradeoff. Why allow all of this inefficiency. And I’m not going to read this entire thing but it’s the block chain computer that’s distributed block chain computers much slower more costly than a web server. </p>
 
@@ -593,11 +593,11 @@ published: true
 
 <p>Ask Kim Dotcom for violating copyright law even if you’ve never set foot in the U.S. is such an understated lifestyle.</p>
 
-<img src="/images/kim-dotcom-poses.png" alt="Kim Dotcom Poses" />
+<center><img src="/images/kim-dotcom-poses.png" alt="Kim Dotcom Poses" /></center>
 
 <p>So it was so subtle I don’t know how they caught on to him. Yes.</p>
 
-<img src="/images/kim-dotcom-tweet.png" alt="kim dotcom tweet" />
+<center><img src="/images/kim-dotcom-tweet.png" alt="kim dotcom tweet" /></center>
 
 <p>So I don’t I don’t think governments can really shut it down. Not only that but any government that really embraces Bitcoin or any of these cryptocurrency doesn’t have to be bitcoin they could even kind of start up a new one if they wanted to. Is this going to benefit so much from really owning the money that’s native to the Internet. You know I called Bitcoin the Internet of money because it’s it’s really native to how code works. </p>
 
@@ -671,7 +671,7 @@ published: true
 
 <p><strong>Nick:</strong> And another thing that makes it risky is that it’s a newer it’s it’s not much more advanced than where in terms of its maturity and getting out all the bugs and stuff as Bitcoin was when people were paying 10000 bitcoin for a pizza. And yet what’s the Ethereum market cap now.</p>
 
-<img src="/images/ethereum-market-cap-02.png" alt="ethereum market cap" />
+<center><img src="/images/ethereum-market-cap-02.png" alt="ethereum market cap" /></center>
 
 <p><strong>Naval:</strong> I mean is this crossed like eight or nine billion today. Yes. The money caps are fuzzy because if you calculate a properly based on the future issuance of the coin it might actually be approaching its market cap and might be in the $20 billion range. Once you take inflation into account.</p>
 
@@ -727,7 +727,7 @@ published: true
 
 <p><strong>Tim:</strong> What was that name again? Vitalik Buterin.</p>
 
-<img src="/images/ethereum-research-tweet.png" alt="ethereum research tweet" />
+<center><img src="/images/ethereum-research-tweet.png" alt="ethereum research tweet" /></center>
 
 <p><strong>Naval:</strong> He’s a guy who created he’s the lead developer on Ethereum. Is actually interesting the young prodigy. Probably like 20 or 21 now started when he was 18. Absolutely brilliant.</p>
 
@@ -749,7 +749,7 @@ published: true
 
 <p>So that is a process and eventually you’ll be able to use bitcoin without knowing anything about it’s like you can use US dollars without knowing how the Federal Open Reserve Open Market Committee works and you know does the lending and issues Treasury bills and all that stuff.</p>
 
-<img src="/images/open-market-committe.png" alt="open market committe" />
+<center><img src="/images/open-market-committe.png" alt="open market committe" /></center>
 
 <p>There’s only a few geeks who need to know that in the world of finance and you can just use money like it’s money.</p>
 
@@ -947,7 +947,7 @@ published: true
 
 <p><strong>Nick:</strong> Sure that comes from Law school so last law school that is a very different way of thinking and that you need to take you know both the defendants and the plaintiffs side of the issue both sides of the issue and run down the arguments as if each one of them is true they contradict each other of course or at least the conclusions and some of the sub-arguments contradict each other. And so I compare this to Schroedinger’s cat maybe it’s alive maybe it’s that maybe the defendant is guilty maybe…</p>
 
-<img src="/images/schrodingers-cat.png" alt="schrodingers cat" />
+<center><img src="/images/schrodingers-cat.png" alt="schrodingers cat" /></center>
 
 <p><strong>Tim:</strong> The cat in the box…</p>
 
@@ -1105,7 +1105,7 @@ published: true
 
 <p>But the future you’re going to face these physics limits you know limits on the heat that your circuits give out. They turn into toasters and so forth. So yeah and it’s the limits set by quantum mechanics and we’re we’ve reached that in some. I don’t think Moore’s Law really applies to transistors necessarily anymore. The original Moore’s Law of the number of transistor that’s already…</p>
 
-<img src="/images/moores-law.png" alt="moores law" />
+<center><img src="/images/moores-law.png" alt="moores law" /></center>
 
 <p><strong>Naval:</strong> You the physical limits of how far transistors can go. Then there’s the question of transistors in the right medium like maybe to exhibit our kind of variation of specialized intelligence. It needs to be on wetware like it needs to be on tissue and we have not yet gotten the growing brain tissue and then programming it. That’s a long ways off. And then you have deal with the fact that our brains evolve and our intelligence evolves in reaction to our environment and even genetic algorithms evolve in reaction to fitness functions. </p>
 
@@ -1149,7 +1149,7 @@ published: true
 
 <p>But he is serious. Like I don’t even know what I am just saying that’s here right now in this environment reacting to the inputs from the environment according to my conditioning and I’m trying to be as unconditioned as possible. But that’s why my my Twitter my my Twitter avatar is like a sketch of a human face because it’s trying to remind me to be unconditioned.</p>
 
-<img src="/images/everyone-corrupted.png" alt="everyone corrupted" />
+<center><img src="/images/everyone-corrupted.png" alt="everyone corrupted" /></center>
 
 <p>You don’t want to be over conditioned and you don’t want to be overly strong with your identity.</p>
 
