@@ -62,6 +62,7 @@ toc:
 
 <p><h2 id="optimistic">Those optimistic towards BIP 148</h2>
 <p><a href="https://www.reddit.com/r/Bitcoin/comments/6bryvu/bitpay_show_any_shred_of_evidence_for_accusation/dhp5zhr/">Long-time Bitcoin Core developer Luke Dashjr</a>.
+<p><a href="https://twitter.com/orionwl/status/872800291233693696">Lead Maintainer of Bitcoin Core Wladimir J. van der Laan</a> has signed Bitcoin Core based wallet binaries.
 <p><a href="https://medium.com/@elombrozo/why-i-support-bip148-4b4c0a9feb4d">Long-time Bitcoin Core developer Eric Lombrozo</a>.
 <p>The infamous <a href="https://pastebin.com/Lp5Djs5R">bearwhale is in favor of BIP 148</a>.
 
