@@ -437,7 +437,7 @@ published: true
 
 <p><strong>Naval:</strong> Yeah I think the worst Twitter is Trump Twitter everyone’s getting outraged over politics all the time.</p>
 
-<center><img src="/images/pow-based-tweet" alt="pow based blockchain" /></center>
+<center><img src="/images/pow-based-tweet.png" alt="pow based blockchain" /></center>
 
 <p>But the second worst Twitter right now is blockchain Twitter where you will have Ph.D.s from Cornell and University of Maryland all kinds of credential places literally calling each other horrific names online casting aspersions other people’s moral moral character calling them trolls dragging them through the mud. And they each have their little local tribal mob behind them over things like the blocks debate which says you know it’s actually in the parameter settings in a nuclear reactor.</p>
 
