@@ -2,8 +2,8 @@
 layout: post
 title: Video - Nick Carys Keynote About Bitcoin
 description: Video - Nick Carys Keynote About Bitcoin
-author: Nicke Cary
-authorurl: /nicke-cary/
+author: Nic Cary
+authorurl: /nic-cary/
 published: true
 ---
 
