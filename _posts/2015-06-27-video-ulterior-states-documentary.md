@@ -11,6 +11,6 @@ published: true
 
 <p>In an attempt to portray the community behind the message to adopt a network, being a one-man team allowed for easier access to the subjects. The enthusiasm and commitment that saturate through the lens in many parts of the film, expose how the adopters of Bitcoin want to explore, to probe and, to show the world, something important, otherwise overlooked.</p>
 
-<center></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/yQGQXy0RIIo" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
