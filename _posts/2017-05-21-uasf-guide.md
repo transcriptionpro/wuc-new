@@ -167,6 +167,7 @@ toc:
 <li>23 May 2017 - <a href="https://twitter.com/Bittylicious_/status/867305106668224513">Bittylicious</a></li>
 <li>25 May 2017 - <a href="https://www.reddit.com/r/Bitcoin/comments/6dbsn8/bitfinex_will_list_bip148_chain_after_uasf/">Bitfinex</a> - one of the largest exchanges</li>
 <li>09 Jun 2017 - <a href="">BitStamp</a> - however this is hearsay</li>
+<li>16 Jun 2017 - <a href="https://bitonic.nl/en/news/138/our-position-on-scaling-proposals">BitTonic</a></li>
 </ol>
 <p><center><img src="/images/bitfinex-bip148.png"></center>
 <p><center><img src="/images/bitstamp-bip148.png"></center>
