@@ -84,5 +84,7 @@ toc:
 <p>Addresses need to have at least 100 confirmations.
 <p>Crazy Pro Tip - After an address gets 100 confirmations then restart the wallet and unlock it. Then the staking should be active for that balance.
 <p><center><img src="/images/pivx-utxo-splitter.png" alt="PIVX UTXO Splitter" /></center></p>
+<p><h3 id="roadmap">PIVX 2017 Roadmap</h3>
+<p><center><img src="/images/pivx-2017-roadmap.jpg" alt="PIVX 2017 Roadmap" /></center></p>
 <p><h3 id="dash-pivx">The DASH v. PIVX Comparision</h3>
 <p><center><img src="/images/DASH-PIVX-large.jpg" alt="DASH v. PIVX" /></center></p>
