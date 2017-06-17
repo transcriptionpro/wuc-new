@@ -15,6 +15,7 @@ toc:
   masternodes: "Masternodes"
   features: "Other Useful Features"
   staking: "Optimized PIVX Staking"
+  roadmap: "PIVX 2017 Roadmap"
   dash-pivx: The DASH v. PIVX Comparision 
 ---
 
