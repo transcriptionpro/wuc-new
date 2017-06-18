@@ -58,7 +58,7 @@ toc:
 <p>Running a masternode requires locking 10,000 PIV collateral for as long as you choose to run the masternode and allows the owner to vote on budget and development proposals.
 <p>These nodes are the backbone of the present and future services offer on the PIVX network, and as such are rewarded at a slightly higher level as compared to just staking when the number of them is at a predetermined level defined in the seesaw mechanism.
 <p><h2 id="features">Other Useful Features</h2>
-<p>People often ask why they should choose PIVX above other crypto currency, here is a short list of features that make PIVX stand out from the crowd.
+<p>People often ask why they should choose PIVX above other crypto currency, here is a short list of features that make <a href="/ultimate-guide-to-pivx/">PIVX</a> stand out from the crowd.
 <ul>
 <li><em>PIVX is an anonymous Peer-To-Peer currency.</em></li>
 <li><em>PIVX is working towards Private Instant Verified Transactions as its default transaction.</em></li>
