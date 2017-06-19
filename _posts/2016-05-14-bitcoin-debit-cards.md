@@ -46,10 +46,10 @@ toc:
 
 <p><h2 id="uquid">Uquid VISA Debit Card</h2>
 <p><center><img src="/images/uquid-debit-card.png" alt="Uquid Debit Card"/></center>
-<p>Uquid guaranteed for free access to Bitcoin, Ethereum, Litecoint, PIVX, Ripple, Monero, DASH and other 75 cryptocurrencies network.
-<p>Uquid enables users to utilise all the benefits of transfer coins into the debit card with real market price.
+<p><a href="http://geni.us/uquidcard">Uquid</a> guaranteed for free access to Bitcoin, Ethereum, Litecoint, PIVX, Ripple, Monero, DASH and other 75 cryptocurrencies network.
+<p><a href="http://geni.us/uquidcard">Uquid</a> enables users to utilise all the benefits of transfer coins into the debit card with real market price.
 <p>With guaranteed provides an easy and hassle-free. Unbanked and travellers can obtain a Visa debit card with no identification or credit check required and free delivery to 178+ countries.
-<p>Users can spend over 75 different cryptocurrencies on mobile top ups, bill payments, pharmacy and food vouchers, transportation tickets, wi-fi recharges, and PIN-less calls.
+<p><a href="http://geni.us/uquidcard">Uquid</a> users can spend over 75 different cryptocurrencies on mobile top ups, bill payments, pharmacy and food vouchers, transportation tickets, wi-fi recharges, and PIN-less calls.
 
 <p><h2 id="bitpay">BitPay VISA Debit Card</h2>
 
