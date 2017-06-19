@@ -9,6 +9,7 @@ toc:
   pivx: "PIVX"
   introduction: "Introduction"
   news: "Stay Updated On News"
+  start: "Getting Started Using PIVX"
   obfuscation: "Obfuscation"
   swifttx: "SwiftTX"
   code: "Codebase"
@@ -55,6 +56,15 @@ toc:
 <p><a href="https://github.com/PIVX-Project">PIVX Github Repo</a>
 <p><a href="https://pivx.org/proposals/">PIVX Proposals</a>
 <p><a href="https://pivx.org/governance/">PIVX Governance</a>
+<p><h2 id="start"><b>Getting Started Using PIVX</b></h2>
+<p><b>Step One</b> - Get a <a href="https://pivx.org/get-pivx/wallet/">PIVX wallet</a>.
+<p><b>Step Two</b> - Buy PIVX at an exchange like <a href="https://bittrex.com/">Bittrex</a>. 
+<p><b>Step Three</b> - Withdraw the PIVX from the exchange to your wallet.
+<p><b>Step Four</b> - Send to friends or family or spend PIVX at your favorite merchant. You can also load the <a href="http://geni.us/uquidcard">Uquid debit card via PIVX</a>.
+<p><b>Step Five</b> - 
+
+
+
 <p><h2 id="obfuscation">Obfuscation</h2>
 <p>Mixing Mechanism: In wallet coin mixing based on CoinJoin with various improvements over the original, but done in a decentralized fashion facilitated by the network of masternodes.
 <p>This provides for an additional layer of privacy in transactions, while not perfectly anonymous, it is a far cry better than the standard bitcoin transaction.
