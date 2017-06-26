@@ -7,7 +7,7 @@ authorurl: /melvin-draupnir/
 published: true
 ---
 
-<p>Sources:</a>
+<p>Sources:</p>
 <p>Money factory botches new $100 bills</p>
 <p>What is Bitcoin Mining?</p>
 <p>FULL STORY: Bitcoin</p>
