@@ -61,10 +61,7 @@ toc:
 <p><b>Step Two</b> - Buy PIVX at an exchange like <a href="https://bittrex.com/">Bittrex</a>. 
 <p><b>Step Three</b> - Withdraw the PIVX from the exchange to your wallet.
 <p><b>Step Four</b> - Send to friends or family or spend PIVX at your favorite merchant. You can also load the <a href="http://geni.us/uquidcard">Uquid debit card via PIVX</a>.
-<p><b>Step Five</b> - 
-
-
-
+<p><b>Step Five</b> - Grow the PIVX community.
 <p><h2 id="obfuscation">Obfuscation</h2>
 <p>Mixing Mechanism: In wallet coin mixing based on CoinJoin with various improvements over the original, but done in a decentralized fashion facilitated by the network of masternodes.
 <p>This provides for an additional layer of privacy in transactions, while not perfectly anonymous, it is a far cry better than the standard bitcoin transaction.
@@ -108,6 +105,7 @@ toc:
 <p>The wallet needs to be opened and unlocked while connected to the Internet; so be careful with security.
 <p>Addresses need to have at least 100 confirmations.
 <p>Crazy Pro Tip - After an address gets 100 confirmations then restart the wallet and unlock it. Then the staking should be active for that balance.
+<p>Super Crazy Pro Tip - In the Debug Console use the 'setstakesplitthreshold' command to change the default split threshold.
 <p><center><img src="/images/pivx-utxo-splitter.png" alt="PIVX UTXO Splitter" /></center></p>
 <p><h3 id="roadmap">PIVX 2017 Roadmap</h3>
 <p><center><img src="/images/pivx-2017-roadmap.jpg" alt="PIVX 2017 Roadmap" /></center></p>
