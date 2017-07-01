@@ -24,7 +24,7 @@ toc:
 <p>PIVX, Private Instant Verified Transactions, is built to ensure your store of value, transactional security, privacy and fungibility.
 <p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="pivx" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="true"></div></center>
 <p>The PIVX ecosystem has an very interesting blend of governance. Like DASH it has masternodes but it also implements Proof of Stake.
-<p>This creates some very interesting financial and economic incentives.
+<p>This creates some very interesting financial and economic incentives. PIVX can be purchased on <a href="http://geni.us/changelly">Changelly</a>.
 <p>{% include page-toc.html %}
 <p><h2 id="pivx">What is PIVX?</h2>
 <p><strong>PIVX</strong>: <strong>P</strong>rivate <strong>I</strong>nstant <strong>V</strong>erified <strong>T</strong>ransaction (<strong>X</strong>)
