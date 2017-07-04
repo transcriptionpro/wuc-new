@@ -139,6 +139,7 @@ toc:
 <li>28 May 2017 - <a href="https://twitter.com/electrumwallet/status/868845430947401729">Electrum - one of the most popular desktop wallets</a></li>
 <li>29 May 2017 - <a href="https://twitter.com/electrumwallet/status/868845430947401729">Airbitz - popular mobile wallet; guide to change node</a></li>
 <li>09 Jun 2017 - <a href="">Bitgo</a> - however this is hearsay</li>
+<li>29 May 2017 - <a href="https://twitter.com/slushcz/status/882241787062087680">Trezor - popular hardware wallet</a></li>
 </ol>
 <p>Operate an exchange and want to make sure your customer funds are safe and secure? Check out: <a href="/uasf-guide/#exchange-support">How An Exchange Supports BIP 148</a>
 
