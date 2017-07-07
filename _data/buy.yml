@@ -269,6 +269,14 @@
    logo: hardblock.png
    url: https://www.hardblock.net/
 
+############## New Zealand ##############
+
+ - exchange: Kiwi-Coin
+   description: Buy bitcoins with NZ bank transfer, instant deposit option available. The verification is required (performed by Kiwi-Coin or RealMe). Low trading fees and full API is provided.
+   countries: nz
+   logo: kiwi-coin.png
+   url: https://kiwi-coin.com/
+
 ############## South America ##############
 
  - exchange: SatoshiTango
