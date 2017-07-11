@@ -15,6 +15,6 @@ published: true
 
 <p>This is a system that will evolve, not just sit still and take the blows. After 7 years of Bitcoin, it's not because they're not trying or that they don't want to stop it.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/KUd8ZGgm6Qo?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/KUd8ZGgm6Qo?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
