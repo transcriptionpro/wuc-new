@@ -11,6 +11,6 @@ published: true
 
 <p>Until now, the determinant of success in mining was how many kilometres you were from the semiconductor fabrication lab and how fast you could hook it up to 50 megawatts of electricity. With a 2-year shelf-life, you can re-decentralize mining. Renewable energy with cycles of demand, using extra megawatt hours with low consumption that would be lost anyway to mine bitcoin. Bitcoin is a battery on a <a href="/the-regain-of-bitcoin-will-it-be-strong-enough/">virtual blockchain</a>.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/gYwc_MCC4us?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/gYwc_MCC4us?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
