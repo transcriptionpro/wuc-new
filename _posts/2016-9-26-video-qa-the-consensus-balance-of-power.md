@@ -9,7 +9,7 @@ published: true
 
 <p>In this talk, recorded at D10E in San Francisco in July 2016, Andreas discusses the architecture of power, <a href="/thirty-six-bitcoin-exchanges-stopped-their-operation/">how decentralization compares to centralization</a> and how each scales. Architecture determines how power is concentrated and has important implications for liberty.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/q6NbTB1af88?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/q6NbTB1af88?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 
