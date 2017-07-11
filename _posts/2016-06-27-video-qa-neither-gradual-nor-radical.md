@@ -11,6 +11,6 @@ published: true
 
 <p>Systems build up energy until it reaches a tipping-point event. Mainstream adoption won't be done because of a whim but because of a desperate need to escape failing systems. We don't need the acceptance or permission of the old traditional systems; people will opt-in when they are ready because these technologies are useful. "Innovation from within" with large organizations doesn't happen; most get disrupted from the outside and few survive in their original form.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/4COw6K-qrK8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/4COw6K-qrK8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
