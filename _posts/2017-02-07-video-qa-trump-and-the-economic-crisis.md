@@ -9,7 +9,7 @@ published: true
 
 <p>This talk took place on December 3rd 2016 at the <a href="/bitcoin-investor/">Coinscrum {MiniCon}</a>, hosted by Imperial College in London, England.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/GUXnj99s_Ko?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GUXnj99s_Ko?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 
