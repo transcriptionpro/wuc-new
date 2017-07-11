@@ -11,6 +11,6 @@ published: true
 
 <p>We need to see large-scale deployments of practical use, with real actors and real money at stake. Different consensus algorithms produce different characteristics and features. Proof-of-work produces thermodynamically guaranteed immutability. This is not a zero-sum game, there is plenty of room for competition and niche applications.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/6N5XlU7Iajk?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/6N5XlU7Iajk?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
