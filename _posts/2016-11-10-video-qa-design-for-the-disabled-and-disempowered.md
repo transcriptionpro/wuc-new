@@ -11,6 +11,6 @@ published: true
 
 <p>When you give the disabled power and agency, everyone else can also use that technology. Techno-utopianism. The pyramid scheme systems we have today not only don't give agency, but actively conspire to remove it from larger and larger segments of society until everyone is without agency.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/VlcHyl_rPVM?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/VlcHyl_rPVM?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
