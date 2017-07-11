@@ -11,6 +11,6 @@ published: true
 
 <p>Identity and reputation works best in small communities. They are difficult to scale without collapsing. We can scale reputation but should we or do we want to? Rigid mechanistic reputation systems don't have the the flexible human capability to forget. Scaling consensus through collaboration. The problem of control by the few.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/JTHV6PA-Dw8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/JTHV6PA-Dw8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
