@@ -11,6 +11,6 @@ published: true
 
 <p>For remittances. What is slow, expensive, and difficult today can become cheap, fast, and easy when you use one of these digital currencies. But it's still early, so learn about it. You will hear a lot about "blockchain," but most of what you will hear is not the Internet of Money - rather the Intranet of Money, where you run antiquated software in the closed little enclave of your corporate backwaters. A blockchain that is not open, public, borderless, and permissionless is not what we're talking about here.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/UbAj5o3X-sg?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/UbAj5o3X-sg?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
