@@ -9,7 +9,7 @@ published: true
 
 <p>This is part of a keynote talk which took place on October 19th 2016 during the <a href="/what-is-immutability">Bitcoin Wednesday Meetup</a> at the Eye Film Museum in Amsterdam, Netherlands.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/vPnO9ExJ50A?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/vPnO9ExJ50A?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 
