@@ -13,6 +13,6 @@ published: true
 
 <p>I'm not concerned with solving crime through attempting to control money. The organization you give the absolute power over money to, will become the criminal and punish not other criminals but their political opponents. We need to start thinking about separation of money and state, and understand that it just as important as the separation of church and state.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/jGmtRA9S7_Y?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/jGmtRA9S7_Y?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
