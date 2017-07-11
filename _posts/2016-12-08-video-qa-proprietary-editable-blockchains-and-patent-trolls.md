@@ -13,6 +13,6 @@ published: true
 
 <p>It is not a useful construct because we already have those, we already have institutional money and authoritarian systems of control and censorship. What we have now with Bitcoin is autonomy and censorship-resistance. Patenting something doesn't mean it's useful or interesting or novel.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/Pryy7n1a7UQ?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/Pryy7n1a7UQ?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
