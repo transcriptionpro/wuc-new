@@ -9,7 +9,7 @@ published: true
 
 <p>Centralized payments are a powerful force for centralization of the web, creating platforms for content and services that are centralized around a payment processor/aggregator. What happens when payments themselves become decentralized? The nexus of centralization dissolves and the content platforms can become decentralized too. In this talk presented at the Los Angeles Bitcoin Meetup, Andreas examines the <a href="/video-vision-bitcoin-future/">impact of payments and the re-decentralization of the web</a>.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/zXY5WzMqJ8s?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/zXY5WzMqJ8s?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 
