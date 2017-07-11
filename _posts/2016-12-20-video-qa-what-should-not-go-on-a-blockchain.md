@@ -9,7 +9,7 @@ published: true
 
 <p>Want to hear more about <a href="/video-bitcoin-q-and-a-fee-markets-segwit-and-scaling/">Bitcoin and open blockchains</a>?</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/shn9otsT-Pw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/shn9otsT-Pw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 
