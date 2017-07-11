@@ -11,6 +11,6 @@ published: true
 
 <p>If governments want to create national blockchains, they are engaging in boring speech that ignores the realities of borderless, open alternative that exists. If you take this technology and try to wrap it in restrictions, it is not open-innovation, open-access, censorship-resistant, or neutral -- it is business as usual. We already have digital money like that; over 92% of all money in circulation is digital and stored in someone else's database.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/qSIBFBq9tRs?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/qSIBFBq9tRs?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
