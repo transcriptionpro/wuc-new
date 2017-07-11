@@ -17,6 +17,6 @@ published: true
 
 <p>Right now it's too difficult to do those scripts, but that's an engineering problem just a few rounds of incremental innovation away. We can offer more robust, more predictable guarantees for consumer protection than any system of soft promises. There will be bugs, but you iterate through the bugs.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/R107YWu5XzU?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/R107YWu5XzU?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
