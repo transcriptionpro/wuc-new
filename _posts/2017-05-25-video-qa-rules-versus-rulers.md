@@ -14,6 +14,6 @@ published: true
 <p>That is a very dangerous thing to do in Bitcoin, and Unlimited is also an untested system of consensus. Bitcoin will be attacked eventually; maybe it's better that it's sooner rather than later. Hard-forking Bitcoin without very broad consensus will hurt investment in this space as a whole. But for those who use it as a currency, it still works whether the price is $20 or $200 or $2,000.</p>
 
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/9EEluhC9SxE?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/9EEluhC9SxE?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
