@@ -18,6 +18,6 @@ published: true
 <p>Banning technology, especially open-source technology, because criminals use it only usually affects the people who aren't criminals: the innocent and the idiots. People should be able to protect their money from predators, from corporations, from tyrannical governments.</p>
 
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/VuI-8EwqIS8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/VuI-8EwqIS8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

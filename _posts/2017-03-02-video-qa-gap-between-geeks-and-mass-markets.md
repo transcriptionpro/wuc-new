@@ -15,6 +15,6 @@ published: true
 
 <p>In 1989 it took me two hours to compile the Unix mail program in order to send an email that would take three days to cross the internet. Twenty years later, my mother replicated this experience by swiping her finger on a new iPad. When we get Bitcoin there, the mainstream will be ready to do it.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/UbAumime_sc?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/UbAumime_sc?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

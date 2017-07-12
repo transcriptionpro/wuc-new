@@ -11,6 +11,6 @@ published: true
 
 <p>It is an antiquated notion that a currency needs to be imposed on a border basis or an aggregation of states. As if the euro wasn't already bad enough, it would be a complete fascist dystopia if the EU replaced the euro with "a digital currency like bitcoin," because it is meaningless for a country to choose to use Bitcoin and they would not implement it unless it was a centralised nightmare of surveillance.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/5ogv3Eya9nQ?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/5ogv3Eya9nQ?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

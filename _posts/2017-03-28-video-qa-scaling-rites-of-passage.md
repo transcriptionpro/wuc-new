@@ -21,6 +21,6 @@ published: true
 
 <p>These are the rites of passage; you first have to grow up to face them. How many of the other blockchains are preparing for this? Not many, because they aren't paying attention. This is a fantastic experiment but it's not easy. This is a game with $20 billion at stake.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/rZi86_ovB3Y?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/rZi86_ovB3Y?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

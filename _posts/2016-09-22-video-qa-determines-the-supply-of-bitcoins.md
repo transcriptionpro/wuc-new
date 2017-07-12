@@ -11,6 +11,6 @@ published: true
 
 <p>It is meant to be sound money. The monetary policy is purposely deflationary and simulates the issuance of precious metals. In the beginning, fifty new bitcoins were created every ten minutes. Every four years, it gets cut in half. In the year 2141, bitcoin will no longer be issued, with 21 million bitcoins as the cap. <a href="/how-to-mine-bitcoins/">Bitcoin acts as a solid reserve cryptocurrency</a> while others implement different monetary policies.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/NjUw9WniOJw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/NjUw9WniOJw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

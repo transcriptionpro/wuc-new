@@ -17,6 +17,6 @@ published: true
 
 <p>They can pretend it's going away but it isn't. We can talk all day about whether the government should or shouldn't regulate Bitcoin, but the real question is whether they can. They can regulate at the edge, the behaviour of users, but they can't regulate Bitcoin itself. Bitcoin is exciting because it introduces a new choice; it's not saying you can't do the old way (hierarchical central banking, border-restricted jurisdictions for currencies ), it's saying we can also do this.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/dkXKpMku5QY?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/dkXKpMku5QY?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

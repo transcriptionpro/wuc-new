@@ -11,6 +11,6 @@ published: true
 
 <p>At some point all of that stops because everyone who already sees the value is using it and they don't listen to those stories anymore because they see that the reality is different. As these technologies become mainstream, things aren't always going to go well but over time people are going to see that it gives them better outcomes. That's going to happen in countries where the rule of law, the system of government, and the system of banking are all indistinguishable from organised crime.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/yhKIKB6cn6w?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/yhKIKB6cn6w?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

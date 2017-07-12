@@ -11,6 +11,6 @@ published: true
 
 </p>If they start finding papr wallets, people will start memorising seeds and walk across the border with remittances. Mining factories and ant miner smuggling in Venezuela. Being involved with Bitcoin in Venezuela can put you in jail. If you live in the West - you think Bitcoin is hard, that it's too difficult to enter an 8-character password with symbols? Go talk to a Venezuelan about what they go through.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/RRXecXfWARw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/RRXecXfWARw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

@@ -9,6 +9,6 @@ published: true
 
 <p>Presented in Sao Paulo, this talk by Andreas focuses on the opportunity that bitcoin brings to emerging economies like Brazil. Privacy in bitcoin will increase through stealth addresses, <a href="/video-hype-bitcoin-bubble/">confidential transactions</a>, remixers. Government transparency.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/PaNDHsix8cs?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/PaNDHsix8cs?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

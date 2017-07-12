@@ -11,6 +11,6 @@ published: true
 
 <p>Bitcoin is a decentralised system with independent actors who are guiding its evolution towards protection against systemic attacks. The well-funded opponents are essentially training Bitcoin on how to inoculate itself. It is very hard to go after a decentralised system. This talk took place on September 13th 2016 at the Silicon Valley Bitcoin Meetup in Sunnyvale, California.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/ZBuHOGufW14?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/ZBuHOGufW14?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

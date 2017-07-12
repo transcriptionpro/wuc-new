@@ -9,7 +9,7 @@ published: true
 
 <p>Intrinsic value vs intrinsic utility. <a href="/video-bitcoin-q-and-a-price-premiums-and-arbitrage/">Bitcoin's value lying</a> in it being non-physical. Systems which use money with intrinsic value end up not being very good money because it dilutes the purpose. Money is meant to be an abstraction of value, something to communicate value, rather than value itself. If the money is edible and you choose to eat it, you just had a reduction in supply. If your money is water and you have a monsoon, you just had vast inflation in supply.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/Cxc9ybot9oM?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/Cxc9ybot9oM?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 

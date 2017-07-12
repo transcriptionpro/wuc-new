@@ -11,6 +11,6 @@ published: true
 
 <p>I would love to see Zcash as a sidechain in the ecosystem, where features are borrowed and used temporarily from each system. From Zcash you can get a better degree of privacy and anonymity, then move it out into something else. We all benefit from these inventions.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/j8ILYfIm_G0?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/j8ILYfIm_G0?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

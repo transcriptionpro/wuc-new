@@ -9,6 +9,6 @@ published: true
 
 <p>Proof-of-capacity (ex. Burstcoin), <a href="/bitcoin-investor/">proof-of-storage</a> are hybrid proof-of-work algorithms in many ways. There are various forms of proof-of-resource that use different tangible resources: memory footprints, bandwidth etc.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/nkLPcg5jqRE?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/nkLPcg5jqRE?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

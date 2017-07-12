@@ -9,6 +9,6 @@ published: true
 
 <p>The ethical dimension of Bitcoin software engineering. <a href="/video-payment-security-consumer-protection/">Code setting standards</a> for societal interaction.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/SFakKzxcMaw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/SFakKzxcMaw?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

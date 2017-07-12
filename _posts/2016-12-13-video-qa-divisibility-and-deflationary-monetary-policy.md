@@ -11,6 +11,6 @@ published: true
 
 <p>Where supply is restricted, inflation is a problem, deflation is not. "Deflation" is a scary term for economists who now deal with currencies that are fractional reserve; deflation only occurs through the government, which has the authority to create an infinite supply, recession and depression. Therefore you only see it in places where there's catastrophic collapse in demand. In a market where you have deflation that is caused by improvements in efficiency, you get falling prices / cheaper goods. In a world where every other currency is printed to infinity, Bitcoin is interesting because it isn't.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/xhLgxX_wU6E?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/xhLgxX_wU6E?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

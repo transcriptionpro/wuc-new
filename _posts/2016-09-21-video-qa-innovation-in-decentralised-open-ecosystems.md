@@ -9,7 +9,7 @@ published: true
 
 <p>Centralized payments are a powerful force for <a href="/video-fermats-little-theorem/">centralization of the web</a>, creating platforms for content and services that are centralized around a payment processor/aggregator. What happens when payments themselves become decentralized? The nexus of centralization dissolves and the content platforms can become decentralized too. In this talk presented at the Los Angeles Bitcoin Meetup, Andreas examines the impact of payments and the re-decentralization of the web.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/loGWVEQ5ta8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/loGWVEQ5ta8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 

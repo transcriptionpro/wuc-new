@@ -11,6 +11,6 @@ published: true
 
 <p>The designers of the Internet wanted to survive a strategic nuclear attack and maintain connectivity between military sites; cat videos were not part of the brief and yet here we are with one billion instantly accessible cat videos indexed by artificial intelligence.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/0gqDvD0ptJ8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/0gqDvD0ptJ8?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

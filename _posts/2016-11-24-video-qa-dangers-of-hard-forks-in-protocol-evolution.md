@@ -9,7 +9,7 @@ published: true
 
 <p>Andreas M. Antonopoulos talks <a href="/financial-collateral/">about hard forks</a> and what could go wrong when it happens. He also share some technicalities on what are those things that he don't want to see in Bitcoin.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/vxEHRvhJKvA?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/vxEHRvhJKvA?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
 

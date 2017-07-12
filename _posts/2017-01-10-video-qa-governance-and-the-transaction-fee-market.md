@@ -13,6 +13,6 @@ published: true
 
 <p>No matter what capacity you create, an engineer will create an application to fill it. Fee markets help us make choices about which transactions are important. There are two ways to make choices: through authority or through a market. The market says "if the person sending the transaction thinks it's worth paying a fee, then it's a legitimate transaction." Because of this, adoption in some areas will require higher-level algorithms.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/gdknUUVOdHU?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/gdknUUVOdHU?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>

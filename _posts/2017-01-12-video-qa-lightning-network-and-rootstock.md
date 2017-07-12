@@ -15,6 +15,6 @@ published: true
 
 <p>Rootstock is an attempt to implement an Ethereum virtual machine on top of Bitcoin. It hasn't been implemented yet partly because it depends on a couple of underlying technologies like Segregated Witness and it needs some new scripting opcodes as well as the ability to soft-fork upgrade some of the scripting language.</p>
 
-<center><iframe width="854" height="480" src="https://www.youtube.com/embed/jUhe7J6-aG0?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/jUhe7J6-aG0?list=PLPQwGV1aLnTsHvzevl9BAUlfsfwFfU7aP" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>TRANSCRIPT</h2>
