@@ -7,8 +7,6 @@ author-url: /melvin-draupnir/
 published: true
 ---
 
-<h2>什么是比特币挖矿？</h2>
-
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
 
 <h2>在我们开始之前... </h2>
