@@ -49,17 +49,17 @@ Para que los bloques sigan apareciendo alrededor de cada diez minutos, la dificu
 
 <h2>Hardware de minado de bitcoins</h2>
 
-CPU
+<strong>CPU</strong>
 
 En un principio, la única forma de minar era con un CPU y esto se hacía usando el cliente original Satoshi. En la búsqueda de mayor seguridad en la red y de ganar más bitcoins, los mineros han innovado en diversos frentes y durante ya algunos años, el minar usando un CPU resulta inútil. Puedes minar durante décadas usando tu laptop sin obtener una sola moneda.
 
-GPU
+<strong>GPU</strong>
 
 Alrededor de un año y medio después del comienzo de la red, se descubrió que las tarjetas gráficas de alta gama eran mucho más eficientes a la hora de minar bitcoins lo que cambió el panorama por completo. El minado de bitcoins con CPU dio paso al minado con GPU (Unidad de Procesamiento Gráfico). La naturaleza masivamente paralela de algunos GPU permitió aumentos de 50x a 100x en la capacidad de extracción de bitcoins al tiempo que se necesitaría mucha menos energía eléctrica por unidad de trabajo.
 
 Aunque cualquier GPU moderno puede ser usado para minar, la línea de arquitectura GPU de AMD resultó ser bastamente superior a la arquitectura nVidia al momento de minar bitcoins, siendo la ATI Radeon HD 5870 la opción con mejor relación precio valor de la época.
 
-FPGA
+<strong>FPGA</strong>
 
 Al igual que con la transición de CPU a GPU, el mundo de la minería de bitcoins progresó en la cadena alimentaria al Field Programmable Gate Array. Con el exitoso lanzamiento del FPGA 'Single' de Butterfly Labs, el panorama del hardware en la minería de bitcoins abrió el camino a hardware especialmente dedicado al minado de bitcoins.
 
@@ -67,7 +67,7 @@ Aunque los FPGA no disfrutaron de un aumento de 50x - 100x en la velocidad de ex
 
 La mejora de 5x permitió la construcción de las primeras granjas de minería rentables.  Esto dio lugar al nacimiento de la industria de la minería de bitcoins.
 
-ASIC
+<strong>ASIC</strong>
 
 El mundo de la minería de bitcoins se encuentra firmemente en la era del Circuito Integrado para Aplicaciones Específicas (ASIC). Un chip ASIC está diseñado específicamente para hacer una sola cosa. A diferencia de los FPGA, un ASIC no puede ser reutilizado para realizar otras tareas.
 
