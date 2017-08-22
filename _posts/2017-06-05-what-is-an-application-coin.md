@@ -8,7 +8,7 @@ published: true
 
 Open <a href="https://www.weusecoins.com/blockchain-explained-for-normal-people/">blockchain networks</a> and <a href="https://www.weusecoins.com/video-bitcoin-and-cryptocurrency-safe/">cryptocurrencies</a> have made a new method to boost money to maintain and develop innovative goods and services – which may range from new cloud services found on the web, devices or gadgets on Internet of Things and of course even financial investments and products. This is considered an unusual method of crowdfunding which may bring different policy and legal questions, investors and developers are anxious to learn the answers to these queries so that they may be able to take advantage securely and safely of this new innovative model.
 
-<center><img src="/images/appcoin-img.jpg" alt="what are appcoins"/></center>
+<center><img src="/images/what-is-appcoin.jpg" alt="what are appcoins"/></center>
 <h2>How It Works</h2>
 
 Let us take a typical web service for instance: cloud storage. The conventional standard for this kind of service is Dropbox, in which it enables its clients to give Dropbox a month to month fee in order for them to keep their files and documents on the company’s hard drives which are Internet-connected for the purpose that these files can be readily accessible anytime, anywhere. A privately owned company, Dropbox raised funds from private investors in order to back the advancement of the so called service, in which this is service is built as well on infrastructures owned by private companies (i.e. server farms) that interfaces with the open Internet. 
