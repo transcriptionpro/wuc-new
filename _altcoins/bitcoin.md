@@ -37,7 +37,7 @@ Bitcoin is the very first P2P (peer-to-peer) decentralized network of payments t
 
 <h2 id="getting">Getting Started With Bitcoin?</h2>
 
-“How can I acquire Bitcoin?” – This is the most common questions from readers after reading the above definition of Bitcoin. You can check out our detailed <a href=”/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/”>40 Best Ways To Purchase Bitcoins</a>.
+“How can I acquire Bitcoin?” – This is the most common questions from readers after reading the above definition of Bitcoin. You can check out our detailed <a href="/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">40 Best Ways To Purchase Bitcoins</a>.
 
 When you want to use debit or credit cards, <a href=”http://geni.us/indacoin”>Indacoin</a> is the fastest and easiest way to purchase Bitcoins. You can just purchase atleast 50 USD or any mount you desired in more or less 10 minutes.
 
