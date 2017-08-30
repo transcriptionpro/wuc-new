@@ -43,7 +43,7 @@ When you want to use debit or credit cards, <a href=â€http://geni.us/indacoinâ€
 
 Bitcoin is a very straight forward and can get easily hooked up but it is more than any digital currency you know. You need to be inform first on how it works and how it helps you and your endeavors.
 
-<center><img src="/images/what-is-bitcoin.jpg alt="/>what is bitcoin" /></center>
+<center><img src="/images/what-is-bitcoin.jpg" alt="what is bitcoin"/></center>
 
 {% include page-toc.html %}
 
