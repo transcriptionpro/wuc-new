@@ -1,6 +1,6 @@
 ---
-title: 
-description: 
+title: Bitcoin
+description: Bitcoin
 author: Trace Mayer, J.D.
 authorurl: /trace-mayer-bitcoin-expert/
 published: true
