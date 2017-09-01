@@ -1,8 +1,8 @@
 ---
 title: Bitcoin
 description: Bitcoin
-author: Trace Mayer, J.D.
-authorurl: /trace-mayer-bitcoin-expert/
+author: WeUseCoins
+authorurl: /
 published: true
 toc: 
   what: What Is Bitcoin?
@@ -323,4 +323,10 @@ Bitcoin mining is alleged on the grounds that it looks like the mining of differ
 
 <h2 id="latest">Latest Bitcoin News</h2>
 
-In Russia, particularly Moscow Stock Exchange are now getting ready to Trade Cryptocurrency and Bitcoin price soar very high up to more or less 4,700 USD upon writing this article. 
+<p>Read the ten most recent Bitcoin news articles or review the <a href="#archive">Archives</a>.
+
+  <ul>
+    {% for post in site.posts limit:10 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
