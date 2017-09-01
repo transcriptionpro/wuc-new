@@ -1,6 +1,6 @@
 ---
 title: Bitcoin
-description: Bitcoin
+description: The first cryptocurrency Bitcoin is the largest, safest and most scalable value transfer Internet protocol.
 author: WeUseCoins
 authorurl: /
 published: true
@@ -14,9 +14,9 @@ toc:
   spend: Where To Spend Bitcoin?
   mining: What Is Bitcoin Mining?
   latest: Latest Bitcoin News
-img:
+img: bitcoin.png
 category: altcoin
-summary: 
+summary: The first cryptocurrency Bitcoin is the largest, safest and most scalable value transfer Internet protocol.
 ---
 
 {% include page-toc.html %}
