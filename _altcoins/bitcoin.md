@@ -1,5 +1,6 @@
 ---
-title: Bitcoin
+title: What is Bitcoin?
+name: Bitcoin
 description: The first cryptocurrency Bitcoin is the largest, safest and most scalable value transfer Internet protocol.
 author: WeUseCoins
 authorurl: /
