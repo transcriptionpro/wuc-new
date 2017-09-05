@@ -145,57 +145,59 @@ On the off chance that you produce a wallet the site will make an open private k
 <h2 id="resources">Ethereum Resources</h2>
 
 <h4>1. Official Links</h4>
-
-<a href="https://ethereum.gitbooks.io/frontier-guide/">Ethereum Frontier Guide GitBook</a>
-<a href="https://www.gitbook.com/book/gavofyork/turboethereum/details">Gav's TurboEthereum Guide GitBook</a>
-<a href="https://ethereum.github.io/solidity/docs/home/">Solidity Documentation</a>
-<a href="https://ethereumbuilders.gitbooks.io/guide//">Ethereum Builders Guide</a>
-<a href="https://github.com/ethereum">Ethereum Repos</a>
-<a href="https://github.com/ethersphere">ΞTHΞЯSPHΞЯΞ Repos</a>
-<a href="https://blog.ethereum.org/">Ethereum Blog</a>
-<a href="https://forum.ethereum.org/">Ethereum Forum</a>
-<a href="https://www.reddit.com/r/ethereum/">Ethereum Reddit</a>
-<a href="https://github.com/ethereum/wiki/wiki/Gitter-Channels">Ethereum Gitter Channels for Questions and Help</a>
-<a href="http://ethereum.stackexchange.com/">Ethereum StackExchange</a>
-
+<ul>
+<li><a href="https://ethereum.gitbooks.io/frontier-guide/">Ethereum Frontier Guide GitBook</a></li>
+<li><a href="https://www.gitbook.com/book/gavofyork/turboethereum/details">Gav's TurboEthereum Guide GitBook</a></li>
+<li><a href="https://ethereum.github.io/solidity/docs/home/">Solidity Documentation</a></li>
+<li><a href="https://ethereumbuilders.gitbooks.io/guide//">Ethereum Builders Guide</a></li>
+<li><a href="https://github.com/ethereum">Ethereum Repos</a></li>
+<li><a href="https://github.com/ethersphere">ΞTHΞЯSPHΞЯΞ Repos</a></li>
+<li><a href="https://blog.ethereum.org/">Ethereum Blog</a></li>
+<li><a href="https://forum.ethereum.org/">Ethereum Forum</a></li>
+<li><a href="https://www.reddit.com/r/ethereum/">Ethereum Reddit</a></li>
+<li><a href="https://github.com/ethereum/wiki/wiki/Gitter-Channels">Ethereum Gitter Channels for Questions and Help</a></li>
+<li><a href="http://ethereum.stackexchange.com/">Ethereum StackExchange</a></li>
+</ul>
 <h4>2. DApps</h4>
-
-<a href="http://dapps.ethercasts.com/">State of DApps List</a>
-<a href="http://lottopollo.com/info/">LottoPollo</a>
-<a href="https://github.com/iurimatias/etherquake">Etherquake - Quake III on Ethereum</a>
+<ul>
+<li><a href="http://dapps.ethercasts.com/">State of DApps List</a></li>
+<li><a href="http://lottopollo.com/info/">LottoPollo</a></li>
+<li><a href="https://github.com/iurimatias/etherquake">Etherquake - Quake III on Ethereum</a></li>
+</ul>
 3. Ethereum Blockchain Explorers
-<a href="http://frontier.ether.camp/">Ether.Camp</a>
-<a href="https://etherscan.io/">EtherScan</a>
-<a href="https://etherchain.org/">EtherChain</a>
-<a href="https://stats.ethdev.com/">Ethereum Network Stats Page</a>
-
+<ul>
+<li><a href="http://frontier.ether.camp/">Ether.Camp</a></li>
+<li><a href="https://etherscan.io/">EtherScan</a></li>
+<li><a href="https://etherchain.org/">EtherChain</a></li>
+<li><a href="https://stats.ethdev.com/">Ethereum Network Stats Page</a></li>
+</ul>
 <h4>4. Ethereum IDEs and Development/TestingFrameworks</h4>
-
-<a href="https://github.com/ethereum/wiki/wiki/Mix:-The-DApp-IDE">Mix DApp IDE</a>
-<a href="https://github.com/ConsenSys/truffle">Truffle Development Framework</a>
-<a href="https://iurimatias.github.io/embark-framework/">Embark Development Framework</a>
-<a href="https://github.com/pipermerriam/populus">Populus Development Framework</a>
-<a href="https://github.com/NexusDevelopment/dapple">Dapple Development Framework</a>
-<a href="http://blockapps.net/">BlockApps Strato</a>
-<a href="https://youtu.be/ctZ1Wd78no4?t=17736">DEVCon1 Panel Video: Ethereum Dapp Development Frameworks Session (Truffle, Embark, Dapple, Populus, BlockApps)</a>
-
+<ul>
+<li><a href="https://github.com/ethereum/wiki/wiki/Mix:-The-DApp-IDE">Mix DApp IDE</a></li>
+<li><a href="https://github.com/ConsenSys/truffle">Truffle Development Framework</a></li>
+<li><a href="https://iurimatias.github.io/embark-framework/">Embark Development Framework</a></li>
+<li><a href="https://github.com/pipermerriam/populus">Populus Development Framework</a></li>
+<li><a href="https://github.com/NexusDevelopment/dapple">Dapple Development Framework</a></li>
+<li><a href="http://blockapps.net/">BlockApps Strato</a></li>
+<li><a href="https://youtu.be/ctZ1Wd78no4?t=17736">DEVCon1 Panel Video: Ethereum Dapp Development Frameworks Session (Truffle, Embark, Dapple, Populus, BlockApps)</a></li>
+</ul>
 <h4>5. Ethereum Web Tools for Developers</h4>
-
-<a href="http://chriseth.github.io/browser-solidity/">Solidity In-Browser Realtime Compiler/IDE</a>
-<a href="http://ether.fund/tool/calculator">Ether.Fund Calculator</a>
-<a href="https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0">Ethereum 1.0 Gas Prices Google Doc</a>
-<a href="http://etherscripter.com/0-5-1/">EtherScripter</a>
-<a href="https://github.com/resilience-me/broadcaster/">Resilience Raw Transaction Broadcaster</a>
-
+<ul>
+<li><a href="http://chriseth.github.io/browser-solidity/">Solidity In-Browser Realtime Compiler/IDE</a></li>
+<li><a href="http://ether.fund/tool/calculator">Ether.Fund Calculator</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0">Ethereum 1.0 Gas Prices Google Doc</a></li>
+<li><a href="http://etherscripter.com/0-5-1/">EtherScripter</a></li>
+<li><a href="https://github.com/resilience-me/broadcaster/">Resilience Raw Transaction Broadcaster</a></li>
+</ul>
 <h4>6. DApp Developer Posts/Sites</h4>
-
-<a href="http://aakilfernandes.github.io/x-things-i-wish-i-knew-before-building-my-first-ethereum-dapp/">X Things I Wish I Knew Before Building My First Ethereum Dapp</a>
-<a href="https://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters#latest">Datatypes in event parameters</a>
-<a href="https://forum.ethereum.org/discussion/1652/feature-updates">Solidity Feature Updates Thread</a>
-<a href="http://tech.lab.carl.pro/kb/ethereum/ethereum">Tasha at π Tech Lab's Ethereum Page</a>
-<a href="http://adeduke.com/2015/08/how-to-create-a-private-ethereum-chain/">Ade Duke's Page on Creating a Private Ethereum Blockchain</a>
-<a href="http://blog.ethereum-alarm-clock.com/">Ethereum Alarm Clock Blog</a>
-
+<ul>
+<li><a href="http://aakilfernandes.github.io/x-things-i-wish-i-knew-before-building-my-first-ethereum-dapp/">X Things I Wish I Knew Before Building My First Ethereum Dapp</a></li>
+<li><a href="https://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters#latest">Datatypes in event parameters</a></li>
+<li><a href="https://forum.ethereum.org/discussion/1652/feature-updates">Solidity Feature Updates Thread</a></li>
+<li><a href="http://tech.lab.carl.pro/kb/ethereum/ethereum">Tasha at π Tech Lab's Ethereum Page</a></li>
+<li><a href="http://adeduke.com/2015/08/how-to-create-a-private-ethereum-chain/">Ade Duke's Page on Creating a Private Ethereum Blockchain</a></li>
+<li><a href="http://blog.ethereum-alarm-clock.com/">Ethereum Alarm Clock Blog</a></li>
+</ul>
 {% include page-toc.html %}
 
 <h2 id="buy">How To Buy Ethereum?</h2>
