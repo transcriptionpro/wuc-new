@@ -164,7 +164,7 @@ On the off chance that you produce a wallet the site will make an open private k
 <li><a href="http://lottopollo.com/info/">LottoPollo</a></li>
 <li><a href="https://github.com/iurimatias/etherquake">Etherquake - Quake III on Ethereum</a></li>
 </ul>
-3. Ethereum Blockchain Explorers
+<h4>3. Ethereum Blockchain Explorers</h4>
 <ul>
 <li><a href="http://frontier.ether.camp/">Ether.Camp</a></li>
 <li><a href="https://etherscan.io/">EtherScan</a></li>
