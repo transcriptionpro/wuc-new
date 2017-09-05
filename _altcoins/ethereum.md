@@ -62,8 +62,6 @@ It's important that the thought has been met with incredulity.
 
 In spite of the fact that the applications have all the earmarks of being conceivable, it's hazy which blockchain applications will really demonstrate valuable, secure, or versatile, and on the off chance that they will ever be as advantageous to use as the applications we utilize today.
 
-https://media.coindesk.com/uploads/2017/03/Screen-Shot-2017-03-28-at-4.56.00-PM.png
-
 {% include page-toc.html %}
 
 <h2 id="getting">Getting Started With Ethereum?</h2>
