@@ -1,8 +1,8 @@
 ---
 title: Ethereum
 description: Ethereum
-author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+author: WeUseCoins
+authorurl: /
 published: true
 permalink: /what-is-ethereum/
 toc: 
