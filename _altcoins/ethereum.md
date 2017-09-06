@@ -20,6 +20,10 @@ category: appcoin
 summary: 
 ---
 
+<p>Ethereum uses <a href="/what-is-ether/">Ether</a>. You can <a href="/how-to-buy-ether/">buy Ether</a> on many exchanges. There are many <a href="/ethereum-wallets/">Ether wallets</a> to choose from.
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="ethereum" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
+<p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/j23HnORQXvs?rel=0" frameborder="0" allowfullscreen></iframe></center>
+
 {% include page-toc.html %}
 
 <h2 id="what">What Is Ethereum?</h2>
