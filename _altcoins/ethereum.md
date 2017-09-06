@@ -17,6 +17,8 @@ toc:
   latest: Latest Ethereum News
 img: ethereum.png
 category: appcoin
+description : There are many Ether wallets to choose from.
+summary: Ethereum is a decentralized platform that allows developers to create decentralized applications and smart contracts.
 summary: 
 ---
 
