@@ -19,7 +19,6 @@ img: ethereum.png
 category: appcoin
 description : There are many Ether wallets to choose from.
 summary: Ethereum is a decentralized platform that allows developers to create decentralized applications and smart contracts.
-summary: 
 ---
 
 <p>Ethereum uses <a href="/what-is-ether/">Ether</a>. You can <a href="/how-to-buy-ether/">buy Ether</a> on many exchanges. There are many <a href="/ethereum-wallets/">Ether wallets</a> to choose from.
