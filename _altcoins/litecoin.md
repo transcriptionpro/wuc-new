@@ -2,7 +2,7 @@
 title: Litecoin
 description: Litecoin
 author: Trace Mayer, J.D.
-authorurl: /trace-mayer-Litecoin-expert/
+authorurl: /trace-mayer-bitcoin-expert/
 published: true
 permalink: /what-is-litecoin/
 toc: 
