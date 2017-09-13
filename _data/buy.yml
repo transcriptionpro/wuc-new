@@ -121,7 +121,7 @@
    
 - exchange: CoinCorner
    description: CoinCorner is a bitcoin exchange and wallet provider, based in the Isle of Man (UK) and currently operates in 45 countries worldwide.
-   countries: uk
+   countries: uk, de, fr, es, nl
    logo: coincorner_logo_medium.png
    url: https://coincorner.com/
 
