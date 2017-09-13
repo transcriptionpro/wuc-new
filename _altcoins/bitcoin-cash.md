@@ -63,7 +63,7 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 
 <h2 id="howto">How to Get a Bitcoin Cash Wallet?</h2>
 
-<center><img src="/images/bch-03.jpg" alt="what is bitcoin cash"/></center>
+<center><img src="/images/bch-09.jpg" alt="what is bitcoin cash"/></center>
 
 <h4>Segregating Bitcoins in TREZOR</h4>
 
@@ -77,14 +77,12 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 
 <p><strong>Step 2</strong> – Be certain you have a backup of your seed phrase and update your firmware. This is done as follows:</p>
 
- disconnect the device
- plug it in while holding both device buttons pressed
+<i>disconnect the device</i>
+<i>plug it in while holding both device buttons pressed</i>
 
 <p><strong>Step 3</strong> –  Go to the Coin Splitting Tool. Click on “Connect with TREZOR”. Reconnect your device and enter the PIN as usual.</p>
 
 <p><strong>Step 4</strong> – Select the account you want to split BCH from and enter an address to send the BCH to. It is possible to enter the exchange funding address directly in this stage (see below how to get a deposit address for HitBTC).</p>
-
-<center><img src="/images/bch-09.jpg" alt="what is bitcoin cash"/></center>
 
 <h4>Segregating Bitcoins in Electrum</h4>
 
@@ -112,7 +110,7 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 
 <h2 id="resources">Bitcoin Cash Resources</h2>
 
-<center><img src="/images/bch-04.jpg" alt="what is bitcoin cash"/></center>
+<center><img src="/images/bch-03.jpg" alt="what is bitcoin cash"/></center>
 <ul>
 <li><p>Python: https://github.com/Steve132/pybitcointools</p></li>
 <li><p>Python:  https://github.com/Conio/pybitcointools/tree/bitcoincash/</p></li>
@@ -128,7 +126,7 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 </ul>
 <h2 id="buy">How To Buy Bitcoin Cash?</h2>
 
-<center><img src="/images/bch-05.jpg" alt="what is bitcoin cash"/></center>
+<center><img src="/images/bch-04.jpg" alt="what is bitcoin cash"/></center>
 
 <p>Since August first, Bitcoin Cash has turned into a mainstream digital currency that draws in consideration because of its innovative upgrades. Right now, not all trades give the chance to exchange Bitcoin Cash, however CEX.IO enables merchants and speculators to purchase and offer Bitcoin Cash effectively. </p>
 
@@ -190,7 +188,7 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 
 <h2 id="earn">How To Earn Bitcoin Cash</h2>
 
-<center><img src="/images/bch-06.jpg" alt="what is bitcoin cash"/></center>
+<center><img src="/images/bch-05.jpg" alt="what is bitcoin cash"/></center>
 
 <p>The three most prominent methods for getting free Bitcoin Cash (BCC): </p>
 
@@ -214,7 +212,7 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 
 <h2 id="spend">Where To Spend Bitcoin Cash?</h2>
 
-<center><img src="/images/bch-07.jpg" alt="what is bitcoin cash"/></center>
+<center><img src="/images/bch-06.jpg" alt="what is bitcoin cash"/></center>
 
 <p>If you had your balance within your Bitcoin wallet which you hold private key, then you should be able to spend your Bitcoin Cash (BCC/BCH) with the private key! Most wallet will be able to backup your private key, mostly in a 12-word mnemonic phrase (BIP39-compatible), or 24-word if you’re using hardware wallet like Trezor, which I recommend.</p>
 
@@ -227,6 +225,8 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 <p>(Assuming the Bitcoin cash replay protection is fully functional and work as the premise, it wouldn’t have any risk.)</p>
 
 <h2 id="mining">What is Bitcoin Cash Mining?</h2>
+
+<center><img src="/images/bch-07.jpg" alt="what is bitcoin cash"/></center>
 
 <p>Anyway, who's mining Bitcoin Cash? What's more, why are they OK with losing cash? </p>
 
@@ -261,3 +261,5 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 <p>The current split marvel will support trust in such instruments which would, thusly, prompt more nations starting to embrace such innovation. </p>
 
 <p>As of now, the Bitcoin showcase has started to demonstrate its endorsement as the request has developed and costs have shot through the $3000 stamp to head towards the $3500 check as of this written work. This demonstrates the <a href="/8-problems-with-bitcoin-to-solve-before-block-size/">Bitcoin organize</a> is alive and flourishing too, which is probably going to enable Bitcoin to money accomplish a similar impact.</p>
+
+
