@@ -1,6 +1,5 @@
 ---
-title: 
-description: 
+title: What is Ripple
 author: Trace Mayer, J.D.
 authorurl: /trace-mayer-bitcoin-expert/
 published: true
