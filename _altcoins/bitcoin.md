@@ -5,6 +5,7 @@ description: The first cryptocurrency Bitcoin is the largest, safest and most sc
 author: WeUseCoins
 authorurl: /
 published: true
+permalink: /what-is-bitcoin/
 toc: 
   what: What Is Bitcoin?
   getting: Getting Started With Bitcoin
