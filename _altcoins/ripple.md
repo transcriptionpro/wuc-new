@@ -216,7 +216,7 @@ summary: Ripple is an internet protocol developed by Ripple Labs to connect all 
 
 <p>Launch RippleClient using the shortcut that was created for it or by using the search feature in your operating system.</p>
 
-<center><img src="/images/ ripple-wallet-03.png" alt="what is ripple"/></center>
+<center><img src="/images/ripple-wallet-03.png" alt="what is ripple"/></center>
 
 <p><b>STEP 3.</b> Create a Wallet</p>
 
@@ -225,15 +225,15 @@ summary: Ripple is an internet protocol developed by Ripple Labs to connect all 
 <li>"Open existing account" is for people who already have accounts with RippleClient.</li>
 <li>"Create a new account with a secret key" is for people who are transferring their Ripple Wallets from the web client (or another client) to the desktop client. We can cover this in our next tutorial.</li>
 </ul>
-<center><img src="/images/ ripple-wallet-04.png" alt="what is ripple"/></center>
+<center><img src="/images/ripple-wallet-04.png" alt="what is ripple"/></center>
 
 <p>You'll then be presented with a popup to download the wallet. Be sure to change the name and location to something that you'll remember and be able to find later.</p>
 
-<center><img src="/images/ ripple-wallet-05.png" alt="what is ripple"/></center>
+<center><img src="/images/ripple-wallet-05.png" alt="what is ripple"/></center>
 
 <p>Create a strong password with letters (including capitals), numbers, and symbols that you'll be able to remember or that you'll write down and store for safe keeping.</p>
 
-<center><img src="/images/ ripple-wallet-06.png" alt="what is ripple"/></center>
+<center><img src="/images/ripple-wallet-06.png" alt="what is ripple"/></center>
 
 <p>Congratulations! You've just created your Ripple Wallet!</p>
 
@@ -247,11 +247,11 @@ summary: Ripple is an internet protocol developed by Ripple Labs to connect all 
 
 <p>Once that's done, click on "Yes, I saved my secret key" to continue.</p>
 
-<center><img src="/images/ ripple-wallet-07.png" alt="what is ripple"/></center>
+<center><img src="/images/ripple-wallet-07.png" alt="what is ripple"/></center>
 
 <p><b>STEP 4.</b> Fund Your Wallet</p>
 
-<center><img src="/images/ ripple-wallet-08.png" alt="what is ripple"/></center>
+<center><img src="/images/ripple-wallet-08.png" alt="what is ripple"/></center>
 
 <p>Now that you have a wallet, it's time to get some funds into it.</p>
 
@@ -531,7 +531,7 @@ Now your account is filled with INR. You can buy XRP.
 
 <h4>Other Exchanges You Can Buy Ripple</h4>
 
-<center><img src="/images/ buy-ripple-other-exchanges.jpg" alt="buy ripple btcindia"/></center>
+<center><img src="/images/buy-ripple-other-exchanges.jpg" alt="buy ripple btcindia"/></center>
 
 <h2 id="spend">Where To Spend Ripple?</h2>
 
