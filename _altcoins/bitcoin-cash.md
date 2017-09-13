@@ -77,8 +77,8 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 
 <p><strong>Step 2</strong> – Be certain you have a backup of your seed phrase and update your firmware. This is done as follows:</p>
 
-# disconnect the device
-# plug it in while holding both device buttons pressed
+ disconnect the device
+ plug it in while holding both device buttons pressed
 
 <p><strong>Step 3</strong> –  Go to the Coin Splitting Tool. Click on “Connect with TREZOR”. Reconnect your device and enter the PIN as usual.</p>
 
