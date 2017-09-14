@@ -1,5 +1,6 @@
 ---
 title: Ethereum
+name: Ethereum
 description: Ethereum
 author: WeUseCoins
 authorurl: /
