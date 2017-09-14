@@ -23,6 +23,8 @@ description: Bitcoin Cash or BCC is a that has been created using a fork of the 
 
 <h2 id="what">What Is Bitcoin Cash?</h2>
 
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoin-cash" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
+
 <center><img src="/images/bch-01.jpg" alt="what is bitcoin cash"/></center>
 
 <p>Bitcoin Cash or BCC is a <a href="/video-digital-currency-mainstream/">digital currency</a> that has been created using a fork of the Bitcoin Network. If you were holding Bitcoin during the time of the fork (August 1, 2017),  you also have an equivalent Bitcoin Cash in the forked Bitcoin Cash blockchain.</p>
