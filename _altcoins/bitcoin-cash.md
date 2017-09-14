@@ -1,6 +1,6 @@
 ---
 title: What is Bitcoin Cash? Bitcoin Cash is a fork of Bitcoin that activated on 1 August 2017.
-description: 
+description: Bitcoin Cash is a fork of Bitcoin that activated on August 1st of 2017 and offers an alternative with a 8 MB blocksize and no Segwit.
 author: WeUseCoins
 authorurl: /
 published: true
