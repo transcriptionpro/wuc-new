@@ -1,8 +1,8 @@
 ---
-title: Litecoin
-description: Litecoin
-author: Trace Mayer, J.D.
-authorurl: /trace-mayer-bitcoin-expert/
+title: What is Litecoin
+description: Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities.
+author: WeUseCoins
+authorurl: /
 published: true
 permalink: /what-is-litecoin/
 toc: 
@@ -17,10 +17,12 @@ toc:
   latest: Latest Litecoin News
 img: litecoin.png
 category: altcoin
-summary: 
+summary: Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities.
 ---
 
 <h2 id="what">What Is Litecoin?</h2>
+
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="litecoin" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/q7B7S88RtV8" frameborder="0" allowfullscreen></iframe></center>
 

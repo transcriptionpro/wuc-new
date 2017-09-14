@@ -5,6 +5,7 @@ description: The first cryptocurrency Bitcoin is the largest, safest and most sc
 author: WeUseCoins
 authorurl: /
 published: true
+permalink: /what-is-bitcoin/
 toc: 
   what: What Is Bitcoin?
   getting: Getting Started With Bitcoin
@@ -23,6 +24,8 @@ summary: The first cryptocurrency Bitcoin is the largest, safest and most scalab
 {% include page-toc.html %}
 
 <h2 id="what">What Is Bitcoin?</h2>
+
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitcoin" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
 
 Bitcoin is one of the most popular trends in the world these days. It is the Facebook in social media, it is the Linux Torvalds in the world of programmers, it is Bill Gates in the world of Billionaires, it is Mayweather in the world of Boxing and it is Tigerwoods in the field of golf. Nevertheless, Bitcoin is the KING of cryptocurrencies these days.
 
