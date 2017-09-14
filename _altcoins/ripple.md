@@ -1,7 +1,7 @@
 ---
 title: What is Ripple
-author: Trace Mayer, J.D.
-authorurl: /trace-mayer-bitcoin-expert/
+author: WeUseCoins
+authorurl: /
 published: true
 toc: 
   what: What Is Ripple?
@@ -14,7 +14,7 @@ toc:
   latest: Latest Ripple News
 img: ripple.png
 category: altcoin
-description : Ripple is an internet protocol developed by Ripple Labs
+description : Ripple is an internet protocol developed by Ripple Labs to connect all the world's disparate financial systems to enable secure transfer of funds in any currency in real time.
 summary: Ripple is an internet protocol developed by Ripple Labs to connect all the world's disparate financial systems to enable secure transfer of funds in any currency in real time. 
 ---
 
