@@ -1,5 +1,6 @@
 ---
 title: What is Ripple
+name: Ripple
 author: WeUseCoins
 authorurl: /
 published: true

@@ -1,5 +1,6 @@
 ---
 title: What is Litecoin
+name: Litecoin
 description: Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities.
 author: WeUseCoins
 authorurl: /
