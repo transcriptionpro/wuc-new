@@ -2,7 +2,7 @@
 title: What Is NEM
 description: What Is NEM
 author: Trace Mayer, J.D.
-authorurl: /trace-mayer-NEM-expert/
+authorurl: /trace-mayer-bitcoin-expert/
 published: true
 permalink: /what-is-nem/
 toc: 
