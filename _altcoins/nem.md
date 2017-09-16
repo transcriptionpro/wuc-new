@@ -57,7 +57,7 @@ summary: NEM was begun by a Bitcoin Talk discussion client called UtopianFuture 
 <h2 id="getting">Getting Started With NEM?</h2>
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/_Hct_rKHnts" frameborder="0" allowfullscreen></iframe></center>
-<p>View full transcript here for <a href="/video-coin-intro-nem-xem/">NEM or XEM</a></p>
+<center><p>View full transcript here for <a href="/video-coin-intro-nem-xem/">NEM or XEM</a></p></center>
 
 <p>The NEM Smart Asset System allows you to totally customize how you use the NEM blockchain. First, your Namespace defines your home on the blockchain where you can name your own Mosaics, provide easy-to-remember names to user addresses, and more.</p>
 
@@ -77,7 +77,7 @@ summary: NEM was begun by a Bitcoin Talk discussion client called UtopianFuture 
 
 <h4>Steps for Intalling a NEM Wallet</h4>
 
-<p>Step 1 : Go to https://www.nem.io/install.html to download NEM wallet.</p>
+<p><b>Step 1:</b> Go to https://www.nem.io/install.html to download NEM wallet.</p>
 
 <p><b>Step 2:</b> Click "Download the Nano Wallet"</p>
 
