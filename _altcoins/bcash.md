@@ -16,7 +16,7 @@ toc:
   spend: Where To Spend BCash?
   mining: What Is BCash Mining?
   latest: Latest BCash News
-img: bcash.png
+img: bcash.jpg
 category: altcoin
 summary: BCash is a fork of Bitcoin that activated on August 1st of 2017 and offers an alternative with a 8 MB blocksize and no Segwit.
 description: BCash or BCC is a that has been created using a fork of the Bitcoin Network.
