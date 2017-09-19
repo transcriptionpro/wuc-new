@@ -30,7 +30,7 @@ description: BCash or BCC is a that has been created using a fork of the Bitcoin
 
 <p>BCash, BCH, BCC or sometimes called Bitcoin Cash is a <a href="/video-digital-currency-mainstream/">digital currency</a> that has been created using a fork of the Bitcoin Network. If you were holding Bitcoin during the time of the fork (August 1, 2017),  you also have an equivalent BCash in the forked BCash blockchain.</p>
 
-<p>To answer the long debate in the Bitcoin community regarding Bitcoin’s best way of scaling unto more users, BCash came into life. In the <a href="/video-bitcoin-coding-block-header/">Bitcoin codebase</a> the best and simple solution being followed is to increase the Max Block size Limit parameter. </p>
+<p>To answer a long debate in the Bitcoin community regarding Bitcoin’s best way of scaling unto more users, BCash came into life. In the <a href="/video-bitcoin-coding-block-header/">Bitcoin codebase</a> the best and simple solution being followed is to increase the Max Block size Limit parameter. </p>
 
 {% include page-toc.html %}
 
