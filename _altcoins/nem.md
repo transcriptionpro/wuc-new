@@ -17,7 +17,7 @@ toc:
   mining: What Is NEM Mining?
   latest: Latest NEM News
 img: nem.png
-category: altcoin
+category: appcoin
 summary: NEM’s modular Smart Asset system enables businesses to build an incredible variety of real world application uses.
 ---
 
