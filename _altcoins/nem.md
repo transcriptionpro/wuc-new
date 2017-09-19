@@ -1,8 +1,9 @@
 ---
 title: What Is NEM
-description: What Is NEM
-author: Trace Mayer, J.D.
-authorurl: /trace-mayer-bitcoin-expert/
+name: NEM
+description: NEM’s modular Smart Asset system enables businesses to build an incredible variety of real world application uses.
+author: WeUseCoins
+authorurl: /
 published: true
 permalink: /what-is-nem/
 toc: 
@@ -17,7 +18,7 @@ toc:
   latest: Latest NEM News
 img: nem.png
 category: altcoin
-summary: NEM was begun by a Bitcoin Talk discussion client called UtopianFuture who was propelled by Nxt.
+summary: NEM’s modular Smart Asset system enables businesses to build an incredible variety of real world application uses.
 ---
 
 <h2 id="what">What Is NEM?</h2>
