@@ -1,7 +1,7 @@
 ---
 title: What Is NEM
 name: NEM
-description: NEM’s modular Smart Asset system enables businesses to build an incredible variety of real world application uses.
+description: NEM uses a modular Smart Asset system enables businesses to build an incredible variety of real world application uses.
 author: WeUseCoins
 authorurl: /
 published: true
@@ -18,7 +18,7 @@ toc:
   latest: Latest NEM News
 img: nem.png
 category: appcoin
-summary: NEM’s modular Smart Asset system enables businesses to build an incredible variety of real world application uses.
+summary: NEM uses a modular Smart Asset system enables businesses to build an incredible variety of real world application uses.
 ---
 
 <h2 id="what">What Is NEM?</h2>
