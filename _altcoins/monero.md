@@ -1,6 +1,7 @@
 ---
 title: What Is Monero?
-description: What Is Monero?
+name: Monero
+description: Monero is a secure, private, untraceable currency. It is open-source and freely available to all.
 author: WeUseCoins
 authorurl: /
 permalink: /what-is-monero/
