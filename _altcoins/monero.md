@@ -34,8 +34,10 @@ Monero is a secure, private, untraceable currency that is open-source and freely
 <iframe width="700" height="525" src="https://www.youtube.com/embed/XyStjt_hfpQ" frameborder="0" allowfullscreen></iframe>
 <p>
 <h2>How Secure Is Monero?</h2>
+
 Using the power of a distributed peer-to-peer consensus network every transaction is cryptographically secured. Individual accounts have a 25 word mnemonic seed displayed when created, and can be written down to backup the account. Account files are encrypted with a passphrase to ensure they are useless if stolen.
 <p>
+  {% include page-toc.html %}
 <h2>How Private Is Monero?</h2>
 Monero uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the distributed ledger of transactions). This ensures that your purchases, receipts, and all transfers remain absolutely private by default.
 <p>
@@ -116,7 +118,7 @@ It is very easy to start using Monero.
 <p>In the same way as other different digital forms of money, monero offers invested individuals the chance to mine pieces. While people can join mining pools, they can likewise mine monero without anyone else's input. </p>
 
 <p>Anybody with a PC can partake in this movement, as it doesn't require a particular equipment, for example, the application-particular incorporated circuits (ASICs) required nowadays to mine bitcoin. </p>
-
+{% include page-toc.html %}
 <p>Monero utilizes a <a href="https://www.weusecoins.com/video-proof-of-work-vs-proof-of-stake/">proof-of-work (PoW) </a>calculation that was intended to be available to an extensive variety of processors, a particular that was incorporated to guarantee that mining was interested in a wide range of gatherings rather than simply vast mining pools. </p>
 
 <p>At the season of revealing, the square reward was around 7.46 XMR, implying that the monero organize was creating roughly 224 XMR every hour and 5,376 XMR a day. The system hash rate was 81.84 million hashes for every second. </p>
@@ -219,7 +221,7 @@ It is very easy to start using Monero.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/bWst278J8NA" frameborder="0" allowfullscreen></iframe></center>
 
 <p>Since Monero is anonymous, you won't see the origin address the funds you receive came from. If you want to know, for instance to credit a particular customer, you'll have to tell the sender to use a payment ID, which is an arbitrary optional tag which gets attached to a transaction. To make life easier, you can generate an address that already includes a random payment ID:</p>
-
+{% include page-toc.html %}
 <p>integrated_address</p>
 
 <p>This will <a href="https://www.weusecoins.com/adam-back-sidechains/">generate a random payment ID</a>, and give you the address that includes your own account and that payment ID. If you want to select a particular payment ID, you can do that too:</p>
@@ -327,7 +329,7 @@ It is very easy to start using Monero.
 <p>On the off chance that you are in a race to purchase Monero to exploit a plunge in costs and you can all the more quickly acquire some Bitcoin, at that point you may want to buy Bitcoin first and afterward immediately change over your Bitcoin to Monero. </p>
 
 <p>You can change over your Bitcoin to Monero either utilizing a BTC/XMR trade benefit or a more straightforward administration like shapeshift.io which does not expect you to enlist. To look for a place to purchase Bitcoin see this rundown. </p>
-
+{% include page-toc.html %}
 <p>Later on, we anticipate that there will be parts more administrations accessible to give you a chance to buy Monero all the more effectively in your own nation.</p>
 
 <h4>BUY MONERO DIRECTLY WITH USD/EUR/GBP/CAD/JPY</h4>
@@ -397,7 +399,7 @@ It is very easy to start using Monero.
 <p>No email is required to register, although you can provide an email later if you want to receive notifications about your ad from the site. Sellers have to pay “around $0.09 US” per ad. </p>
 
 <p>Aside from the registration page which uses a CAPTCHA, the site doesn’t use JavaScript, so it’s TOR-friendly. You can choose to buy Monero in person with cash, through the mail with cash or money order, or other methods. </p>
-
+{% include page-toc.html %}
 <p>Since trading is person-to-person, your Moneroj never goes to the site and thus can’t be stolen by the site or hacked from the site. The site is new and doesn’t appear to have many users yet. In any case, you’ll need to have a Monero wallet and address before you can receive Moneroj.</p>
 
 <h2 id="spend">Where To Spend Monero?</h2>
@@ -592,7 +594,7 @@ It is very easy to start using Monero.
 <h4>Monero 0.11.0.0 "Helium Hydra" Released</h4>
 
 <p>This is the v0.11.0.0 major release of the Monero software, and it is a mandatory update due to the September 15th hard fork, which in turn increases the minimum ring signature size to 5 across the network, bans duplicate ring members in a ring signature, and enforces use of ringCT for all transaction outputs. This release of the software presents a number of major improvements to Monero, as well as a large set of bug fixes.</p>
-
+{% include page-toc.html %}
 <h4>Trade Recommendation: Monero</h4>
 
 <p>The price bounced from SMA50. RSI confirmed price reversal and MACD histogram supports upward movement. We have trading opportunity and we could open long trades based on reversal signal. But the price can’t pass through 100.00 resistance level. It will be better to place pending orders for buy above this resistance level and the downtrend line. </p>
