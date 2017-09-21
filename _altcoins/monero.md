@@ -440,15 +440,15 @@ It is very easy to start using Monero.
 
 <h4>Solo Mine With The GUI</h4>
 
-<center><img src="/images/monero-mining-01.png" alt="what is monero"/></center>
+<center><img src="/images/monero-mining-01.PNG" alt="what is monero"/></center>
 
 <p>Click on the "Advanced" tab. You should see that several other options appear. Now click on the "Mining" sub-tab.</p>
 
-<center><img src="/images/monero-mining-02.png" alt="what is monero"/></center>
+<center><img src="/images/monero-mining-02.PNG" alt="what is monero"/></center>
 
 <p>You should now have an option to start mining. You can optionally change the number of threads to mine with. For optimal efficiency, you should mine with your CPU's cache divided by 2. You will need to look up your CPU's specs on the manufacturer's website. If you are unsure, leave the number of threads at 1. Click the "Start mining" button.</p>
 
-<center><img src="/images/monero-mining-03.png" alt="what is monero"/></center>
+<center><img src="/images/monero-mining-03.PNG" alt="what is monero"/></center>
 
 <p>You are now mining with the network, as you can see on the bottom of the image. In this example, the computer is contributing 23 H/s to the Monero network. Mining helps keep the network secure, and you may get lucky and receive a reward for protecting the network.</p>
 
