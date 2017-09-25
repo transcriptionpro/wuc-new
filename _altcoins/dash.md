@@ -23,7 +23,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <h2 id="what">What Is Dash?</h2>
 
-<p>Dash (DASH) is a <a href="https://www.weusecoins.com/video-about-nodes-bitcoin-and-dash/">next-generation digital currency</a> based on the <a href="https://www.weusecoins.com/video-qa-earn-bitcoins-instead-of-buying-them/">Bitcoin software</a>.</p>
+<p>Dash (DASH) is a <a href="/video-about-nodes-bitcoin-and-dash/">next-generation digital currency</a> based on the <a href="/video-qa-earn-bitcoins-instead-of-buying-them/">Bitcoin software</a>.</p>
 
 <center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="dash" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
 
@@ -43,7 +43,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p><b>- SECURE</b></p>
 
-<p><a href="https://www.weusecoins.com/video-bitcoin-wallet-encryption/">Advanced encryption</a> and a trustless protocol for complete security in your <a href="https://www.weusecoins.com/anonymous-cryptocurrency-dash-pivx-monero/">payments and anonymization process</a>.</p>
+<p><a href="/video-bitcoin-wallet-encryption/">Advanced encryption</a> and a trustless protocol for complete security in your <a href="/anonymous-cryptocurrency-dash-pivx-monero/">payments and anonymization process</a>.</p>
 
 <p><b>- GLOBAL</b></p>
 
@@ -64,7 +64,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p>The card can be denominated in dollars (USD), euros (EUR) or pounds (GBP).</p>
 
-<p><b>Pay with bitcoins wherever you want</b>. SpectroCoin bitcoin debit card is accepted everywhere where MasterCard or VISA is accepted. That includes automated teller machines (ATMs) for cash withdrawal, online sites, and physical shops. This Bitcoin debit card can also be <a href="https://www.weusecoins.com/buy-bitcoin-with-paypal/">linked to PayPal</a> or any other <a href="https://www.weusecoins.com/introduction-bitcoin-paper-wallets-cold-storage/">online wallet</a>.</p>
+<p><b>Pay with bitcoins wherever you want</b>. SpectroCoin bitcoin debit card is accepted everywhere where MasterCard or VISA is accepted. That includes automated teller machines (ATMs) for cash withdrawal, online sites, and physical shops. This Bitcoin debit card can also be <a href="/buy-bitcoin-with-paypal/">linked to PayPal</a> or any other <a href="/introduction-bitcoin-paper-wallets-cold-storage/">online wallet</a>.</p>
 
 {% include page-toc.html %}
 
@@ -84,15 +84,15 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p><b>- PEER- TO- PEER</b></p>
 
-<p>Like bittorrent, Dash is a fully <a href="https://www.weusecoins.com/video-p2p-money-historical-context/">decentralized peer-to-peer (P2P) network</a>. Because of this, you don’t have to trust a bank or other centralized service. Everything stays between you and the other party in the transaction.</p>
+<p>Like bittorrent, Dash is a fully <a href="/video-p2p-money-historical-context/">decentralized peer-to-peer (P2P) network</a>. Because of this, you don’t have to trust a bank or other centralized service. Everything stays between you and the other party in the transaction.</p>
 
 <p><b>- MASTERNODES AND PROOF-OF-SERVICE</b></p>
 
-<p>In addition to traditional <a href="https://www.weusecoins.com/video-tools-for-the-future/">Proof- of- Work (PoW)</a> rewards for mining Dash, users are also rewarded for running and maintaining special servers called “Masternodes”.</p>
+<p>In addition to traditional <a href="/video-tools-for-the-future/">Proof- of- Work (PoW)</a> rewards for mining Dash, users are also rewarded for running and maintaining special servers called “Masternodes”.</p>
 
 <h4>What are Masternodes?</h4>
 
-<p>Simply put, <a href="https://www.weusecoins.com/video-masternodes-are-on-the-rise/">Masternodes</a> provide much of the necessary infrastructure to the Dash network. Most people are familiar with the single-tier network that Bitcoin utilizes. Users broadcast transactions to the network, and when miners discover a new block, they incorporate all those transactions into the blockchain. </p>
+<p>Simply put, <a href="/video-masternodes-are-on-the-rise/">Masternodes</a> provide much of the necessary infrastructure to the Dash network. Most people are familiar with the single-tier network that Bitcoin utilizes. Users broadcast transactions to the network, and when miners discover a new block, they incorporate all those transactions into the blockchain. </p>
 
 <p>Each block that is added to the blockchain is considered one “confirmation,” but transactions are not considered to be fully “cleared” and irreversible until they receive at least six confirmations. With an average blocktime of ten minutes, Bitcoin transactions take about an hour to fully confirm!</p>
 
@@ -100,7 +100,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p>Anyone can run a Masternode, but in order to do so, the user must prove that they own 1000 DASH. This is to prevent so-called “Sybil attacks” on the network. The 1000 DASH is not locked or consumed--a Masternode owner can spend that 1000 DASH anytime he/she wants, but doing so will result in the Masternode turning itself off. Masternodes are typically hosted on virtual private servers (VPS) run by companies such as Amazon Web Services, Microsoft Azure, Vultr, and others.</p>
 
-<p>People are incentivized to run Masternodes because they receive a portion of the reward when <a href="https://www.weusecoins.com/why-blocksize-limit-keeps-bitcoin-free-decentralized/">miners find new blocks</a> (45% of the block reward goes to miners, 45% goes to Masternodes, and 10% is used to fund Dash-related projects via the decentralized budget system). The return on investment is currently about 15% (over the course of a year, you will earn approximately 150 DASH from running a Masternode).</p>
+<p>People are incentivized to run Masternodes because they receive a portion of the reward when <a href="/why-blocksize-limit-keeps-bitcoin-free-decentralized/">miners find new blocks</a> (45% of the block reward goes to miners, 45% goes to Masternodes, and 10% is used to fund Dash-related projects via the decentralized budget system). The return on investment is currently about 15% (over the course of a year, you will earn approximately 150 DASH from running a Masternode).</p>
 
 <p>At the time of this writing, there are 3400 Masternodes in 22 different countries. This provides a high level of decentralization due to the impossibility of one user gaining control of enough Masternodes to deanonymize transactions.</p>
 
@@ -114,7 +114,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p>The Dash client stores pre-mixed, denominated Dashs in the user’s wallet, to be used instantly at any time the user desires. The mixing and denomination process is seamless, automatic, and requires no intervention on the part of the user. Here’s how it works:</p>
 
-<p>Every 10 blocks, all user clients network-wide will send any unmixed, Dash in their possession through an anonymization phase. In this phase, Masternodes are used in chained succession to mix the coins they receive from the network and break them down into homogenous denominations. After being processed by a minimum of two Masternodes, the coins are either sent to the next Masternode in the chain or back to the user’s wallet at <a href="https://www.weusecoins.com/video-the-bitcoin-address/">randomly generated change addresses</a>. </p>
+<p>Every 10 blocks, all user clients network-wide will send any unmixed, Dash in their possession through an anonymization phase. In this phase, Masternodes are used in chained succession to mix the coins they receive from the network and break them down into homogenous denominations. After being processed by a minimum of two Masternodes, the coins are either sent to the next Masternode in the chain or back to the user’s wallet at <a href="/video-the-bitcoin-address/">randomly generated change addresses</a>. </p>
 
 <p>Please note that at no point in the process do a user’s coins ever leave his/her control. They will be sent to different addresses within the wallet, but they never leave the user’s possession.</p>
 
@@ -156,7 +156,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p>While this 50-hour long exchange time might be satisfactory for making installments on the web (where merchandise may not be sent for quite a long time), this makes about every single computerized cash illogical for things like up close and personal or in-store buys and could restrain their potential. </p>
 
-<p>The engineers of Dash made an exceptional, <a href="https://www.weusecoins.com/video-counterparty-cryptobiz-magazine/">decentralized innovation</a> called InstantX that certifications and affirms installments in around four seconds. It's hard to believe, but it's true—you can send cash to wherever on the planet in just a couple of moments! </p>
+<p>The engineers of Dash made an exceptional, <a href="/video-counterparty-cryptobiz-magazine/">decentralized innovation</a> called InstantX that certifications and affirms installments in around four seconds. It's hard to believe, but it's true—you can send cash to wherever on the planet in just a couple of moments! </p>
 
 <p><b>Expanded Privacy </b></p>
 
@@ -170,7 +170,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p>Once your character has been related with your address, that important data can be utilized to track your pay, spending, and other exchange exercises, or even sold to others, for example, advertisers, culprits, charge specialists, law implementation, or notwithstanding snooping relatives. In the event that you send cash to anybody, that individual or substance can connect you with your whole exchange history. </p>
 
-<p>Dash sees budgetary protection as a major right. Subsequently, Dash made a possibility for clients to make exchanges with genuine protection, so no one would ever connect a man's character with a specific address or exchange. With Dash, clients can keep every one of their <a href="https://www.weusecoins.com/the-four-bitcoin-exchanges-with-lenient-identity-verification-process/">exchanges private</a>. </p>
+<p>Dash sees budgetary protection as a major right. Subsequently, Dash made a possibility for clients to make exchanges with genuine protection, so no one would ever connect a man's character with a specific address or exchange. With Dash, clients can keep every one of their <a href="/the-four-bitcoin-exchanges-with-lenient-identity-verification-process/">exchanges private</a>. </p>
 
 <p><b>Two-Tier Network </b></p>
 
@@ -190,7 +190,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <p><b>Shared </b></p>
 
-<p>As of not long ago, you were absolutely subject to banks to exchange your assets. They have the ability to obstruct your record, debase, or even appropriate your cash. Presently you have a decision – with Dash every one of your assets are controlled by your own wallet and all cash exchanges are controlled and confirmed by a conveyed arrange. The <a href="https://www.weusecoins.com/video-xrp-lock-up-and-decentralization-plan/">decentralized system</a> of clients worldwide disposes of the requirement for delegates and their charges. </p>
+<p>As of not long ago, you were absolutely subject to banks to exchange your assets. They have the ability to obstruct your record, debase, or even appropriate your cash. Presently you have a decision – with Dash every one of your assets are controlled by your own wallet and all cash exchanges are controlled and confirmed by a conveyed arrange. The <a href="/video-xrp-lock-up-and-decentralization-plan/">decentralized system</a> of clients worldwide disposes of the requirement for delegates and their charges. </p>
 
 <p><b>Security </b></p>
 
@@ -282,7 +282,7 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <center><img src="/images/electrum-dash-receive-payment-01.jpg" alt="electrum dash receive payments" /></center>
 
-Enter this address in the <a href="https://www.weusecoins.com/video-qa-where-are-the-exchange-traded-funds/">software sending the funds</a>, send it to the person transferring funds to you or scan it directly from your mobile wallet. Once the transaction is complete, the balance will appear in the lower left corner of your wallet, and the indicator in the <b>Requests</b> table will change from <b>Pending</b> to <b>Paid</b>.
+Enter this address in the <a href="/video-qa-where-are-the-exchange-traded-funds/">software sending the funds</a>, send it to the person transferring funds to you or scan it directly from your mobile wallet. Once the transaction is complete, the balance will appear in the lower left corner of your wallet, and the indicator in the <b>Requests</b> table will change from <b>Pending</b> to <b>Paid</b>.
 
 <center><img src="/images/electrum-dash-receive-payment-02.jpg" alt="electrum dash receive payments" /></center>
 
@@ -376,7 +376,7 @@ Dash offers a standalone wallet for Android, with development supported by the D
 
 <p>A talk with client bolster uncovered that they can offer Dash at almost the going business sector rate, as they are an escrow benefit, basically holding a vender's coins for them. By offering this escrow benefit, they can encourage a fiat to digital money exchange moderately modestly and send Dash straightforwardly to purchasers rapidly. </p>
 
-<p>After money store confirmation, it takes around 15 minutes to get Dash. All things considered, individuals who need to buy Dash straightforwardly with money can do as such for around a 1% charge, while abstaining from <a href="https://www.weusecoins.com/how-to-buy-bitcoins-with-paypal-in-spectrocoin/">purchasing Bitcoin</a> first. It ought to be noticed that individuals who need to buy Bitcoin, can likewise do as such at WallofCoins, rearranging the way toward buying digital money generously.</p>
+<p>After money store confirmation, it takes around 15 minutes to get Dash. All things considered, individuals who need to buy Dash straightforwardly with money can do as such for around a 1% charge, while abstaining from <a href="/how-to-buy-bitcoins-with-paypal-in-spectrocoin/">purchasing Bitcoin</a> first. It ought to be noticed that individuals who need to buy Bitcoin, can likewise do as such at WallofCoins, rearranging the way toward buying digital money generously.</p>
 
 <h4>Exchange Bitcoin For Dash</h4>
 
@@ -390,7 +390,7 @@ If you’ve already purchased Bitcoin, moving it to one of the main exchanges li
 
 <p>First, one can get up and running with just a Raspberry Pi (also in a dedicated server or in a VPS), which is small and inexpensive. Second, the return-on-investment (ROI) is currently estimated at 17 % per year.</p>
 
-<p>The <a href="https://www.weusecoins.com/blockchain-explained-for-normal-people/">Dash blockchain</a> has set itself apart as the world’s only currency to incentive its nodes with regular payment. Masternodes earn 47.5 % of the Dash block reward, which puts their earnings on par with Dash’s miners.</p>
+<p>The <a href="/blockchain-explained-for-normal-people/">Dash blockchain</a> has set itself apart as the world’s only currency to incentive its nodes with regular payment. Masternodes earn 47.5 % of the Dash block reward, which puts their earnings on par with Dash’s miners.</p>
 
 <p>With some initial collateral and around US$50 to invest in hardware, you too can join the savvy group of earners running a Dash Masternode on a Raspberry Pi.</p>
 
@@ -428,7 +428,7 @@ If you’ve already purchased Bitcoin, moving it to one of the main exchanges li
 
 <p><em>“Running a publicly accessible host always requires security measures – the same security rules   which apply for a VPS also apply for a home-run Pi (e.g. enable firewall and disable remote root login).”</em></p>
 
-<p>And in the event that your home network is breached, your 1,000 Dash collateral is still safe, as neither a Pi nor a VPS ever stores your <a href="https://www.weusecoins.com/bitcoin-private-keys-entropy/">private keys</a>.</p>
+<p>And in the event that your home network is breached, your 1,000 Dash collateral is still safe, as neither a Pi nor a VPS ever stores your <a href="/bitcoin-private-keys-entropy/">private keys</a>.</p>
 
 <b>Fringe Benefits</b>
 
@@ -466,7 +466,7 @@ If you’ve already purchased Bitcoin, moving it to one of the main exchanges li
 
 <p>The simplest and most general hardware available for mining is the general purpose CPU present in every computer. A CPU is designed to be versatile but offers less efficiency than a GPU, which is designed to rapidly calculate millions of vectors in parallel. While specific CPU instruction enhancements related to cryptography such as AES or AVX can provide a decent boost, GPUs offer a significant performance increase due to their multiple pipelines for predictable calculations of the type involved with mining. </p>
 
-<p>Finally, ASICs can perform a single operation only. A number of X11 ASICs are now available on the market, which are quickly making <a href="https://www.weusecoins.com/all-about-cryptocoin-mining/">CPU and GPU mining</a> uneconomic due to the increased difficulty of hashing arising from the rapidly increasing hash rate. The result is a currency which is more secure against brute force attacks on the Dash blockchain.</p>
+<p>Finally, ASICs can perform a single operation only. A number of X11 ASICs are now available on the market, which are quickly making <a href="/all-about-cryptocoin-mining/">CPU and GPU mining</a> uneconomic due to the increased difficulty of hashing arising from the rapidly increasing hash rate. The result is a currency which is more secure against brute force attacks on the Dash blockchain.</p>
 
 <h4>Mining versus Masternodes</h4>
 
