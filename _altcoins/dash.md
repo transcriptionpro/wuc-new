@@ -23,6 +23,8 @@ summary: Dash is a next-generation digital currency based on the Bitcoin softwar
 
 <h2 id="what">What Is Dash?</h2>
 
+<p><center><img src="/images/dash.png" alt="what is dashcoin"></center>
+  
 <p>Dash (DASH) is a <a href="/video-about-nodes-bitcoin-and-dash/">next-generation digital currency</a> based on the <a href="/video-qa-earn-bitcoins-instead-of-buying-them/">Bitcoin software</a>.</p>
 
 <center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="dash" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
