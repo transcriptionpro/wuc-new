@@ -540,7 +540,7 @@ If you’ve already purchased Bitcoin, moving it to one of the main exchanges li
 
 <p>Next, open Notepad and type in on one line the command we will use to start the miner, followed by pause on the second line. The general format is as follows:</p>
 
-<p><code><minerd> -a <algorithm> -o <url> -u <username> -p <password> -t <threads></code></p>
+<p>minerd -a algorithm -o url -u username -p password -t threads</p>
 
 <p><code>pause</code></p>
 
@@ -698,3 +698,4 @@ https://github.com/KlausT/ccminer/releases (similar to SP version, more clean)
 
 <p>-#dash_support_desk channel at the Dash Nation Slack (public, cummunity-driven Slack, you can sign up here)
 -Official forum : /forum/topic/12-1-support.125/</p>
+
