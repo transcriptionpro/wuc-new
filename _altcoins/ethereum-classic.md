@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What Is Ethereum Classic?
 name: Ethereum Classic
 description: What Is Ethereum Classic?
@@ -28,7 +29,7 @@ summary: Ethereum Classic is an open-source, peer-to-peer, computing platform ba
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/QIFDX6J3vbY" frameborder="0" allowfullscreen></iframe></center>
 
 If you are familiar with <a href="/video-the-economics-of-digital-currencies/">digital currency</a>, there is no reason that you don’t have any opinion about this matter. This is the both ideological and ethical battle between Ethereum and Ethereum Classic. It is so important to know and learn first the history of the two before drawing some conclusions on their differences.
-
+{% include page-toc.html %}
 A ton of things expected to occur for us to touch base in this guess. Thus, how about we dial back the checks and look at probably the most basic focuses in not simply <a href="/what-is-ethereum/">Ethereum history</a>, but rather digital currency when all is said in done.
 
 <h4>The DAO Foundation</h4>
@@ -94,7 +95,7 @@ What does that mean? Assume you are running MS Excel 2005 on your tablet and you
 Be that as it may, having said that there is a distinction. Every one of the updates that you can appreciate in the more up to date form won't be unmistakable to you in the more seasoned variant. 
 
 Backpedaling to our MS Excel relationship once more, assume there is a component which permits to put in GIFs in the spreadsheet in the 2015 form, you won't see those GIFs in the 2005 rendition. So essentially, you will see all content however won't see the GIF. 
-
+{% include page-toc.html %}
 That is fundamentally what Ethereum intended to do with their blockchain, a soft fork wherein it's your decision whether you need to refresh or not, but rather in any case the refreshed clients and the non-refreshed clients could in any case connect with each other. 
 
 The thought was to totally secure the ether that was stolen by the programmer by disregarding and isolating any obstructs that contain an exchange which will enable the programmer to move around their stolen ether. 
@@ -158,7 +159,7 @@ Yet, having said that, as we have specified some time recently, there is one iss
 Like we have specified some time recently, the development of ETH conflicts with the possibility of the changelessness of the blockchain and the reasoning of "code being law." according to against ETH people, the hardfork was a cop out from Ethereum, and they ought to have acknowledged the fundamental blockchain for what it was. 
 
 Another issue that was raised was how was anybody going to know for beyond any doubt that not any more hard forks would occur later on subject to human impulses? Imagine a scenario where there are numerous hard forks making diverse forms of Ethereum. 
-
+{% include page-toc.html %}
 Consider the possibility that there are several distinct variants of Ethereum running in the meantime. Won't that incredibly cheapen it and cryptographic money when all is said in done? (Despite the fact that a dominant part vote of the Ethereum people group would be required to roll out such momentous improvements).
 
 Let’s list out the pros and cons of both Ethereum Classic & Ethereum
@@ -236,7 +237,7 @@ Investing in Ethereum Classic is as simple as buying and holding some Classic Et
 Install an Ethereum Classic wallet. Wallets that can access the Ethereum Classic blockchain are often able to access the Ethereum blockchain as well. Make sure you set it up correctly or you might end up sending ETC to the wrong user.
 
 Get the recipient’s <a href="/video-recap-june-28-2017-with-jesse-couch/">wallet address</a>. The recipient of ETC will give you a public key address, either as a string of numbers and letters, or as a QR code which you can scan with your phone.
-
+{% include page-toc.html %}
 Enter the value to send. After agreeing upon an amount to send, enter the value of ETC into your wallet, ensuring that you have the required amount of funds available.
 
 Send the money. After pressing “Send” (or the equivalent button in your wallet), the ETC amount will be deducted from your wallet and added to the recipient’s. The transaction should appear immediately, but it might take about a minute to verify completely.
@@ -356,7 +357,7 @@ The Ledger Nano S and The Ledger Bue manage Ethers (ETH and ETC) tokens. It work
 This application is an account manager, where you can send and receive Ethereum transactions and check your balance.
 
 The only way to open it is to connect your Nano S or Blue, make your PIN code and launch the Ethereum app on your device. Without the device, the app won't launch.
-
+{% include page-toc.html %}
 You'll then have to choose on your computer between Ethereum and Ethereum Classic. Please be careful to choose the right wallet as it would be difficult - but not impossible - to recover tokens sent on the wrong account.
 
 For each sending transaction, your application will ask you to verify it on your device: your device will display the amount, recipient address and gas rate you will have to manually sign by confirming everything is alright on the device.
@@ -503,6 +504,7 @@ Ethereum & Ethereum Classic hashing speed using 6x Sapphire Nitro+ RX 470 4GB ca
 <center><img src="/images/mining-etc-04.jpg" alt="mining etc" /></center>
 
 2A. Mining with Claymore’s miner, 1% dev fee
+{% include page-toc.html %}
 <ul>
 <li>download Claymore’s miner v7.4 https://mega.nz/#F!O4YA2JgD!n2b4iSHQDruEsYUvTQP5_w</li>
 <li>once downloaded extract its contents</li>
