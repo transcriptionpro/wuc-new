@@ -27,7 +27,7 @@ summary: Ethereum Classic is an open-source, peer-to-peer, computing platform ba
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/QIFDX6J3vbY" frameborder="0" allowfullscreen></iframe></center>
 
-If you are familiar with <a href="https://www.weusecoins.com/video-the-economics-of-digital-currencies/">digital currency</a>, there is no reason that you don’t have any opinion about this matter. This is the both ideological and ethical battle between Ethereum and Ethereum Classic. It is so important to know and learn first the history of the two before drawing some conclusions on their differences.
+If you are familiar with <a href="/video-the-economics-of-digital-currencies/">digital currency</a>, there is no reason that you don’t have any opinion about this matter. This is the both ideological and ethical battle between Ethereum and Ethereum Classic. It is so important to know and learn first the history of the two before drawing some conclusions on their differences.
 
 A ton of things expected to occur for us to touch base in this guess. Thus, how about we dial back the checks and look at probably the most basic focuses in not simply <a href="/what-is-ethereum/">Ethereum history</a>, but rather digital currency when all is said in done.
 
@@ -35,11 +35,11 @@ A ton of things expected to occur for us to touch base in this guess. Thus, how 
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/kUCDq1cGezk" frameborder="0" allowfullscreen></iframe></center>
 
-The whole ecosystem of Ethereum deals with the premise of <a href="https://www.weusecoins.com/video-ethereum-and-smart-contracts/">smart contracts</a>. For the uninitiated, smart contracts are fundamentally how things complete in the Ethereum eco-framework. To place it in layman terms, smart contracts are mechanized contracts that authorize and encourage the terms of the agreement itself. 
+The whole ecosystem of Ethereum deals with the premise of <a href="/video-ethereum-and-smart-contracts/">smart contracts</a>. For the uninitiated, smart contracts are fundamentally how things complete in the Ethereum eco-framework. To place it in layman terms, smart contracts are mechanized contracts that authorize and encourage the terms of the agreement itself. 
 
 The DAO otherwise known as the Decentralized Autonomous Organization was a perplexing smart contract which would alter Ethereum for eternity. It was essentially going to be a decentralized investment subsidize which would finance all future DAPPS made in the eco-framework. 
 
-The way it worked was truly clear. On the off chance that you needed to have any say toward the path DAPPS that would get financed, at that point you would need to purchase "DAO Tokens" for a specific measure of Ether. The DAO tokens were markers that you are presently authoritatively part of the <a href="https://www.weusecoins.com/kraken-dao-trading/">DAO framework</a>. 
+The way it worked was truly clear. On the off chance that you needed to have any say toward the path DAPPS that would get financed, at that point you would need to purchase "DAO Tokens" for a specific measure of Ether. The DAO tokens were markers that you are presently authoritatively part of the <a href="/kraken-dao-trading/">DAO framework</a>. 
 
 Anyway, how were DAPPS going to get endorsed and constructed? All things considered, right off the bat they have to get whitelisted by the guardians, who have essentially known nonentities in the Ethereum world. In the wake of getting their blessing, they will get voted on by the DAO token holders. On the off chance that the proposition gets a 20% endorsement in the vote, at that point they will get the expected assets to begin. 
 
@@ -47,11 +47,11 @@ The capability of the DAO and the adaptability, control and finish straightforwa
 
 You may ponder, that is all great however how can one leave the DAO? Imagine a scenario in which some DAPP gets affirmed that you are not an immense devotee of, how would you quit the DAO at that point. 
 
-To empower this, a leave entryway was made called the "Part Function." Using this capacity, you would get back the ether you have contributed and, on the off chance that you so wanted, you could even make your own "Child DAO." actually, you could separate from with various DAO token holders and make your own <a href="https://www.weusecoins.com/video-dao-refund/">Child DAO</a> and begin tolerating recommendations. 
+To empower this, a leave entryway was made called the "Part Function." Using this capacity, you would get back the ether you have contributed and, on the off chance that you so wanted, you could even make your own "Child DAO." actually, you could separate from with various DAO token holders and make your own <a href="/video-dao-refund/">Child DAO</a> and begin tolerating recommendations. 
 
 There was one condition in the agreement, be that as it may, in the wake of dividing from the DAO you would need to clutch your ether for 28 days before you could spend them. So everything looks pleasant and spiffy for the time bein...aside from, there was one little issue. Many people saw this conceivable escape clause and pointed it out. 
 
-The DAO makers guaranteed this was not going to be a major issue. The main thing is, it was, and that made the whole tempest that split Ethereum into <a href="https://www.weusecoins.com/video-will-ethereum-pass-bitcoin/">Ethereum and Ethereum Classic</a>. 
+The DAO makers guaranteed this was not going to be a major issue. The main thing is, it was, and that made the whole tempest that split Ethereum into <a href="/video-will-ethereum-pass-bitcoin/">Ethereum and Ethereum Classic</a>. 
 
 <h4>The DAO Attack</h4>
 
@@ -73,7 +73,7 @@ As Gavin Wood, the fellow benefactor of Ethereum puts it, reprimanding Ethereum 
 
 Presently, while Ethereum is in no shape or frame to fault for what occurred with the DAO, in any case, the occurrence smashed the convictions that individuals had in digital currency all in all. The cost of ether dove from $20 to $13, and individuals were straightforwardly praising. 
 
-Despite the fact that the programmer took away $50 million worth on Ether, it was all the while sitting in the kid DAO, and he couldn't yet get to them on the grounds that the DAO smart contract unequivocally expressed that any of the contributed ether removed from the DAO wouldn't be available for 28 days. In light of this the <a href="https://www.weusecoins.com/video-ethereum-private-blockchain/">Ethereum people group</a> and group chose to make a move and three potential arrangements were called attention to: 
+Despite the fact that the programmer took away $50 million worth on Ether, it was all the while sitting in the kid DAO, and he couldn't yet get to them on the grounds that the DAO smart contract unequivocally expressed that any of the contributed ether removed from the DAO wouldn't be available for 28 days. In light of this the <a href="/video-ethereum-private-blockchain/">Ethereum people group</a> and group chose to make a move and three potential arrangements were called attention to: 
 <ul>
 <li>No one Does Anything. </li>
 <li>Soft Fork. </li>
@@ -109,11 +109,11 @@ The mineworkers would then be able to take a seat and execute these calculations
 
 So additional tedious and troublesome the calculation, the more Gas they gather, and in the meantime, the Attacker should spend their very own great deal cash to make these assaults. 
 
-However, what happens is, the minute this <a href="https://www.weusecoins.com/uasf-guide/">soft fork</a> gets executed the assailant will discover a circled this framework. Presently the assailant can surge the system with exchanges which interface with the DAO and influence the excavators to do perpetual complex calculations for practically zero Gas cost and at no fiscal cost to the aggressor. 
+However, what happens is, the minute this <a href="/uasf-guide/">soft fork</a> gets executed the assailant will discover a circled this framework. Presently the assailant can surge the system with exchanges which interface with the DAO and influence the excavators to do perpetual complex calculations for practically zero Gas cost and at no fiscal cost to the aggressor. 
 
 Actually, the assailant can even trap the mineworkers into tackling a malevolent calculation by setting a high Gas cost. 
 
-What this implied was that the delicate fork was not a no go. This implied there was just a single path for the Ethereum people group to go and that was the <a href="https://www.weusecoins.com/video-segwit-vs-btu/">"Hard Fork." </a>
+What this implied was that the delicate fork was not a no go. This implied there was just a single path for the Ethereum people group to go and that was the <a href="/video-segwit-vs-btu/">"Hard Fork." </a>
 
 <h4>What Is A Hard Fork? </h4>
 
@@ -125,7 +125,7 @@ All in all, for what reason did individuals stay with an old chain when all the 
 
 You see when Ethereum, and digital money all in all, was presented, it should be a position against budgetary debasement. The motivation behind why the blockchain was made permanent was that they needed the framework to be strong against human impulses. 
 
-This is the reason, to <a href="https://www.weusecoins.com/video-store-your-bitcoin-ethereum-dash/">numerous ETC sympathizers</a>, the hard fork is an advantageous cop-out, on the off chance that you are changing the whole chain by one hack then that totally invalidates the point of Ethereum in any case. You are demonstrating that the blockchain can be influenced by human impulses. 
+This is the reason, to <a href="/video-store-your-bitcoin-ethereum-dash/">numerous ETC sympathizers</a>, the hard fork is an advantageous cop-out, on the off chance that you are changing the whole chain by one hack then that totally invalidates the point of Ethereum in any case. You are demonstrating that the blockchain can be influenced by human impulses. 
 
 What's more, this has resounded with a considerable measure of "crypto-optimists." Some quite enormous hitters like Barry Silbert, the CEO of Grayscale, have become behind ETC. 
 
@@ -135,11 +135,11 @@ Presently every one of that sounds well and great, however there are a few issue
 
 The fundamental issue with the ETC is the absence of in reverse similarity with the Ethereum Hard Fork. Every one of the heavyweights of the Ethereum people group have proceeded onward to the new chain, which implies that any individual who is a piece of the ETC won't have the capacity to get to any of the updates done by the ETH. 
 
-The ideal illustration is ETH's turn from <a href="https://www.weusecoins.com/video-immutability-proof-of-work/">Proof Of Work (PoW)</a> To <a href="https://www.weusecoins.com/video-proof-of-work-vs-proof-of-stake/">Proof of Stake (PoS)</a>. And so forth won't have the capacity to actualize that on the grounds that their product just doesn't permit the utilization of updates. 
+The ideal illustration is ETH's turn from <a href="/video-immutability-proof-of-work/">Proof Of Work (PoW)</a> To <a href="/video-proof-of-work-vs-proof-of-stake/">Proof of Stake (PoS)</a>. And so forth won't have the capacity to actualize that on the grounds that their product just doesn't permit the utilization of updates. 
 
 In any case, progressively that is not the finish of it; there are significantly more loathsome issues with ETC some of which verges on connivance. Many view ETC as an assault against Ethereum itself. 
 
-What does that mean? Post <a href="https://www.weusecoins.com/video-hard-fork-defined/">hard fork</a> when the group was part and powerless, many say that the counter Ethereum camp transparently bolstered ETC, just to cause disturbance in the group. Significantly more, noticeable bloggers like David Seaman have announced that "Great is an uncertain vagrant chain being advanced in a way that would be unlawful if Ethereum were a traded on an open market organization, which it could in the end be." 
+What does that mean? Post <a href="/video-hard-fork-defined/">hard fork</a> when the group was part and powerless, many say that the counter Ethereum camp transparently bolstered ETC, just to cause disturbance in the group. Significantly more, noticeable bloggers like David Seaman have announced that "Great is an uncertain vagrant chain being advanced in a way that would be unlawful if Ethereum were a traded on an open market organization, which it could in the end be." 
 
 <h4>Ethereum Hard Fork otherwise known as ETH </h4>
 
@@ -147,9 +147,9 @@ ETH is the aftereffect of the hard fork and what is presently viewed as the "new
 <ul>
 <li>The market cap for ETH as of now remains at a stunning $24 billion and is right now the second most costly digital money on the planet behind bitcoin. </li>
 
-<li>ETH is the new <a href="https://www.weusecoins.com/how-to-buy-ether/">type of Ethereum</a>, regardless of what the spoilers say. The first overwhelming hitters are all piece of the framework, and ETH additionally happens to be the one experiencing the most progressive changes (like the previously mentioned change from POW to POS). ETH was shaped for one reason and one reason alone – to restore the assets stolen by "the DAO aggressor" back to the legitimate proprietors. </li>
+<li>ETH is the new <a href="/how-to-buy-ether/">type of Ethereum</a>, regardless of what the spoilers say. The first overwhelming hitters are all piece of the framework, and ETH additionally happens to be the one experiencing the most progressive changes (like the previously mentioned change from POW to POS). ETH was shaped for one reason and one reason alone – to restore the assets stolen by "the DAO aggressor" back to the legitimate proprietors. </li>
 
-<li>ETH speaks to far beyond what it seems, by all accounts, to be at first glance; it speaks to a triumph for the Ethereum people group. They met up in the wake of confronting the most noticeably bad hack in <a href="https://www.weusecoins.com/video-qa-migrating-to-post-quantum-cryptography/">cryptographic money history</a>, stuck together and made something that is more grounded than its antecedent. </li>
+<li>ETH speaks to far beyond what it seems, by all accounts, to be at first glance; it speaks to a triumph for the Ethereum people group. They met up in the wake of confronting the most noticeably bad hack in <a href="/video-qa-migrating-to-post-quantum-cryptography/">cryptographic money history</a>, stuck together and made something that is more grounded than its antecedent. </li>
 </ul>
 Yet, having said that, as we have specified some time recently, there is one issue with ETH, and as indicated by Pro-ETC fans, it is an ideological one. 
 
@@ -207,7 +207,7 @@ The estimation of any money originates from the assume that individuals has on i
 
 For ETC, lamentably, the same can't be said. According to the general population, ETC is continually going to be odd one out of the Ethereum family. Starting at this moment, ETH is about 15 times more profitable than ETC, and it truly wouldn't improve. 
 
-Besides, the way that <a href="https://www.weusecoins.com/video-debate-ether-vs-ether-classic/">ETC is known to be loaded with con artists</a> just lessens the assume that individuals have in it, which thusly decreases its esteem. Is it accurate to say that we are stating that it is going to totally vanish from the market? No. 
+Besides, the way that <a href="/video-debate-ether-vs-ether-classic/">ETC is known to be loaded with con artists</a> just lessens the assume that individuals have in it, which thusly decreases its esteem. Is it accurate to say that we are stating that it is going to totally vanish from the market? No. 
 
 Is it accurate to say that we are stating that it doesn't have much development potential? Possibly, perhaps not. The delightful thing about the blockchain space is… as Milton Fridman said "Free pick" 
 
@@ -235,7 +235,7 @@ Investing in Ethereum Classic is as simple as buying and holding some Classic Et
 
 Install an Ethereum Classic wallet. Wallets that can access the Ethereum Classic blockchain are often able to access the Ethereum blockchain as well. Make sure you set it up correctly or you might end up sending ETC to the wrong user.
 
-Get the recipient’s <a href="https://www.weusecoins.com/video-recap-june-28-2017-with-jesse-couch/">wallet address</a>. The recipient of ETC will give you a public key address, either as a string of numbers and letters, or as a QR code which you can scan with your phone.
+Get the recipient’s <a href="/video-recap-june-28-2017-with-jesse-couch/">wallet address</a>. The recipient of ETC will give you a public key address, either as a string of numbers and letters, or as a QR code which you can scan with your phone.
 
 Enter the value to send. After agreeing upon an amount to send, enter the value of ETC into your wallet, ensuring that you have the required amount of funds available.
 
@@ -262,7 +262,7 @@ Creating an account using the GUI Mist Ethereum wallet couldn’t be easier. In 
 
 <h4>Creating a Multi-Signature Wallet in Mist</h4>
 
-The <a href="https://www.weusecoins.com/ethereum-wallets/">Mist Ethereum wallet</a> has an option to secure your wallet balance with a multisig wallet. The advantage of using a multisig wallet is that it requires authorization from more than one account to withdrawal larger amounts from your balance. Before you can create a multisig wallet, you’ll need to create more than one account.
+The <a href="/ethereum-wallets/">Mist Ethereum wallet</a> has an option to secure your wallet balance with a multisig wallet. The advantage of using a multisig wallet is that it requires authorization from more than one account to withdrawal larger amounts from your balance. Before you can create a multisig wallet, you’ll need to create more than one account.
 
 It’s very easy to create account files in Mist. In the ‘Accounts’ section click ‘Add Account’. Pick a strong yet easy-to-remember password (remember there is no password recovery option), confirm it, and your account is created. Create at least 2 accounts. 
 
@@ -296,7 +296,7 @@ Now all you need to do is backup the ‘Ethereum-Wallet-Address.txt’ file the 
 
 If you are restoring from backup, simply copy the files inside the ‘Ethereum-keystore-backup’ folder over into the ‘keystore’ folder mentioned in the first section of this walkthrough. FYI, you may need to create the ‘keystore’ folder if it’s a brand new install of Mist on a machine it was never installed on before (the first time you create an account is when this folder is created). 
 
-As for restoring a multisig wallet, instead of choosing <a href="https://www.weusecoins.com/how-to-use-multisig-armory-lockbox-with-coinkite/">‘Multisignature Wallet Contract’</a> like we did before when creating it, we merely choose ‘Import Wallet’ instead.
+As for restoring a multisig wallet, instead of choosing <a href="/how-to-use-multisig-armory-lockbox-with-coinkite/">‘Multisignature Wallet Contract’</a> like we did before when creating it, we merely choose ‘Import Wallet’ instead.
 
 <h4>Ledger For Ethereum Classic</h4>
 
@@ -304,7 +304,7 @@ The Ledger Nano S and The Ledger Bue manage Ethers (ETH and ETC) tokens. It work
 
 <h4>The Nano and the HW.1 don't support Ethereum.</h4>
 
-1. install the <a href="https://www.weusecoins.com/video-trezor-vs-ledger/">Ledger Wallet Ethereum</a> application on your computer 
+1. install the <a href="/video-trezor-vs-ledger/">Ledger Wallet Ethereum</a> application on your computer 
 <ul>
 <li>Go to this page and click on the "GET THE APP" green button</li>
 <li>Download the Ledger Wallet Ethereum application</li>
