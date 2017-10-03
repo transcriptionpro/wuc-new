@@ -1,5 +1,6 @@
 ---
 title: What Is OmiseGo?
+name: OmiseGo
 description: What Is OmiseGo?
 author: WeUseCoins
 authorurl: /
