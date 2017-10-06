@@ -43,7 +43,7 @@ category: altcoin
 <li><b>Seize</b> your edge. You are ahead of most with Bitcoin knowledge and opportunities for continuous financial growth. </li>
 <li><b>Secure</b> your future by gaining quick profit growth for tomorrow that is practical and attainable. </li>
 <li><b>Lock</b> in your security by taking control of your finances with a safe and easy way to ensure success. BitConnects POW/POS (Proof of Stake) protection keeps BitConnect decentralized. All transactions are performed directly between the users and not a centralized third party. </li>
-<ul>
+</ul>
 
 <p>On an overall level, you can impel yourself into a promising and lucrative future rapidly. <a href="/bitcoin-venture-investing/">Cryptographic money</a> with BitConnect is made to benefit you. The way toward winding up some portion of the BitConnect people group is straightforward. </p>
 
