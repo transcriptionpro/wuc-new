@@ -38,11 +38,11 @@ category: altcoin
 
 <ul>
 <li><b>Empower</b> yourself within open source platform connecting you socially and financially to a secure protected community of investors and lenders. </li>
-< li ><b>Boost</b> your finances with the BitConnect Coin investment tool with the maximum coin limitation of 28 million. </li>
-< li ><b>Connect</b> with your community and increase your wallet when your coin price increases exponentially allowing you to gain interest toward a bright future. </li>
-< li ><b>Seize</b> your edge. You are ahead of most with Bitcoin knowledge and opportunities for continuous financial growth. </li>
-< li ><b>Secure</b> your future by gaining quick profit growth for tomorrow that is practical and attainable. </li>
-< li ><b>Lock</b> in your security by taking control of your finances with a safe and easy way to ensure success. BitConnects POW/POS (Proof of Stake) protection keeps BitConnect decentralized. All transactions are performed directly between the users and not a centralized third party. </li>
+<li><b>Boost</b> your finances with the BitConnect Coin investment tool with the maximum coin limitation of 28 million. </li>
+<li><b>Connect</b> with your community and increase your wallet when your coin price increases exponentially allowing you to gain interest toward a bright future. </li>
+<li><b>Seize</b> your edge. You are ahead of most with Bitcoin knowledge and opportunities for continuous financial growth. </li>
+<li><b>Secure</b> your future by gaining quick profit growth for tomorrow that is practical and attainable. </li>
+<li><b>Lock</b> in your security by taking control of your finances with a safe and easy way to ensure success. BitConnects POW/POS (Proof of Stake) protection keeps BitConnect decentralized. All transactions are performed directly between the users and not a centralized third party. </li>
 <ul>
 
 <p>On an overall level, you can impel yourself into a promising and lucrative future rapidly. <a href="/bitcoin-venture-investing/">Cryptographic money</a> with BitConnect is made to benefit you. The way toward winding up some portion of the BitConnect people group is straightforward. </p>
