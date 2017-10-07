@@ -158,6 +158,7 @@ There will be 100 million total coins, 51% of the tokens available for sale to t
 <p>You can’t mine Qtum but instead earn tokens through trading.</p>
 
 <h2 id="latest">Latest Qtum News</h2>
+<center><img src=”/images/qtum-team.jpg” alt=”qtum team” /></center>
 
 <p>Qtum Community & Development Updates Week of September 25th-October 2nd</p>
 
