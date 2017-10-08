@@ -36,7 +36,7 @@ category: appcoin
 
 <p>Furthermore, Qtum aims to establish an array of services, designed to bridge the still existing gap between blockchains and the business world. These include tools and methods to standardize the workflow of <a href="/video-ethereum-all-time-high-price-and-developments/">business smart contract development</a> and a hub of tested and verified smart contract templates, addressing various specialized business use cases.</p>
 
-<center><img src=”/images/qtum-specification.jpg” alt=”qtum specification” /></center>
+<center><img src="/images/qtum-specification.jpg" alt="qtum specification" /></center>
 
 <h2 id="getting">Getting Started With Qtum</h2>
 
@@ -158,7 +158,6 @@ category: appcoin
 <p>You can’t mine Qtum but instead earn tokens through trading.</p>
 
 <h2 id="latest">Latest Qtum News</h2>
-<center><img src=”/images/qtum-team.jpg” alt=”qtum team” /></center>
 
 <p>Qtum Community & Development Updates Week of September 25th-October 2nd</p>
 
