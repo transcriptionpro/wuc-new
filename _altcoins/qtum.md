@@ -27,7 +27,7 @@ category: altcoin
 <p>Qtum is an <a href="/video-what-is-blockchain-technology/">open source Blockchain project</a> that is developed by the Singapore-based Qtum Foundation. Qtum is a hybrid blockchain application platform. Qtum’s core technology combines a fork of bitcoin core, an <a href="/video-survive-on-the-virtual-currency/">Account Abstraction Layer</a> allowing for multiple Virtual Machines including the Ethereum Virtual Machine (EVM) and Proof-of-Stake consensus aimed at tackling industry use cases. We believe this will allow <a href="/video-ethereum-and-smart-contracts/">Smart Contracts</a> and <a href="/making-decentralized-economic-policy/">Decentralized Applications</a> to run on a familiar foundation, while offering a robust environment for developers. </p>
 
 <p>The underlying technology uses an “Account Abstract Layer”, which acts as a bridge between the EVM and the Unspent Transaction Output model of Bitcoin Core.  There will be Oracles and Datafeed functionality, allowing developers to create <a href="/video-a-million-killer-apps-part-1/">Smart Contracts</a> built around trusted sources of information.</p>
-
+{% include page-toc.html %}
 <p>The Qtum Foundation plans to be the public blockchain for business. Development efforts will allow us to market this platform to var">ious industries, such as: Mobile Telecommunications, Counterfeit Protection, Finance, Industrial Logistics (shipping, warranty, etc), and Manufacturing.</p>
 
 <p>Qtum provides a Turing-complete blockchain stack, able to execute smart contracts and decentralized applications, comparable to the Ethereum blockchain. However, in contrasts to Ethereum, Qtum is built upon Bitcoin’s well-established UTXO transaction model and employs a Proof-of-stake consensus mechanism that is more practical for business adoption. These augmentations have far-reaching implications for the Qtum blockchain.</p>
@@ -71,7 +71,7 @@ category: altcoin
 <h4>Account Abstraction Layer</h4>
 
 <p>Qtum extends Bitcoins 'Script' language so that it functions as a vehicle to transport code to Qtum’s version of the EVM. With this, it is now possible to execute smart contracts and run decentralized applications, simply and securely, in environments that were previously out of reach for <a href="/blockchain-explained-for-normal-people/">turing-complete blockchains</a>, combining the endless possibilities provided by smart contracts with the stability and maturity of the bitcoin ecosystem.</p>
-
+{% include page-toc.html %}
 <h4>Cross Platform and Backward Compatibility</h4>
 
 <p>Qtum is compatible with existing Ethereum contracts as well as Bitcoin gateways, and will maintain backward-compatibility even if the system is updated.</p>
@@ -134,7 +134,7 @@ category: altcoin
 <p>By implementing the Bitcoin Improvement Protocols, and making use of the <a href="/video-will-ethereum-pass-bitcoin/">Ethereum Virtual Machine</a>, <a href="/video-digital-currency-mainstream/">digital currency</a> enthusiasts can finally agree on one platform that will offer stability and direction.</p>
 
 <p>The account model is similar to a bank account. Each party has a balance and can subtract a portion of their balance to increase the balance of another party in order to send money. This model is conceptually very simple to understand. </p>
-
+{% include page-toc.html %}
 <p>However, to make this work in a blockchain environment many pieces of logic must be added to avoid “double spending”, spending the same funds twice. This logic makes the account model less simple internally, and adds a number of restrictions.</p>
 
 <p>The UTXO model on the other hand is similar to having an ecosystem built on bank checks (without an actual bank account, the check itself is the money). There is a “pay to” field which in our example provides instructions to how the money must be spent, and each check has an amount. You can not go to cash the check and say “cash half the check and give me half back”. </p>
@@ -150,8 +150,8 @@ category: altcoin
 <h2 id="spend">Where To Spend Qtum?</h2>
 
 <p>The Crowd Sale will last for 30 days. It starts March 16th 2017 at 12PM GMT, and ends April 15th 2017 12PM GMT.</p>
-
-There will be 100 million total coins, 51% of the tokens available for sale to the public.  The other 49% is broken down as per the Economy Whitepaper, found at https://qtum.org/whitepaper
+{% include page-toc.html %}
+<p>There will be 100 million total coins, 51% of the tokens available for sale to the public.  The other 49% is broken down as per the Economy Whitepaper, found at https://qtum.org/whitepaper</p>
 
 <h2 id="mining">What Is Qtum Mining?</h2>
 
