@@ -15,7 +15,7 @@ published: true
 
 <p>So we should begin with the principal name on our rundown, that is: </p>
 
-<h4>Litecoin</h4>: 
+<h4>Litecoin: </h4>
 
 <p>Propelled in 2011, <a href="/what-is-litecoin/">Litecoin</a> is frequently alluded to as 'silver to Bitcoin's gold.' Charlie Lee - MIT graduate and previous specialist at Google - is the originator of Litecoin. </p>
 
