@@ -5,6 +5,7 @@ name: IOTA
 author: WeUseCoins
 authorurl: /
 published: true
+permalink: /what-is-iota/
 toc: 
   what: What Is IOTA?
   getting: Getting Started With IOTA
