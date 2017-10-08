@@ -27,7 +27,7 @@ category: altcoin
 
 <p>As such it has <a href="/why-blocksize-limit-keeps-bitcoin-free-decentralized/">no Blocks</a>, no Chain and also no Miners. Because of this radical new architecture, things in IOTA work quite differently compared to other <a href="/blockchain-explained-for-normal-people/">Blockchains</a>.</p>
 
-<center><img src="/images/ what-is-iota-01.jpg" alt="what is iota"></center>
+<center><img src="/images/what-is-iota-01.jpg" alt="what is iota"></center>
 
 <p>The major difference that is worth mentioning (apart from the DAG vs. Blockchain) is how IOTA achieves consensus and how transactions are made. As mentioned previously, there are no miners. What this means is that each participant in the network that wants to <a href="/confidential-transactions/">make a transaction</a> has to actively participate in the consensus of the network by approving 2 past transactions. </p>
 {% include page-toc.html %}
@@ -63,13 +63,13 @@ category: altcoin
 
 <p>Unlike Bitcoin which uses a blockchain architecture for maintaining it’s ledger, IOTA uses the ‘Tangle’ which is a Directed Acyclic Graph, known as a DAG. In summary the Tangle solves both the scalability and transaction fee issues faced by Bitcoin (And most cryptocurrencies) by requiring the Sender in a transaction to perform a kind of proof of work which approves two transactions. </p>
 
-<center><img src="/images/ what-is-iota-02.jpg" alt="what is iota"></center>
+<center><img src="/images/what-is-iota-02.jpg" alt="what is iota"></center>
 
 <p>Thus, the act of making a transaction and validating transactions are coupled. This removes dedicated miners and makes the system fully decenteralised – those making transactions (the systems ‘users’) are the only actors who can affect the system (whereas in bitcoin miners are not ‘using’ the system, rather they are simply enabling it to operate).</p>
 
 <p>The remarkable result is that in IOTA, the network transaction speed INCREASES as the number of users increases (as opposed to blockchain cryptocurrencies which get slower with increased numbers of users).  It also eliminates the need for users to <a href="/video-mining-bitcoin-and-genesis-mining/">pay ‘miners’</a> for doing the proof of work (because they do it themselves). Thus there is no Fee to make a transaction!</p>
 
-<center><img src="/images/ what-is-iota-03.jpg" alt="what is iota"></center>
+<center><img src="/images/what-is-iota-03.jpg" alt="what is iota"></center>
 
 <p>So far, so good. IOTA looks to be Fee less and scalable. This alone makes IOTA incredibly promising as a technology for a huge number of applications.</p>
 
