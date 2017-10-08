@@ -4,6 +4,7 @@ seotitle: Ronald Ernest Paul
 img: /images/ron-paul.jpg
 name: Ronald Ernest Paul
 position: US Representative
+permalink: /ron-paul/
 education: Doctor of Medicine degree from Duke University's School of Medicine in 1961
 experience: US Representative
 short_desc: Ronald Ernest Paul is an American author, physician, and former politician.
