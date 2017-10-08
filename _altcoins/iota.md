@@ -1,7 +1,7 @@
 ---
 title: What Is IOTA?
 description: What Is IOTA?
-name: Iota
+name: IOTA
 author: WeUseCoins
 authorurl: /
 published: true
@@ -16,7 +16,7 @@ toc:
   mining: What Is IOTA Mining?
   latest: Latest IOTA News
 img: iota.png
-category: altcoin
+category: appcoin
 ---
 
 <h2 id="what">What Is IOTA?</h2>
