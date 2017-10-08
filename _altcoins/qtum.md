@@ -17,7 +17,7 @@ toc:
   mining: What Is Qtum?
   latest: Latest Qtum News
 img: qtum.png
-category: altcoin
+category: appcoin
 ---
 
 <h2 id="what">Qtum?</h2>
