@@ -17,7 +17,7 @@ toc:
   mining: What Is Lisk Mining?
   latest: Latest Lisk News
 img: lisk.png
-category: altcoin
+category: appcoin
 ---
 
 <h2 id="what">What Is Lisk?</h2>
