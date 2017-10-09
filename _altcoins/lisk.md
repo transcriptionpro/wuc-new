@@ -542,7 +542,7 @@ JSON
 
 <center><img src="/images/lisk-block-transaction.jpg" alt="lisk block transaction type"></center>
 
-<h4>Transaction Signing/h4>
+<h4>Transaction Signing</h4>
 
 <p>Every transaction, regardless of the type, must be signed by the sender prior to being accepted by the network. The process of signing the transaction is identical for every transaction. First, a data block representing the transaction must be generated. </p>
 
