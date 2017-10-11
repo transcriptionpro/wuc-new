@@ -92,7 +92,7 @@ The main use cases of OmiseGo:
 
 <p>Through the OmiseGO arrange associated with the Ethereum mainnet, anybody will have the capacity to lead money related exchanges, for example, installments, settlements, finance store, B2B business, production network fund, unwaveringness programs, resource administration and exchanging, and other on-request benefits, in a totally decentralized and reasonable way. </p>
 {% include page-toc.html %}
-<p>Further, a huge number of standard clients in the biggest developing economies on the planet will be empowered to make the change from utilizing fiat cash to utilizing decentralized monetary standards, for example, </a href="/what-is-ethereum/">ETH</a>, <a href="/what-is-bitcoin/">BTC</a>, and others. </p>
+<p>Further, a huge number of standard clients in the biggest developing economies on the planet will be empowered to make the change from utilizing fiat cash to utilizing decentralized monetary standards, for example, <a href="/what-is-ethereum/">ETH</a>, <a href="/what-is-bitcoin/">BTC</a>, and others. </p>
 
 <p>The OmiseGO organize is characteristically freethinker amongst fiat and decentralized cash: the extent that appropriation and use go, the framework is built with the goal that the best monetary forms will win.</p>
 <ul>
@@ -139,7 +139,7 @@ The main use cases of OmiseGo:
 
 <p>Bittrex is a marketplace in which most widely accepted altcoins are traded. For now, we’re just going to create an account — so go to the Bittrex registration page.</p>
 
-<center><img src="/images/ bittrex-sign-up-01.png" alt="omisego bittrex signup" /></center>
+<center><img src="/images/bittrex-sign-up-01.png" alt="omisego bittrex signup" /></center>
 
 <p>3. Buy Some Bitcoin on Coinbase</p>
 
@@ -181,7 +181,7 @@ Go to the Accounts tab on <a href="http://geni.us/coinbase">Coinbase</a>
 <li>Paste the wallet address that you have generated & copied from Bittrex</li>
 <li>Select the amount of Bitcoin you wish to transfer, then send it!</li>
 </ul>
-<li>
+</li>
 </ul>
 
 <p>The transfer usually takes around 30min to an hour.  It should show up as pending on Bittrex within 5-10 minutes.</p>
@@ -192,7 +192,7 @@ Go to the Accounts tab on <a href="http://geni.us/coinbase">Coinbase</a>
 
 <p>Time to shine, pal!  Navigate to the OMG market page (Bitcoin Market | Ethereum Market):</p>
 
-<center><img src="/images/ bid_omisego.png" alt="omisego coinbase signup" /></center>
+<center><img src="/images/bid_omisego.png" alt="omisego coinbase signup" /></center>
 
 <p>Twist & turn the nobs until you’re happy, then buy OmiseGo!</p>
 
