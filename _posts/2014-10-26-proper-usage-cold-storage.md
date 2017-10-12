@@ -3,7 +3,7 @@ layout: post
 title: Andy O'Fiesh - Proper Usage of Cold Storage
 description: Andy O'Fiesh - Proper Usage of Cold Storage
 author: Andy O'Fiesh
-authorurl: /andy-ofiesh-bitcoin-security-expert /
+authorurl: /andy-ofiesh-bitcoin-security-expert/
 published: true
 ---
 
