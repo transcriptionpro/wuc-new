@@ -3,7 +3,7 @@ layout: post
 title: Andy O'Fiesh - Bitcoin Wallets, Public Keys, Private Keys, Entropy and Bitcoin Security
 description: Andy O'Fiesh - Bitcoin Wallets, Public Keys, Private Keys, Entropy and Bitcoin Security
 author: Andy O'Fiesh
-authorurl: /andy-ofiesh-bitcoin-security-expert /
+authorurl: /andy-ofiesh-bitcoin-security-expert/
 published: true
 ---
 
