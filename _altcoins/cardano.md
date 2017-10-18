@@ -91,6 +91,8 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 
 <h4>PROOF OF STAKE</h4>
 
+<center><img src="/images/cardano-pos.jpg" alt="cardano pos"></center>
+
 <p>Using proof of stake for a cryptocurrency is a hotly debated design choice, however because it adds a mechanism to introduce secure voting, has more capacity to scale, and permits more exotic incentive schemes, we decided to embrace it.</p>
 
 <p>Our proof of stake protocol is called Ouroboros and it has been designed by an extremely talented team of cryptographers from five academic institutions2 led by Professor Aggelos Kiayias of the University of Edinburgh. The core innovation it brings beyond being proven secure using a rigorous cryptographic model is a modular and flexible design that allows for the composition of many protocols to enhance functionality.</p>
@@ -124,6 +126,8 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 <p>It can and should be argued that many of these disagreements, and the fracturing of the community that results when action is taken, are a direct result of a lack of formal processes for debating change.</p>
 
 <p>Where does one go to convince Bitcoin users to adopt Segregated Witness? How should the core developers of Ethereum measure community sentiment for bailing out the DAO? If the community fractures, is the cryptocurrency damaged beyond repair?</p>
+
+<center><img src="/images/cardano-coin-01.jpg" alt="cardano coin"></center>
 
 <p>In the worst cases, moral authority to act could simply devolve to whoever has the developers, infrastructural relationships and money, not the best wishes of the vast majority of the community. Furthermore, if a large portion of the community is inaccessible or disengaged due to bad incentives4, then how can one truly know if their acts are legitimate?</p>
 
@@ -186,6 +190,8 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 <p>Therefore, we have chosen to design a new language called Simon6 in honor of its creator Simon Thompson and the creator of the concepts that inspired it, Simon Peyton Jones. Simon is a domain-specific language that is based upon Composing contracts: an adventure in financial engineering.</p>
 
 <p>The principal idea is that <a href="/video-mining-bitcoin-and-genesis-mining/">financial transactions</a> are generally composed from a collection of foundational elements7. If one assembles a financial periodic table of elements, then one can provide support for an arbitrarily large set of compound transactions that will cover most, if not all, common transaction types without requiring general programmability.</p>
+
+<center><img src="/images/cardano-script.jpg" alt="cardano coin"></center>
 
 <p>The primary advantage is that <a href="/video-payment-security-consumer-protection/">security and execution</a> can be extremely well understood. Proofs can be written to show correctness of templates and exhaust the execution space of problematic transaction events, such as the creation of new money out of thin air or transaction malleability. Second, one can leave in extensions to add more elements by way of soft forks if new functionality is required.</p>
 
@@ -265,6 +271,8 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 
 <p>The challenge with the design of all current cryptocurrencies is that they actually are not designed to be scalable. Blockchains, for example, are usually an append-only linked list of blocks. The security and availability of a <a href="/how-to-verify-paypal-with-debit-card-in-spectrocoin/">blockchain protocol</a> relies upon many nodes possessing a full copy of the blockchain data. Thus, a single byte of data must be replicated among N nodes. Additional nodes do not provide additional resources.</p>
 
+<center><img src="/images/cardano-scalability.jpg" alt="cardano coin"></center>
+
 <p>This result is the same for transaction processing and the gossiping of messages throughout the system. Adding more nodes to the consensus system does not provide additional transaction processing power. It just means more resources have to be spent to do the same job. More network relaying meaning more nodes have to pass the same messages to keep the whole network in synchronization with the most current block.</p>
 
 <p>Given this topology, cryptocurrencies cannot scale to a global network on par with legacy financial systems. In contrast, legacy infrastructure is scalable and has orders of magnitude for more processing and storage power. Adding a specific point, Bitcoin is a very small network relative to its payment peers, yet struggles to manage its current load.</p>
@@ -302,6 +310,8 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 <p>The key insight in this case is that there is consent, encapsulation of liability and privacy. CSL is being used as a digital commons for users to meet and communicate — like a park would host a private event — but does not provide any special accommodations or facilitation. Furthermore, the use of special purpose MPC will enable low latency interaction without the need for blockchain bloat. Thus, it improves the scale of the system.</p>
 
 <p>Cardano’s research efforts towards this library are centralized at our Tokyo Tech laboratory with some assistance from scientists abroad. We call the library “Tartaglia” after a fellow mathematician as well as contemporary of Cardano and expect the first iteration to be available in Q1 of 2018.</p>
+
+<center><img src="/images/cardano-computation.jpg" alt="cardano coin"></center>
 
 <p>In the second case, one needs a blockchain with a virtual machine, a set of consensus nodes and a mechanism to enable communication between the two chains. We have begun the process of rigorously formalizing the Ethereum Virtual Machine using the K-framework12 in partnership with a team from the University of Illinois.</p>
 
@@ -377,6 +387,8 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 
 <p>Good software needs accountability, clear business requirements, repeatable processes, thorough testing and tireless iteration. Good software also needs reasonably talented developers with enough domain specific knowledge to properly design a system that can fully resolve whatever problem they are trying to solve.</p>
 
+<center><img src="/images/cardano-iterative.jpg" alt="cardano coin"></center>
+
 <p>As for useful and secure protocols, especially ones involving cryptography and distributed systems, they start in a more academic and standards driven process. Peer review, endless debates and a firm concept of trade offs are necessary to ensure a protocol is useful. Yet these alone are not sufficient, protocols need to be implemented and tested by real life use.</p>
 
 <p>The unique challenge in the cryptocurrency industry is that two completely different philosophies are mangled together without a proper Hegelian synthesis. Our thesis is a “move fast and break things” startup mentality driven by youth, greed and passion. The antithesis is a slow, methodical and academically oriented approach motivated by a desire to solidify the innovations of our space into a nice niche enjoying ample funding and prestige.</p>
@@ -426,6 +438,8 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 <p>For Cardano, the choice came down to Ocaml and Haskell. Ocaml is a wonderful language with a great community, good tooling, reasonable development experience and a great legacy in the formal verification space through Coq23. So why did we choose Haskell?</p>
 
 <h4>WHY HASKELL?</h4>
+
+<center><img src="/images/cardano-haskell.jpg" alt="cardano coin"></center>
 
 <p>The protocols that compose Cardano are distributed, <a href="/bitreserve-review/">bundled with cryptography</a> and require a high degree of fault tolerance. On the best days, there will still be Byzantine actors, malformed messages and faulty clients unintentionally causing some form of havok on the network.</p>
 
