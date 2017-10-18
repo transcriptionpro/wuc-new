@@ -17,6 +17,7 @@ toc:
   latest: Latest Waves News
 img: waves.png
 category: appcoin
+summary: In Waves you can create custom tokens of your own and launch it as your own digital currency. You can also crowd funding and decentralize exchange, as it is in line with the fiat currency like EUR/USD/CNY right in your wallet.
 ---
 
 <h2 id="what">What Is Waves?</h2>

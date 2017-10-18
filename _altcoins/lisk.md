@@ -18,6 +18,7 @@ toc:
   latest: Latest Lisk News
 img: lisk.png
 category: appcoin
+summary: Lisk aims to make Blockchain technology more accessible with an SDK written in JavaScript, special focus on user experience, developer support and in-depth documentation.
 ---
 
 <h2 id="what">What Is Lisk?</h2>

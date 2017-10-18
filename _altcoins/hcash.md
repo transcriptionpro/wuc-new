@@ -18,6 +18,7 @@ toc:
   latest: Latest Hcash News
 img: hcash.png
 category: altcoin
+summary: Hcash is a decentralized and open-source cross platform cryptocurrency, exchange value and data cross platform easily and based on a highly secure and authenticated channel.
 ---
 
 <h2 id="what">What Is Hcash?</h2>

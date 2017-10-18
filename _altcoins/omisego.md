@@ -14,6 +14,7 @@ toc:
   latest: Latest OmiseGo News
 img: omisego.png
 category: altcoin
+summary: OmiseGO was built due to its product called Omise and it is the most common payment management framework / platform in Thailand and any part of the Southeast Asia.
 ---
 
 
