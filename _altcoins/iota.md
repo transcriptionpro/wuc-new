@@ -18,6 +18,7 @@ toc:
   latest: Latest IOTA News
 img: iota.png
 category: appcoin
+summary: IOTA is the next generation and revolutionary new public distributed ledger that utilizes a novel invention, called "Tangle", at its core. The Tangle is a new data structure based on a Directed Acyclic Graph.
 ---
 
 <h2 id="what">What Is IOTA?</h2>
