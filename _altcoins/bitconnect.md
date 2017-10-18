@@ -18,6 +18,7 @@ toc:
   latest: Latest BitConnect News
 img: bitconnect.png
 category: altcoin
+summary: BitConnect Coin is a decentralized digital currency, an open-source and peer-to-peer protocol that allows people to invest their possession in a non-government related currency and stores it and even earn from these investments.
 ---
 
 <h2 id="what">What Is BitConnect?</h2>
