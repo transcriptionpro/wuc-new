@@ -18,6 +18,7 @@ toc:
   latest: Latest Tether News
 img: tether.png
 category: altcoin
+summary: Tether allows you to store, send and receive digital tokens pegged to dollars, euros, and yen person-to-person, globally, instantly, and securely for a fraction of the cost of any alternative.
 ---
 
 <h2 id="what">What Is Tether?</h2>
