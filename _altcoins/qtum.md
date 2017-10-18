@@ -18,6 +18,7 @@ toc:
   latest: Latest Qtum News
 img: qtum.png
 category: appcoin
+summary: Qtum provides a Turing-complete blockchain stack, able to execute smart contracts and decentralized applications, comparable to the Ethereum blockchain.
 ---
 
 <h2 id="what">Qtum?</h2>
