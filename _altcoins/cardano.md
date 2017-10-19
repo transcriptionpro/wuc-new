@@ -17,7 +17,7 @@ toc:
   mining: What Is Cardano Mining?
   latest: Latest Cardano News
 img: cardano.png
-category: altcoin
+category: appcoin
 summary: Cardano will likewise run decentralized applications, or dapps, administrations not controlled by any single gathering but rather work on a blockchain.
 ---
 
