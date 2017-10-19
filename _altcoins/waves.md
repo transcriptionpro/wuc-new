@@ -1,5 +1,6 @@
 ---
 title: What Is Waves?
+name: Waves
 description: What Is Waves?
 author: WeUseCoins
 authorurl: /

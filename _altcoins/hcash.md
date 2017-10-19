@@ -164,7 +164,7 @@ summary: Hcash is a decentralized and open-source cross platform cryptocurrency,
 
 Hcash Exchange Platforms
 
-<center><img src="/images/ hcash-exchanges.jpg" alt="hcash exchanges"></center>
+<center><img src="/images/hcash-exchanges.jpg" alt="hcash exchanges"></center>
 
 <h2 id="mining">What Is Hcash Mining?</h2>
 
