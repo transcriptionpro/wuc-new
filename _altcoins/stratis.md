@@ -298,10 +298,10 @@ This is because our main seednode experienced an unintentional DDoS because of t
 <h2 id="resources">Stratis Resources</h2>
 
 <ul>
-<li><a href="https://www.reddit.com/r/stratisplatform/">Stratis – Reddit</li>
-<li><a href="https://stratisplatform.com/">Stratis Platform</li>
-<li><a href="https://stratisplatform.com/blog/">Stratis Blog</li>
-<li><a href="https://stratis-invite.herokuapp.com/">Join Stratis Slack Channel</li>
+<li><a href="https://www.reddit.com/r/stratisplatform/">Stratis – Reddit</a></li>
+<li><a href="https://stratisplatform.com/">Stratis Platform</a></li>
+<li><a href="https://stratisplatform.com/blog/">Stratis Blog</a></li>
+<li><a href="https://stratis-invite.herokuapp.com/">Join Stratis Slack Channel</a></li>
 </ul>
 
 <h2 id="buy">How To Buy Stratis?</h2>
