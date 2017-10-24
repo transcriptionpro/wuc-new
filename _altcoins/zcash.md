@@ -252,7 +252,7 @@ summary: Zcash is the first open, permissionless cryptocurrency that can fully p
 <br>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/E-4efZ3dgb8" frameborder="0" allowfullscreen></iframe></center>
 <br>
-<iframe width="700" height="394" src="https://www.youtube.com/embed/FC1Kte0vf00" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/FC1Kte0vf00" frameborder="0" allowfullscreen></iframe></center>
 <br>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/MFLuRLcu61s" frameborder="0" allowfullscreen></iframe></center>
 <br>
