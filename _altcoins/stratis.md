@@ -99,15 +99,15 @@ summary: Stratis will act like a blockchain-as-a-service (BAAS) platform for cor
 
 <h2 id="getting">Getting Started With Stratis</h2>
 
-Develop
+<h4>Develop</h4>
 
 <p>The stratis Development Platform allows businesses and organizations to develop blockchain applications in C# utilizing the Microsoft .NET Framework. We can assist you in defining your <a href="/video-qa-fungibility-tied-to-privacy/">blockchain strategy</a> and in integrating our solutions and capabilities according to your business requirements.</p>
 
-Test
+<h4>Test</h4>
 
 <p>The Cloud Stratis platform allows developers to quickly provision full blockchain nodes to test their applications. The Cloud Stratis platform can also provision Blockchain nodes for <a href="/what-is-bitcoin/">Bitcoin</a>, <a href="/what-is-ethereum/">Ethereum</a> and Bitshares, if the developer wants to develop an application specifically for one of these existing blockchains.</p>
 
-Deploy
+<h4>Deploy</h4>
 
 <p>The Cloud Stratis platform allows businesses and organizations to test and deploy their bespoken blockchain-based applications in the cloud, without having to maintain the network or full clients themselves. The implementation of the blockchain can be tailored to their needs and accessed via lite clients or APIs.</p>
 
@@ -349,7 +349,7 @@ This is because our main seednode experienced an unintentional DDoS because of t
 
 <center><img src="/images/buy-stratis-02.jpg" alt="buy stratis"></center>
 
-<p>Currently, only the Ledger Nano S hardware wallet supports Stratis storage. The Nano S is simple to use. It can’t be used for staking Stratis, but it will keep your tokens safe. Currently, with the <a href="/bitcoin-privacy-and-censorship-resistance/">Ledger Nano S</a>, you can secure Stratis, Bitcoin, Ethereum, <a href="/what-is-litecoin/">Litecoin</a>, <a href="/what-is-dogecoin/">Dogecoin</a>, <a href="/what-is-zcash/">Zcash</a>, <a href="/what-is-ripple/">Ripple</a>, and <a href="/what-is-dash/">Dash</a>. <a href="/what-is-monero/">Monero</a> is also coming soon.</p>
+<p>Currently, only the Ledger Nano S hardware wallet supports Stratis storage. The Nano S is simple to use. It can’t be used for staking Stratis, but it will keep your tokens safe. Currently, with the Ledger Nano S, you can secure Stratis, Bitcoin, Ethereum, <a href="/what-is-litecoin/">Litecoin</a>, <a href="/what-is-dogecoin/">Dogecoin</a>, <a href="/what-is-zcash/">Zcash</a>, <a href="/what-is-ripple/">Ripple</a>, and <a href="/what-is-dash/">Dash</a>. <a href="/what-is-monero/">Monero</a> is also coming soon.</p>
 
 <p>You can buy Stratis from anywhere and then transfer it to your Ledger address.</p>
 
@@ -515,7 +515,7 @@ This is because our main seednode experienced an unintentional DDoS because of t
 <li>Improved privacy, randomized input selection</li>
 <li>Fee estimation</li>
 </ul>
-<center><img src="/images/stratis-news-01.jpg" alt="stratis news"></center>
+<center><img src="/images/stratis-new-01.jpg" alt="stratis news"></center>
 
 <p>The Breeze Alpha 1.2 release is scheduled for 23rd October.</p>
 
