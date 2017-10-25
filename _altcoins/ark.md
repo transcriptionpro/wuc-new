@@ -200,7 +200,7 @@ summary: ARK provides users, developers, and startups with innovative blockchain
 
 <p>These 2 first steps are only required once. Now everything is ready to manage your Arkaccount.</p>
  
-<p>3. Once these apps are installed, open your Ark wallet:</p>
+<h4>3. Once these apps are installed, open your Ark wallet:</h4>
 <ul>
 <li>Launch the Ark Client software on your computer</li>
 <li>Open your Ark application on the device itself</li>
@@ -384,7 +384,7 @@ summary: ARK provides users, developers, and startups with innovative blockchain
 <li>For each forged block a delegate gets a reward</li>
 <li>The delegate can decide to pay forward some rewards to his voters</li>
 <li>Read here about the delegation process and here about the forging process.</li>
-<ol>
+</ol>
 
 <p>We think Ark is a very promising project with a strong core team of developers which has the potential to revolutionise the cryptocurrency market.</p>
 
