@@ -276,6 +276,82 @@ summary: Golem is a global, open sourced, decentralized supercomputer that anyon
 
 <p>Any interested party is free to create and deploy software to the Golem network by publishing it to the Application Registry. Together with the Transaction Framework, developers can also extend and customize the payment mechanism resulting in unique mechanisms for monetizing software.</p>
 
+<h4>Jaxx Blockchain Wallet | Mobile - Golem</h4>
+
+<p>Go to app store tap on search and type in the search bar Jaxx Blockchain wallet or click the links above.</p>
+
+<p>Download and install.</p>
+
+<center><img src="/images/golem-jaxx-101.jpg" alt="golem coin"></center>
+
+<p>Now open the wallet. Once you open the wallet, it will ask that Jaxx would like to access the camera (QR code scanning) tap OK.</p>
+
+<center><img src="/images/golem-jaxx-102.jpg" alt="golem coin"></center>
+
+<p>Next, read the release notes then tap CONTINUE.</p>
+
+<center><img src="/images/golem-jaxx-103.jpg" alt="golem coin"></center>
+
+<p>ACCEPT the Jaxx end user license/agreement.</p>
+
+<p>Tap on CREATE NEW WALLET then tap CONTINUE.</p>
+
+<center><img src="/images/golem-jaxx-104.jpg" alt="golem coin"></center>
+
+<p>From the 2 options that we have EXPRESS and CUSTOM, select CUSTOM then tap CONTINUE.</p>
+
+<center><img src="/images/golem-jaxx-105.jpg" alt="golem coin"></center>
+
+<p>Since Jaxx is a multi wallet select all the coins from the menu (make sure you scroll) to get them all, once everything is selected tap on CONTINUE.</p>
+
+<p>Next step is to add a currency, you can select multiple currencies, it’s totally optional and up to you. I would select USD, once you are ready to move on tap on CONTINUE.</p>
+
+<center><img src="/images/golem-jaxx-106.jpg" alt="golem coin"></center>
+
+<p>This is a really important step. Jaxx will ask us “Would you like to backup your wallet now?” Make sure you select “Yes, I understand how Jaxx backup works” and tap on CONTINUE.</p>
+
+<center><img src="/images/golem-jaxx-107.jpg" alt="golem coin"></center>
+
+<p>In the next step, it will show us the 12-word Backup phrase make sure you write them down in the correct order, once you are ready to move on tap NEXT.</p>
+
+<center><img src="/images/golem-jaxx-108.jpg" alt="golem coin"></center>
+
+<p>Type your 12-word backup phrase in the correct order to confirm, then tap NEXT.</p>
+
+<center><img src="/images/golem-jaxx-109.jpg" alt="golem coin"></center>
+
+<p>Next thing we need to do is to set up security pin. Make sure you select “Yes, I understand how Jaxx security pin works” and tap CONTINUE.</p>
+
+<center><img src="/images/golem-jaxx-110.jpg" alt="golem coin"></center>
+
+<p>Type the pin you want and tap CONTINUE. On the next step make sure you verify the PIN.</p>
+
+<center><img src="/images/golem-jaxx-111.jpg" alt="golem coin"></center>
+
+<p>Wait a few seconds until Jaxx wallet is creating an interface. Once we are in your wallet you will notice at the top all the coins are available that we select from the previous step.</p>
+
+<h4>Sending Coins</h4>
+
+<p>Let’s say we want to send BTC to someone. From the menu at the top “BTC” is selected then tap on SEND button.</p>
+
+<p>In receiving address, type the address of the person that you want to send the BTC.</p>
+
+<p>Amount type the amount of the coins you want to send.  end tap the SEND button on the right side.</p>
+
+When you are ready to send tap the SEND button on the right side.
+
+<center><img src="/images/golem-jaxx-112.jpg" alt="golem coin"></center>
+
+<h4>Receiving Coins</h4>
+
+<p>To receive BTC make sure from the top bar, BTC is selected, tap on RECEIVE, you can tap on the small icon next to your address which means it will automatically copy the address for you so you don’t need to manually type it or where it says Amount you can type how many coins you want to receive from the person then tap on the Generate button to generate a link that you can send to your friend so he can directly send you the amount you need.</p>
+
+<center><img src="/images/golem-jaxx-113.jpg" alt="golem coin"></center>
+
+<h4>Transaction History</h4>
+
+<p>To check transactions from the top bar choose BTC and you will notice at the bottom Transaction history will show up and it will list all the transactions you have sent or received.</p>
+
 <h4>Golem Coin On Exodus Wallet</h4>
 
 <canter><iframe width="700" height="394" src="https://www.youtube.com/embed/JoIUiSVWk98" frameborder="0" gesture="media" allowfullscreen></iframe></center>
