@@ -520,7 +520,7 @@ We send you the coins typically within 3 hours of the funds being confirmed by t
 
 <h4>Command Line JUMBLR Released</h4>
 
-<center><img src="/images/komodo-coin-151.jpg" alt="komodo coin"></center>
+<center><img src="/images/komodo-coin-152.jpg" alt="komodo coin"></center>
 
 <p>As the <a href="/popular-cryptocurrency-videos/">barterDEX test team</a> is gathering info on a lot of new coins, there was a lull in bugs found. Instead of just waiting around doing nothing, I decided to put JUMBLR inside komodod. </p>
 
