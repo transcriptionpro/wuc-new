@@ -29,7 +29,7 @@ summary: Cardano will likewise run decentralized applications, or dapps, adminis
 
 <p>Cardano is something other than a digital money, be that as it may, it is an innovative stage that will be fit for running monetary applications as of now utilized each day by people, associations and governments all around the globe.</p>
 {% include page-toc.html %}
-<p>The stage is being developed in layers, which gives the framework the adaptability to be all the more effectively kept up and consider updates by method for delicate forks. After the settlement layer that will run Ada is finished, a different registering layer will be worked to deal with <a href="/video-ethereum-and-smart-contracts/">smart contracts</a>, the advanced legitimate understandings that will support future trade and business. </p>
+<p>The stage is being developed in layers. This gives the framework the adaptability to be all the more effectively kept up and consider updates by method for delicate forks. After the settlement layer that will run Ada is finished, a different registering layer will be worked to deal with <a href="/video-ethereum-and-smart-contracts/">smart contracts</a>, the advanced legitimate understandings that will support future trade and business. </p>
 
 <p>Cardano will likewise run decentralized applications, or dapps, administrations not controlled by any single gathering but rather work on a blockchain.</p>
 
