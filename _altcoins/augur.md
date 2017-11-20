@@ -16,7 +16,7 @@ toc:
   latest: Latest Augur News
 img: augur.png
 category: appcoin
-summary: Augur is a decentralised prediction market to exchange value when forecasting event outcomes based on the 'wisdom of the crowd' principle.
+summary: Augur is a decentralised prediction market to exchange value when forecasting event outcomes based on the wisdom of the crowd principle.
 ---
 
 <h2 id="what">What Is Augur?</h2>
@@ -41,7 +41,7 @@ summary: Augur is a decentralised prediction market to exchange value when forec
 
 <p>The backbone of Augur is tradable tokens called Reputation (REP). The total amount of Reputation is fixed at 11 million coins when it was launched in August 2015. The tokens give the right for individuals to report or weigh in on the outcome of events. It can be earned by people who provide truthful reports. </p>
 
-<p>Additionally, people who submit correct predictions are also awarded a portion of the winnings whereas people who report against the consensus (untruthfully) will lose their REP tokens and earn nothing. Furthermore, the more REP a user has, the more value or trust is assigned to that person's input.</p>
+<p>Additionally, people who submit correct predictions are also awarded a portion of the winnings whereas people who report against the consensus (untruthfully) will lose their <a href="/video-hype-bitcoin-bubble/">REP tokens</a> and earn nothing. Furthermore, the more REP a user has, the more value or trust is assigned to that person's input.</p>
 
 <p>In other words, Reputation tokens are gained and lost depending on the reliability of users votes with the consensus. The Augur Team released an infographic to explain how the Reputation tokens work.</p>
 
@@ -85,7 +85,7 @@ summary: Augur is a decentralised prediction market to exchange value when forec
 
 <p>It is effectively betting however the price of each contract will add of to $1 so if the chance of an outcome happening was even money the contract would cost 50 cents each and you could buy or sell as many as you wanted. The price of a contract will also automatically adjust based on the number of contracts being bought or sold. </p>
 
-<p>Users will also be able to report on outcomes this will earn them reputation and dependant on how much reputation an individual has will depend on how accurate their outcome reports are. Augur is built on the Ethereum blockchain as it will run on smart contracts, there is also talk that it will run alongside the Bitcoin blockchain so that both Ether and Bitcoin are tradeable within Augur.</p>
+<p>Users will also be able to report on outcomes this will earn them reputation and dependant on how much reputation an individual has will depend on how accurate their outcome reports are. Augur is built on the Ethereum blockchain as it will run on smart contracts, there is also talk that it will run alongside the <a href="/what-is-an-application-coin/">Bitcoin blockchain</a> so that both Ether and Bitcoin are tradeable within Augur.</p>
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/sCms-snzHk4" frameborder="0" gesture="media" allowfullscreen></iframe></center>
 
@@ -107,7 +107,7 @@ summary: Augur is a decentralised prediction market to exchange value when forec
 
 <h4>How do I purchase $REP?</h4>
 
-<p>If you missed out on purchasing during the token sale, you can still get your hands on some REP. Reputation is now sold on a number of third party crypto exchanges and markets, including Poloniex, Kraken, Bittrex, Gatecoin, and ShapeShift.</p>
+<p>If you missed out on purchasing during the token sale, you can still get your hands on some REP. Reputation is now sold on a number of <a href="/video-ethereum-name-service-ens-release/">third party crypto exchanges and markets</a>, including Poloniex, Kraken, Bittrex, Gatecoin, and ShapeShift.</p>
 
 <p>Please be careful and weary of OTC trades in Slack groups, Bitcoin forums, etc. It’s suggested to purchase through an exchange for the increased safety of your trade. If you are looking to purchase a large amount, it’s recommended that you get in contact with an Augur team member and we can help point you in the right direction.</p>
 
@@ -189,7 +189,7 @@ summary: Augur is a decentralised prediction market to exchange value when forec
 </ul>
 <h4>Appeal Period</h4>
 
-<p>The last 24 hours of the Reporting Period. When the Appeal Period begins the Augur platform runs the reported data through analysis and determines the current consensus for each expired market. During the appeal period the consensus outcome can be contested by anyone willing to post a contesting bond. </p>
+<p>The last 24 hours of the Reporting Period. When the Appeal Period begins the <a href="/video-ethereum-all-time-high-price-and-developments/">Augur platform</a> runs the reported data through analysis and determines the current consensus for each expired market. During the appeal period the consensus outcome can be contested by anyone willing to post a contesting bond. </p>
 
 <p>Each time a consensus is appealed, a new consensus is obtained from a more reliable and more expensive source. The first appeal increases the number of reporters to every single reporter. </p>
 
@@ -277,7 +277,7 @@ Kraken Trading Augur Reputation Tokens (REP)
 
 <p>For example, a market on the price of Apple with a range of 150 to 250 is more levered than one from 0 to 300. Leverage is when for every dollar you bet your position is equivalent to some lever ratio, so 3–1 leverage means for every dollar your position goes up or down you actually lose 3 or gain 3 dollars. This is in contrast to margin, which is when you are borrowing money or shares to buy or sell. Margin with margin calls is functionally almost the same as leverage in practice.</p>
 
-<p>Once 0x is out later this year or next faster trades and dark pools will be possible. 0x enables partially off chain trading so people can create, modify, and cancel orders quickly without having to post a transaction to Ethereum each time. This’ll also decrease costs for placing and taking orders in general. Dark pools being a desirable thing may come as a surprise, but big whales aren’t going to want to be moving the market by placing super large orders on the book, they’ll prefer dark pools just as they do in traditional financial markets. Proof of stake will help with faster trades as well since block times will decrease by about a factor of 3.</p>
+<p>Once 0x is out later this year or next faster trades and dark pools will be possible. 0x enables partially off chain trading so people can create, modify, and cancel orders quickly without having to post a transaction to Ethereum each time. This’ll also decrease costs for placing and taking orders in general. Dark pools being a desirable thing may come as a surprise, but big whales aren’t going to want to be moving the market by placing super large orders on the book, they’ll prefer dark pools just as they do in traditional financial markets. <a href="/video-thoughts-future-of-money/">Proof of stake</a> will help with faster trades as well since block times will decrease by about a factor of 3.</p>
 
 <p>While the initial version of Augur will have markets denominated in ETH (which although that’ll work fine for short term trading / markets), for longer time horizon events the volatility will be too high. You don’t want to go long “Apple” on Augur, be right about the company, and end up losing money due to Ether volatility. The solution to this is to allow markets to be denominated in stablecoins, or cryptocurrencies that are stable with respect to the dollar or other fiat money. </p>
 
@@ -330,7 +330,7 @@ Kraken Trading Augur Reputation Tokens (REP)
 
 <h4>Announcing the Augur Bounty Program</h4>
 
-<p>Augurs lead developer, Jack Peterson, gave a preview into our bounty program at his talk during Devcon3 this year. Titled “Missing links in the Ethereum development stack”, Jack went on to discuss how the Ethereum development community is in need of additional public tooling.</p>
+<p>Augurs lead developer, Jack Peterson, gave a preview into our bounty program at his talk during Devcon3 this year. Titled “Missing links in the <a href="/what-is-ethereum/">Ethereum development stack</a>”, Jack went on to discuss how the Ethereum development community is in need of additional public tooling.</p>
 
 <p>Four bounties were announced at Devcon3, and now two have been officially scoped out and launched live. These include the “Safe Solidity Solium Rules” and a “Portable Solidity Debugger” for 1,150 REP and 2,000 REP.</p>
 
@@ -343,3 +343,5 @@ Kraken Trading Augur Reputation Tokens (REP)
 <p>The new client is about 50% complete. Our speed of development has improved since the migration. The engineering team has been growing rapidly, and we’re finding employees easier to onboard at this time in the project.</p>
 
 <p>We have a rough timeline scoped out internally for everything necessary to bring us to launch. Over the coming weeks, we will share some of these broken down timelines with you, as well as updating you with our weekly development updates.</p>
+
+
