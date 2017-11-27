@@ -1,8 +1,9 @@
 ---
-title: Why wont Bitfinex/Tether publish already existing Audit reports, as they promise future Bitfinex/Tether Audit reports?
-description: Why wont Bitfinex/Tether publish already existing Audit reports, as they promise future Bitfinex/Tether Audit reports?
-author: WeUseCoins
-authorurl: /
+layout: post
+title: Why Wont Bitfinex/Tether Should Publish Already Existing Reports
+description: Why Wont Bitfinex/Tether Should Publish Already Existing Reports
+author: Melvin Draupnir
+authorurl: /melvin-draupnir/
 published: true
 ---
 
