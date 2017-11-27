@@ -313,6 +313,8 @@ summary: Ardor is a public blockchain platform that will allow people to utilize
 
 <p>The Ardor production software release will be done shortly after the snapshot, with the blockchain scheduled to start exactly on Jan 1, 2018, 00:00:00 UTC.</p>
 
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/lv_PQjy6LqY" frameborder="0" gesture="media" allowfullscreen></iframe></center>
+
 <h4>The IGNIS Token Sale</h4>
 
 <p>The other half of the IGNIS coin supply was partially used by Jelurida to conduct a successful IGNIS Token Sale over a period of three months from Aug 05, 2017- Nov 04, 2017. The ICO generated 167 million NXT which were partially converted to fiat, Bitcoin, and Ardor. </p>
@@ -438,6 +440,8 @@ https://wallet.mynxt.info/</p>
 <p>Others:</p>
 
 <p>Changelly.com/</p>
+
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/mBME6l7xHt8" frameborder="0" gesture="media" allowfullscreen></iframe></center>
 
 <h2 id="latest">Latest Ardor News</h2>
 
