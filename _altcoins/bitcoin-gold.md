@@ -16,7 +16,7 @@ toc:
   mining: What Is Bitcoin Gold Mining?
   latest: Latest Bitcoin Gold News
 img: bitcoin-gold.png
-category: appcoin
+category: altcoin
 summary: The Bitcoin Gold (BTG) initial coin distribution method is almost exactly the same as that used by the Bitcoin Cash fork of August 1. Bitcoin Gold is a free open source project that was created by a small group of Bitcoin enthusiasts from diverse backgrounds.
 ---
 
