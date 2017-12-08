@@ -93,13 +93,13 @@ summary: Litecoin is a peer-to-peer Internet currency that enables instant, near
 
 <p>This wallet is a masterpiece of <a href="/video-what-is-blockchain-technology/">Blockchain assets</a>. It allows you to store multiple cryptocurrencies such as Litecoin, Dash, Bitcoin, Ethereum and many more. </p>
 
-<h4>Jaxx’sLitecoin Wallet</h4>
+<h4>Jaxx’s Litecoin Wallet</h4>
 
 <center><img src="/images/jaxx-litecoin.jpg" alt="what is litecoin"/></center>
 
 <p>This is a cross platform Bitcoin and altcoin wallet. Jaxx works on Desktop and mobile and is very intuitive and easy to use.</p>
 
-<h4<Liteaddress.org’sLitecoin Wallet</h4>
+<h4<Liteaddress.org’s Litecoin Wallet</h4>
 
 <p>Liteaddress.org is a straightforward administration that will create a Litecoin key and address for you. You would then be able to print the key and address and securely store Litecoins disconnected. Due the majority of the robberies that have happened with Bitcoins and online wallets, many individuals now like to store coins disconnected. This administration is certainly justified regardless of a look in the event that you are searching for an approach to effectively store Bitcoins disconnected. Read this post to see how to make a 99.9% safe paper wallet.</p>
 
@@ -191,28 +191,28 @@ summary: Litecoin is a peer-to-peer Internet currency that enables instant, near
 
 <p>Critical: Make beyond any doubt you don't overwrite your wallet.dat record that is put away safely on your thumb drive. To be sheltered, reinforcement the same wallet.dat document on more than one thumb drive just on the off chance that something happens to the principle. At that point keep your thumb drive some place safe and you don't need to stress over scrambling it. </p>
 
-<h5>Tips </h5>
+<h5>Tips</h5>
 
 <p>You can keep utilizing your online wallet for everyday exchanging, except just store a sum important for exchanging. What's more, once in a while, you can move coins into your investment account which is your secured wallet on the bootable thumb drive. So you will have a genuine feelings of serenity knowing nobody can access to your investment funds while you were sleeping and the main path for somebody to take your coins, will be to take your physical wallet which is your thumb drive.</p>
 
 <h2 id="resources">Litecoin Resources</h2>
 
-<p><a href="www.Litecoin.com">www.Litecoin.com</a> - The official website of Litecoin, where you can download your own digital wallet.</p>
+<p><a href="https://litecoin.com/">Litecoin</a> - The official Litecoin website and where you can download a Litecoin wallet.</p>
 <p></p>
 
-<p><a href="www.Litecoin.info">www.Litecoin.info</a> - An informative Wikipedia style site packed with everything you would want to know about Litecoin.</p>
+<p><a href="http://www.litecointalk.org/">www.Litecointalk.org</a> - The official Litecoin forums which contains guides on buying, selling and mining Litecoins, plus technical support and general discussions.</p>
 <p></p>
 
-<p><a href="www.Litecointalk.org">www.Litecointalk.org</a> - The official Litecoin forums, containing guides on buying, selling and mining Litecoins, plus technical support and general discussions.</p>
+<p><a href="https://www.reddit.com/r/litecoin/">Litecoin Sub-Reddit</a> - A Reddit community of Litecoin fans which post and discuss the latest Litecoin news.</p>
 <p></p>
 
-<p><a href="www.reddit.com/r/Litecoin">www.reddit.com/r/Litecoin</a> - A community of Litecoin fans which post and discuss the latest Litecoin news.</p>
+<p><a href="https://litecoin.org/">Litecoin</a> - A community dedicated to the promotion of Litecoin.</p>
 <p></p>
 
-<p><a href="www.Litecoinassociation.org">www.Litecoinassociation.org</a> - A community dedicated to the promotion of Litecoin.</p>
+<p><a href="https://litecoin-foundation.org/">Litecoin Foundation</a> - A foundation dedicated to the promotion of Litecoin.</p>
 <p></p>
 
-<p><a href="www.btc-e.com">www.btc-e.com</a> - One of the larger trading websites used to buy and sell Litecoins.</p>
+<p><a href="https://www.kraken.com/">Kraken</a> - One of the larger trading websites used to buy and sell Litecoins.</p>
 <p></p>
 
 <h2 id="buy">How To Buy Litecoin?</h2>
@@ -242,9 +242,8 @@ summary: Litecoin is a peer-to-peer Internet currency that enables instant, near
 <p>Anybody with a reserve of Bitcoins can without much of a stretch utilize them to buy Litecoins on various trades: </p>
 
 <ul>
-<li>BTC-e </li>
 <li>Kraken </li>
-<li>Cryptsy </li>
+<li>Bittrex </li>
 <li>Others are recorded on the Litecoin Wiki. </li>
 </ul>
 
@@ -252,11 +251,10 @@ summary: Litecoin is a peer-to-peer Internet currency that enables instant, near
 
 <p>There are around two dozen Litecoin trades, however the greater part of them just permit BTC/LTC changes, influencing the purchasing to process lumbering. </p>
 
-<p>BTC-E, Bitfinex, Crypto-Trade and <a href="/best-bitcoin-exchange/">Kraken</a> offer Litecoins for euros, dollars and roubles, however accessibility relies upon your area. For instance, UK investors can purchase Litecoins specifically from Bittylicious and BitBargain with a residential managing an account exchange, however this is not the situation in many nations. Australians can change over to and from AUD at CoinSpot. </p>
+<p>Bitfinex, Crypto-Trade and <a href="/best-bitcoin-exchange/">Kraken</a> offer Litecoins for euros, dollars and roubles, however accessibility relies upon your area. For instance, UK investors can purchase Litecoins specifically from Bittylicious and BitBargain with a residential managing an account exchange, however this is not the situation in many nations. Australians can change over to and from AUD at CoinSpot. </p>
 
 <p>You can purchase Litecoins for fiat on these trades: </p>
 <ul>
-<li>BTC-e </li>
 <li>Bitfinex </li>
 <li>Kraken </li>
 <li>BitBargain UK </li>
