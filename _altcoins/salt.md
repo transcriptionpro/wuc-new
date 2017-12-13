@@ -91,7 +91,7 @@ summary: SALT lets you leverage your blockchain assets to secure cash loans. We 
 
 <p>Each SALT is representative of a membership to the SALT Lending Platform. The token is an ERC20 smart contract.</p>
 
-<p>The <a href="/what-is-bitcoin/">Bitcoin (BTC)</a> to US Dollar (USD) or <a href="/what-is-ethereum/">Ether (ETH) to US Dollar (USD) exchange rate is an algorithmically calculated, volume-weighted-average rate taken from multiple sources and adjusted for statistical outliers and inactivity. The exchange rate is determined by SALT based on the aforementioned formula and is publicly displayed at SaltLending.com. </p>
+<p>The <a href="/what-is-bitcoin/">Bitcoin (BTC)</a> to US Dollar (USD) or <a href="/what-is-ethereum/">Ether (ETH)</a> to US Dollar (USD) exchange rate is an algorithmically calculated, volume-weighted-average rate taken from multiple sources and adjusted for statistical outliers and inactivity. The exchange rate is determined by SALT based on the aforementioned formula and is publicly displayed at SaltLending.com. </p>
 
 <p>All Members must be at least eighteen-years-old (18). Individuals over the age of thirteen (13) are eligible for Membership with parental consent. No one under the age of thirteen (13) can become a Member. Parental consent can be obtained by requesting a parental consent form.</p>
 
