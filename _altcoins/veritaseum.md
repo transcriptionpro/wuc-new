@@ -189,6 +189,14 @@ software suite learns, grows, and develops into a fully autonomous entity.</p>
 
 <h2 id="resources">Veritaseum Resources</h2>
 
+<ul>
+<li><a href="http://veritas.veritaseum.com/">Official Website</a></li>
+<li><a href="https://www.facebook.com/reggiemiddletonfintech/?fref=ts">Facebook</a></li>
+<li><a href="https://twitter.com/ReggieMiddleton">Twitter</a></li>
+<li><a href="https://www.youtube.com/channel/UCjVEF7ABJwyzw_8pb5frVmg">YouTube</a></li>
+<li><a href="https://plus.google.com/+ReggieMiddleton-the-Financial-Nostradamus">Google Plus</a></li>
+</ul>
+
 <h2 id="buy">How To Buy Veritaseum?</h2>
 
 <p>If you would like to rent VERI tokens, fill the form in the right panel with Amount, Price, Duration and Expiration. Expiration is not mandatory, by default your offer never expires and you can cancel it before it is accepted. On the top of the form you can also find the current ratio of VERI to ETH. After you fill the form, press Order to create new Offer.</p>
