@@ -16,7 +16,7 @@ website: https://rogerver.com/
 ---
 Roger Ver, sometimes known as _Bitcoin Jesus_ or controversially [Bitcoin Anti-Christ](https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622), is the owner of Bitcoin.com, and an investor in many of the world's largest Bitcoin companies. He started investing in bitcoins in early 2011 and bought his first bitcoins at around $1.00.
 
-Roger is an ex-convict. He was sentenced to 10 months in federal prison for a felony involving selling explosives on Ebay.
+Roger is an ex-convict. He was sentenced to [10 months in federal prison for a felony](https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/verPlea.htm) involving selling explosives on Ebay.
 
 ## BCash
 
@@ -42,9 +42,9 @@ Gavin Andresen and John Matonis both supported Craig Wright's claim of being Sat
 
 ## Bitcoin.com
 
-Ver owns the Bitcoin.com domain name. He originally rented out the domain to Chinese Bitcoin exchange OKCoin. After an argument over payments and terms of the agreements, Ver took back control of the site. 
+Ver owns the Bitcoin.com domain name. He originally rented the domain to Chinese Bitcoin exchange OKCoin. Ver retained control after an argument over payments and terms of the agreements. 
 
-Since then, Ver has updated the Bitcoin.com site to include information on getting started with Bitcoin, a forum and a news section. 
+Since then, Ver has updated the Bitcoin.com site to include information about BCAsh which is the result of a hard fork of the Bitcoin network on 1 Aug 2017.
 
 ## MemoryDealers
 
