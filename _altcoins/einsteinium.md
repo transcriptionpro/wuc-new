@@ -17,7 +17,7 @@ toc:
   latest: Latest Einsteinium News
 img: einsteinium.png
 category: appcoin
-summary: 
+summary: Einsteinium coin is a Bitcoin-like currency with a philanthropic objective of funding scientific research, cutting edge IT and crypto currency projects. Our community members vote on which valuable projects receive funding awards.
 ---
 
 <h2 id="what">What Is Einsteinium?</h2>
