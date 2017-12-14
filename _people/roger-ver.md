@@ -18,6 +18,14 @@ Roger Ver, sometimes known as _Bitcoin Jesus_ or controversially [Bitcoin Anti-C
 
 Roger is an ex-convict. He was sentenced to 10 months in federal prison for a felony involving selling explosives on Ebay.
 
+## BCash
+
+Roger owns and operates Bitcoin.com. He has mostly used this domain to promote BCash which was a result from a hard fork of the Bitcoin network in 1 August 2017.
+
+There have been significant reports of people [losing their funds](https://www.reddit.com/r/Bitcoin/comments/7jl73c/video_roger_ver_rage_quit_interview_bcash/?utm_content=comments&utm_medium=hot&utm_source=reddit&utm_name=Bitcoin) from using the BCash wallet he distributes.
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/oCOjCEth6xI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## Bitcoin Foundation
 
 Roger provided 10,000 bitcoins of funding for the Bitcoin Foundation. The initial board of directors included Gavin Andresen, Mark Karpeles, Charlie Shrem, John Matonis, Peter Vessenes.
@@ -47,8 +55,6 @@ Ver founded MemoryDealers in 1999. The company sells computer hardware, memory, 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/Zm8wNqjmBwg" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/I5clPxjrEIA" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="700" height="394" src="https://www.youtube.com/embed/-7hZ7y7QxTE" frameborder="0" allowfullscreen></iframe>
 
 ## Investments
 
