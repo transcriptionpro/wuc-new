@@ -358,7 +358,7 @@ What Is Siacoin?
 <li>For “Installer Type” click “exe (network).”</li>
 <li>Click “Download.”</li>
 <li>Open the downloaded file and proceed through the installation using the default options.</li>
-<ol>
+</ol>
 <h4>Install OpenCL (for AMD GPUs)</h4>
 
 <p>If you have an AMD GPU, you’ll need OpenCL. It may be installed already, as it is included with many AMD drivers, but to ensure you have the latest version, follow the steps below.</p>
