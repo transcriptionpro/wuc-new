@@ -14,7 +14,7 @@ toc:
   buy: How To Buy Augur?
   mining: What Is Augur Mining?
   latest: Latest Augur News
-img: augur.png
+img: augur.jpg
 category: appcoin
 summary: Augur is a decentralised prediction market to exchange value when forecasting event outcomes based on the wisdom of the crowd principle.
 ---
