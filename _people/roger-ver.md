@@ -14,15 +14,15 @@ residence: Japan
 cats: [ ]
 website: https://rogerver.com/
 ---
-Roger Ver, sometimes known as _Bitcoin Jesus_ or controversially [Bitcoin Anti-Christ](https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622), is the owner of Bitcoin.com, and an investor in many of the world's largest Bitcoin companies. He started investing in bitcoins in early 2011 and bought his first bitcoins at around $1.00.
+Roger Ver, sometimes known as _Bitcoin Jesus_ or controversially [Bitcoin Anti-Christ](https://medium.com/@WhalePanda/roger-ver-from-bitcoin-jesus-to-bitcoin-antichrist-69fc7a17c622) or Bitcoin Judas, is the owner of Bitcoin.com, and an investor in many of the world's largest Bitcoin companies. He started investing in bitcoins in early 2011 and bought his first bitcoins at around $1.00.
 
-Roger is an ex-convict. He was sentenced to [10 months in federal prison for a felony](https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/verPlea.htm) involving selling explosives on Ebay.
+Roger is an ex-convict. He was sentenced to [10 months in federal prison for a felony](https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/verPlea.htm) involving selling explosives on Ebay, storing large quantities in a multi-family apartment building and shipping explosives through the US mail.
 
 ## BCash
 
 Roger owns and operates Bitcoin.com. He has mostly used this domain to promote BCash which was a result from a hard fork of the Bitcoin network in 1 August 2017.
 
-There have been significant reports of people [losing their funds](https://www.reddit.com/r/Bitcoin/comments/7jl73c/video_roger_ver_rage_quit_interview_bcash/?utm_content=comments&utm_medium=hot&utm_source=reddit&utm_name=Bitcoin) from using the BCash wallet he distributes.
+There have been reports of people [losing funds](https://www.reddit.com/r/Bitcoin/comments/7jl73c/video_roger_ver_rage_quit_interview_bcash/?utm_content=comments&utm_medium=hot&utm_source=reddit&utm_name=Bitcoin) from using the BCash wallet Roger Ver distributes.
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/oCOjCEth6xI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -30,15 +30,25 @@ There have been significant reports of people [losing their funds](https://www.r
 
 Roger provided 10,000 bitcoins of funding for the Bitcoin Foundation. The initial board of directors included Gavin Andresen, Mark Karpeles, Charlie Shrem, John Matonis, Peter Vessenes.
 
+### Mark Karpeles
+
 Mark Karpeles was CEO of MtGox when it failed resulting in the loss of about $500 million of client funds and is currently facing felony criminal fraud charges. Shortly before the failure Roger Ver investigated MtGox and found it worthy of his confidence.
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/UP1YsMlrfF0" frameborder="0" allowfullscreen></iframe>
 
-Charlie Shrem founded and ran BitInstant. He later pled guilty in federal court to criminal felony charges and served over a year in a federal penitentiary.
+### Charlie Shrem
+
+Charlie Shrem founded and ran [BitInstant](http://www.bitinstant.com). In 2014 he [pled guilty in federal court to criminal felony charges](https://www.justice.gov/usao-sdny/pr/bitcoin-exchangers-plead-guilty-manhattan-federal-court-connection-sale-approximately-1) and served over a year in a federal penitentiary.
+
+### Peter Vessenes
 
 Peter Vessenes was involved with MtGox through CoinLab to handle all US based customers.
 
+### Gavin Andresen
+
 Gavin Andresen and John Matonis both supported Craig Wright's claim of being Satoshi Nakamoto even though Wright was never able to provide any cryptographic proof.
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/2qLI3VIHuKU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Bitcoin.com
 
@@ -58,7 +68,9 @@ Ver founded MemoryDealers in 1999. The company sells computer hardware, memory, 
 
 ## Investments
 
-In his LinkedIn profile, [Ver claims](https://jp.linkedin.com/in/rogerver) to be the first person in the world to have invested in a Bitcoin startup. A list of his investments can be found below. 
+In his LinkedIn profile, [Ver claims](https://jp.linkedin.com/in/rogerver) to be the first person in the world to have invested in a Bitcoin startup.
+
+A list of investments:
 
 {% for company in site.data.companies %}
 {% if company.investors contains 'Roger Ver' %}
