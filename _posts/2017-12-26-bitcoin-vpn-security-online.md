@@ -30,3 +30,5 @@ published: true
 <p>Antivirus software often feels a bit like a net under a tightrope walker, you hope they will never have to use it but you are glad they have it there. A lot of people use antiviruses to protect their computers and they are often very helpful and can give you great peace of mind, especially if they have special programs dedicated to keeping you safe online. </p>
 
 <p>The main thing to keep in mind is you must make sure it is up to date. An out of date antivirus protection is almost worse than having nothing at all. It can have all kinds of holes and bugs that have been ironed out by a new update. So when it pops up on your screen asking to update make sure to say yes right away.</p>
+
+<center><img src="/images/btc-vpn-security-02.jpg" alt="btc vpn security"></center>
