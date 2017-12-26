@@ -9,7 +9,7 @@ published: true
 
 <p>Staying safe online is becoming tougher and tougher. We are now in a period where cyber-attacks are becoming a part of daily life and which not only affect individuals but whole countries. </p>
 
-<p>Recently it was suggested that North Korea has begun attacking other countries internet systems in order to disrupt and put pressure on their enemies. It was reported by <a href="bbc.co.uk">bbc.co.uk</a> that North Korea were behind and recent wannacry security hack that affected the NHS in the UK and put pressure on services in the United States.</p>
+<p>Recently it was suggested that North Korea has begun attacking other countries internet systems in order to disrupt and put pressure on their enemies. It was reported by <a href="https://www.bbc.co.uk/">bbc.co.uk</a> that North Korea were behind and recent wannacry security hack that affected the NHS in the UK and put pressure on services in the United States.</p>
 
 <p>With so many people trying to steal your details it is very important to ensure that you are taking the relevant precautions to keep your bitcoin wallet as safe as possible. As <a href="/">weusecoins.com</a> always say, bitcoin wallets are incredibly secure, but you can never be too safe with your general data and your online info. </p>
 
