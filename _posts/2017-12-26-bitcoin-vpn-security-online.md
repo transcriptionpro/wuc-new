@@ -9,7 +9,7 @@ published: true
 
 <p>Staying <a href="/bitcoin-security-standards/">safe online</a> is becoming tougher and tougher. We are now in a period where cyber-attacks are becoming a part of daily life and which not only affect individuals but whole countries. </p>
 
-<p>Recently it was suggested that North Korea has begun attacking other countries internet systems in order to disrupt and put pressure on their enemies. It was reported bybbc.co.uk that North Korea were behind and recent wannacry security hack that affected the NHS in the UK and put pressure on services in the United States.</p>
+<p>Recently it was suggested that North Korea has begun attacking other countries internet systems in order to disrupt and put pressure on their enemies. It was reported by bbc.co.uk that North Korea were behind and recent wannacry security hack that affected the NHS in the UK and put pressure on services in the United States.</p>
 
 <p>With so many people trying to steal your details it is very important to ensure that you are taking the relevant precautions to keep your bitcoin wallet as safe as possible. As weusecoins.com always say, <a href="/bitcoin-cold-storage/">bitcoin wallets</a> are incredibly secure, but you can never be too safe with your general data and your online info. </p>
 
@@ -23,7 +23,7 @@ published: true
 
 <p>These networks are regularly unsecure and poorly monitored and could turn your trip to the coffee shop with your laptop into a nightmare. A VPN creates a private network within a public one which acts as a shield, almost like a cover, for your browsing session. </p>
 
-<p>As the VPN market is flooded with options,you can find impartial reviews like securethoughts.com/express-vpn-review/which aims to help you find out whether a certain provider fits your needs. Not only will you learn more about a great VPN but also more about why they are essential to protect you online. They stop other people getting into your private bubble and will lock down any <a href="/confidential-transactions/">bitcoin activity</a> you engage in while on the web.</p>
+<p>As the VPN market is flooded with options,you can find impartial reviews, like at <a href="https://securethoughts.com/express-vpn-review/">Secure Thoughts VPN Reviews</a> which aims to help you find out whether a certain provider fits your needs. Not only will you learn more about a great VPN but also more about why they are essential to protect you online. They stop other people getting into your private bubble and will lock down any <a href="/confidential-transactions/">bitcoin activity</a> you engage in while on the web.</p>
 
 <h4>Make Sure Your Antivirus Is Up To Date</h4>
 
