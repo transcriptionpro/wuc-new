@@ -23,7 +23,7 @@ published: true
 
 <p>These networks are regularly unsecure and poorly monitored and could turn your trip to the coffee shop with your laptop into a nightmare. A VPN creates a private network within a public one which acts as a shield, almost like a cover, for your browsing session. </p>
 
-<p>As the VPN market is flooded with options,you can find impartial reviews, like at <a href="securethoughts.com/express-vpn-review/">Secure Thoughts VPN Reviews</a> which aims to help you find out whether a certain provider fits your needs. Not only will you learn more about a great VPN but also more about why they are essential to protect you online. They stop other people getting into your private bubble and will lock down any bitcoin activity you engage in while on the web.</p>
+<p>As the VPN market is flooded with options,you can find impartial reviews, like at <a href="https://securethoughts.com/express-vpn-review/">securethoughts.com/express-vpn-review/ </a> which aims to help you find out whether a certain provider fits your needs. Not only will you learn more about a great VPN but also more about why they are essential to protect you online. They stop other people getting into your private bubble and will lock down any bitcoin activity you engage in while on the web.</p>
 
 <h4>Make Sure Your Antivirus Is Up To Date</h4>
 
