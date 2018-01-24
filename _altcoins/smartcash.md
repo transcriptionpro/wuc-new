@@ -38,7 +38,7 @@ summary: SmartCash is a community governance, cooperation and growth focused blo
 
 <p>This one is a virtuoso and extremely brilliant course to take as I would see it. Keen Hive is a motivating force program which permits the group or any individual who holds smarts to have a say in regards to the destiny of the blockchain. This can be from how the financial plan for Smart Hives is overseen, to what highlights and applications are created by the head designers and in addition how advancements happen or how the coin is publicized to the majority and in addition speculators. </p>
 
-<center><img src="/images/smartcash-117.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_117.jpg" alt="smartcash"></center>
 
 <p>As a rule, 80% of the new coins are apportioned to Smart Hives which turns into the financial plan and everybody who holds smarts will get the opportunity to present a proposition and additionally vote on as of now submitted recommendations. Once a proposition is acknowledged by the group, the measure of money asked for by the proposition is then expelled from the financial plan and spent on actualizing the proposition, regardless of whether it's improvement, support, or advancement and commercial! I know! How cool is that, huh? </p>
 
@@ -52,7 +52,7 @@ summary: SmartCash is a community governance, cooperation and growth focused blo
 
 <p>Miners just get 5% of the prizes and the rest as I clarified above are put aside for Smart Rewards(15%) and Smart Hives(80%). With a greatest supply of 5 billion coins, so far just around 250 million coins have been mined which is just around 5%! </p>
 
-<center><img src="/images/smartcash-116.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_116.jpg" alt="smartcash"></center>
 
 <p>So as should be obvious, there's a lot of time ahead, with a lot of new coins and spending plan to ensure that SmartCash remains enormously supported until(hopefully) it's turned out to be sufficiently huge that it won't require as much spending plan and financing as it does now. In what manner will the venture oversee after that you may inquire? The appropriate response is straightforward. A similar way customary digital currencies like bitcoin are overseeing now! </p>
 
@@ -100,7 +100,7 @@ summary: SmartCash is a community governance, cooperation and growth focused blo
 
 <h2 id="howto">How To Get A SmartCash Wallet?</h2>
 
-<center><img src="/images/smartcash-101.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_101.jpg" alt="smartcash"></center>
 
 <p>Hi so you heard about Smartcash but don't know were to start first you'll need a wallet and i have already made alot more useful tutorials on my Steemit Page you can checkout HERE.</p>
 
@@ -108,31 +108,31 @@ summary: SmartCash is a community governance, cooperation and growth focused blo
 
 <p><b>Step 2.</b> click get Smartcash</p>
 
-<center><img src="/images/smartcash-102.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_102.jpg" alt="smartcash"></center>
 
 <p><b>Step 3.</b> your page will look like these you'll see the three main operating systems and will need to click the one the suits your needs.</p>
 
-<center><img src="/images/smartcash-103.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_103.jpg" alt="smartcash"></center>
 
 <p><b>Step 4.</b> now you'll see the wallet downloading as a zip in the bottom corner</p>
 
-<center><img src="/images/smartcash-104.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_104.jpg" alt="smartcash"></center>
 
 <p><b>Step 5.</b> once done drag the icon or in your download directory to desktop for ez of use later. rightclick>extract</p>
 
-<center><img src="/images/smartcash-105.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_105.jpg" alt="smartcash"></center>
 
 <p><b>Step 6.</b> now this should appear just hit extract.</p>
 
-<center><img src="/images/smartcash-106.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_106.jpg" alt="smartcash"></center>
 
 <p><b>Step 7.</b> Once extracted a folder with the wallet should open up just open it</p>
 
-<center><img src="/images/smartcash-107.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_107.jpg" alt="smartcash"></center>
 
 <p><b>Step 8.</b> now that you opened your wallet it should look something like this except at the bottom the blockchain is updating which is normal. once done updating your ready to use it and can <a href="/genesis-mining-review/">get started mining</a> with other tutorails on the profile your free to checkout i hope you have enjoyed</p>
 
-<center><img src="/images/smartcash-108.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_108.jpg" alt="smartcash"></center>
 
 <h2 id="resources">SmartCash Resources</h2>
 
@@ -149,7 +149,7 @@ summary: SmartCash is a community governance, cooperation and growth focused blo
 
 <p>You can purchase SmartCash using the following exchanges:</p>
 
-<center><img src="/images/smartcash-109.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_109.jpg" alt="smartcash"></center>
 
 <p>You can also get SmartCash and store into a <a href="https://smartcash.cc/wallets/">wallet</a>.</p>
 
@@ -163,31 +163,31 @@ summary: SmartCash is a community governance, cooperation and growth focused blo
 
 <p><b>1.</b> Go to the SmartCash website and click on 'Get SmartCash'</p>
 
-<center><img src="/images/smartcash-101.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_101.jpg" alt="smartcash"></center>
 
 <p><b>2.</b> Click to download smartcash-qt for MacOs</p>
 
-<center><img src="/images/smartcash-110.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_110.jpg" alt="smartcash"></center>
 
 <p><b>3.</b> Drag and drop the smartcash-qt icon into the Applications folder.</p>
 
-<center><img src="/images/smartcash-111.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_111.jpg" alt="smartcash"></center>
 
 <p><b>4.</b> Go to Applications and right click on SmartCash, then click Open.</p>
 
-<center><img src="/images/smartcash-112.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_112.jpg" alt="smartcash"></center>
 
 <p><b>5.</b> Your Mac will then ask your permission to open Smartcash - click to Open</p>
 
-<center><img src="/images/smartcash-113.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_113.jpg" alt="smartcash"></center>
 
 <p><b>6.</b> <a href="/video-trezor-vs-ledger/">Your wallet</a> will then open and start to sync, this may take some time! If it gets stuck, close wallet and open again.</p>
 
-<center><img src="/images/smartcash-114.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_114.jpg" alt="smartcash"></center>
 
 <p><b>7.</b> And now my wallet is synced and ready to start earning Smartcash!</p>
 
-<center><img src="/images/smartcash-115.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_115.jpg" alt="smartcash"></center>
 
 <p>Now That You Have Your SmartCash Wallet Set Up You Are Ready To Start Earning SmartCash! You Can Earn 40 SmartCash Every Day Just By Tweeting!</p>
 
@@ -244,7 +244,7 @@ summary: SmartCash is a community governance, cooperation and growth focused blo
 
 <p>This event which is being put together by Bitsoko, a Kenyan Blockchain Incubation company is focused on strategizing about how Africa can utilize the immense advantages of the Blockchain. Some of the speakers at the conference include Alakanani Itireleng of Satoshi Centre, Sinclair Skinner of Bitmari, John Wanani of Blockchain Africa Hub, Marc Kenigsberg of Bitcoin Chaser etc.</p>
 
-<center><img src="/images/smartcash-118.jpg" alt="smartcash"></center>
+<center><img src="/images/smartcash_118.jpg" alt="smartcash"></center>
 
 <p>Smartcash’s Presence</p>
 
