@@ -501,7 +501,7 @@ summary: Segwit2x will enact the long-proposed code optimization Segregated Witn
 <li><strong>Seoul Bitcoin Meetup</strong> – <a href="https://medium.com/@seoulbitcoin/statement-on-segwit2x-161db1ad1976" class="external" rel="nofollow" target="_blank">statement</a></li>
 <li><strong>Whalepool</strong> (cryptocurrency trading group) – <a href="https://mobile.twitter.com/whalepool/status/920683444895612928" class="external" rel="nofollow" target="_blank">statement</a></li>
 
-<ul>
+</ul>
 
 <h2 id="mining">What Is Segsit2x Mining?</h2>
 
