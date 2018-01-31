@@ -16,7 +16,7 @@ toc:
   mining: What Is Segwit2x Mining?
   latest: Latest Segwit2x News
 img: segwit2x.png
-category: appcoin
+category: altcoin
 summary: Segwit2x will enact the long-proposed code optimization Segregated Witness (SegWit), which alters how some data is stored on the network.
 ---
 
