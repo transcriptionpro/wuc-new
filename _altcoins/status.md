@@ -76,7 +76,7 @@ summary: Status is an open source messaging platform and mobile interface to int
 <li>Store and control crypto-assets with the built-in Status Wallet.</li>
 </ul>
 
-<h4>`Decentralized Push Notification Market
+<h4>Decentralized Push Notification Market</h4>
 
 <p>Taking a hard stance on decentralization in the client isn’t without its challenges. Due to the peer-to-peer nature of the Ethereum communication subprotocol, Whisper (SHH), simple expected user experiences, such as being notified when a friend has responded to your messages, have to be themselves redesigned in a decentralized context.</p>
 
@@ -364,5 +364,4 @@ summary: Status is an open source messaging platform and mobile interface to int
 <p>We’re already seeing the fruits of our efforts to support this movement. One of our recent initiatives — Status Open Bounty — is quickly becoming a go-to platform for open source projects, connecting talented developers and ambitious organizations. The latest results are promising, including more than 180 bounties posted and 84 bounties completed. To show our commitment to open source development, we’ve pledged USD 1,000,000 to this initiative and issued USD 22,000 for completed bounties already.</p>
 
 <p>The essence of all of our efforts is this: Decentralization is a movement we passionately believe in. It offers a more secure, empowering, efficient Web. Most importantly, a decentralized Web presents economic, political, and, ultimately, social benefits to people all over the world.</p>
-
 
