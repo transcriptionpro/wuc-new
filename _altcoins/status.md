@@ -124,7 +124,7 @@ summary: Status is an open source messaging platform and mobile interface to int
 
 <p>The decentralized messenger will allow users to find each other globally and to transact and communicate with each other with no restrictions.</p>
 
-<center><img src="/images/status-114.jpg" alt="status"></center>
+<center><img src="/images/status-114.JPG" alt="status"></center>
 
 <p>On the Ethereum browser side, Status will be able to run basically any dApp that runs on Mist or MetaMask. So far, there are multiple dApps listed on Status like uPort, Gnosis, Oasis Exchange, Ethlance, Aragon, Etherisc and Ujo. However, Status is completely open source and anyone can list their dApps at will.</p>
 
