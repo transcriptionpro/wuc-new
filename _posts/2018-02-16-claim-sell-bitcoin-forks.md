@@ -1,10 +1,10 @@
 ---
+layout: post
 title: The Basic Guide on How to Claim and Sell Bitcoin Forks
 description: The Basic Guide on How to Claim and Sell Bitcoin Forks
 author: WeUseCoins
 authorurl: /
 published: true
-layout: post
 ---
 
 <p><b>Warning:</b> There are ample risks involved in getting and selling forkcoins as it also needs much advanced knowledge. If you do these steps, it means you are accepting all of the risks involved:</p>
