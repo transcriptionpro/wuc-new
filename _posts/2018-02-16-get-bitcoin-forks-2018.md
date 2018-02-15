@@ -7,7 +7,7 @@ published: true
 layout: post
 ---
 
-<p>Warning: There are ample risks involved in getting and selling forkcoins as it also needs much advanced knowledge. If you do these steps, it means you are accepting all of the risks involved:</p>
+<p><b>Warning:</b> There are ample risks involved in getting and selling forkcoins as it also needs much advanced knowledge. If you do these steps, it means you are accepting all of the risks involved:</p>
 
 <ul>
 <li>Using Bitcoin private keys and disclosing them</li>
@@ -35,7 +35,7 @@ layout: post
 
 <p>Getting all the forks needs you to utilize your Bitcoin wallet private keys, which holds your Bitcoin by the moment the coin was forked. This method can only be effective if and only if you have already transferred your Bitcoin to another wallet and you already have another set of private keys.</p>
 
-<p>Tip: This is a perfect time to move your Bitcoins to a so-called hardware wallet or HW. If you have utilized a HW already, try to get a second one in order to keep your standard of security upon getting!</p>
+<p><b>Tip:</b> This is a perfect time to move your Bitcoins to a so-called hardware wallet or HW. If you have utilized a HW already, try to get a second one in order to keep your standard of security upon getting!</p>
 
 <h4>An Instance of Safe-Getting Process</h4>
 
@@ -45,7 +45,7 @@ layout: post
 
 <p>Since you can never certain of new programs, the only secured method to get forkcoins is to transfer first all your BTC to another wallet – given that the Bitcoin has now been moved safely and can no longer be armed. Once this process is done, there is only one danger remains and that is when a malicious fork tool, service or wallet will utilize your old private keys to get the unclaimed forks in the future. </p>
 
-<p>Reminder: If you are still into Legacy BTC wallet (the addresses start with 1), it is a perfect moment to claim these forks for transferring coins to another wallet called SegWit. As of the moment, the fees are low so it is a perfect time to transfer your coins. Upon doing this will decrease your service fees and equip you to utilize the Lightning Network.</p>
+<p><b>Reminder:</b> If you are still into Legacy BTC wallet (the addresses start with 1), it is a perfect moment to claim these forks for transferring coins to another wallet called SegWit. As of the moment, the fees are low so it is a perfect time to transfer your coins. Upon doing this will decrease your service fees and equip you to utilize the Lightning Network.</p>
 
 <h4>Three Significant Features in Gaining from Bitcoin Forks</h4>
 
@@ -69,7 +69,7 @@ layout: post
 
 <p>There is an extreme differences of prices between Exrates (deposit-enabled) and closed markets.</p>
 
-<p>Note: Opposite to the charting practices of the West, Eastern Exchanges uses red to signify a rising price and blue or green to denote decreasing price. </p>
+<p><b>Note:</b> Opposite to the charting practices of the West, Eastern Exchanges uses red to signify a rising price and blue or green to denote decreasing price. </p>
 
 <h4>Bitcoin Forks in 2018</h4>
 
@@ -151,7 +151,7 @@ layout: post
 <p><strong>Fork Height:</strong> block 501,225 (27/12/2017)</p>
 <p><strong>Reward Ratio:</strong> 1 FBTC for 1 BTC</p>
 
-<p>Note: In order to monitor the future and upcoming forks of BTC as well as altcoins, a comprehensive detailed list on Bitcoin talk is urged. Block height are all listed however no trading markets are noted. </p>
+<p><b>Note:</b> In order to monitor the future and upcoming forks of BTC as well as altcoins, a comprehensive detailed list on Bitcoin talk is urged. Block height are all listed however no trading markets are noted. </p>
 
 <h4>The Step by Step Guide in Getting Bitcoin Forks</h4>
 
@@ -167,7 +167,7 @@ layout: post
 
 <p>Valid addresses as well as combination of private keys should be recorded in spreadsheet or text file for future reference. You can utilize any form of file that enables you to copy, paste and change text simply. The format for recording should be the private key and then the address.</p>
 
-<p>Tip: Additionally, you should number each item and take note of the estimated BTC amount that are present from the date of the earliest fork in which you are eligible for. Providing number for each pair of keys can be very helpful in ordering purposes.</p>
+<p><b>Tip:</b> Additionally, you should number each item and take note of the estimated BTC amount that are present from the date of the earliest fork in which you are eligible for. Providing number for each pair of keys can be very helpful in ordering purposes.</p>
 
 <p>Taking note of the size can be very useful. For instance, you can easily claim the address with the smallest-valued for the purpose of testing or the largest-valued for fast-exchange funding.</p>
 
@@ -257,14 +257,12 @@ layout: post
 
 <p>You can chose to download the script as ZIP file type :</p>
 
-<image here>
-
 <p>It will be a cleaner way to set Python directory path on where you install it.</p>
 
 <p>Going back to the address list you want to claim. By using Bitcoin block exporer you can check it up and find the txid or Transaction ID of the moment before forktime. You have to enter all the Transaction ID into your list. It should look like this : </p>
 
-<p>(Number)</p>
-<p>(Name)</p>
+<p><i>(Number)</i></p>
+<p><i>(Name)</i></p>
 <p>
 <em>TXID [obtainable from block explorer, last transaction before forktime]</em><br>
 <em>Privkey</em><br>
@@ -347,4 +345,11 @@ layout: post
 <center><img src="/images/bitcoin-fork-117.jpg" alt="bitcoin fork 2018"></center>
 
 <p>While this guide was quite exhaustive, I'm certain you may even now have questions. Assuming this is the case, abandon them in the remark area underneath, and I'll do my best to answer them. Glad forking!</p>
+
+
+
+
+
+
+
 
