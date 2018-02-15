@@ -1,6 +1,6 @@
 ---
-title: The Basic Guide on How to Gain and Get Bitcoin Forks in Year 2018
-description: The Basic Guide on How to Gain and Get Bitcoin Forks in Year 2018
+title: The Basic Guide on How to Claim and Sell Bitcoin Forks
+description: The Basic Guide on How to Claim and Sell Bitcoin Forks
 author: WeUseCoins
 authorurl: /
 published: true
