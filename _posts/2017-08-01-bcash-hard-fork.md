@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Post
+title: BCash Hard Fork
 author: Melvin Draupnir
 authorurl: /melvin-draupnir/
 published: true
