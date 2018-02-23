@@ -3,7 +3,7 @@ title: Trade Finance Global - About Page
 seotitle: Trade Finance Global - About Page
 ---
 
-<img src="/images/tfg_logo.png" alt=“Trade Finance Global“ align="center">
+<img src="/images/tfg-logo.png" alt=“Trade Finance Global“ align="center">
 <p><a title=“Trade Finance Global“ href="https://www.tradefinanceglobal.com" target="_blank">Trade Finance Global</a> is the leading information provider and brokerage of trade and structured finance, working with 200+ financiers around the world to help companies big and small trade and grow.</p>
 
 ## Fast & Convenient
