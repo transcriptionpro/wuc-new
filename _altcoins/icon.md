@@ -184,14 +184,14 @@ summary: ICON is a very exciting South Korean venture that plans to act as a uni
 
 <h2 id="resources">ICON Resources</h2>
 <ul>
-<li><a href="">Official Website</a></li>
-<li><a href="">Official Blog</a></li>
-<li><a href="">Twitter</a></li>
-<li><a href="">Facebook</a></li>
-<li><a href="">Telegram</a></li>
-<li><a href="">Github</a></li>
-<li><a href="">Bitcointalk Announcement</a></li>
-<li><a href="">Coinmarketcap</a></li>
+<li><a href="https://icon.foundation/en/">Official Website</a></li>
+<li><a href="https://medium.com/helloiconworld">Official Blog</a></li>
+<li><a href="https://twitter.com/@helloiconworld">Twitter</a></li>
+<li><a href="https://www.facebook.com/helloicon">Facebook</a></li>
+<li><a href="https://t.me/joinchat/Fqw4igkkVmYtj--ZVi-QcA">Telegram</a></li>
+<li><a href="https://github.com/theloopkr/loopchain">Github</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=2115503.0">Bitcointalk Announcement</a></li>
+<li><a href="https://coinmarketcap.com/currencies/icon/">Coinmarketcap</a></li>
 </ul>
 
 <h2 id="buy">How To Buy ICON?</h2>
