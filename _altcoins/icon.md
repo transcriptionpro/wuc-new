@@ -13,7 +13,7 @@ toc:
   resources: ICON Resources 
   buy: How To Buy ICON?
   latest: Latest ICON News
-img: ICON.png
+img: icon.png
 category: appcoin
 summary: ICON is a very exciting South Korean venture that plans to act as a unifying fabric for different blockchain communities, allowing them to interact while maintaining their autonomy.
 ---
