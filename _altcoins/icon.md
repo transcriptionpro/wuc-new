@@ -20,6 +20,8 @@ summary: ICON is a very exciting South Korean venture that plans to act as a uni
 
 <h2 id="what">What Is ICON?</h2>
 
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="icon" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
+
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/4zSRs1OA7hg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 <p>The ICON system is fantastic in that it allows Communities to be almost completely independent. Unlike the Globalist tones of the whitepaper, the system is the opposite of Globalism. Each Community has near autonomy, in that it can have its own currency and sets its own rules, even its own consensus algorithm. Likewise, ICON allows the flexibility to create Communities in various different countries with various different laws and regulations for crypto companies.</p>
