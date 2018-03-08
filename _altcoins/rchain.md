@@ -35,7 +35,7 @@ summary: RChain is a fundamentally new blockchain platform rooted in a formal mo
 
 <p>Imagine if there were a solution that provided the scalability that we all know this sector needs, we’re not talking about 10, 100, or even a thousand transactions being processed per second. What if there was a blockchain that could run a minimum of 40,000 transactions per second with future enhancements that are even higher? </p>
 
-<p>What if there were a secure and fundamentally sound platform, built upon the lessons learned from initial efforts of <a href="/what-is-bitcoin/">Bitcoin and <a href="/what-is-ethereum/">Ethereum</a> that would allow developers of all mediums and categories to build on that platform? What if that platform were built not on proof of work but proof of stake? Yes – we’ve heard the rumors about groups coming out with bits and pieces of those solutions but there simply isn’t one that can promise all that and be less than a year to market.</p>
+<p>What if there were a secure and fundamentally sound platform, built upon the lessons learned from initial efforts of <a href="/what-is-bitcoin/">Bitcoin</a> and <a href="/what-is-ethereum/">Ethereum</a> that would allow developers of all mediums and categories to build on that platform? What if that platform were built not on proof of work but proof of stake? Yes – we’ve heard the rumors about groups coming out with bits and pieces of those solutions but there simply isn’t one that can promise all that and be less than a year to market.</p>
 
 <p>Until now.</p>
 
@@ -147,7 +147,7 @@ summary: RChain is a fundamentally new blockchain platform rooted in a formal mo
 
 <p>Where the bulk of our support will come from is the thousands of other developers that are seeking the next iteration of the blockchain, one that scales, is secure, fast and that they can easily build upon. With a portion of the funds raised from this Private Sale an outreach of domestic and international meet-up’s, hack-a-thons and RChain promotions will ensure that the developer community knows about RChain and its capabilities. As we’ve seen from the many ICO’s and blockchain products that have come before us – publicity can only go so far. The key is to have a strong message but more importantly is to have a strong platform that is being used and has been proven to be the obvious choice out there for the developer world. A set of milestones and goals has been set (see them here) so it will be easy for the community to follow the progress and the adoption that the RChain blockchain is gaining.</p>
 
-<h4>Technology<h4>
+<h4>Technology</h4>
 
 <p>A Turing-complete and Byzantine fault-tolerant, replicated virtual machine:</p>
 
