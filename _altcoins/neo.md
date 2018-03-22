@@ -92,7 +92,7 @@ summary: NEO is the use of blockchain technology and digital identity to digitiz
 	</li>
 </ul>
 
-<h4>NEO Management Model<?h4>
+<h4>NEO Management Model</h4>
 
 <p>NEO has two native tokens, NEO (abbreviated symbol NEO) and NeoGas (abbreviated symbol GAS).</p>
 
@@ -403,11 +403,11 @@ summary: NEO is the use of blockchain technology and digital identity to digitiz
 <p>Buying Bitcoin or Ethereum is particularly easy with methods of payment including credit card, bank transfer, and Skrill. Here is a list of recommended exchanges:</p>
 
 <ul>
-<li>Coinbase</li>
+<li><a href="http://geni.us/coinbase">Coinbase</a></li>
 <li>Changelly</li>
-<li>LocalBitcoin</li>
+<li><a href="http://geni.us/localbitcoins">LocalBitcoin</a></li>
 <li>CEX.IO</li>
-<li>Coinmama</li>
+<li><a href="http://geni.us/coinmama">Coinmama</a></li>
 </ul>
 
 <p>Now, after you purchased Bitcoin or ETH, you can open an account in any of the below exchanges, search for NEO/BTC or ANS/BTC and then apply the transaction.</p>
