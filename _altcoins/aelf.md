@@ -82,11 +82,11 @@ summary: aelf  cryptocurrency is a decentralized cloud computing blockchain proj
 
 <h4>Key objectives of aelf</h4>
 
-<p>- A Highly Customizable OS for Commercial Use - We envision aelf as a highly efficient and customizable OS that will become the "Linux system" for Blockchain. Take Linux as an example–Linux Kernel and various Linux versions constitute the large and successful Linux family. Linux Kernel resolves the most fundamental, critical and time-consuming parts, allowing other developers to make customized systems based on application scenarios and customer needs. This makes Linux the most popular server OS, and it supports all kinds of industries.</p>
+<p><b>A Highly Customizable OS for Commercial Use</b> - We envision aelf as a highly efficient and customizable OS that will become the "Linux system" for Blockchain. Take Linux as an example–Linux Kernel and various Linux versions constitute the large and successful Linux family. Linux Kernel resolves the most fundamental, critical and time-consuming parts, allowing other developers to make customized systems based on application scenarios and customer needs. This makes Linux the most popular server OS, and it supports all kinds of industries.</p>
 
 <p>This same idea has been incorporated into the aelf design. First, we define and implement the aelf Kernel which includes fundamental functions of a Blockchain system, namely the minimum viable Blockchain system. Then, we develop a "shell" as the basic interactive interface for the Core. Users can either use the complete Blockchain OS, or rapidly develop a customized OS based on the Core by redefining the Core through interfaces.</p>
 
-<p>- Cross-Chain Interaction - aelf can interact with Bitcoin, Ethereum, and other Blockchain systems. Cross-chain interaction with mainstream Chains can be realized through messaging. It will also form an endogenous multi-level cross-chain structure based on cross-chain interaction, in order to share digital assets, users and information.</p>
+<p><b>Cross-Chain Interaction</b> - aelf can interact with Bitcoin, Ethereum, and other Blockchain systems. Cross-chain interaction with mainstream Chains can be realized through messaging. It will also form an endogenous multi-level cross-chain structure based on cross-chain interaction, in order to share digital assets, users and information.</p>
 
 <p><b>Performance Improvement</b> - In traditional IT architecture, distributed structure is the most popular solution to debottleneck capability limitation. Blockchain systems should also support distributed parallel processing, the ability to process multiple transactions with non-competing data to improve transaction efficiency. In addition, when one chain has become too complex to be effectively processed, it should be split into parallel Chains to offload the traffic. </p>
 
@@ -303,4 +303,5 @@ Core Approaches to Realize aelf System
 {% include page-toc.html %}
 
 <p>While stabilizing the core we are also planning the next steps. The Kernel is going to be run in a computing cluster (numerous computers together in the same network). As said earlier one of the roles of the Scheduler is to send transactions to be executed by worker machines. In order for this to work we need to design and implement the network layer and the communication protocol for in-cluster communication.</p>
+
 
