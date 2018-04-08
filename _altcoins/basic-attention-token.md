@@ -23,6 +23,8 @@ summary: Basic Attention Token radically improves the efficiency of digital adve
 
 <p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="bat" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
 
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/xDE_ZgAaGIs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
 <p>The Basic Attention Token is the new token for the digital advertising industry. It pays publishers for their content and users for their attention, while providing advertisers with more in return for their ads.</p>
 
 <p>Digital advertising is broken. It is a market filled with middlemen and fraudsters, hurting users, publishers and advertisers. The Basic Attention Token (BAT) was developed to address this. BAT, an ERC20 token built on top of <a href="/what-is-ethereum/">Ethereum</a>, will be the token of utility in a new, decentralized, open source and efficient blockchain-based digital advertising platform.</p> 
