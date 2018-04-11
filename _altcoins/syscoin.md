@@ -20,6 +20,8 @@ summary: Syscoin is a global network, a distributed ledger, a decentralized data
 
 <h2 id="what">What Is Syscoin?</h2>
 
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="syscoin" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
+
 <p>Syscoin is a global network, a distributed ledger, a <a href="/long-live-decentralized-bitcoin/">decentralized database and a blockchain</a>. It is also a cryptocurrency, an altcoin, a digital currency and a tradeable token.</p>
 
 <p>Syscoin is based on a fork of the Bitcoin protocol and is merge-mined with Bitcoin, giving us one of the most secure, stable and scalable networks to ever exist on the planet.</p>
