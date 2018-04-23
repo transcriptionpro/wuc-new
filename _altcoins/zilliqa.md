@@ -175,8 +175,6 @@ summary: Zilliqa can support dApps that require higher transaction rates than th
 
 <p>Smart contracts allow applications to be built on top of the distributed ledger provided by the blockchain storage and consensus. However, today’s mainstream public blockchains are not suitable for running computation-intensive tasks, as any of the computation tasks would have to be repeated at all full nodes for validation. Albeit being secure, such a fully redundant programming model is prohibitively expensive for running large-scale computations. </p>
 
-<center><img src="/images/zilliqa-106.jpg" alt="zilliqa"></center>
-
 <p>With scalability as the main goal of Zilliqa, we propose a new smart contract language that scales much better for a multitude of applications that range from automated auctions, shared economy to financial modelling. The smart contract language in Zilliqa follows a dataflow programming paradigm. In the dataflow programming model, a smart contract is represented by a directed graph. </p>
 
 <p>Nodes in the graph are primitive instructions or operations. Directed arcs between two nodes represent the data dependencies between the operations, i.e., output of the first and the input to the second. A node gets activated (or operational) as soon as all of its inputs are available. This stands in contrast to the classical execution model (as employed in Ethereum), in which an instruction is only executed when the program counter reaches it, regardless of whether or not it can be executed earlier. </p>
