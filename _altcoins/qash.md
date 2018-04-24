@@ -20,6 +20,8 @@ summary: QASH is a crypto token that is designed to be used for all services pro
 
 <h2 id="what">What Is QASH?</h2>
 
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="qash" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
+
 <p>QASH is a <a href="/the-price-of-counterparty-token-multiplies-by-2/">crypto token</a> that is designed to be used for all services provided by the LIQUID PLATFORM and QUOINE’s existing exchange platforms as explained in this content. QASH also can be used as a Crypto Token to pay for any other services provided by other business entities. QUOINE will generally not limit the usage of QASH or the types of business entities that would like to use QASH for their business.</p>
 
 <p>QASH is not intended to constitute a security in any jurisdiction. This white paper is not a solicitation for investment and does not pertain in any way to an offering of securities in any jurisdiction.</p>
