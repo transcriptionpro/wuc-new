@@ -1,3 +1,4 @@
+---
 title: What Is Ethos?
 description: What Is Ethos?
 name: Ethos
