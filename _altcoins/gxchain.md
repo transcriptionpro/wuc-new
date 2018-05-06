@@ -229,7 +229,7 @@ summary: GXChain can help developers to develop applications easily. Compared to
 	<p>&emsp;&emsp;The Ethereum network will run a set of confirmations that will verify the transfer and then it will be available in Binance.</p>
 	<p>&emsp;&emsp;Within a few minutes, you should be able to go to Binance and see that the transaction has started.</p>
 	
-<h4>Trade your Ethereum for GXS</h4.
+<h4>Trade your Ethereum for GXS</h4>.
 
 <p>Once your transfer is complete, your Ethereum will be available for trading.</p>
 <p>Click here to go to the GXS/ETH trading pair.</p>
