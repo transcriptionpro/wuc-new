@@ -71,7 +71,7 @@ summary: The Internet-of-Services (IOS) blockchain is a project out of China tha
 
 <p>Despite its advancements in scale and security, Bitcoin has a few major drawbacks: (1) unlike other modern cryptocurrencies, it takes more than an hour to confirm a transaction according its configuration; (2) it is difficult to develop various applications upon Bitcoin network; (3) the consensus mechanism wastes too much energy, i.e., it costs more than two million dollars per day in electricity. More importantly, earlier works show that Bitcoin-style blockchain must have a sufficiently large interval to retain security.</p>
 
-<center><img src="/images/iostoken-104.jpg" alt="what is iostoken"></center>
+<center><img src="/images/iostoken-104.JPG" alt="what is iostoken"></center>
 
 <p>Therefore, Bitcoin would not be a good replacement for the current centralized system to support day-to-day applications and large transaction volume.</p>
 
