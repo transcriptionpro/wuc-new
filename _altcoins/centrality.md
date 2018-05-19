@@ -571,7 +571,7 @@ summary: Centrality is a venture studio that partners with leading innovators in
 
 <h4>Rewarding CENNZ token holders</h4>
 
-<center><img src="/images/centrality-128.jpg" alt="what is centrality"></center>
+<center><img src="/images/centrality-129.jpg" alt="what is centrality"></center>
 
 <p>Centrality to airdrop SNGX tokens to CENNZ token holders.</p>
 
