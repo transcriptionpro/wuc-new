@@ -349,6 +349,12 @@ cards.</p>
 <li><a href="https://www.youtube.com/watch?v=mu2bOXt34K8">Youtube</a></li>
 </ul>
 
+<h4>Useful Videos</h4>
+
+<center><iframe width="700" height="3394" src="https://www.youtube.com/embed/6DZ_l0oFlMU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/IZDH11cvcHY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
 <h2 id="buy">How To Buy DigixDao?</h2>
 
 <p>The DigixDAO digital money coins offer gold on the Ethereum blockchain. The organization utilizes the blockchain straightforwardness, unchangeability, and consistency by applying it to valuable resources that are physical. Digix has made advances, for example, POA (evidence of-benefit convention) and Digix-Gold-Coins (the DigixDAO coin) on the Ethereum blockchain. </p>
