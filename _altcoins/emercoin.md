@@ -458,7 +458,7 @@ summary: EMC or emercoin (lower case) is the monetary unit of account used for f
 
 <p>No matter what people say, it’s easy to buy Emercoin with a credit card.</p>
 
-<p>Your first step will always be buying Bitcoins or <a href="/what-is-ethereum/">Ethereum with your credit card. They can then be converted to Emercoin.</p>
+<p>Your first step will always be buying Bitcoins or <a href="/what-is-ethereum/">Ethereum</a> with your credit card. They can then be converted to Emercoin.</p>
 
 <p>Follow these steps:</p>
 
