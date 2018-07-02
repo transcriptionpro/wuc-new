@@ -18,8 +18,8 @@ toc:
   latest: Latest BCash News
 img: bcash.jpg
 category: altcoin
-summary: BCash is a fork of Bitcoin that activated on August 1st of 2017 and offers an alternative with a 8 MB blocksize and no Segwit.
-description: BCash or BCC is a that has been created using a fork of the Bitcoin Network.
+summary: BCash is a fork of Bitcoin and considered a scam.
+description: BCash is a fork of Bitcoin and considered a scam because of the confusingly similar name.
 ---
 
 <h2 id="what">What Is BCash?</h2>
