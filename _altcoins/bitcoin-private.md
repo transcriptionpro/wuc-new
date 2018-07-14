@@ -570,8 +570,6 @@ summary: Bitcoin Private is an amalgamation of two transaction systems - transpa
 
 <p>The first image shows that the miner should pickup all of the GPU’s in your system (The 3 Vega GPU’s in my example)</p>
 
-<center><img src="/images/bitcoin-private-132.jpg" alt="what is bitcoin private"></center>
-
 <p>The next image shows The GPU temperatures and fan speed where the red arrow is, and the GPU speed and total speed where the blue arrow is.</p>
 
 <center><img src="/images/bitcoin-private-133.jpg" alt="what is bitcoin private"></center>
