@@ -1,6 +1,6 @@
 ---
 title: Jed McCaleb
-img: 
+img: jed-mccaleb.png
 seotitle: Jed McCaleb - Co-Founder and CTO, Stellar
 position: Co-Founder and CTO, Stellar
 education:
@@ -10,7 +10,7 @@ long_desc: Jed McCaleb is an American programmer, entrepreneur and Chief Technol
 affiliations: [Stellar]
 twitter: JedMcCaleb
 github: JedMcCaleb
-residence:
+residence: San Francisco
 cats: 
 website: http://jedmccaleb.com/
 ---
