@@ -1,6 +1,6 @@
 ---
 title: Jed McCaleb
-img: jed-mccaleb.png
+img: /images/jed-mccaleb.png
 seotitle: Jed McCaleb - Co-Founder and CTO, Stellar
 position: Co-Founder and CTO, Stellar
 education:
