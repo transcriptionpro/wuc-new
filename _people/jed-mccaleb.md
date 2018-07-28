@@ -6,7 +6,7 @@ position: Co-Founder and CTO, Stellar
 education:
 experience: American programmer
 short_desc: Jed McCaleb is an American programmer and entrepreneur.
-long_desc:
+long_desc: Jed McCaleb is an American programmer, entrepreneur and Chief Technology Officer of Stellar.
 affiliations: [Stellar]
 twitter: JedMcCaleb
 github: JedMcCaleb
@@ -17,7 +17,7 @@ website: http://jedmccaleb.com/
 
 <a class="social-link" href="https://twitter.com/jedmccaleb" target="_blank">Twitter</a> <a class="social-link" title="Jed McCaleb" href="https://www.linkedin.com/in/jed-mccaleb-4052a4/" target="_blank">LinkedIn</a>
 
-Jed McCaleb is the co-founder and the CTO of nonprofit Stellar.org, where he leads technical development by leveraging technology to reduce inefficiency and improve the human condition.
+Jed McCaleb is the co-founder and CTO of nonprofit Stellar.org, where he leads technical development by leveraging technology to reduce inefficiency and improve the human condition.
 
 ##### Experience
 Recognizing that the world’s financial infrastructure is broken and that too many people are left without resources, McCaleb co-founded Stellar Development Foundation in 2014. He previously founded eDonkey, Mt. Gox, and Ripple.
