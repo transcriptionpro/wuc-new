@@ -99,6 +99,12 @@
    logo: bitpanda.png
    url: http://geni.us/bitpanda
 
+ - exchange: ccShop
+   description: ccShop is a specialized e-shop selling cryptocurrencies, based in Czech republic, and working all over Europe. It also has several national localized versions. They sell a mix of over a dozen cryptocurrencies.
+   countries: cz, sk, at, be, hr, cy, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, sm, sk, si, es, se, ch, gb, uk
+   logo: ccshop.png
+   url: https://www.ccshop.info
+
 ############## United Kingdom ##############
 
  - exchange: CoinGate
